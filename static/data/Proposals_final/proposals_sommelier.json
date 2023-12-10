@@ -1,0 +1,964 @@
+{
+  "data": [
+    {
+      "title": "[SIPS-090] TurboSOMM Liquidity Mining Incentives Proposal",
+      "voting_start_time": "2023-11-06T21:39:23.270Z",
+      "voting_end_time": "2023-11-08T21:39:23.270Z",
+      "voteMeta": {
+        "yes": "204",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "[SIPS-089] Authorize the Turbo SOMM Cellar",
+      "voting_start_time": "2023-11-06T21:33:35.993Z",
+      "voting_end_time": "2023-11-08T21:33:35.993Z",
+      "voteMeta": {
+        "yes": "205",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "[SIPS-088] Osmosis Incentives for YieldETH Proposal",
+      "voting_start_time": "2023-10-30T06:47:08.951Z",
+      "voting_end_time": "2023-11-01T06:47:08.951Z",
+      "voteMeta": {
+        "yes": "225",
+        "no": "1",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "[SIPS-093] Update stETH Pricing in Price Router",
+      "voting_start_time": "2023-10-30T06:43:56.244Z",
+      "voting_end_time": "2023-11-01T06:43:56.244Z",
+      "voteMeta": {
+        "yes": "211",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "[SIPS-092] TurboSWETH Co-Incentives Proposal",
+      "voting_start_time": "2023-10-30T06:41:55.161Z",
+      "voting_end_time": "2023-11-01T06:41:55.161Z",
+      "voteMeta": {
+        "yes": "208",
+        "no": "2",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "[SIPS-091] Real Yield ETH Cellar Incentives",
+      "voting_start_time": "2023-10-30T06:37:45.584Z",
+      "voting_end_time": "2023-11-01T06:37:45.584Z",
+      "voteMeta": {
+        "yes": "213",
+        "no": 0,
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-087] Add Turbo STETH Support to RYETH and RYBTC",
+      "voting_start_time": "2023-10-15T01:15:29.288Z",
+      "voting_end_time": "2023-10-17T01:15:29.288Z",
+      "voteMeta": {
+        "yes": "171",
+        "no": 0,
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "[SIPS-086] Authorize the Turbo STETH Cellar",
+      "voting_start_time": "2023-10-11T03:06:58.058Z",
+      "voting_end_time": "2023-10-13T03:06:58.058Z",
+      "voteMeta": {
+        "yes": "157",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "[SIPS-084] Co-Incentives Proposal for Turbo GHO",
+      "voting_start_time": "2023-10-05T17:18:01.381Z",
+      "voting_end_time": "2023-10-07T17:18:01.381Z",
+      "voteMeta": {
+        "yes": "178",
+        "no": 0,
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "[SIPS-085] Real Yield BTC Cellar Incentives",
+      "voting_start_time": "2023-10-05T17:16:01.104Z",
+      "voting_end_time": "2023-10-07T17:16:01.104Z",
+      "voteMeta": {
+        "yes": "179",
+        "no": 0,
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "[SIPS-083] Co-Incentives Proposal for Turbo swETH",
+      "voting_start_time": "2023-10-02T18:46:59.865Z",
+      "voting_end_time": "2023-10-04T18:46:59.865Z",
+      "voteMeta": {
+        "yes": "182",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-082] Real Yield ETH Cellar Incentives",
+      "voting_start_time": "2023-09-29T06:36:24.050Z",
+      "voting_end_time": "2023-10-01T06:36:24.050Z",
+      "voteMeta": {
+        "yes": "167",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "[SIPS-081] ETHGROWTH Liquidity Mining Incentives Proposal",
+      "voting_start_time": "2023-09-19T05:37:36.712Z",
+      "voting_end_time": "2023-09-21T05:37:36.712Z",
+      "voteMeta": {
+        "yes": "187",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "[SIPS-080] Authorize the ETH Trend Growth Cellar",
+      "voting_start_time": "2023-09-19T05:34:40.441Z",
+      "voting_end_time": "2023-09-21T05:34:40.441Z",
+      "voteMeta": {
+        "yes": "189",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "[SIPS-079] TurboGHO Liquidity Mining Incentives Proposal",
+      "voting_start_time": "2023-09-12T16:58:27.482Z",
+      "voting_end_time": "2023-09-14T16:58:27.482Z",
+      "voteMeta": {
+        "yes": "189",
+        "no": "2",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS-078] Authorize the Turbo GHO Cellar",
+      "voting_start_time": "2023-09-12T16:55:36.620Z",
+      "voting_end_time": "2023-09-14T16:55:36.620Z",
+      "voteMeta": {
+        "yes": "182",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Mutual token swap between Sommelier and MantaDAO",
+      "voting_start_time": "2023-09-11T12:14:55.832Z",
+      "voting_end_time": "2023-09-13T12:14:55.832Z",
+      "voteMeta": {
+        "yes": "212",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "[SIP-077] Proposal to Add Fraxlend Collateral and Debt Support to RYBTC",
+      "voting_start_time": "2023-09-08T16:06:17.620Z",
+      "voting_end_time": "2023-09-10T16:06:17.620Z",
+      "voteMeta": {
+        "yes": "160",
+        "no": 0,
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "[SIPS-076] Proposal to Update stETH Pricing Mechanism",
+      "voting_start_time": "2023-09-08T15:58:35.131Z",
+      "voting_end_time": "2023-09-10T15:58:35.131Z",
+      "voteMeta": {
+        "yes": "160",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-075] Proposal to Replace the Cellar Adaptor in RYBTC",
+      "voting_start_time": "2023-09-08T15:53:21.880Z",
+      "voting_end_time": "2023-09-10T15:53:21.880Z",
+      "voteMeta": {
+        "yes": "160",
+        "no": 0,
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "[SIPS-073] Real Yield BTC Cellar Incentives",
+      "voting_start_time": "2023-09-05T18:29:38.093Z",
+      "voting_end_time": "2023-09-07T18:29:38.093Z",
+      "voteMeta": {
+        "yes": "163",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-072] TurboSWETH Liquidity Mining Incentives Proposal",
+      "voting_start_time": "2023-08-29T00:41:51.555Z",
+      "voting_end_time": "2023-08-31T00:41:51.555Z",
+      "voteMeta": {
+        "yes": "191",
+        "no": 0,
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-071] Authorize the Turbo SWETH Cellar",
+      "voting_start_time": "2023-08-17T20:15:44.064Z",
+      "voting_end_time": "2023-08-19T20:15:44.064Z",
+      "voteMeta": {
+        "yes": "181",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS-070] Proposal to add DAI Savings Rate Support to Real Yield USD",
+      "voting_start_time": "2023-08-17T20:11:37.698Z",
+      "voting_end_time": "2023-08-19T20:11:37.698Z",
+      "voteMeta": {
+        "yes": "190",
+        "no": "3",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "[SIPS-069] Summer.Fi/Ajna Liquidity Mining Incentives",
+      "voting_start_time": "2023-08-15T06:07:34.313Z",
+      "voting_end_time": "2023-08-17T06:07:34.313Z",
+      "voteMeta": {
+        "yes": "155",
+        "no": 0,
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "[SIPS-068] Real Yield ETH Cellar Incentives",
+      "voting_start_time": "2023-08-15T05:54:22.831Z",
+      "voting_end_time": "2023-08-17T05:54:22.831Z",
+      "voteMeta": {
+        "yes": "159",
+        "no": 0,
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "[SIPS-067] Real Yield BTC Cellar Incentives",
+      "voting_start_time": "2023-08-09T00:24:38.906Z",
+      "voting_end_time": "2023-08-11T00:24:38.906Z",
+      "voteMeta": {
+        "yes": "180",
+        "no": 0,
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "[SIPS-066] Fraximal Liquidity Mining Incentives Renewal Proposal",
+      "voting_start_time": "2023-08-02T17:23:35.581Z",
+      "voting_end_time": "2023-08-04T17:23:35.581Z",
+      "voteMeta": {
+        "yes": "175",
+        "no": 0,
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "[SIPS-060][KPI Incentives] Real Yield ETH KPI Proposal",
+      "voting_start_time": "2023-07-17T19:01:18.275Z",
+      "voting_end_time": "2023-07-19T19:01:18.275Z",
+      "voteMeta": {
+        "yes": "169",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-064] Proposal to Reduce RYETH Platform Fee to 1%",
+      "voting_start_time": "2023-07-17T18:50:53.845Z",
+      "voting_end_time": "2023-07-19T18:50:53.845Z",
+      "voteMeta": {
+        "yes": "165",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "[SIPS-065] Proposal to Add the DAI/USDT Uniswap V3 Pool to RYUSD",
+      "voting_start_time": "2023-07-17T18:20:41.121Z",
+      "voting_end_time": "2023-07-19T18:20:41.121Z",
+      "voteMeta": {
+        "yes": "172",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "[SIPS-063] Real Yield BTC RhinoFi Incentives",
+      "voting_start_time": "2023-07-11T04:41:12.519Z",
+      "voting_end_time": "2023-07-13T04:41:12.519Z",
+      "voteMeta": {
+        "yes": "192",
+        "no": 0,
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "[SIPS-062] Real Yield BTC Cellar Incentives",
+      "voting_start_time": "2023-07-11T03:35:36.536Z",
+      "voting_end_time": "2023-07-13T03:35:36.536Z",
+      "voteMeta": {
+        "yes": "186",
+        "no": 0,
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "[SIPS-061] Real Yield BTC Cellar Proposal",
+      "voting_start_time": "2023-07-11T03:32:56.061Z",
+      "voting_end_time": "2023-07-13T03:32:56.061Z",
+      "voteMeta": {
+        "yes": "188",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-056] Add Morpho to Real Yield ETH",
+      "voting_start_time": "2023-06-30T05:33:46.541Z",
+      "voting_end_time": "2023-07-02T05:33:46.541Z",
+      "voteMeta": {
+        "yes": "180",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS-059] Fraximal Liquidity Mining Incentives Proposal",
+      "voting_start_time": "2023-06-30T05:25:53.785Z",
+      "voting_end_time": "2023-07-02T05:25:53.785Z",
+      "voteMeta": {
+        "yes": "163",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-058] Upcoming Fraximal Cellar Proposal",
+      "voting_start_time": "2023-06-30T05:17:15.736Z",
+      "voting_end_time": "2023-07-02T05:17:15.736Z",
+      "voteMeta": {
+        "yes": "153",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-056] Add Morpho to Real Yield USD",
+      "voting_start_time": "2023-06-30T04:58:30.100Z",
+      "voting_end_time": "2023-07-02T04:58:30.100Z",
+      "voteMeta": {
+        "yes": "152",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS-054][KPI Incentives] Real Yield USD KPI Proposal",
+      "voting_start_time": "2023-06-27T22:50:17.635Z",
+      "voting_end_time": "2023-06-29T22:50:17.635Z",
+      "voteMeta": {
+        "yes": "184",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-055] Rhino Fi RYE Incentives Proposal",
+      "voting_start_time": "2023-06-23T15:15:34.494Z",
+      "voting_end_time": "2023-06-25T15:15:34.494Z",
+      "voteMeta": {
+        "yes": "251",
+        "no": "4",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "[SIPS-053] Real Yield ETH Cellar Incentives",
+      "voting_start_time": "2023-06-06T04:08:44.628Z",
+      "voting_end_time": "2023-06-08T04:08:44.628Z",
+      "voteMeta": {
+        "yes": "197",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "[SIPS-052] DeFi Stars Cellar Incentives",
+      "voting_start_time": "2023-06-06T04:06:40.049Z",
+      "voting_end_time": "2023-06-08T04:06:40.049Z",
+      "voteMeta": {
+        "yes": "184",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS 047-051] Authorize the Real Yield {LINK, 1INCH, UNI, SNX, ENS} Cellars",
+      "voting_start_time": "2023-05-30T03:37:05.570Z",
+      "voting_end_time": "2023-06-01T03:37:05.570Z",
+      "voteMeta": {
+        "yes": "338",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Increase per-block gas and bytes limits",
+      "voting_start_time": "2023-05-09T20:06:10.035Z",
+      "voting_end_time": "2023-05-11T20:06:10.035Z",
+      "voteMeta": {
+        "yes": "340",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "[SIPS-046] Real Yield USD Cellar Incentives 5",
+      "voting_start_time": "2023-05-09T03:59:34.049Z",
+      "voting_end_time": "2023-05-11T03:59:34.049Z",
+      "voteMeta": {
+        "yes": "230",
+        "no": "2",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-045] Real Yield ETH Cellar Incentives",
+      "voting_start_time": "2023-05-04T16:19:49.276Z",
+      "voting_end_time": "2023-05-06T16:19:49.276Z",
+      "voteMeta": {
+        "yes": "336",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-044] Add WSTETH to Real Yield ETH",
+      "voting_start_time": "2023-05-04T16:14:40.349Z",
+      "voting_end_time": "2023-05-06T16:14:40.349Z",
+      "voteMeta": {
+        "yes": "327",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "[SIPS-043] DeFi Stars Cellar Incentives",
+      "voting_start_time": "2023-05-04T16:03:51.646Z",
+      "voting_end_time": "2023-05-06T16:03:51.646Z",
+      "voteMeta": {
+        "yes": "330",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "[SIPS-041] Authorize the DeFi Stars Cellar",
+      "voting_start_time": "2023-05-01T22:08:21.586Z",
+      "voting_end_time": "2023-05-03T22:08:21.586Z",
+      "voteMeta": {
+        "yes": "373",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "[SIPS-040] DeFine Logic Labs Cellar Development",
+      "voting_start_time": "2023-05-01T21:54:29.295Z",
+      "voting_end_time": "2023-05-03T21:54:29.295Z",
+      "voteMeta": {
+        "yes": "351",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS-042] Camelot DEX Incentives Proposal",
+      "voting_start_time": "2023-05-01T20:02:20.900Z",
+      "voting_end_time": "2023-05-03T20:02:20.900Z",
+      "voteMeta": {
+        "yes": "356",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Sommelier v6 - SDK upgrades and fixes",
+      "voting_start_time": "2023-04-25T16:53:11.835Z",
+      "voting_end_time": "2023-04-27T16:53:11.835Z",
+      "voteMeta": {
+        "yes": "337",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "[SIPS-039] Real Yield USD Fee Structure Change",
+      "voting_start_time": "2023-04-19T17:23:39.904Z",
+      "voting_end_time": "2023-04-21T17:23:39.904Z",
+      "voteMeta": {
+        "yes": "372",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "[SIPS-038] Real Yield ETH Cellar Incentives",
+      "voting_start_time": "2023-04-10T14:13:31.421Z",
+      "voting_end_time": "2023-04-12T14:13:31.421Z",
+      "voteMeta": {
+        "yes": "345",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS-030] Authorize the Real Yield ETH Cellar",
+      "voting_start_time": "2023-04-07T23:16:10.215Z",
+      "voting_end_time": "2023-04-09T23:16:10.215Z",
+      "voteMeta": {
+        "yes": "348",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Real Yield USD Cellar Incentives 4",
+      "voting_start_time": "2023-04-03T13:59:03.933Z",
+      "voting_end_time": "2023-04-05T13:59:03.933Z",
+      "voteMeta": {
+        "yes": "374",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Creation of a KPI Incentives Council",
+      "voting_start_time": "2023-03-29T23:33:41.700Z",
+      "voting_end_time": "2023-03-31T23:33:41.700Z",
+      "voteMeta": {
+        "yes": "324",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Increase governance proposal deposit from 10 SOMM to 5000 SOMM",
+      "voting_start_time": "2023-03-28T17:17:20.775Z",
+      "voting_end_time": "2023-03-30T17:17:20.775Z",
+      "voteMeta": {
+        "yes": "386",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Creation of a KPI Incentives Council",
+      "voting_start_time": "2023-03-27T19:20:29.078Z",
+      "voting_end_time": "2023-03-29T19:20:29.078Z",
+      "voteMeta": {
+        "yes": "335",
+        "no": "3",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "[SIPS-036] SOMM External Incetives on Nitron",
+      "voting_start_time": "2023-03-13T07:54:55.898Z",
+      "voting_end_time": "2023-03-15T07:54:55.898Z",
+      "voteMeta": {
+        "yes": "375",
+        "no": "1",
+        "abstain": "16"
+      }
+    },
+    {
+      "title": "[SIPS-035] Real Yield USD Cellar Incentives 3",
+      "voting_start_time": "2023-03-02T02:24:44.767Z",
+      "voting_end_time": "2023-03-04T02:24:44.767Z",
+      "voteMeta": {
+        "yes": "322",
+        "no": "2",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Sommelier v5 - Incentives",
+      "voting_start_time": "2023-02-20T03:57:36.323Z",
+      "voting_end_time": "2023-02-22T03:57:36.323Z",
+      "voteMeta": {
+        "yes": "472",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS-034] Rhino Fi Incentives Proposal",
+      "voting_start_time": "2023-02-13T22:50:37.258Z",
+      "voting_end_time": "2023-02-15T22:50:37.258Z",
+      "voteMeta": {
+        "yes": "389",
+        "no": "8",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "[SIPS-033] Community Pool Funding of SOMM External Incentives on Osmosis",
+      "voting_start_time": "2023-02-13T19:48:36.450Z",
+      "voting_end_time": "2023-02-15T19:48:36.450Z",
+      "voteMeta": {
+        "yes": "388",
+        "no": "3",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "[SIPS-032] Real Yield USD Cellar Incentives 2",
+      "voting_start_time": "2023-02-02T19:40:51.321Z",
+      "voting_end_time": "2023-02-04T19:40:51.321Z",
+      "voteMeta": {
+        "yes": "422",
+        "no": "1",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "[SIPS-031] Real Yield USD Cellar Incentives (Contingent on SIPS-030)",
+      "voting_start_time": "2023-01-18T21:03:21.490Z",
+      "voting_end_time": "2023-01-20T21:03:21.490Z",
+      "voteMeta": {
+        "yes": "382",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-030] Authorize the Real Yield USD Cellar",
+      "voting_start_time": "2023-01-18T20:57:42.061Z",
+      "voting_end_time": "2023-01-20T20:57:42.061Z",
+      "voteMeta": {
+        "yes": "378",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS-029] Community Growth Proposal",
+      "voting_start_time": "2023-01-18T20:40:51.420Z",
+      "voting_end_time": "2023-01-20T20:40:51.420Z",
+      "voteMeta": {
+        "yes": "377",
+        "no": "2",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "[SIPS-024] Patache Digital Community Spend Proposal for Cellar Development",
+      "voting_start_time": "2023-01-18T20:27:38.948Z",
+      "voting_end_time": "2023-01-20T20:27:38.948Z",
+      "voteMeta": {
+        "yes": "370",
+        "no": "3",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-028] SteadyUNI Cellar Incentives (Contingent on SIPS-026)",
+      "voting_start_time": "2022-12-21T20:16:17.693Z",
+      "voting_end_time": "2022-12-23T20:16:17.693Z",
+      "voteMeta": {
+        "yes": "343",
+        "no": 0,
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "[SIPS-027] SteadyMATIC Cellar Incentives (Contingent on SIPS-025)",
+      "voting_start_time": "2022-12-21T20:14:03.933Z",
+      "voting_end_time": "2022-12-23T20:14:03.933Z",
+      "voteMeta": {
+        "yes": "342",
+        "no": "1",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "[SIPS-026] Authorize the SteadyUNI Cellar",
+      "voting_start_time": "2022-12-21T20:10:51.117Z",
+      "voting_end_time": "2022-12-23T20:10:51.117Z",
+      "voteMeta": {
+        "yes": "343",
+        "no": 0,
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-025] Authorize the SteadyMATIC Cellar",
+      "voting_start_time": "2022-12-21T20:08:19.948Z",
+      "voting_end_time": "2022-12-23T20:08:19.948Z",
+      "voteMeta": {
+        "yes": "345",
+        "no": 0,
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "[SIPS-023] Injective Trading Contest Rewards Proposal",
+      "voting_start_time": "2022-12-07T00:55:29.856Z",
+      "voting_end_time": "2022-12-09T00:55:29.856Z",
+      "voteMeta": {
+        "yes": "351",
+        "no": "2",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "[SIPS-022] SteadyBTC Cellar Incentives",
+      "voting_start_time": "2022-11-23T18:17:54.564Z",
+      "voting_end_time": "2022-11-25T18:17:54.564Z",
+      "voteMeta": {
+        "yes": "419",
+        "no": 0,
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-021] SteadyETH Cellar Incentives",
+      "voting_start_time": "2022-11-23T18:16:56.732Z",
+      "voting_end_time": "2022-11-25T18:16:56.732Z",
+      "voteMeta": {
+        "yes": "409",
+        "no": "2",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-020] ETH-BTC-Trend Cellar Incentives",
+      "voting_start_time": "2022-11-21T17:59:05.502Z",
+      "voting_end_time": "2022-11-23T17:59:05.502Z",
+      "voteMeta": {
+        "yes": "515",
+        "no": "3",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "[SIPS-019] ETH-BTC-Momentum Cellar Incentives",
+      "voting_start_time": "2022-11-21T17:56:34.432Z",
+      "voting_end_time": "2022-11-23T17:56:34.432Z",
+      "voteMeta": {
+        "yes": "499",
+        "no": "2",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "[SIPS-018] Aave Stablecoin Cellar Incentives Continuation",
+      "voting_start_time": "2022-11-21T17:42:09.368Z",
+      "voting_end_time": "2022-11-23T17:42:09.368Z",
+      "voteMeta": {
+        "yes": "495",
+        "no": "2",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "[SIPS-017] Authorize the SteadyBTC Cellar",
+      "voting_start_time": "2022-11-21T17:26:06.416Z",
+      "voting_end_time": "2022-11-23T17:26:06.416Z",
+      "voteMeta": {
+        "yes": "503",
+        "no": "1",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "[SIPS-016] Authorize the SteadyETH Cellar",
+      "voting_start_time": "2022-11-21T17:24:56.669Z",
+      "voting_end_time": "2022-11-23T17:24:56.669Z",
+      "voteMeta": {
+        "yes": "501",
+        "no": "1",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "[SIPS-015] Authorize the ETH-BTC-Momentum Cellar",
+      "voting_start_time": "2022-10-19T17:01:03.158Z",
+      "voting_end_time": "2022-10-21T17:01:03.158Z",
+      "voteMeta": {
+        "yes": "547",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-014] Authorize the ETH-BTC-Trend Cellar",
+      "voting_start_time": "2022-10-19T16:59:52.916Z",
+      "voting_end_time": "2022-10-21T16:59:52.916Z",
+      "voteMeta": {
+        "yes": "535",
+        "no": "2",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-013] Cleargate Cellar Development",
+      "voting_start_time": "2022-08-15T17:06:32.228Z",
+      "voting_end_time": "2022-08-17T17:06:32.228Z",
+      "voteMeta": {
+        "yes": "571",
+        "no": "4",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "[SIPS-012] Seven Seas Ecosystem Cultivation",
+      "voting_start_time": "2022-08-15T16:55:19.174Z",
+      "voting_end_time": "2022-08-17T16:55:19.174Z",
+      "voteMeta": {
+        "yes": "548",
+        "no": "3",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "[SIPS-011] Seven Seas Cellar Development",
+      "voting_start_time": "2022-08-15T16:47:55.688Z",
+      "voting_end_time": "2022-08-17T16:47:55.688Z",
+      "voteMeta": {
+        "yes": "523",
+        "no": "4",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "Aave V2 Stablecoin Cellar SOMM Incentives",
+      "voting_start_time": "2022-07-19T18:40:22.584Z",
+      "voting_end_time": "2022-07-21T18:40:22.584Z",
+      "voteMeta": {
+        "yes": "549",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Authorize the Aave V2 Stablecoin Cellar",
+      "voting_start_time": "2022-07-08T02:11:47.877Z",
+      "voting_end_time": "2022-07-10T02:11:47.877Z",
+      "voteMeta": {
+        "yes": "582",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Sommelier Cork Upgrade",
+      "voting_start_time": "2022-05-11T16:34:10.054Z",
+      "voting_end_time": "2022-05-13T16:34:10.054Z",
+      "voteMeta": {
+        "yes": "541",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "[SIPS-008] A Proposal for a Sommelier Token Airdrop of SOMM to Early Sommelier Pairings App Users",
+      "voting_start_time": "2022-05-06T07:54:31.904Z",
+      "voting_end_time": "2022-05-08T07:54:31.904Z",
+      "voteMeta": {
+        "yes": "163",
+        "no": "324",
+        "abstain": "42"
+      }
+    },
+    {
+      "title": "[SIP-005] Increase the governance quorum",
+      "voting_start_time": "2022-01-11T09:17:31.409Z",
+      "voting_end_time": "2022-01-13T09:17:31.409Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "CabernetFranc",
+      "voting_start_time": "2022-01-11T09:12:16.206Z",
+      "voting_end_time": "2022-01-13T09:12:16.206Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "[SIP-004} Staging Tokens for Airdrop",
+      "voting_start_time": "2022-01-11T08:48:26.382Z",
+      "voting_end_time": "2022-01-13T08:48:26.382Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "[SIPS-002] A Proposal for a Sommelier Token Airdrop of SOMM to Select Liquidity Providers",
+      "voting_start_time": "2021-11-03T10:08:19.808Z",
+      "voting_end_time": "2021-11-05T10:08:19.808Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "[SIPS-001] - A Proposal for Validators Deploy the SOMM ERC20",
+      "voting_start_time": "2021-10-29T15:40:42.563Z",
+      "voting_end_time": "2021-10-31T15:40:42.563Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "[SIPS-000] - Approve the Sommelier Governance Process",
+      "voting_start_time": "2021-10-29T15:19:52.295Z",
+      "voting_end_time": "2021-10-31T15:19:52.295Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    }
+  ]
+}

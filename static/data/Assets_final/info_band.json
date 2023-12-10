@@ -1,0 +1,5284 @@
+{
+  "data": [
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "ION",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/ion.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "BAND",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/band/asset/band.png",
+          "tokenType": "staking"
+        }
+      ]
+    }
+  ]
+}

@@ -6,6 +6,7 @@ export interface ChainInfo {
 }
 
 export interface ChainInfoUnit {
+  chainData: any;
   createdAt: {
     _seconds: 1697090400;
     _nanoseconds: 0;
@@ -39,8 +40,8 @@ export interface ChainInfoUnit {
     };
     updatedAt: number;
     market: {
-      chain: 'archway';
-      geckoId: 'archway';
+      chain: "archway";
+      geckoId: "archway";
       values: [
         number,
         number,

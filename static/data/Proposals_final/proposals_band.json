@@ -1,0 +1,114 @@
+{
+  "data": [
+    {
+      "title": "Band Protocol Grants Program",
+      "voting_start_time": "2023-05-30T08:28:26.028Z",
+      "voting_end_time": "2023-06-13T08:28:26.028Z",
+      "voteMeta": {
+        "yes": "63",
+        "no": 0,
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "BCIP-11: Upgrade to v2.5",
+      "voting_start_time": "2023-04-11T06:29:18.641Z",
+      "voting_end_time": "2023-04-25T06:29:18.641Z",
+      "voteMeta": {
+        "yes": "90",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "BCIP-10: Introduce minimum gas price of 0.0025 uband",
+      "voting_start_time": "2023-01-13T11:44:21.399Z",
+      "voting_end_time": "2023-01-27T11:44:21.399Z",
+      "voteMeta": {
+        "yes": "83",
+        "no": "3",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "BCIP-9: Upgrade to v2.4",
+      "voting_start_time": "2022-11-03T10:06:37.799Z",
+      "voting_end_time": "2022-11-17T10:06:37.799Z",
+      "voteMeta": {
+        "yes": "178",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "BCIP-7: Increase max_raw_request_count from 12 to 16",
+      "voting_start_time": "2022-03-11T06:40:24.643Z",
+      "voting_end_time": "2022-03-25T06:40:24.643Z",
+      "voteMeta": {
+        "yes": "128",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "BCIP-6: Increase Block Capacity through Request Gas Parameter",
+      "voting_start_time": "2022-02-11T04:57:45.234Z",
+      "voting_end_time": "2022-02-25T04:57:45.234Z",
+      "voteMeta": {
+        "yes": "158",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "BCIP-5: Enable IBC Transfer",
+      "voting_start_time": "2021-10-28T12:25:55.336Z",
+      "voting_end_time": "2021-11-11T12:25:55.336Z",
+      "voteMeta": {
+        "yes": "112",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "BCIP-4: Enable IBC Oracle",
+      "voting_start_time": "2021-10-01T13:02:38.789Z",
+      "voting_end_time": "2021-10-15T13:02:38.789Z",
+      "voteMeta": {
+        "yes": "122",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "BCIP-3: Laozi Upgrade Proposal B",
+      "voting_start_time": "2021-09-07T11:41:40.697Z",
+      "voting_end_time": "2021-09-21T11:41:40.697Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "BCIP-2: Laozi Upgrade Proposal",
+      "voting_start_time": "2021-06-28T14:28:47.543Z",
+      "voting_end_time": "2021-07-12T14:28:47.543Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "GuanYu Upgrade Proposal",
+      "voting_start_time": "2020-09-29T07:12:16.762Z",
+      "voting_end_time": "2020-10-13T07:12:16.762Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    }
+  ]
+}

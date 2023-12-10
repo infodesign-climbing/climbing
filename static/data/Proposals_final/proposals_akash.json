@@ -1,0 +1,604 @@
+{
+  "data": [
+    {
+      "title": "v0.28.0",
+      "voting_start_time": "2023-11-10T14:14:08.802Z",
+      "voting_end_time": "2023-11-17T14:14:08.802Z",
+      "voteMeta": {
+        "yes": "962",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "AI Assisted Deployment Tool on Akash/Cloudmos",
+      "voting_start_time": "2023-11-02T14:51:33.951Z",
+      "voting_end_time": "2023-11-09T14:51:33.951Z",
+      "voteMeta": {
+        "yes": "1143",
+        "no": "128",
+        "abstain": "66"
+      }
+    },
+    {
+      "title": "Incentivized AKT Lending Pool on Nitron",
+      "voting_start_time": "2023-10-27T05:53:05.908Z",
+      "voting_end_time": "2023-11-03T05:53:05.908Z",
+      "voteMeta": {
+        "yes": "143",
+        "no": "300",
+        "abstain": "498"
+      }
+    },
+    {
+      "title": "Akash & Thumper - AI Foundational Model",
+      "voting_start_time": "2023-10-05T21:07:21.373Z",
+      "voting_end_time": "2023-10-12T21:07:21.373Z",
+      "voteMeta": {
+        "yes": "897",
+        "no": "5",
+        "abstain": "82"
+      }
+    },
+    {
+      "title": "Reduce Maximum Block Size",
+      "voting_start_time": "2023-10-01T11:58:17.633Z",
+      "voting_end_time": "2023-10-08T11:58:17.633Z",
+      "voteMeta": {
+        "yes": "519",
+        "no": "306",
+        "abstain": "68"
+      }
+    },
+    {
+      "title": "2023 Q4 Community Support Proposal",
+      "voting_start_time": "2023-09-22T20:40:25.833Z",
+      "voting_end_time": "2023-09-29T20:40:25.833Z",
+      "voteMeta": {
+        "yes": "933",
+        "no": "6",
+        "abstain": "29"
+      }
+    },
+    {
+      "title": "v0.26.0",
+      "voting_start_time": "2023-09-19T22:34:45.088Z",
+      "voting_end_time": "2023-09-26T22:34:45.088Z",
+      "voteMeta": {
+        "yes": "982",
+        "no": "13",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "Akash.Network comprehensive website Revamp Proposal",
+      "voting_start_time": "2023-09-10T10:31:42.678Z",
+      "voting_end_time": "2023-09-17T10:31:42.678Z",
+      "voteMeta": {
+        "yes": "918",
+        "no": "9",
+        "abstain": "42"
+      }
+    },
+    {
+      "title": "Adding Full Akash Support & Features to the Cosmos Metamask Snap",
+      "voting_start_time": "2023-09-05T17:57:15.835Z",
+      "voting_end_time": "2023-09-12T17:57:15.835Z",
+      "voteMeta": {
+        "yes": "1180",
+        "no": "3",
+        "abstain": "22"
+      }
+    },
+    {
+      "title": "Introduce Take Rate and deployment deposit for axlUSDC",
+      "voting_start_time": "2023-08-31T19:19:52.345Z",
+      "voting_end_time": "2023-09-07T19:19:52.345Z",
+      "voteMeta": {
+        "yes": "1110",
+        "no": 0,
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "v0.24.0",
+      "voting_start_time": "2023-08-23T00:05:42.878Z",
+      "voting_end_time": "2023-08-30T00:05:42.878Z",
+      "voteMeta": {
+        "yes": "1743",
+        "no": "6",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "v0.24.0",
+      "voting_start_time": "2023-08-22T23:28:52.684Z",
+      "voting_end_time": "2023-08-29T23:28:52.684Z",
+      "voteMeta": {
+        "yes": "153",
+        "no": "602",
+        "abstain": "51"
+      }
+    },
+    {
+      "title": "Community Funding for Cloudmos Acquisition",
+      "voting_start_time": "2023-08-08T21:12:41.169Z",
+      "voting_end_time": "2023-08-15T21:12:41.169Z",
+      "voteMeta": {
+        "yes": "1311",
+        "no": "14",
+        "abstain": "28"
+      }
+    },
+    {
+      "title": "Akash Community Pool & Inflation Proposal",
+      "voting_start_time": "2023-07-20T16:41:14.244Z",
+      "voting_end_time": "2023-07-27T16:41:14.244Z",
+      "voteMeta": {
+        "yes": "1098",
+        "no": "7",
+        "abstain": "22"
+      }
+    },
+    {
+      "title": "2023 Q3 Community Support Proposal",
+      "voting_start_time": "2023-07-07T16:59:59.047Z",
+      "voting_end_time": "2023-07-14T16:59:59.047Z",
+      "voteMeta": {
+        "yes": "1057",
+        "no": "6",
+        "abstain": "32"
+      }
+    },
+    {
+      "title": "2023 Q3 Akash Events Resourcing Proposal",
+      "voting_start_time": "2023-06-27T03:24:17.322Z",
+      "voting_end_time": "2023-07-04T03:24:17.322Z",
+      "voteMeta": {
+        "yes": "997",
+        "no": "7",
+        "abstain": "35"
+      }
+    },
+    {
+      "title": "🪂 ATOM Airdrop ✅",
+      "voting_start_time": "2023-05-03T13:45:37.864Z",
+      "voting_end_time": "2023-05-10T13:45:37.864Z",
+      "voteMeta": {
+        "yes": "69",
+        "no": "84",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "2023 Akash Events Resourcing Proposal",
+      "voting_start_time": "2023-04-10T23:56:50.946Z",
+      "voting_end_time": "2023-04-17T23:56:50.946Z",
+      "voteMeta": {
+        "yes": "1312",
+        "no": "35",
+        "abstain": "63"
+      }
+    },
+    {
+      "title": "Akash Hackathon Proposal",
+      "voting_start_time": "2023-04-10T23:51:38.907Z",
+      "voting_end_time": "2023-04-17T23:51:38.907Z",
+      "voteMeta": {
+        "yes": "1353",
+        "no": "10",
+        "abstain": "22"
+      }
+    },
+    {
+      "title": "Proposal for increasing OrderMaxBids param",
+      "voting_start_time": "2023-04-05T19:03:20.032Z",
+      "voting_end_time": "2023-04-12T19:03:20.032Z",
+      "voteMeta": {
+        "yes": "1263",
+        "no": "2",
+        "abstain": "27"
+      }
+    },
+    {
+      "title": "✅ Akash Airdrop 🪂",
+      "voting_start_time": "2023-04-02T22:26:57.670Z",
+      "voting_end_time": "2023-04-09T22:26:57.670Z",
+      "voteMeta": {
+        "yes": "5",
+        "no": "8",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "2023 Akash Events Resourcing Proposal",
+      "voting_start_time": "2023-03-28T22:51:56.037Z",
+      "voting_end_time": "2023-04-04T22:51:56.037Z",
+      "voteMeta": {
+        "yes": "1323",
+        "no": "31",
+        "abstain": "54"
+      }
+    },
+    {
+      "title": "Akash Hackathon Proposal",
+      "voting_start_time": "2023-03-28T22:49:54.135Z",
+      "voting_end_time": "2023-04-04T22:49:54.135Z",
+      "voteMeta": {
+        "yes": "1321",
+        "no": "9",
+        "abstain": "50"
+      }
+    },
+    {
+      "title": "Community Funding request for Cloudmos",
+      "voting_start_time": "2023-03-28T15:13:04.198Z",
+      "voting_end_time": "2023-04-04T15:13:04.198Z",
+      "voteMeta": {
+        "yes": "528",
+        "no": "538",
+        "abstain": "210"
+      }
+    },
+    {
+      "title": "Community Funding request for Praetor",
+      "voting_start_time": "2023-03-22T21:25:37.105Z",
+      "voting_end_time": "2023-03-29T21:25:37.105Z",
+      "voteMeta": {
+        "yes": "1350",
+        "no": "8",
+        "abstain": "53"
+      }
+    },
+    {
+      "title": "ARBITRUM Airdrop",
+      "voting_start_time": "2023-03-19T22:48:03.825Z",
+      "voting_end_time": "2023-03-26T22:48:03.825Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": "6",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "AKASH / LUNA Airdrop 🪂",
+      "voting_start_time": "2023-03-14T16:51:01.226Z",
+      "voting_end_time": "2023-03-21T16:51:01.226Z",
+      "voteMeta": {
+        "yes": "13",
+        "no": "12",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Akash New Version ",
+      "voting_start_time": "2023-03-11T02:46:23.423Z",
+      "voting_end_time": "2023-03-18T02:46:23.423Z",
+      "voteMeta": {
+        "yes": "9",
+        "no": "12",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "censure allnodes for insecure VaaS practices",
+      "voting_start_time": "2023-02-11T18:10:14.019Z",
+      "voting_end_time": "2023-02-18T18:10:14.019Z",
+      "voteMeta": {
+        "yes": "1611",
+        "no": "9",
+        "abstain": "80"
+      }
+    },
+    {
+      "title": "Community Funding request for Luna part #2",
+      "voting_start_time": "2023-02-02T19:33:56.195Z",
+      "voting_end_time": "2023-02-09T19:33:56.195Z",
+      "voteMeta": {
+        "yes": "1741",
+        "no": "58",
+        "abstain": "78"
+      }
+    },
+    {
+      "title": "Akash Cosmos Zero: Offset Akash Validator Set Signaling proposal",
+      "voting_start_time": "2023-01-05T00:49:53.085Z",
+      "voting_end_time": "2023-01-12T00:49:53.085Z",
+      "voteMeta": {
+        "yes": "1300",
+        "no": "406",
+        "abstain": "261"
+      }
+    },
+    {
+      "title": "Increase Community Tax",
+      "voting_start_time": "2022-12-15T20:02:23.106Z",
+      "voting_end_time": "2022-12-22T20:02:23.106Z",
+      "voteMeta": {
+        "yes": "1661",
+        "no": "30",
+        "abstain": "29"
+      }
+    },
+    {
+      "title": "v0.20.0",
+      "voting_start_time": "2022-12-13T19:33:34.879Z",
+      "voting_end_time": "2022-12-20T19:33:34.879Z",
+      "voteMeta": {
+        "yes": "1807",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Community Funding request for Luna",
+      "voting_start_time": "2022-11-28T17:14:24.191Z",
+      "voting_end_time": "2022-12-05T17:14:24.191Z",
+      "voteMeta": {
+        "yes": "1994",
+        "no": "73",
+        "abstain": "86"
+      }
+    },
+    {
+      "title": "v0.18.0",
+      "voting_start_time": "2022-11-08T12:56:23.107Z",
+      "voting_end_time": "2022-11-15T12:56:23.107Z",
+      "voteMeta": {
+        "yes": "2642",
+        "no": "2",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Increase the minimum commission rate to 5%",
+      "voting_start_time": "2022-09-10T17:21:52.425Z",
+      "voting_end_time": "2022-09-17T17:21:52.425Z",
+      "voteMeta": {
+        "yes": "2551",
+        "no": "361",
+        "abstain": "167"
+      }
+    },
+    {
+      "title": "Cloudmos (Formerly Akashlytics) CAB Funding",
+      "voting_start_time": "2022-08-16T22:26:29.289Z",
+      "voting_end_time": "2022-08-23T22:26:29.289Z",
+      "voteMeta": {
+        "yes": "2673",
+        "no": "25",
+        "abstain": "147"
+      }
+    },
+    {
+      "title": "Akash CAB funding #3",
+      "voting_start_time": "2022-07-04T19:33:17.742Z",
+      "voting_end_time": "2022-07-11T19:33:17.742Z",
+      "voteMeta": {
+        "yes": "2549",
+        "no": "65",
+        "abstain": "247"
+      }
+    },
+    {
+      "title": "Proposal to transition the CAB into the Akash Accelerator",
+      "voting_start_time": "2022-07-01T19:26:40.525Z",
+      "voting_end_time": "2022-07-08T19:26:40.525Z",
+      "voteMeta": {
+        "yes": "2367",
+        "no": "34",
+        "abstain": "179"
+      }
+    },
+    {
+      "title": "Fund Moultrie Audits",
+      "voting_start_time": "2022-07-01T02:41:59.817Z",
+      "voting_end_time": "2022-07-08T02:41:59.817Z",
+      "voteMeta": {
+        "yes": "13051",
+        "no": "69",
+        "abstain": "270"
+      }
+    },
+    {
+      "title": "Infaltion Update 4.0",
+      "voting_start_time": "2022-06-18T05:31:02.490Z",
+      "voting_end_time": "2022-06-25T05:31:02.490Z",
+      "voteMeta": {
+        "yes": "13632",
+        "no": "50",
+        "abstain": "173"
+      }
+    },
+    {
+      "title": "Convert CAB wallet to multisig",
+      "voting_start_time": "2022-06-13T02:21:41.718Z",
+      "voting_end_time": "2022-06-20T02:21:41.718Z",
+      "voteMeta": {
+        "yes": "2144",
+        "no": "73",
+        "abstain": "265"
+      }
+    },
+    {
+      "title": "Akash Network - mainnet upgrade proposal",
+      "voting_start_time": "2022-04-16T17:28:06.049Z",
+      "voting_end_time": "2022-04-23T17:28:06.049Z",
+      "voteMeta": {
+        "yes": "16630",
+        "no": "11",
+        "abstain": "40"
+      }
+    },
+    {
+      "title": "Voting Period Change",
+      "voting_start_time": "2022-03-26T20:08:49.609Z",
+      "voting_end_time": "2022-04-09T20:08:49.609Z",
+      "voteMeta": {
+        "yes": "8040",
+        "no": "103",
+        "abstain": "115"
+      }
+    },
+    {
+      "title": "Akash CAB funding #2",
+      "voting_start_time": "2022-02-17T00:39:11.224Z",
+      "voting_end_time": "2022-03-03T00:39:11.224Z",
+      "voteMeta": {
+        "yes": "3274",
+        "no": "53",
+        "abstain": "199"
+      }
+    },
+    {
+      "title": "Inflation Update 3.0",
+      "voting_start_time": "2022-01-05T21:23:55.956Z",
+      "voting_end_time": "2022-01-19T21:23:55.956Z",
+      "voteMeta": {
+        "yes": "1613",
+        "no": "53",
+        "abstain": "56"
+      }
+    },
+    {
+      "title": "Increase MaxValidators value",
+      "voting_start_time": "2021-12-18T18:27:42.127Z",
+      "voting_end_time": "2022-01-01T18:27:42.127Z",
+      "voteMeta": {
+        "yes": "894",
+        "no": "121",
+        "abstain": "32"
+      }
+    },
+    {
+      "title": "Increase MaxValidators to 85",
+      "voting_start_time": "2021-10-06T13:43:24.682Z",
+      "voting_end_time": "2021-10-20T13:43:24.682Z",
+      "voteMeta": {
+        "yes": "723",
+        "no": "8",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Updated proposal for BidMinDeposit Param Change",
+      "voting_start_time": "2021-09-03T17:53:28.400Z",
+      "voting_end_time": "2021-09-17T17:53:28.400Z",
+      "voteMeta": {
+        "yes": "626",
+        "no": "40",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "BidMinDeposit Param Change",
+      "voting_start_time": "2021-08-27T09:10:01.244Z",
+      "voting_end_time": "2021-09-10T09:10:01.244Z",
+      "voteMeta": {
+        "yes": "153",
+        "no": "337",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "Increase MaxValidators to 80",
+      "voting_start_time": "2021-08-03T11:32:26.884Z",
+      "voting_end_time": "2021-08-17T11:32:26.884Z",
+      "voteMeta": {
+        "yes": "644",
+        "no": "6",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Developer Program and Community Awards",
+      "voting_start_time": "2021-07-21T17:03:45.577Z",
+      "voting_end_time": "2021-08-04T17:03:45.577Z",
+      "voteMeta": {
+        "yes": "443",
+        "no": "82",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Inflation Update 2.0",
+      "voting_start_time": "2021-07-02T17:33:35.118Z",
+      "voting_end_time": "2021-07-16T17:33:35.118Z",
+      "voteMeta": {
+        "yes": "727",
+        "no": "28",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Increase max_validator cap to 75",
+      "voting_start_time": "2021-06-16T10:21:26.353Z",
+      "voting_end_time": "2021-06-30T10:21:26.353Z",
+      "voteMeta": {
+        "yes": "990",
+        "no": "8",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Enable IBC transfers",
+      "voting_start_time": "2021-04-10T05:25:08.957Z",
+      "voting_end_time": "2021-04-24T05:25:08.957Z",
+      "voteMeta": {
+        "yes": "515",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Akash Netwok' Software Upgrade Proposal",
+      "voting_start_time": "2021-03-24T07:03:53.652Z",
+      "voting_end_time": "2021-04-07T07:03:53.652Z",
+      "voteMeta": {
+        "yes": "539",
+        "no": "2",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Enable IBC Clients",
+      "voting_start_time": "2021-03-09T18:02:38.483Z",
+      "voting_end_time": "2021-03-23T18:02:38.483Z",
+      "voteMeta": {
+        "yes": "498",
+        "no": "2",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Akash Network - Mainnet Upgrade Proposal - 2",
+      "voting_start_time": "2021-02-19T16:29:32.279Z",
+      "voting_end_time": "2021-03-05T16:29:32.279Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Akash Network Upgrade Proposal 1",
+      "voting_start_time": "2021-02-03T19:07:35.737Z",
+      "voting_end_time": "2021-02-17T19:07:35.737Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Decrease target inflation rate to 47%",
+      "voting_start_time": "2020-11-19T00:24:56.405Z",
+      "voting_end_time": "2020-12-03T00:24:56.405Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,1194 @@
+{
+  "data": [
+    {
+      "title": "Governance Proposal to cNOTE/USDC LM Emissions",
+      "voting_start_time": "2023-11-06T16:03:25.406Z",
+      "voting_end_time": "2023-11-06T18:03:25.406Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Adjust Collateral Factors",
+      "voting_start_time": "2023-10-24T20:53:42.633Z",
+      "voting_end_time": "2023-10-24T22:53:42.633Z",
+      "voteMeta": {
+        "yes": "10",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to cNOTE/USDC LM Emissions",
+      "voting_start_time": "2023-10-19T15:30:34.730Z",
+      "voting_end_time": "2023-10-19T17:30:34.730Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Code4rena Audits",
+      "voting_start_time": "2023-10-19T15:30:11.679Z",
+      "voting_end_time": "2023-10-19T17:30:11.679Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Support USYC in Canto Lending Market",
+      "voting_start_time": "2023-10-16T15:31:01.662Z",
+      "voting_end_time": "2023-10-16T17:31:01.662Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to Increase Voting Time",
+      "voting_start_time": "2023-10-12T15:32:24.675Z",
+      "voting_end_time": "2023-10-12T16:32:24.675Z",
+      "voteMeta": {
+        "yes": "58",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Upgrade CLM Comptroller Implementation",
+      "voting_start_time": "2023-10-12T15:31:44.570Z",
+      "voting_end_time": "2023-10-12T16:31:44.570Z",
+      "voteMeta": {
+        "yes": "56",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters for Period 14",
+      "voting_start_time": "2023-10-11T15:34:14.428Z",
+      "voting_end_time": "2023-10-11T16:34:14.428Z",
+      "voteMeta": {
+        "yes": "59",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 14 LM Emissions",
+      "voting_start_time": "2023-10-11T15:33:16.734Z",
+      "voting_end_time": "2023-10-11T16:33:16.734Z",
+      "voteMeta": {
+        "yes": "55",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Lower LM Emissions (Period 14)",
+      "voting_start_time": "2023-10-11T15:32:30.725Z",
+      "voting_end_time": "2023-10-11T16:32:30.725Z",
+      "voteMeta": {
+        "yes": "50",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Canto v7.0.0 Upgrade",
+      "voting_start_time": "2023-09-20T15:30:09.831Z",
+      "voting_end_time": "2023-09-20T16:30:09.831Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters for Period 13",
+      "voting_start_time": "2023-09-11T18:34:34.685Z",
+      "voting_end_time": "2023-09-11T19:34:34.685Z",
+      "voteMeta": {
+        "yes": "11",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 13 LM Emissions",
+      "voting_start_time": "2023-09-11T18:33:58.636Z",
+      "voting_end_time": "2023-09-11T19:33:58.636Z",
+      "voteMeta": {
+        "yes": "12",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Lower LM Emissions (Period 13)",
+      "voting_start_time": "2023-09-11T18:33:09.818Z",
+      "voting_end_time": "2023-09-11T19:33:09.818Z",
+      "voteMeta": {
+        "yes": "12",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters for Period 13",
+      "voting_start_time": "2023-09-11T15:37:50.931Z",
+      "voting_end_time": "2023-09-11T16:37:50.931Z",
+      "voteMeta": {
+        "yes": "13",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 13 LM Emissions",
+      "voting_start_time": "2023-09-11T15:36:43.973Z",
+      "voting_end_time": "2023-09-11T16:36:43.973Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to Lower LM Emissions (Period 13)",
+      "voting_start_time": "2023-09-11T15:35:01.439Z",
+      "voting_end_time": "2023-09-11T16:35:01.439Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Code4rena Audit for CLM Modifications",
+      "voting_start_time": "2023-09-01T16:02:56.805Z",
+      "voting_end_time": "2023-09-01T17:02:56.805Z",
+      "voteMeta": {
+        "yes": "8",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Enable a missing feature (reviewed)",
+      "voting_start_time": "2023-08-24T16:09:01.359Z",
+      "voting_end_time": "2023-08-24T17:09:01.359Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": "2",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Rewards for Canto Online Hackathon Chapter 1, Season 8",
+      "voting_start_time": "2023-08-24T16:07:43.125Z",
+      "voting_end_time": "2023-08-24T17:07:43.125Z",
+      "voteMeta": {
+        "yes": "11",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters for Period 12",
+      "voting_start_time": "2023-08-11T15:18:13.960Z",
+      "voting_end_time": "2023-08-11T16:18:13.960Z",
+      "voteMeta": {
+        "yes": "8",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 12 LM Emissions",
+      "voting_start_time": "2023-08-11T15:17:19.522Z",
+      "voting_end_time": "2023-08-11T16:17:19.522Z",
+      "voteMeta": {
+        "yes": "8",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Lower LM Emissions (Period 12)",
+      "voting_start_time": "2023-08-11T15:14:59.354Z",
+      "voting_end_time": "2023-08-11T16:14:59.354Z",
+      "voteMeta": {
+        "yes": "8",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters for Period 12",
+      "voting_start_time": "2023-08-11T14:07:49.283Z",
+      "voting_end_time": "2023-08-11T15:07:49.283Z",
+      "voteMeta": {
+        "yes": "7",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 12 LM Emissions",
+      "voting_start_time": "2023-08-11T14:06:42.508Z",
+      "voting_end_time": "2023-08-11T15:06:42.508Z",
+      "voteMeta": {
+        "yes": "5",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Lower LM Emissions (Period 12)",
+      "voting_start_time": "2023-08-11T14:05:41.765Z",
+      "voting_end_time": "2023-08-11T15:05:41.765Z",
+      "voteMeta": {
+        "yes": "5",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Enable missing feature",
+      "voting_start_time": "2023-07-19T00:21:49.468Z",
+      "voting_end_time": "2023-07-19T01:21:49.468Z",
+      "voteMeta": {
+        "yes": "2",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Cantod v6 Upgrade",
+      "voting_start_time": "2023-07-18T16:00:04.362Z",
+      "voting_end_time": "2023-07-18T17:00:04.362Z",
+      "voteMeta": {
+        "yes": "17",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 11 LM Emissions",
+      "voting_start_time": "2023-07-12T16:06:10.658Z",
+      "voting_end_time": "2023-07-12T17:06:10.658Z",
+      "voteMeta": {
+        "yes": "13",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Code4rena Audit for Onboarding Middleware",
+      "voting_start_time": "2023-06-16T17:22:56.783Z",
+      "voting_end_time": "2023-06-16T18:22:56.783Z",
+      "voteMeta": {
+        "yes": "10",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters for Period 10",
+      "voting_start_time": "2023-06-12T20:13:14.132Z",
+      "voting_end_time": "2023-06-12T21:13:14.132Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 10 LM Emissions",
+      "voting_start_time": "2023-06-12T20:12:19.392Z",
+      "voting_end_time": "2023-06-12T21:12:19.392Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "\nGovernance Proposal to Lower LM Emissions (Period 10)",
+      "voting_start_time": "2023-06-12T20:10:48.264Z",
+      "voting_end_time": "2023-06-12T21:10:48.264Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters for Period 10 sl",
+      "voting_start_time": "2023-06-12T15:04:27.691Z",
+      "voting_end_time": "2023-06-12T16:04:27.691Z",
+      "voteMeta": {
+        "yes": "44",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 10 LM Emissions",
+      "voting_start_time": "2023-06-12T15:03:32.884Z",
+      "voting_end_time": "2023-06-12T16:03:32.884Z",
+      "voteMeta": {
+        "yes": "46",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Lower LM Emissions (Period 10)",
+      "voting_start_time": "2023-06-12T15:02:07.890Z",
+      "voting_end_time": "2023-06-12T16:02:07.890Z",
+      "voteMeta": {
+        "yes": "53",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Rewards for Canto Online Hackathon Chapter 1, Season 7",
+      "voting_start_time": "2023-05-31T14:59:47.291Z",
+      "voting_end_time": "2023-05-31T15:59:47.291Z",
+      "voteMeta": {
+        "yes": "11",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters for Period 9",
+      "voting_start_time": "2023-05-11T15:04:57.640Z",
+      "voting_end_time": "2023-05-11T16:04:57.640Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 9 LM Emissions",
+      "voting_start_time": "2023-05-11T15:04:27.018Z",
+      "voting_end_time": "2023-05-11T16:04:27.018Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Lower LM Emissions",
+      "voting_start_time": "2023-05-11T15:03:01.179Z",
+      "voting_end_time": "2023-05-11T16:03:01.179Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Rewards for Canto Online Hackathon",
+      "voting_start_time": "2023-04-24T15:09:04.374Z",
+      "voting_end_time": "2023-04-24T16:09:04.374Z",
+      "voteMeta": {
+        "yes": "12",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 8 LM Emissions",
+      "voting_start_time": "2023-04-17T15:15:17.667Z",
+      "voting_end_time": "2023-04-17T16:15:17.667Z",
+      "voteMeta": {
+        "yes": "73",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register WSTETH in the Canto EVM - Fixed",
+      "voting_start_time": "2023-03-31T16:05:56.004Z",
+      "voting_end_time": "2023-03-31T17:05:56.004Z",
+      "voteMeta": {
+        "yes": "22",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register WSTETH in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:14:24.202Z",
+      "voting_end_time": "2023-03-31T16:14:24.202Z",
+      "voteMeta": {
+        "yes": "35",
+        "no": "3",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register qSTARS in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:14:00.594Z",
+      "voting_end_time": "2023-03-31T16:14:00.594Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register qREGEN in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:13:36.150Z",
+      "voting_end_time": "2023-03-31T16:13:36.150Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register qATOM in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:13:12.208Z",
+      "voting_end_time": "2023-03-31T16:13:12.208Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Register QCK in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:12:48.414Z",
+      "voting_end_time": "2023-03-31T16:12:48.414Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register stuSTARS in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:12:24.006Z",
+      "voting_end_time": "2023-03-31T16:12:24.006Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register stuOSMO in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:12:06.174Z",
+      "voting_end_time": "2023-03-31T16:12:06.174Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register stuJUNO in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:11:36.088Z",
+      "voting_end_time": "2023-03-31T16:11:36.088Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register stuATOM in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:11:17.892Z",
+      "voting_end_time": "2023-03-31T16:11:17.892Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register staEVMOS in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:09:53.237Z",
+      "voting_end_time": "2023-03-31T16:09:53.237Z",
+      "voteMeta": {
+        "yes": "22",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register STRD in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:09:41.226Z",
+      "voting_end_time": "2023-03-31T16:09:41.226Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register XPRT in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:09:23.213Z",
+      "voting_end_time": "2023-03-31T16:09:23.213Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register pstkATOM in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:08:34.637Z",
+      "voting_end_time": "2023-03-31T16:08:34.637Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register EVMOS in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:08:10.715Z",
+      "voting_end_time": "2023-03-31T16:08:10.715Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register DVPN in the Canto EVM",
+      "voting_start_time": "2023-03-31T15:07:04.071Z",
+      "voting_end_time": "2023-03-31T16:07:04.071Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Set EnableRecovery to false",
+      "voting_start_time": "2023-03-30T15:05:07.855Z",
+      "voting_end_time": "2023-03-30T16:05:07.855Z",
+      "voteMeta": {
+        "yes": "11",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Rewards for Canto Online Hackathon Chapter 1, Season 5",
+      "voting_start_time": "2023-03-16T15:01:36.432Z",
+      "voting_end_time": "2023-03-16T16:01:36.432Z",
+      "voteMeta": {
+        "yes": "73",
+        "no": 0,
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Period 7 LM Emissions",
+      "voting_start_time": "2023-03-16T15:00:36.065Z",
+      "voting_end_time": "2023-03-16T16:00:36.065Z",
+      "voteMeta": {
+        "yes": "60",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Register CRE in the Canto EVM",
+      "voting_start_time": "2023-02-21T15:04:20.833Z",
+      "voting_end_time": "2023-02-21T16:04:20.833Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register CMDX in the Canto EVM",
+      "voting_start_time": "2023-02-21T15:04:08.553Z",
+      "voting_end_time": "2023-02-21T16:04:08.553Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register AKT in the Canto EVM",
+      "voting_start_time": "2023-02-21T15:03:56.815Z",
+      "voting_end_time": "2023-02-21T16:03:56.815Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register OSMO in the Canto EVM",
+      "voting_start_time": "2023-02-21T15:03:45.005Z",
+      "voting_end_time": "2023-02-21T16:03:45.005Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register KAVA in the Canto EVM",
+      "voting_start_time": "2023-02-21T15:03:33.007Z",
+      "voting_end_time": "2023-02-21T16:03:33.007Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register SOMM in the Canto EVM",
+      "voting_start_time": "2023-02-21T15:03:20.880Z",
+      "voting_end_time": "2023-02-21T16:03:20.880Z",
+      "voteMeta": {
+        "yes": "22",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register GRAV in the Canto EVM",
+      "voting_start_time": "2023-02-21T15:03:08.916Z",
+      "voting_end_time": "2023-02-21T16:03:08.916Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register INJ in the Canto EVM",
+      "voting_start_time": "2023-02-21T15:02:03.610Z",
+      "voting_end_time": "2023-02-21T16:02:03.610Z",
+      "voteMeta": {
+        "yes": "33",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Update Comp Speeds in Canto Lending Market",
+      "voting_start_time": "2023-02-17T16:06:10.386Z",
+      "voting_end_time": "2023-02-17T17:06:10.386Z",
+      "voteMeta": {
+        "yes": "137",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Community Pool Spend",
+      "voting_start_time": "2023-02-17T16:01:32.123Z",
+      "voting_end_time": "2023-02-17T17:01:32.123Z",
+      "voteMeta": {
+        "yes": "129",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Governance Proposal to Update Inflation Parameters",
+      "voting_start_time": "2023-02-13T16:08:21.900Z",
+      "voting_end_time": "2023-02-13T17:08:21.900Z",
+      "voteMeta": {
+        "yes": "132",
+        "no": "2",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund CPMS and Plex Faucets",
+      "voting_start_time": "2023-02-07T16:03:36.402Z",
+      "voting_end_time": "2023-02-07T17:03:36.402Z",
+      "voteMeta": {
+        "yes": "147",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Increase Min Voting Deposit",
+      "voting_start_time": "2023-02-02T16:02:05.093Z",
+      "voting_end_time": "2023-02-02T17:02:05.093Z",
+      "voteMeta": {
+        "yes": "147",
+        "no": "5",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Rewards for Canto Online Hackathon Chapter 1, Season 4",
+      "voting_start_time": "2023-02-02T16:01:15.388Z",
+      "voting_end_time": "2023-02-02T17:01:15.388Z",
+      "voteMeta": {
+        "yes": "109",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to Lower Min Gas Price",
+      "voting_start_time": "2023-01-26T18:15:21.672Z",
+      "voting_end_time": "2023-01-26T19:15:21.672Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Increase Gas Price and Enable CSR",
+      "voting_start_time": "2023-01-26T16:16:03.334Z",
+      "voting_end_time": "2023-01-26T17:16:03.334Z",
+      "voteMeta": {
+        "yes": "95",
+        "no": "4",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Change voting period to 86400 seconds",
+      "voting_start_time": "2023-01-25T18:03:22.571Z",
+      "voting_end_time": "2023-01-25T19:03:22.571Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": "7",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Cantod v5.0.0 Upgrade",
+      "voting_start_time": "2023-01-25T16:00:48.234Z",
+      "voting_end_time": "2023-01-25T17:00:48.234Z",
+      "voteMeta": {
+        "yes": "234",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Signed Blocks Window",
+      "voting_start_time": "2023-01-24T16:00:08.391Z",
+      "voting_end_time": "2023-01-24T17:00:08.391Z",
+      "voteMeta": {
+        "yes": "188",
+        "no": "2",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Update Comp Speeds in Canto Lending Market",
+      "voting_start_time": "2023-01-19T16:02:48.474Z",
+      "voting_end_time": "2023-01-19T17:02:48.474Z",
+      "voteMeta": {
+        "yes": "140",
+        "no": "2",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Community Pool Spend",
+      "voting_start_time": "2023-01-19T16:01:04.355Z",
+      "voting_end_time": "2023-01-19T17:01:04.355Z",
+      "voteMeta": {
+        "yes": "91",
+        "no": "2",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to Enable pre-EIP-155 transactions on Canto",
+      "voting_start_time": "2023-01-17T16:00:57.147Z",
+      "voting_end_time": "2023-01-17T17:00:57.147Z",
+      "voteMeta": {
+        "yes": "66",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Increase the Canto blockchain decentralization by delegating to early validator supporters",
+      "voting_start_time": "2023-01-12T18:43:51.168Z",
+      "voting_end_time": "2023-01-12T19:43:51.168Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": "6",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Update Inflation Parameters",
+      "voting_start_time": "2023-01-12T16:02:31.392Z",
+      "voting_end_time": "2023-01-12T17:02:31.392Z",
+      "voteMeta": {
+        "yes": "130",
+        "no": "3",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Rewards for Canto Online Hackathon Chapter 1, Season 3",
+      "voting_start_time": "2023-01-04T16:38:21.659Z",
+      "voting_end_time": "2023-01-04T17:38:21.659Z",
+      "voteMeta": {
+        "yes": "34",
+        "no": "2",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Rewards for Canto Online Hackathon Chapter 1, Season 3",
+      "voting_start_time": "2022-12-30T16:01:26.309Z",
+      "voting_end_time": "2022-12-30T17:01:26.309Z",
+      "voteMeta": {
+        "yes": "46",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Community Pool Spend",
+      "voting_start_time": "2022-12-19T16:00:40.560Z",
+      "voting_end_time": "2022-12-19T17:00:40.560Z",
+      "voteMeta": {
+        "yes": "58",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to Update Inflation Parameters",
+      "voting_start_time": "2022-12-13T16:02:00.189Z",
+      "voting_end_time": "2022-12-13T17:02:00.189Z",
+      "voteMeta": {
+        "yes": "65",
+        "no": "3",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Prior Code4rena Canto Audits",
+      "voting_start_time": "2022-12-06T16:00:14.735Z",
+      "voting_end_time": "2022-12-06T17:00:14.735Z",
+      "voteMeta": {
+        "yes": "69",
+        "no": "3",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Rewards for Canto Online Hackathon Chapter 1, Season 2",
+      "voting_start_time": "2022-12-02T16:34:46.546Z",
+      "voting_end_time": "2022-12-02T17:34:46.546Z",
+      "voteMeta": {
+        "yes": "71",
+        "no": "3",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Community Pool Spend",
+      "voting_start_time": "2022-11-18T16:00:28.362Z",
+      "voting_end_time": "2022-11-18T17:00:28.362Z",
+      "voteMeta": {
+        "yes": "99",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Update Inflation Parameters",
+      "voting_start_time": "2022-11-13T15:26:04.249Z",
+      "voting_end_time": "2022-11-13T16:26:04.249Z",
+      "voteMeta": {
+        "yes": "107",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Rewards for Canto Online Hackathon",
+      "voting_start_time": "2022-10-31T17:22:16.974Z",
+      "voting_end_time": "2022-10-31T18:22:16.974Z",
+      "voteMeta": {
+        "yes": "72",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Period 3 LM Emissions",
+      "voting_start_time": "2022-10-21T00:02:04.097Z",
+      "voting_end_time": "2022-10-21T01:02:04.097Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Canto Upgrade v4.0.0",
+      "voting_start_time": "2022-10-20T16:37:02.020Z",
+      "voting_end_time": "2022-10-20T17:37:02.020Z",
+      "voteMeta": {
+        "yes": "42",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Period 3 LM Emissions",
+      "voting_start_time": "2022-10-18T15:29:41.361Z",
+      "voting_end_time": "2022-10-18T16:29:41.361Z",
+      "voteMeta": {
+        "yes": "41",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Community Pool Spend",
+      "voting_start_time": "2022-10-18T15:08:42.850Z",
+      "voting_end_time": "2022-10-18T16:08:42.850Z",
+      "voteMeta": {
+        "yes": "33",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Canto Upgrade v3.0.0",
+      "voting_start_time": "2022-10-17T15:00:01.642Z",
+      "voting_end_time": "2022-10-17T16:00:01.642Z",
+      "voteMeta": {
+        "yes": "51",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "B-harvest SDK development funding",
+      "voting_start_time": "2022-10-02T23:38:30.303Z",
+      "voting_end_time": "2022-10-03T00:38:30.303Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters",
+      "voting_start_time": "2022-09-18T23:13:33.718Z",
+      "voting_end_time": "2022-09-19T00:13:33.718Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Governance Proposal to Update Comp Speeds in Canto Lending Market",
+      "voting_start_time": "2022-09-18T21:19:37.956Z",
+      "voting_end_time": "2022-09-18T22:19:37.956Z",
+      "voteMeta": {
+        "yes": "45",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to set Inflation Parameters",
+      "voting_start_time": "2022-09-18T16:37:30.731Z",
+      "voting_end_time": "2022-09-18T17:37:30.731Z",
+      "voteMeta": {
+        "yes": "144",
+        "no": "2",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Governance Proposal to Update Comp Speeds in Canto Lending Market",
+      "voting_start_time": "2022-09-18T16:28:08.903Z",
+      "voting_end_time": "2022-09-18T17:28:08.903Z",
+      "voteMeta": {
+        "yes": "135",
+        "no": "3",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Liquidity Mining through Community Pool Spend",
+      "voting_start_time": "2022-09-18T16:10:38.046Z",
+      "voting_end_time": "2022-09-18T17:10:38.046Z",
+      "voteMeta": {
+        "yes": "177",
+        "no": "2",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Governance Proposal to Start Liquidity Mining",
+      "voting_start_time": "2022-08-19T19:02:29.065Z",
+      "voting_end_time": "2022-08-19T20:02:29.065Z",
+      "voteMeta": {
+        "yes": "309",
+        "no": "4",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Proposal to Fund Liquidity Mining through Community Pool Spend",
+      "voting_start_time": "2022-08-19T16:53:22.223Z",
+      "voting_end_time": "2022-08-19T17:53:22.223Z",
+      "voteMeta": {
+        "yes": "446",
+        "no": "6",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Governance Proposal to Enable Inflation",
+      "voting_start_time": "2022-08-17T19:24:21.596Z",
+      "voting_end_time": "2022-08-17T20:24:21.596Z",
+      "voteMeta": {
+        "yes": "269",
+        "no": "13",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Governance Proposal to set Distribution Parameters",
+      "voting_start_time": "2022-08-17T19:23:36.231Z",
+      "voting_end_time": "2022-08-17T20:23:36.231Z",
+      "voteMeta": {
+        "yes": "246",
+        "no": "6",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Governance Proposal to set Feemarket Parameters",
+      "voting_start_time": "2022-08-17T19:22:27.978Z",
+      "voting_end_time": "2022-08-17T20:22:27.978Z",
+      "voteMeta": {
+        "yes": "256",
+        "no": "2",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Governance Proposal to set maximum gas per block",
+      "voting_start_time": "2022-08-17T19:21:53.540Z",
+      "voting_end_time": "2022-08-17T20:21:53.540Z",
+      "voteMeta": {
+        "yes": "239",
+        "no": "5",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Governance Proposal to accept DAO as Canto Lending Market Admin (2/2)",
+      "voting_start_time": "2022-08-17T17:33:54.995Z",
+      "voting_end_time": "2022-08-17T18:33:54.995Z",
+      "voteMeta": {
+        "yes": "388",
+        "no": "3",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Governance Proposal to accept DAO as Canto Lending Market Admin",
+      "voting_start_time": "2022-08-17T15:36:30.369Z",
+      "voting_end_time": "2022-08-17T16:36:30.369Z",
+      "voteMeta": {
+        "yes": "228",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Canto v2.0.0 Upgrade",
+      "voting_start_time": "2022-08-10T14:04:15.850Z",
+      "voting_end_time": "2022-08-10T15:04:15.850Z",
+      "voteMeta": {
+        "yes": "11",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Decrease the voting period to 1 hour",
+      "voting_start_time": "2022-07-31T22:02:05.198Z",
+      "voting_end_time": "2022-08-01T22:02:05.198Z",
+      "voteMeta": {
+        "yes": "4",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register ERC20 for Atom",
+      "voting_start_time": "2022-07-31T16:26:35.656Z",
+      "voting_end_time": "2022-08-01T16:26:35.656Z",
+      "voteMeta": {
+        "yes": "4",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register ERC20 for ETH bridged via Gravity Bridge",
+      "voting_start_time": "2022-07-31T16:24:12.672Z",
+      "voting_end_time": "2022-08-01T16:24:12.672Z",
+      "voteMeta": {
+        "yes": "4",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register ERC20 for USDT bridged via Gravity Bridge",
+      "voting_start_time": "2022-07-31T16:21:02.919Z",
+      "voting_end_time": "2022-08-01T16:21:02.919Z",
+      "voteMeta": {
+        "yes": "5",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Register ERC20 for USDC bridged via Gravity Bridge",
+      "voting_start_time": "2022-07-31T16:17:29.164Z",
+      "voting_end_time": "2022-08-01T16:17:29.164Z",
+      "voteMeta": {
+        "yes": "5",
+        "no": 0,
+        "abstain": 0
+      }
+    }
+  ]
+}

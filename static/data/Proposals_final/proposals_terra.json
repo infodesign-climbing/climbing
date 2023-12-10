@@ -1,0 +1,824 @@
+{
+  "data": [
+    {
+      "title": "/cosmos.upgrade.v1beta1.MsgSoftwareUpgrade",
+      "voting_start_time": "2023-11-03T11:49:19.962Z",
+      "voting_end_time": "2023-11-10T11:49:19.962Z",
+      "voteMeta": {
+        "yes": "395",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "/cosmos.distribution.v1beta1.MsgCommunityPoolSpend",
+      "voting_start_time": "2023-10-18T20:17:54.061Z",
+      "voting_end_time": "2023-10-25T20:17:54.061Z",
+      "voteMeta": {
+        "yes": "448",
+        "no": "3",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Cosmos x Celestia Airdrop ✅",
+      "voting_start_time": "2023-10-09T21:00:59.812Z",
+      "voting_end_time": "2023-10-16T21:00:59.812Z",
+      "voteMeta": {
+        "yes": "9",
+        "no": "6",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Phoenix Upgrade to 2.5.1",
+      "voting_start_time": "2023-10-09T12:50:28.633Z",
+      "voting_end_time": "2023-10-16T12:50:28.633Z",
+      "voteMeta": {
+        "yes": "307",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Orne.io - Legal audit & Grant Proposal",
+      "voting_start_time": "2023-09-22T17:00:05.415Z",
+      "voting_end_time": "2023-09-29T17:00:05.415Z",
+      "voteMeta": {
+        "yes": "88",
+        "no": "130",
+        "abstain": "64"
+      }
+    },
+    {
+      "title": "test",
+      "voting_start_time": "2023-09-14T14:14:50.614Z",
+      "voting_end_time": "2023-09-21T14:14:50.614Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": "129",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Airdrop for Missed Protocols",
+      "voting_start_time": "2023-09-11T17:42:16.001Z",
+      "voting_end_time": "2023-09-18T17:42:16.001Z",
+      "voteMeta": {
+        "yes": "203",
+        "no": "13",
+        "abstain": "53"
+      }
+    },
+    {
+      "title": "Alliance Follow-on Proposal: Whitelist VT as an Alliance Asset",
+      "voting_start_time": "2023-08-11T12:27:39.338Z",
+      "voting_end_time": "2023-08-18T12:27:39.338Z",
+      "voteMeta": {
+        "yes": "244",
+        "no": "3",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Alliance Follow-on Proposal: Whitelist rSWTH, bWHALE, and ampWHALE as Virtual Alliance assets",
+      "voting_start_time": "2023-08-11T12:36:16.915Z",
+      "voting_end_time": "2023-08-18T12:36:16.915Z",
+      "voteMeta": {
+        "yes": "261",
+        "no": "4",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "Y-Foundry $LUNA Integration into Y-Foundry Governance",
+      "voting_start_time": "2023-08-08T06:10:55.154Z",
+      "voting_end_time": "2023-08-15T06:10:55.154Z",
+      "voteMeta": {
+        "yes": "184",
+        "no": "23",
+        "abstain": "57"
+      }
+    },
+    {
+      "title": "Confio Funding Halt",
+      "voting_start_time": "2023-08-07T10:54:20.345Z",
+      "voting_end_time": "2023-08-14T10:54:20.345Z",
+      "voteMeta": {
+        "yes": "205",
+        "no": "15",
+        "abstain": "65"
+      }
+    },
+    {
+      "title": "Chainscope Grant",
+      "voting_start_time": "2023-08-06T04:31:28.741Z",
+      "voting_end_time": "2023-08-13T04:31:28.741Z",
+      "voteMeta": {
+        "yes": "178",
+        "no": "45",
+        "abstain": "45"
+      }
+    },
+    {
+      "title": "Deploy LUNA to the stLUNA liquidity pool",
+      "voting_start_time": "2023-07-21T17:30:33.098Z",
+      "voting_end_time": "2023-07-28T17:30:33.098Z",
+      "voteMeta": {
+        "yes": "117",
+        "no": "201",
+        "abstain": "46"
+      }
+    },
+    {
+      "title": "The Gate Contract",
+      "voting_start_time": "2023-07-17T10:59:34.670Z",
+      "voting_end_time": "2023-07-24T10:59:34.670Z",
+      "voteMeta": {
+        "yes": "119",
+        "no": "51",
+        "abstain": "110"
+      }
+    },
+    {
+      "title": "Phoenix Software Upgrade v2.4",
+      "voting_start_time": "2023-07-10T08:11:29.247Z",
+      "voting_end_time": "2023-07-17T08:11:29.247Z",
+      "voteMeta": {
+        "yes": "401",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "OFFICIAL \"Revitalizing Terra: A Backbone Labs and Eris Protocol Collaboration\" (Not a Grant)",
+      "voting_start_time": "2023-07-03T17:49:05.431Z",
+      "voting_end_time": "2023-07-10T17:49:05.431Z",
+      "voteMeta": {
+        "yes": "344",
+        "no": "38",
+        "abstain": "56"
+      }
+    },
+    {
+      "title": "\"Revitalizing Terra: A Backbone Labs and Eris Protocol Collaboration\" (Not a Grant)",
+      "voting_start_time": "2023-07-03T16:38:24.916Z",
+      "voting_end_time": "2023-07-10T16:38:24.916Z",
+      "voteMeta": {
+        "yes": "41",
+        "no": "167",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "LUNA Airdrop ✅",
+      "voting_start_time": "2023-06-28T12:27:32.615Z",
+      "voting_end_time": "2023-07-05T12:27:32.615Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": "18",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Re-enable IBC Client to Kujira",
+      "voting_start_time": "2023-06-24T09:52:59.993Z",
+      "voting_end_time": "2023-07-01T09:52:59.993Z",
+      "voteMeta": {
+        "yes": "375",
+        "no": "2",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "TERRAN.ONE Grant Proposal",
+      "voting_start_time": "2023-06-18T20:51:47.278Z",
+      "voting_end_time": "2023-06-25T20:51:47.278Z",
+      "voteMeta": {
+        "yes": "294",
+        "no": "5",
+        "abstain": "38"
+      }
+    },
+    {
+      "title": "Alliance Signaling Proposal",
+      "voting_start_time": "2023-06-01T11:44:04.301Z",
+      "voting_end_time": "2023-06-08T11:44:04.301Z",
+      "voteMeta": {
+        "yes": "402",
+        "no": "6",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Neptune Finance Audit Reimbursement",
+      "voting_start_time": "2023-05-24T18:46:33.835Z",
+      "voting_end_time": "2023-05-31T18:46:33.835Z",
+      "voteMeta": {
+        "yes": "395",
+        "no": "14",
+        "abstain": "19"
+      }
+    },
+    {
+      "title": "Terra - Confio CosmWasm Grant",
+      "voting_start_time": "2023-05-01T13:58:47.090Z",
+      "voting_end_time": "2023-05-08T13:58:47.090Z",
+      "voteMeta": {
+        "yes": "410",
+        "no": "26",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Community Funding for TerraSpaces",
+      "voting_start_time": "2023-04-23T14:14:20.632Z",
+      "voting_end_time": "2023-04-30T14:14:20.632Z",
+      "voteMeta": {
+        "yes": "507",
+        "no": "37",
+        "abstain": "41"
+      }
+    },
+    {
+      "title": "Phoenix Software Upgrade 2.3.0",
+      "voting_start_time": "2023-04-12T16:24:30.708Z",
+      "voting_end_time": "2023-04-19T16:24:30.708Z",
+      "voteMeta": {
+        "yes": "701",
+        "no": "3",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Lion DAO Treasury Grant",
+      "voting_start_time": "2023-04-12T14:43:03.930Z",
+      "voting_end_time": "2023-04-19T14:43:03.930Z",
+      "voteMeta": {
+        "yes": "556",
+        "no": "27",
+        "abstain": "129"
+      }
+    },
+    {
+      "title": "Backbone Labs - Audit Request",
+      "voting_start_time": "2023-04-09T22:46:09.199Z",
+      "voting_end_time": "2023-04-16T22:46:09.199Z",
+      "voteMeta": {
+        "yes": "475",
+        "no": "14",
+        "abstain": "40"
+      }
+    },
+    {
+      "title": "Revised Redacted Grant Proposal",
+      "voting_start_time": "2023-04-04T16:16:37.600Z",
+      "voting_end_time": "2023-04-11T16:16:37.600Z",
+      "voteMeta": {
+        "yes": "429",
+        "no": "73",
+        "abstain": "111"
+      }
+    },
+    {
+      "title": "✅ARBITRUM ($ARB) Airdrop claim✅",
+      "voting_start_time": "2023-03-31T13:07:12.121Z",
+      "voting_end_time": "2023-04-07T13:07:12.121Z",
+      "voteMeta": {
+        "yes": "93",
+        "no": "43",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "'.io' multiplayer 2D shooter Grant Proposal",
+      "voting_start_time": "2023-03-14T11:44:12.558Z",
+      "voting_end_time": "2023-03-21T11:44:12.558Z",
+      "voteMeta": {
+        "yes": "57",
+        "no": "274",
+        "abstain": "33"
+      }
+    },
+    {
+      "title": "Incentivize the LUNA-USK Pool on Kujira's BOW",
+      "voting_start_time": "2023-02-03T16:32:29.236Z",
+      "voting_end_time": "2023-02-10T16:32:29.236Z",
+      "voteMeta": {
+        "yes": "550",
+        "no": "14",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "dUST Games Grant Proposal",
+      "voting_start_time": "2023-02-01T19:10:56.322Z",
+      "voting_end_time": "2023-02-08T19:10:56.322Z",
+      "voteMeta": {
+        "yes": "79",
+        "no": "315",
+        "abstain": "60"
+      }
+    },
+    {
+      "title": "Cavern Protocol Audit",
+      "voting_start_time": "2023-01-30T23:27:59.399Z",
+      "voting_end_time": "2023-02-06T23:27:59.399Z",
+      "voteMeta": {
+        "yes": "512",
+        "no": "22",
+        "abstain": "51"
+      }
+    },
+    {
+      "title": "Hermes Protocol | Community Grant for public goods development",
+      "voting_start_time": "2023-01-29T15:34:33.977Z",
+      "voting_end_time": "2023-02-05T15:34:33.977Z",
+      "voteMeta": {
+        "yes": "107",
+        "no": "336",
+        "abstain": "97"
+      }
+    },
+    {
+      "title": "ERIS Protocol Revised Grant Proposal",
+      "voting_start_time": "2023-01-13T09:01:21.129Z",
+      "voting_end_time": "2023-01-20T09:01:21.129Z",
+      "voteMeta": {
+        "yes": "202",
+        "no": "68",
+        "abstain": "31"
+      }
+    },
+    {
+      "title": "Terra Poker Grant Proposal (Updated)",
+      "voting_start_time": "2023-01-10T07:46:54.870Z",
+      "voting_end_time": "2023-01-17T07:46:54.870Z",
+      "voteMeta": {
+        "yes": "49",
+        "no": "97",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Terra Poker | Grant Proposal",
+      "voting_start_time": "2023-01-10T06:28:44.139Z",
+      "voting_end_time": "2023-01-17T06:28:44.139Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": "66",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "Contro Protocol Grant Proposal",
+      "voting_start_time": "2022-12-17T13:11:03.012Z",
+      "voting_end_time": "2022-12-24T13:11:03.012Z",
+      "voteMeta": {
+        "yes": "134",
+        "no": "14",
+        "abstain": "38"
+      }
+    },
+    {
+      "title": "Phoenix Software Upgrade 2.2.0",
+      "voting_start_time": "2022-12-12T19:07:16.691Z",
+      "voting_end_time": "2022-12-19T19:07:16.691Z",
+      "voteMeta": {
+        "yes": "230",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "TFM Grant Proposal",
+      "voting_start_time": "2022-12-12T17:33:07.291Z",
+      "voting_end_time": "2022-12-19T17:33:07.291Z",
+      "voteMeta": {
+        "yes": "182",
+        "no": "20",
+        "abstain": "28"
+      }
+    },
+    {
+      "title": "Increase Terra's Governance Quorum from 10% to 30%",
+      "voting_start_time": "2022-12-06T07:47:27.322Z",
+      "voting_end_time": "2022-12-13T07:47:27.322Z",
+      "voteMeta": {
+        "yes": "113",
+        "no": "11",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Get USDC / LUNA Airdrop 🔥",
+      "voting_start_time": "2022-12-05T21:29:50.678Z",
+      "voting_end_time": "2022-12-12T21:29:50.678Z",
+      "voteMeta": {
+        "yes": "9",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "SCV - Terra Security Expansion Program Proposal",
+      "voting_start_time": "2022-12-05T12:15:28.473Z",
+      "voting_end_time": "2022-12-12T12:15:28.473Z",
+      "voteMeta": {
+        "yes": "174",
+        "no": "8",
+        "abstain": "29"
+      }
+    },
+    {
+      "title": "Knowhere/Soil Protocol Grant Prosposal",
+      "voting_start_time": "2022-12-05T04:24:06.306Z",
+      "voting_end_time": "2022-12-12T04:24:06.306Z",
+      "voteMeta": {
+        "yes": "65",
+        "no": "65",
+        "abstain": "31"
+      }
+    },
+    {
+      "title": "ERIS Protocol Grant Proposal",
+      "voting_start_time": "2022-11-30T16:40:17.561Z",
+      "voting_end_time": "2022-12-07T16:40:17.561Z",
+      "voteMeta": {
+        "yes": "162",
+        "no": "62",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "Redacted Grant Proposal",
+      "voting_start_time": "2022-11-25T15:12:28.765Z",
+      "voting_end_time": "2022-12-02T15:12:28.765Z",
+      "voteMeta": {
+        "yes": "173",
+        "no": "89",
+        "abstain": "53"
+      }
+    },
+    {
+      "title": "Capapult Grant Proposal",
+      "voting_start_time": "2022-11-19T20:00:29.304Z",
+      "voting_end_time": "2022-11-26T20:00:29.304Z",
+      "voteMeta": {
+        "yes": "296",
+        "no": "81",
+        "abstain": "40"
+      }
+    },
+    {
+      "title": "Enable the option to SWAP LUNA 2.0 to LUNC",
+      "voting_start_time": "2022-10-30T14:58:26.895Z",
+      "voting_end_time": "2022-11-06T14:58:26.895Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": "4",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "⚠️ FINAL: LAST TERRA PHOENIX AIRDROP 🌎 ✅ CLAIM NOW",
+      "voting_start_time": "2022-10-15T07:38:32.628Z",
+      "voting_end_time": "2022-10-22T07:38:32.628Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": "4",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "New Terra 3.0 Version ✅ + LUNA Airdrop 🪂",
+      "voting_start_time": "2022-10-14T16:36:48.113Z",
+      "voting_end_time": "2022-10-21T16:36:48.113Z",
+      "voteMeta": {
+        "yes": "12",
+        "no": "3",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Final version⚠️CLAIM NOW 🧞 Genie: Rewards Distribution Platform Airdrop ✅",
+      "voting_start_time": "2022-10-12T13:52:36.950Z",
+      "voting_end_time": "2022-10-19T13:52:36.950Z",
+      "voteMeta": {
+        "yes": "13",
+        "no": "2",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "⚠️CLAIM NOW 🧞 Genie: Rewards Distribution Platform Airdrop ✅",
+      "voting_start_time": "2022-10-12T12:21:28.771Z",
+      "voting_end_time": "2022-10-19T12:21:28.771Z",
+      "voteMeta": {
+        "yes": "7",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "🧞 Genie: New Luna Airdrop 🪂",
+      "voting_start_time": "2022-10-12T01:17:22.245Z",
+      "voting_end_time": "2022-10-19T01:17:22.245Z",
+      "voteMeta": {
+        "yes": "10",
+        "no": "5",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "🧞 Genie: Rewards Distribution Platform Community Grant by Coinhall⚡⚡⚡⚠️ CLAIM NOW",
+      "voting_start_time": "2022-10-11T22:51:45.731Z",
+      "voting_end_time": "2022-10-18T22:51:45.731Z",
+      "voteMeta": {
+        "yes": "8",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "🧞 Genie: Rewards Distribution Platform Community Grant by Coinhall",
+      "voting_start_time": "2022-10-11T15:28:22.041Z",
+      "voting_end_time": "2022-10-18T15:28:22.041Z",
+      "voteMeta": {
+        "yes": "150",
+        "no": "5",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Social KYC oracle (TYC)",
+      "voting_start_time": "2022-10-09T22:05:53.509Z",
+      "voting_end_time": "2022-10-16T22:05:53.509Z",
+      "voteMeta": {
+        "yes": "85",
+        "no": "45",
+        "abstain": "31"
+      }
+    },
+    {
+      "title": "Enable funding to Incentivise Devs by changing the reward weight of tax and channel 0.2% to the community pool",
+      "voting_start_time": "2022-10-07T00:04:37.335Z",
+      "voting_end_time": "2022-10-14T00:04:37.335Z",
+      "voteMeta": {
+        "yes": "5",
+        "no": "7",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "⚠️ CLAIM NOW: Terra Phoenix airdrop 🌎 ✅",
+      "voting_start_time": "2022-10-05T10:10:40.310Z",
+      "voting_end_time": "2022-10-12T10:10:40.310Z",
+      "voteMeta": {
+        "yes": "46",
+        "no": "9",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Terra Binance Airdrop",
+      "voting_start_time": "2022-10-03T19:03:38.668Z",
+      "voting_end_time": "2022-10-10T19:03:38.668Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": "7",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "New Features 2.0 ✅",
+      "voting_start_time": "2022-09-25T16:32:37.201Z",
+      "voting_end_time": "2022-10-02T16:32:37.201Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": "4",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Terra Phoenix airdrop (Claim from Sept. 4th, 2022 to Oct. 4th, 2022) Final version",
+      "voting_start_time": "2022-09-25T11:27:01.747Z",
+      "voting_end_time": "2022-10-02T11:27:01.747Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": "10",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Terra Phoenix airdrop (Claim from Sept. 4th, 2022 to Oct. 4th, 2022)",
+      "voting_start_time": "2022-09-23T13:10:19.889Z",
+      "voting_end_time": "2022-09-30T13:10:19.889Z",
+      "voteMeta": {
+        "yes": "9",
+        "no": "5",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Terra Phoenix airdrop (Claim from Sept. 4th, 2022 to Oct. 4th, 2022) ",
+      "voting_start_time": "2022-09-22T17:28:34.901Z",
+      "voting_end_time": "2022-09-29T17:28:34.901Z",
+      "voteMeta": {
+        "yes": "12",
+        "no": "8",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Terra 2.0 Airdrop 🪂",
+      "voting_start_time": "2022-09-21T05:18:02.869Z",
+      "voting_end_time": "2022-09-28T05:18:02.869Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": "5",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Terra Phoenix airdrop (Claim from Sept. 4th, 2022 to Oct. 4th, 2022)",
+      "voting_start_time": "2022-09-15T13:08:49.537Z",
+      "voting_end_time": "2022-09-22T13:08:49.537Z",
+      "voteMeta": {
+        "yes": "63",
+        "no": "28",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "UST 2.0 in Progress ✅",
+      "voting_start_time": "2022-09-14T12:28:06.095Z",
+      "voting_end_time": "2022-09-21T12:28:06.095Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": "22",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Terra Stablecoin Infrastructure Proposal by Stably",
+      "voting_start_time": "2022-09-13T04:01:58.107Z",
+      "voting_end_time": "2022-09-20T04:01:58.107Z",
+      "voteMeta": {
+        "yes": "186",
+        "no": "105",
+        "abstain": "66"
+      }
+    },
+    {
+      "title": "Luna Foundation Guard (BURN UST and AIRDROP for the holders LUNA/LUNC/USTC)",
+      "voting_start_time": "2022-09-04T14:52:16.591Z",
+      "voting_end_time": "2022-09-11T14:52:16.591Z",
+      "voteMeta": {
+        "yes": "126",
+        "no": "45",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "LUNA Airdrop 🪂",
+      "voting_start_time": "2022-09-03T01:40:35.293Z",
+      "voting_end_time": "2022-09-10T01:40:35.293Z",
+      "voteMeta": {
+        "yes": "94",
+        "no": "41",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Airdrop LUNC",
+      "voting_start_time": "2022-09-02T15:00:38.493Z",
+      "voting_end_time": "2022-09-09T15:00:38.493Z",
+      "voteMeta": {
+        "yes": "44",
+        "no": "37",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Terra Phoenix Airdrop",
+      "voting_start_time": "2022-08-26T13:17:57.975Z",
+      "voting_end_time": "2022-09-02T13:17:57.975Z",
+      "voteMeta": {
+        "yes": "647",
+        "no": "9",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Entropy Beacon Community Funding Grant",
+      "voting_start_time": "2022-08-23T22:12:44.557Z",
+      "voting_end_time": "2022-08-30T22:12:44.557Z",
+      "voteMeta": {
+        "yes": "166",
+        "no": "14",
+        "abstain": "58"
+      }
+    },
+    {
+      "title": "Emergency Builder Allocation for Hurricane Protocol",
+      "voting_start_time": "2022-08-16T03:52:24.423Z",
+      "voting_end_time": "2022-08-23T03:52:24.423Z",
+      "voteMeta": {
+        "yes": "32",
+        "no": "52",
+        "abstain": "79"
+      }
+    },
+    {
+      "title": "MetricsDAO On-Chain Data Curation Grant",
+      "voting_start_time": "2022-07-25T22:47:40.077Z",
+      "voting_end_time": "2022-08-01T22:47:40.077Z",
+      "voteMeta": {
+        "yes": "209",
+        "no": "12",
+        "abstain": "46"
+      }
+    },
+    {
+      "title": "2.1.0",
+      "voting_start_time": "2022-07-20T04:26:49.503Z",
+      "voting_end_time": "2022-07-27T04:26:49.503Z",
+      "voteMeta": {
+        "yes": "243",
+        "no": "2",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Executing the passed Prop 880",
+      "voting_start_time": "2022-07-17T14:59:57.388Z",
+      "voting_end_time": "2022-07-24T14:59:57.388Z",
+      "voteMeta": {
+        "yes": "231",
+        "no": "5",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Gift to Terra stakeholders",
+      "voting_start_time": "2022-07-12T13:27:13.152Z",
+      "voting_end_time": "2022-07-19T13:27:13.152Z",
+      "voteMeta": {
+        "yes": "72",
+        "no": "25",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Emergency Allocation for Momentum One & Hermes Protocol",
+      "voting_start_time": "2022-07-08T23:12:45.836Z",
+      "voting_end_time": "2022-07-15T23:12:45.836Z",
+      "voteMeta": {
+        "yes": "240",
+        "no": "13",
+        "abstain": "38"
+      }
+    },
+    {
+      "title": "Reduced validator minimum commission update (5% instead of 10%)",
+      "voting_start_time": "2022-06-30T18:48:27.554Z",
+      "voting_end_time": "2022-07-07T18:48:27.554Z",
+      "voteMeta": {
+        "yes": "162",
+        "no": "66",
+        "abstain": "55"
+      }
+    },
+    {
+      "title": "Validator minimum commission update",
+      "voting_start_time": "2022-06-29T08:35:47.673Z",
+      "voting_end_time": "2022-07-06T08:35:47.673Z",
+      "voteMeta": {
+        "yes": "80",
+        "no": "285",
+        "abstain": "47"
+      }
+    },
+    {
+      "title": "Establish Emergency Allocation Distribution Method",
+      "voting_start_time": "2022-06-08T06:49:24.163Z",
+      "voting_end_time": "2022-06-15T06:49:24.163Z",
+      "voteMeta": {
+        "yes": "435",
+        "no": "11",
+        "abstain": "22"
+      }
+    },
+    {
+      "title": "Upgrade Terra Classic To Re-enable IBC",
+      "voting_start_time": "2022-06-03T20:43:46.131Z",
+      "voting_end_time": "2022-06-10T20:43:46.131Z",
+      "voteMeta": {
+        "yes": "617",
+        "no": "9",
+        "abstain": "106"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2484 @@
+{
+  "data": [
+    {
+      "title": "The Injective Oracle module will add a new feed from the Injective Ecosystem.",
+      "voting_start_time": "2023-11-10T20:41:57.542Z",
+      "voting_end_time": "2023-11-14T20:41:57.542Z",
+      "voteMeta": {
+        "yes": "634",
+        "no": "3",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Upload Ojo Oracle Contract Wasm Code",
+      "voting_start_time": "2023-11-08T17:34:01.737Z",
+      "voting_end_time": "2023-11-12T17:34:01.737Z",
+      "voteMeta": {
+        "yes": "684",
+        "no": "4",
+        "abstain": "31"
+      }
+    },
+    {
+      "title": "Add USDTkv and USDCnb Quoted Markets to Trade & Earn (T&E)",
+      "voting_start_time": "2023-11-06T22:46:30.633Z",
+      "voting_end_time": "2023-11-10T22:46:30.633Z",
+      "voteMeta": {
+        "yes": "555",
+        "no": "6",
+        "abstain": "28"
+      }
+    },
+    {
+      "title": "Make USDTkv and USDCnb Quoted Markets Eligible for Fee Discounts",
+      "voting_start_time": "2023-11-06T22:41:30.243Z",
+      "voting_end_time": "2023-11-10T22:41:30.243Z",
+      "voteMeta": {
+        "yes": "501",
+        "no": "5",
+        "abstain": "27"
+      }
+    },
+    {
+      "title": "Disbursement of OLP rewards for epoch ended on 30 October 2023",
+      "voting_start_time": "2023-11-03T09:23:37.995Z",
+      "voting_end_time": "2023-11-07T09:23:37.995Z",
+      "voteMeta": {
+        "yes": "703",
+        "no": "4",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Trade and Earn Rewards Pool Update Epochs 104-111",
+      "voting_start_time": "2023-11-01T09:42:40.791Z",
+      "voting_end_time": "2023-11-05T09:42:40.791Z",
+      "voteMeta": {
+        "yes": "639",
+        "no": "4",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-11-01T08:46:53.652Z",
+      "voting_end_time": "2023-11-05T08:46:53.652Z",
+      "voteMeta": {
+        "yes": "567",
+        "no": "4",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Trade & Earn Multiplier Updates",
+      "voting_start_time": "2023-10-31T18:08:58.936Z",
+      "voting_end_time": "2023-11-04T18:08:58.936Z",
+      "voteMeta": {
+        "yes": "602",
+        "no": "3",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-10-25T09:03:28.193Z",
+      "voting_end_time": "2023-10-29T09:03:28.193Z",
+      "voteMeta": {
+        "yes": "578",
+        "no": "6",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Trade & Earn Multiplier Updates",
+      "voting_start_time": "2023-10-24T18:32:01.608Z",
+      "voting_end_time": "2023-10-28T18:32:01.608Z",
+      "voteMeta": {
+        "yes": "540",
+        "no": "5",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-10-17T16:43:29.059Z",
+      "voting_end_time": "2023-10-21T16:43:29.059Z",
+      "voteMeta": {
+        "yes": "499",
+        "no": "3",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "/cosmos.consensus.v1.MsgUpdateParams",
+      "voting_start_time": "2023-10-13T11:22:18.845Z",
+      "voting_end_time": "2023-10-17T11:22:18.845Z",
+      "voteMeta": {
+        "yes": "361",
+        "no": "4",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-10-11T14:09:30.955Z",
+      "voting_end_time": "2023-10-15T14:09:30.955Z",
+      "voteMeta": {
+        "yes": "345",
+        "no": "5",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "TIA/USDT-30NOV23 Expiry Futures Market Launch",
+      "voting_start_time": "2023-10-10T21:58:30.155Z",
+      "voting_end_time": "2023-10-14T21:58:30.155Z",
+      "voteMeta": {
+        "yes": "309",
+        "no": "1",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Trade & Earn 2.0 Multiplier Updates",
+      "voting_start_time": "2023-10-09T14:57:45.692Z",
+      "voting_end_time": "2023-10-13T14:57:45.692Z",
+      "voteMeta": {
+        "yes": "337",
+        "no": "3",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Disbursement of OLP rewards for epoch ended on 02 October 2023",
+      "voting_start_time": "2023-10-06T09:43:09.425Z",
+      "voting_end_time": "2023-10-10T09:43:09.425Z",
+      "voteMeta": {
+        "yes": "395",
+        "no": "2",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-10-06T09:43:04.397Z",
+      "voting_end_time": "2023-10-10T09:43:04.397Z",
+      "voteMeta": {
+        "yes": "392",
+        "no": "2",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "AXL/USDT PERP Launch",
+      "voting_start_time": "2023-10-03T21:51:07.372Z",
+      "voting_end_time": "2023-10-07T21:51:07.372Z",
+      "voteMeta": {
+        "yes": "412",
+        "no": "2",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "TIA/USDT-30NOV23 Expiry Futures Market Launch",
+      "voting_start_time": "2023-10-03T21:50:29.889Z",
+      "voting_end_time": "2023-10-07T21:50:29.889Z",
+      "voteMeta": {
+        "yes": "395",
+        "no": "2",
+        "abstain": "25"
+      }
+    },
+    {
+      "title": "Kava Assets and USDT Launch on Injective",
+      "voting_start_time": "2023-10-03T21:50:02.469Z",
+      "voting_end_time": "2023-10-07T21:50:02.469Z",
+      "voteMeta": {
+        "yes": "421",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Price Feed Oracle Integration",
+      "voting_start_time": "2023-09-28T22:21:34.212Z",
+      "voting_end_time": "2023-10-02T22:21:34.212Z",
+      "voteMeta": {
+        "yes": "523",
+        "no": "5",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Trade & Earn 2.0",
+      "voting_start_time": "2023-09-28T01:22:20.351Z",
+      "voting_end_time": "2023-10-02T01:22:20.351Z",
+      "voteMeta": {
+        "yes": "465",
+        "no": "4",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-09-26T19:44:01.510Z",
+      "voting_end_time": "2023-09-30T19:44:01.510Z",
+      "voteMeta": {
+        "yes": "459",
+        "no": "4",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-09-20T09:19:04.016Z",
+      "voting_end_time": "2023-09-24T09:19:04.016Z",
+      "voteMeta": {
+        "yes": "425",
+        "no": "3",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Trade and Earn Rewards Pool Update Epochs 96-103",
+      "voting_start_time": "2023-09-14T14:09:04.185Z",
+      "voting_end_time": "2023-09-18T14:09:04.185Z",
+      "voteMeta": {
+        "yes": "473",
+        "no": "5",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-09-13T15:53:31.268Z",
+      "voting_end_time": "2023-09-17T15:53:31.268Z",
+      "voteMeta": {
+        "yes": "427",
+        "no": "3",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Disbursement of OLP rewards for epoch ended on 5 September 2023",
+      "voting_start_time": "2023-09-11T09:11:51.114Z",
+      "voting_end_time": "2023-09-15T09:11:51.114Z",
+      "voteMeta": {
+        "yes": "414",
+        "no": "4",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-09-06T18:44:17.429Z",
+      "voting_end_time": "2023-09-10T18:44:17.429Z",
+      "voteMeta": {
+        "yes": "507",
+        "no": "2",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "VIP Fee Discount Program 2.0",
+      "voting_start_time": "2023-08-13T01:38:26.220Z",
+      "voting_end_time": "2023-08-17T01:38:26.220Z",
+      "voteMeta": {
+        "yes": "502",
+        "no": "4",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Disbursement of OLP rewards for epoch ended on 08 August 2023",
+      "voting_start_time": "2023-08-12T06:33:51.444Z",
+      "voting_end_time": "2023-08-16T06:33:51.444Z",
+      "voteMeta": {
+        "yes": "454",
+        "no": "3",
+        "abstain": "23"
+      }
+    },
+    {
+      "title": "SEI PERP Launch",
+      "voting_start_time": "2023-08-11T21:44:52.818Z",
+      "voting_end_time": "2023-08-15T21:44:52.818Z",
+      "voteMeta": {
+        "yes": "549",
+        "no": "2",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Update USDC/USDT Fees",
+      "voting_start_time": "2023-08-08T19:41:20.310Z",
+      "voting_end_time": "2023-08-12T19:41:20.310Z",
+      "voteMeta": {
+        "yes": "468",
+        "no": "4",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Price Feed Oracle Integration",
+      "voting_start_time": "2023-08-07T21:00:48.286Z",
+      "voting_end_time": "2023-08-11T21:00:48.286Z",
+      "voteMeta": {
+        "yes": "470",
+        "no": "3",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Adjust Trade & Earn reward points",
+      "voting_start_time": "2023-08-03T20:40:53.653Z",
+      "voting_end_time": "2023-08-07T20:40:53.653Z",
+      "voteMeta": {
+        "yes": "505",
+        "no": "2",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "Trade and Earn Rewards Allocation",
+      "voting_start_time": "2023-07-19T14:29:08.098Z",
+      "voting_end_time": "2023-07-23T14:29:08.098Z",
+      "voteMeta": {
+        "yes": "528",
+        "no": "5",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Disbursement of OLP rewards for epoch ended on 11 July 2023",
+      "voting_start_time": "2023-07-18T19:07:42.888Z",
+      "voting_end_time": "2023-07-22T19:07:42.888Z",
+      "voteMeta": {
+        "yes": "489",
+        "no": "5",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Launch XRP/USDT PERP",
+      "voting_start_time": "2023-07-13T20:57:08.979Z",
+      "voting_end_time": "2023-07-17T20:57:08.979Z",
+      "voteMeta": {
+        "yes": "615",
+        "no": "5",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "/injective.wasmx.v1.MsgUpdateParams",
+      "voting_start_time": "2023-07-11T18:37:26.558Z",
+      "voting_end_time": "2023-07-15T18:37:26.558Z",
+      "voteMeta": {
+        "yes": "497",
+        "no": "2",
+        "abstain": "19"
+      }
+    },
+    {
+      "title": "Settle LUNA/UST perp market",
+      "voting_start_time": "2023-06-30T20:21:19.045Z",
+      "voting_end_time": "2023-07-04T20:21:19.045Z",
+      "voteMeta": {
+        "yes": "494",
+        "no": "24",
+        "abstain": "70"
+      }
+    },
+    {
+      "title": "Settle STX/USDT perp market",
+      "voting_start_time": "2023-06-30T20:13:05.804Z",
+      "voting_end_time": "2023-07-04T20:13:05.804Z",
+      "voteMeta": {
+        "yes": "522",
+        "no": "5",
+        "abstain": "36"
+      }
+    },
+    {
+      "title": "Disbursement of DMM and OLP rewards for epoch ended on 12 June 2023",
+      "voting_start_time": "2023-06-23T17:54:57.855Z",
+      "voting_end_time": "2023-06-27T17:54:57.855Z",
+      "voteMeta": {
+        "yes": "546",
+        "no": "3",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Nois - Store the nois-proxy contract",
+      "voting_start_time": "2023-06-19T22:32:26.253Z",
+      "voting_end_time": "2023-06-23T22:32:26.253Z",
+      "voteMeta": {
+        "yes": "577",
+        "no": "4",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Frontunner Mainnet Provider Oracle",
+      "voting_start_time": "2023-06-05T13:59:00.085Z",
+      "voting_end_time": "2023-06-09T13:59:00.085Z",
+      "voteMeta": {
+        "yes": "522",
+        "no": "2",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Injective Avalon Upgrade (v1.11)",
+      "voting_start_time": "2023-05-27T23:09:04.630Z",
+      "voting_end_time": "2023-05-31T23:09:04.630Z",
+      "voteMeta": {
+        "yes": "736",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Trade and Earn rewards allocation",
+      "voting_start_time": "2023-05-26T21:52:37.747Z",
+      "voting_end_time": "2023-05-30T21:52:37.747Z",
+      "voteMeta": {
+        "yes": "601",
+        "no": "4",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Injective Exchange dApp Update: Launch 1MPEPE/USDT Perp",
+      "voting_start_time": "2023-05-23T12:33:40.595Z",
+      "voting_end_time": "2023-05-27T12:33:40.595Z",
+      "voteMeta": {
+        "yes": "535",
+        "no": "13",
+        "abstain": "36"
+      }
+    },
+    {
+      "title": "Injective Exchange dApp Update: Settle 1000PEPE/USDT Perp",
+      "voting_start_time": "2023-05-23T12:30:39.787Z",
+      "voting_end_time": "2023-05-27T12:30:39.787Z",
+      "voteMeta": {
+        "yes": "502",
+        "no": "10",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epoch ended on 16 May 2023",
+      "voting_start_time": "2023-05-18T20:56:34.746Z",
+      "voting_end_time": "2023-05-22T20:56:34.746Z",
+      "voteMeta": {
+        "yes": "588",
+        "no": "2",
+        "abstain": "16"
+      }
+    },
+    {
+      "title": "Injective Exchange dApp Update: Launch 1000PEPE/USDT Perp",
+      "voting_start_time": "2023-05-10T14:10:43.528Z",
+      "voting_end_time": "2023-05-14T14:10:43.528Z",
+      "voteMeta": {
+        "yes": "556",
+        "no": "20",
+        "abstain": "32"
+      }
+    },
+    {
+      "title": "Injective Exchange dApp Update: Market Parameter Changes",
+      "voting_start_time": "2023-05-08T22:17:48.290Z",
+      "voting_end_time": "2023-05-12T22:17:48.290Z",
+      "voteMeta": {
+        "yes": "559",
+        "no": "6",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Talis: The First NFT Marketplace on Injective",
+      "voting_start_time": "2023-04-28T19:56:18.014Z",
+      "voting_end_time": "2023-05-02T19:56:18.014Z",
+      "voteMeta": {
+        "yes": "692",
+        "no": "6",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epoch ended on 17 April 2023",
+      "voting_start_time": "2023-04-26T20:02:01.580Z",
+      "voting_end_time": "2023-04-30T20:02:01.580Z",
+      "voteMeta": {
+        "yes": "535",
+        "no": "6",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "ERIS: Upload Amplifier 1.7.0-TF",
+      "voting_start_time": "2023-04-24T22:08:36.293Z",
+      "voting_end_time": "2023-04-28T22:08:36.293Z",
+      "voteMeta": {
+        "yes": "608",
+        "no": "2",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "Injective Exchange dApp Update: Market Parameter Changes",
+      "voting_start_time": "2023-04-21T09:08:17.604Z",
+      "voting_end_time": "2023-04-25T09:08:17.604Z",
+      "voteMeta": {
+        "yes": "594",
+        "no": "2",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "Liquid Staking Incentives for INJ",
+      "voting_start_time": "2023-04-14T16:39:32.575Z",
+      "voting_end_time": "2023-04-18T16:39:32.575Z",
+      "voteMeta": {
+        "yes": "824",
+        "no": "12",
+        "abstain": "25"
+      }
+    },
+    {
+      "title": "Pyth Oracle Mainnet Deployment",
+      "voting_start_time": "2023-04-10T13:38:26.391Z",
+      "voting_end_time": "2023-04-14T13:38:26.391Z",
+      "voteMeta": {
+        "yes": "782",
+        "no": "1",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Upgrade expired IBC client",
+      "voting_start_time": "2023-04-10T12:16:45.327Z",
+      "voting_end_time": "2023-04-14T12:16:45.327Z",
+      "voteMeta": {
+        "yes": "691",
+        "no": "3",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "Trade and Earn rewards allocation",
+      "voting_start_time": "2023-04-08T00:58:08.982Z",
+      "voting_end_time": "2023-04-12T00:58:08.982Z",
+      "voteMeta": {
+        "yes": "634",
+        "no": "3",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Exchange Module Upgrade: Min tick size and margin ratio update for specific markets",
+      "voting_start_time": "2023-03-29T11:17:41.148Z",
+      "voting_end_time": "2023-04-02T11:17:41.148Z",
+      "voteMeta": {
+        "yes": "508",
+        "no": "2",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epoch ended on 21 March 2023",
+      "voting_start_time": "2023-03-29T05:12:19.504Z",
+      "voting_end_time": "2023-04-02T05:12:19.504Z",
+      "voteMeta": {
+        "yes": "473",
+        "no": "3",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Deprecate legacy oracle requests",
+      "voting_start_time": "2023-03-28T18:41:34.889Z",
+      "voting_end_time": "2023-04-01T18:41:34.889Z",
+      "voteMeta": {
+        "yes": "483",
+        "no": "2",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Celer Bridge Contract",
+      "voting_start_time": "2023-03-27T08:56:56.385Z",
+      "voting_end_time": "2023-03-31T08:56:56.385Z",
+      "voteMeta": {
+        "yes": "506",
+        "no": "2",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Oracle Script Upgrade",
+      "voting_start_time": "2023-03-20T22:11:08.506Z",
+      "voting_end_time": "2023-03-24T22:11:08.506Z",
+      "voteMeta": {
+        "yes": "532",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "PUG/USDT Spot Market Launch",
+      "voting_start_time": "2023-03-18T11:54:28.379Z",
+      "voting_end_time": "2023-03-22T11:54:28.379Z",
+      "voteMeta": {
+        "yes": "455",
+        "no": "12",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "Dual Incentives for Astroport Genesis Pools",
+      "voting_start_time": "2023-03-16T23:04:36.784Z",
+      "voting_end_time": "2023-03-20T23:04:36.784Z",
+      "voteMeta": {
+        "yes": "543",
+        "no": "6",
+        "abstain": "16"
+      }
+    },
+    {
+      "title": "Injective Mainnet Upgrade (v1.10)",
+      "voting_start_time": "2023-03-13T12:24:34.247Z",
+      "voting_end_time": "2023-03-17T12:24:34.247Z",
+      "voteMeta": {
+        "yes": "704",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Trade and Earn rewards allocation",
+      "voting_start_time": "2023-03-10T23:51:46.357Z",
+      "voting_end_time": "2023-03-14T23:51:46.357Z",
+      "voteMeta": {
+        "yes": "522",
+        "no": "1",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epoch ended on 21 Feb 2023",
+      "voting_start_time": "2023-03-06T14:19:13.379Z",
+      "voting_end_time": "2023-03-10T14:19:13.379Z",
+      "voteMeta": {
+        "yes": "439",
+        "no": "4",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "Upgrade expired IBC client",
+      "voting_start_time": "2023-02-27T19:00:11.215Z",
+      "voting_end_time": "2023-03-03T19:00:11.215Z",
+      "voteMeta": {
+        "yes": "506",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase the Validator Set to 60",
+      "voting_start_time": "2023-02-25T14:07:55.387Z",
+      "voting_end_time": "2023-03-01T14:07:55.387Z",
+      "voteMeta": {
+        "yes": "578",
+        "no": "6",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Trade and Earn rewards allocation",
+      "voting_start_time": "2023-02-04T00:20:04.557Z",
+      "voting_end_time": "2023-02-08T00:20:04.557Z",
+      "voteMeta": {
+        "yes": "532",
+        "no": "5",
+        "abstain": "16"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epoch ended on 27 December 2022 and 24 Jan 2023",
+      "voting_start_time": "2023-01-27T16:58:41.238Z",
+      "voting_end_time": "2023-01-31T16:58:41.238Z",
+      "voteMeta": {
+        "yes": "483",
+        "no": "1",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Increase the Validator Set to 50",
+      "voting_start_time": "2023-01-16T15:36:40.549Z",
+      "voting_end_time": "2023-01-20T15:36:40.549Z",
+      "voteMeta": {
+        "yes": "395",
+        "no": "1",
+        "abstain": "43"
+      }
+    },
+    {
+      "title": "Injective Mainnet Upgrade",
+      "voting_start_time": "2023-01-13T20:47:54.712Z",
+      "voting_end_time": "2023-01-17T20:47:54.712Z",
+      "voteMeta": {
+        "yes": "477",
+        "no": "2",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "BONK Price Feed Oracle Integration",
+      "voting_start_time": "2023-01-05T17:03:45.559Z",
+      "voting_end_time": "2023-01-09T17:03:45.559Z",
+      "voteMeta": {
+        "yes": "398",
+        "no": "11",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Trade and Earn rewards allocation",
+      "voting_start_time": "2023-01-04T18:35:17.894Z",
+      "voting_end_time": "2023-01-08T18:35:17.894Z",
+      "voteMeta": {
+        "yes": "384",
+        "no": "3",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epochs ended on 1 November 2022 and 29 November 2022",
+      "voting_start_time": "2022-12-21T11:12:26.630Z",
+      "voting_end_time": "2022-12-25T11:12:26.630Z",
+      "voteMeta": {
+        "yes": "291",
+        "no": "1",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "Trade and Earn rewards allocation",
+      "voting_start_time": "2022-12-16T16:16:55.582Z",
+      "voting_end_time": "2022-12-20T16:16:55.582Z",
+      "voteMeta": {
+        "yes": "328",
+        "no": "3",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended Dec 7, 2022 (UTC)",
+      "voting_start_time": "2022-12-16T16:08:07.475Z",
+      "voting_end_time": "2022-12-20T16:08:07.475Z",
+      "voteMeta": {
+        "yes": "83",
+        "no": "185",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Whitelist address for wasm upload",
+      "voting_start_time": "2022-12-14T08:02:35.132Z",
+      "voting_end_time": "2022-12-18T08:02:35.132Z",
+      "voteMeta": {
+        "yes": "150",
+        "no": "5",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended Nov 30, 2022 (UTC)",
+      "voting_start_time": "2022-12-10T10:20:56.996Z",
+      "voting_end_time": "2022-12-14T10:20:56.996Z",
+      "voteMeta": {
+        "yes": "84",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Trade and Earn rewards allocation",
+      "voting_start_time": "2022-12-08T12:31:10.631Z",
+      "voting_end_time": "2022-12-12T12:31:10.631Z",
+      "voteMeta": {
+        "yes": "93",
+        "no": "3",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Upload Injective Adapter Contract",
+      "voting_start_time": "2022-11-29T21:23:19.303Z",
+      "voting_end_time": "2022-12-03T21:23:19.303Z",
+      "voteMeta": {
+        "yes": "92",
+        "no": "2",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Wormhole - Upload Token Bridge Shutdown Contract",
+      "voting_start_time": "2022-11-28T21:05:01.249Z",
+      "voting_end_time": "2022-12-02T21:05:01.249Z",
+      "voteMeta": {
+        "yes": "92",
+        "no": "2",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Wormhole - Upload Core Bridge Shutdown Contract",
+      "voting_start_time": "2022-11-28T21:04:44.142Z",
+      "voting_end_time": "2022-12-02T21:04:44.142Z",
+      "voteMeta": {
+        "yes": "93",
+        "no": "2",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Wormhole - Upload CW20 Wrapped Contract",
+      "voting_start_time": "2022-11-28T20:02:04.552Z",
+      "voting_end_time": "2022-12-02T20:02:04.552Z",
+      "voteMeta": {
+        "yes": "92",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Wormhole - Upload Token Bridge Contract",
+      "voting_start_time": "2022-11-28T20:00:49.952Z",
+      "voting_end_time": "2022-12-02T20:00:49.952Z",
+      "voteMeta": {
+        "yes": "79",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Wormhole - Upload Core Contract",
+      "voting_start_time": "2022-11-28T17:59:51.559Z",
+      "voting_end_time": "2022-12-02T17:59:51.559Z",
+      "voteMeta": {
+        "yes": "99",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Injective x Crescent Listing Proposal to List Native CRE/USDT Spot Pair",
+      "voting_start_time": "2022-11-23T07:22:12.365Z",
+      "voting_end_time": "2022-11-27T07:22:12.365Z",
+      "voteMeta": {
+        "yes": "108",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Injective Mainnet Upgrade (v1.8)",
+      "voting_start_time": "2022-11-17T10:17:49.962Z",
+      "voting_end_time": "2022-11-21T10:17:49.962Z",
+      "voteMeta": {
+        "yes": "141",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended Nov 2, 2022 (UTC)",
+      "voting_start_time": "2022-11-11T09:50:32.532Z",
+      "voting_end_time": "2022-11-15T09:50:32.532Z",
+      "voteMeta": {
+        "yes": "101",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended Oct 26, 2022 (UTC)",
+      "voting_start_time": "2022-11-04T16:57:50.491Z",
+      "voting_end_time": "2022-11-08T16:57:50.491Z",
+      "voteMeta": {
+        "yes": "70",
+        "no": "2",
+        "abstain": "21"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended Oct 19, 2022 (UTC)",
+      "voting_start_time": "2022-10-27T11:32:17.848Z",
+      "voting_end_time": "2022-10-31T11:32:17.848Z",
+      "voteMeta": {
+        "yes": "105",
+        "no": "2",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Trade & Earn program for exchange",
+      "voting_start_time": "2022-10-26T11:29:07.370Z",
+      "voting_end_time": "2022-10-30T11:29:07.370Z",
+      "voteMeta": {
+        "yes": "107",
+        "no": "5",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended Oct 12, 2022 (UTC)",
+      "voting_start_time": "2022-10-20T02:31:19.123Z",
+      "voting_end_time": "2022-10-24T02:31:19.123Z",
+      "voteMeta": {
+        "yes": "73",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epoch ended on 4 October 2022",
+      "voting_start_time": "2022-10-17T16:07:04.623Z",
+      "voting_end_time": "2022-10-21T16:07:04.623Z",
+      "voteMeta": {
+        "yes": "58",
+        "no": "1",
+        "abstain": "16"
+      }
+    },
+    {
+      "title": "White Whale on Injective",
+      "voting_start_time": "2022-10-13T18:05:10.148Z",
+      "voting_end_time": "2022-10-17T18:05:10.148Z",
+      "voteMeta": {
+        "yes": "80",
+        "no": "2",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Trade & Earn Rewards Adjustment",
+      "voting_start_time": "2022-10-11T13:48:53.645Z",
+      "voting_end_time": "2022-10-15T13:48:53.645Z",
+      "voteMeta": {
+        "yes": "33",
+        "no": "11",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epoch ended on 9 September 2022",
+      "voting_start_time": "2022-09-29T14:59:18.562Z",
+      "voting_end_time": "2022-10-03T14:59:18.562Z",
+      "voteMeta": {
+        "yes": "38",
+        "no": "2",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Trade & Earn Program Reward Multiplier Changes",
+      "voting_start_time": "2022-09-26T07:27:26.213Z",
+      "voting_end_time": "2022-09-30T07:27:26.213Z",
+      "voteMeta": {
+        "yes": "55",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Increase Peggy TargetBatchTimeout",
+      "voting_start_time": "2022-09-08T10:20:49.525Z",
+      "voting_end_time": "2022-09-12T10:20:49.525Z",
+      "voteMeta": {
+        "yes": "39",
+        "no": "2",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Injective Mainnet Upgrade",
+      "voting_start_time": "2022-08-28T01:28:58.475Z",
+      "voting_end_time": "2022-09-01T01:28:58.475Z",
+      "voteMeta": {
+        "yes": "64",
+        "no": "2",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epochs ended on 12 July 2022 and 9 August 2022",
+      "voting_start_time": "2022-08-22T14:54:28.085Z",
+      "voting_end_time": "2022-08-26T14:54:28.085Z",
+      "voteMeta": {
+        "yes": "42",
+        "no": "1",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Upload CW3 Fixed Multisig",
+      "voting_start_time": "2022-08-18T23:41:34.998Z",
+      "voting_end_time": "2022-08-22T23:41:34.998Z",
+      "voteMeta": {
+        "yes": "86",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Increase Max Validator Set to 40",
+      "voting_start_time": "2022-08-16T15:33:43.317Z",
+      "voting_end_time": "2022-08-20T15:33:43.317Z",
+      "voteMeta": {
+        "yes": "55",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "USDC/USDT Spot Market Launch",
+      "voting_start_time": "2022-08-09T21:13:48.921Z",
+      "voting_end_time": "2022-08-13T21:13:48.921Z",
+      "voteMeta": {
+        "yes": "36",
+        "no": "1",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epochs ended on 17 May 2022 and 14 June 2022",
+      "voting_start_time": "2022-07-26T00:40:06.252Z",
+      "voting_end_time": "2022-07-30T00:40:06.252Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": "2",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Adjust Fee Discount Tiers Threshold And Maker Discount",
+      "voting_start_time": "2022-07-18T09:31:18.738Z",
+      "voting_end_time": "2022-07-22T09:31:18.738Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "AXS/USDT Update",
+      "voting_start_time": "2022-07-14T03:31:10.486Z",
+      "voting_end_time": "2022-07-18T03:31:10.486Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": "2",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Trading fee and Trade & Earn multiplier changes",
+      "voting_start_time": "2022-07-08T13:08:21.516Z",
+      "voting_end_time": "2022-07-12T13:08:21.516Z",
+      "voteMeta": {
+        "yes": "33",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Dexterium grant proposal",
+      "voting_start_time": "2022-07-02T06:11:10.505Z",
+      "voting_end_time": "2022-07-06T06:11:10.505Z",
+      "voteMeta": {
+        "yes": "34",
+        "no": "11",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended June 22, 2022 (UTC)",
+      "voting_start_time": "2022-07-01T21:21:29.172Z",
+      "voting_end_time": "2022-07-05T21:21:29.172Z",
+      "voteMeta": {
+        "yes": "44",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Injective Mainnet Upgrade",
+      "voting_start_time": "2022-07-01T12:16:19.521Z",
+      "voting_end_time": "2022-07-05T12:16:19.521Z",
+      "voteMeta": {
+        "yes": "61",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epochs ended on 17 May 2022 and 14 June 2022",
+      "voting_start_time": "2022-06-25T10:25:26.405Z",
+      "voting_end_time": "2022-06-29T10:25:26.405Z",
+      "voteMeta": {
+        "yes": "22",
+        "no": "2",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended June 15, 2022 (UTC)",
+      "voting_start_time": "2022-06-24T13:00:39.022Z",
+      "voting_end_time": "2022-06-28T13:00:39.022Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Injective Join Cosmoverse 2022 as a Co-Lead Sponsor",
+      "voting_start_time": "2022-06-20T22:29:28.968Z",
+      "voting_end_time": "2022-06-24T22:29:28.968Z",
+      "voteMeta": {
+        "yes": "35",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended June 8, 2022 (UTC)",
+      "voting_start_time": "2022-06-17T19:05:03.526Z",
+      "voting_end_time": "2022-06-21T19:05:03.526Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended June 1, 2022 (UTC)",
+      "voting_start_time": "2022-06-10T02:48:29.571Z",
+      "voting_end_time": "2022-06-14T02:48:29.571Z",
+      "voteMeta": {
+        "yes": "17",
+        "no": "1",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epochs ended on 22 Feb 2022 and 17 May 2022",
+      "voting_start_time": "2022-06-10T03:25:04.578Z",
+      "voting_end_time": "2022-06-14T03:25:04.578Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": "1",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended May 25, 2022 (UTC)",
+      "voting_start_time": "2022-06-03T13:47:16.248Z",
+      "voting_end_time": "2022-06-07T13:47:16.248Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": "1",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended May 18, 2022 (UTC)",
+      "voting_start_time": "2022-05-27T14:55:04.674Z",
+      "voting_end_time": "2022-05-31T14:55:04.674Z",
+      "voteMeta": {
+        "yes": "18",
+        "no": "1",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended May 11, 2022 (UTC)",
+      "voting_start_time": "2022-05-20T08:14:09.234Z",
+      "voting_end_time": "2022-05-24T08:14:09.234Z",
+      "voteMeta": {
+        "yes": "19",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Update LUNA trading pairs tick size",
+      "voting_start_time": "2022-05-17T10:37:32.346Z",
+      "voting_end_time": "2022-05-21T10:37:32.346Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended May 4, 2022 (UTC)",
+      "voting_start_time": "2022-05-14T08:26:30.623Z",
+      "voting_end_time": "2022-05-18T08:26:30.623Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Trade and Earn Reward Restructure for Terra and Injective Ecosystem Builders",
+      "voting_start_time": "2022-05-13T01:45:52.582Z",
+      "voting_end_time": "2022-05-17T01:45:52.582Z",
+      "voteMeta": {
+        "yes": "40",
+        "no": "4",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Launch SOL/USDT PERP",
+      "voting_start_time": "2022-05-10T15:37:34.490Z",
+      "voting_end_time": "2022-05-14T15:37:34.490Z",
+      "voteMeta": {
+        "yes": "31",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended April 27, 2022 (UTC)",
+      "voting_start_time": "2022-05-07T06:18:47.612Z",
+      "voting_end_time": "2022-05-11T06:18:47.612Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Launch OSMO/UST PERP",
+      "voting_start_time": "2022-05-02T21:36:53.542Z",
+      "voting_end_time": "2022-05-06T21:36:53.542Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Update Band IBC Price Feed Oracle",
+      "voting_start_time": "2022-05-02T16:19:56.986Z",
+      "voting_end_time": "2022-05-06T16:19:56.986Z",
+      "voteMeta": {
+        "yes": "22",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Launch XPRT/USDT",
+      "voting_start_time": "2022-04-28T19:22:47.689Z",
+      "voting_end_time": "2022-05-02T19:22:47.689Z",
+      "voteMeta": {
+        "yes": "48",
+        "no": 0,
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended April 20, 2022 (UTC)",
+      "voting_start_time": "2022-04-28T09:40:27.194Z",
+      "voting_end_time": "2022-05-02T09:40:27.194Z",
+      "voteMeta": {
+        "yes": "22",
+        "no": 0,
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Update Band IBC Price Feed Oracle",
+      "voting_start_time": "2022-04-28T19:23:19.733Z",
+      "voting_end_time": "2022-05-02T19:23:19.733Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": 0,
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epochs ended on 25 Jan 2022 and 19 April 2022",
+      "voting_start_time": "2022-04-27T07:40:31.764Z",
+      "voting_end_time": "2022-05-01T07:40:31.764Z",
+      "voteMeta": {
+        "yes": "13",
+        "no": 0,
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended April 13, 2022 (UTC)",
+      "voting_start_time": "2022-04-22T16:58:59.254Z",
+      "voting_end_time": "2022-04-26T16:58:59.254Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Adjust Fee Discounts",
+      "voting_start_time": "2022-04-18T11:17:28.969Z",
+      "voting_end_time": "2022-04-22T11:17:28.969Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epochs ended on 28 Dec 2021 and 22 March 2022",
+      "voting_start_time": "2022-04-15T14:01:35.200Z",
+      "voting_end_time": "2022-04-19T14:01:35.200Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": "3",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended April 6, 2022 (UTC)",
+      "voting_start_time": "2022-04-15T12:02:20.466Z",
+      "voting_end_time": "2022-04-19T12:02:20.466Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": "2",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "BAYC/WETH PERP Market Launch",
+      "voting_start_time": "2022-04-14T20:58:39.468Z",
+      "voting_end_time": "2022-04-18T20:58:39.468Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": "2",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Injective Protocol Mainnet Upgrade",
+      "voting_start_time": "2022-04-06T22:11:34.495Z",
+      "voting_end_time": "2022-04-10T22:11:34.495Z",
+      "voteMeta": {
+        "yes": "48",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended March 30, 2022 (UTC)",
+      "voting_start_time": "2022-04-06T22:13:25.499Z",
+      "voting_end_time": "2022-04-10T22:13:25.499Z",
+      "voteMeta": {
+        "yes": "39",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended March 23, 2022 (UTC)",
+      "voting_start_time": "2022-03-31T18:11:46.368Z",
+      "voting_end_time": "2022-04-04T18:11:46.368Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Launch STX/USDT PERP",
+      "voting_start_time": "2022-03-30T18:59:43.936Z",
+      "voting_end_time": "2022-04-03T18:59:43.936Z",
+      "voteMeta": {
+        "yes": "32",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Trade & Earn Rewards Rate and APE/USDT market adjustment",
+      "voting_start_time": "2022-03-28T19:28:27.157Z",
+      "voting_end_time": "2022-04-01T19:28:27.157Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": "1",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Adjust Chain Parameters",
+      "voting_start_time": "2022-03-23T11:07:17.990Z",
+      "voting_end_time": "2022-03-25T11:07:17.990Z",
+      "voteMeta": {
+        "yes": "17",
+        "no": "21",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Adjust funding rate limit",
+      "voting_start_time": "2022-03-21T14:39:05.288Z",
+      "voting_end_time": "2022-03-23T14:39:05.288Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": "4",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epochs ended on 25 Jan 2022 and 22 Feb 2022",
+      "voting_start_time": "2022-03-21T14:20:40.352Z",
+      "voting_end_time": "2022-03-23T14:20:40.352Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended March 16, 2022 (UTC)",
+      "voting_start_time": "2022-03-20T17:16:35.046Z",
+      "voting_end_time": "2022-03-22T17:16:35.046Z",
+      "voteMeta": {
+        "yes": "27",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards for epochs ended on 25 Jan 2022 and 22 Feb 2022",
+      "voting_start_time": "2022-03-19T00:20:12.751Z",
+      "voting_end_time": "2022-03-21T00:20:12.751Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Trade and Earn epoch 15 rewards disbursement",
+      "voting_start_time": "2022-03-14T14:23:13.328Z",
+      "voting_end_time": "2022-03-16T14:23:13.328Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended March 9, 2022 (UTC)",
+      "voting_start_time": "2022-03-13T16:41:41.764Z",
+      "voting_end_time": "2022-03-15T16:41:41.764Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended March 2, 2022 (UTC)",
+      "voting_start_time": "2022-03-06T22:55:21.887Z",
+      "voting_end_time": "2022-03-08T22:55:21.887Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Injective Astro Program Restructure",
+      "voting_start_time": "2022-03-05T20:07:56.542Z",
+      "voting_end_time": "2022-03-07T20:07:56.542Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "BAYC NFT Price Feed Oracle Integration from Burnt Finance",
+      "voting_start_time": "2022-02-23T17:41:07.188Z",
+      "voting_end_time": "2022-02-25T17:41:07.188Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": "2",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Staking Param Change",
+      "voting_start_time": "2022-02-21T02:22:06.666Z",
+      "voting_end_time": "2022-02-23T02:22:06.666Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended February 16, 2022 (UTC)",
+      "voting_start_time": "2022-02-20T21:50:20.457Z",
+      "voting_end_time": "2022-02-22T21:50:20.457Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended February 9, 2022 (UTC)",
+      "voting_start_time": "2022-02-13T18:41:04.927Z",
+      "voting_end_time": "2022-02-15T18:41:04.927Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended February 2, 2022 (UTC)",
+      "voting_start_time": "2022-02-06T21:42:37.585Z",
+      "voting_end_time": "2022-02-08T21:42:37.585Z",
+      "voteMeta": {
+        "yes": "17",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "ATOM/USDT PERP Market Launch",
+      "voting_start_time": "2022-02-05T22:00:33.371Z",
+      "voting_end_time": "2022-02-07T22:00:33.371Z",
+      "voteMeta": {
+        "yes": "32",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Injective x Chihuahua Listing Proposal to List Native HUAHUA/USDT Spot pair.",
+      "voting_start_time": "2022-02-02T19:02:09.952Z",
+      "voting_end_time": "2022-02-04T19:02:09.952Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": "3",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Trade & Earn rewards points adjustment for epoch ended January 26, 2022 (UTC)",
+      "voting_start_time": "2022-01-30T17:52:16.488Z",
+      "voting_end_time": "2022-02-01T17:52:16.488Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": "4",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Update Band IBC price feed oracle request for SCRT & STX",
+      "voting_start_time": "2022-01-28T15:46:56.758Z",
+      "voting_end_time": "2022-01-30T15:46:56.758Z",
+      "voteMeta": {
+        "yes": "31",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Exclude market makers from Trade and Earn rewards",
+      "voting_start_time": "2022-01-28T09:28:48.773Z",
+      "voting_end_time": "2022-01-30T09:28:48.773Z",
+      "voteMeta": {
+        "yes": "31",
+        "no": "12",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Injective Protocol Mainnet Upgrade",
+      "voting_start_time": "2022-01-23T09:34:20.489Z",
+      "voting_end_time": "2022-01-25T09:34:20.489Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Re-enable the ETH/USDT PERP Market",
+      "voting_start_time": "2022-01-22T22:01:31.997Z",
+      "voting_end_time": "2022-01-24T22:01:31.997Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Proposal to refund burned INJ of proposal #94",
+      "voting_start_time": "2022-01-19T22:03:40.369Z",
+      "voting_end_time": "2022-01-21T22:03:40.369Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": "3",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "INJ/USDT PERP Market Parameters Update",
+      "voting_start_time": "2022-01-13T14:24:33.338Z",
+      "voting_end_time": "2022-01-15T14:24:33.338Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Update Fee Discounts VIP Tiers",
+      "voting_start_time": "2022-01-08T17:34:45.381Z",
+      "voting_end_time": "2022-01-10T17:34:45.381Z",
+      "voteMeta": {
+        "yes": "13",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Update staking requirement for Trade & Earn rewards",
+      "voting_start_time": "2022-01-08T17:34:17.587Z",
+      "voting_end_time": "2022-01-10T17:34:17.587Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Trading Reward Campaign Boost Update",
+      "voting_start_time": "2022-01-06T21:02:16.844Z",
+      "voting_end_time": "2022-01-08T21:02:16.844Z",
+      "voteMeta": {
+        "yes": "9",
+        "no": "2",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "INJ/USDT PERP Market Parameters Update",
+      "voting_start_time": "2022-01-06T04:01:02.646Z",
+      "voting_end_time": "2022-01-08T04:01:02.646Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Disbursement of DMM rewards (as at 28 Dec 2021)",
+      "voting_start_time": "2022-01-05T11:56:28.924Z",
+      "voting_end_time": "2022-01-07T11:56:28.924Z",
+      "voteMeta": {
+        "yes": "10",
+        "no": "4",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Instant Listing Spot Fee Update",
+      "voting_start_time": "2022-01-04T22:23:58.967Z",
+      "voting_end_time": "2022-01-06T22:23:58.967Z",
+      "voteMeta": {
+        "yes": "18",
+        "no": "2",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Band Oracle Incident Grants Part 2",
+      "voting_start_time": "2022-01-04T09:00:21.934Z",
+      "voting_end_time": "2022-01-06T09:00:21.934Z",
+      "voteMeta": {
+        "yes": "18",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Add Circulating Supply and Total Supply (Max Supply Details) in the Injective DEX",
+      "voting_start_time": "2021-12-30T13:27:31.672Z",
+      "voting_end_time": "2022-01-01T13:27:31.672Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Injective Protocol Canonical Chain Enhancement",
+      "voting_start_time": "2021-12-27T21:13:22.427Z",
+      "voting_end_time": "2021-12-29T21:13:22.427Z",
+      "voteMeta": {
+        "yes": "50",
+        "no": "2",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "INJ/UST",
+      "voting_start_time": "2021-12-28T12:52:08.661Z",
+      "voting_end_time": "2021-12-30T12:52:08.661Z",
+      "voteMeta": {
+        "yes": "27",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Instant Listing Spot Fee Update",
+      "voting_start_time": "2021-12-27T16:18:53.528Z",
+      "voting_end_time": "2021-12-29T16:18:53.528Z",
+      "voteMeta": {
+        "yes": "36",
+        "no": "3",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Trading Reward Campaign Boost Update",
+      "voting_start_time": "2021-12-25T17:53:25.764Z",
+      "voting_end_time": "2021-12-27T17:53:25.764Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": "2",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "UST/USDT quantity tick size update",
+      "voting_start_time": "2021-12-20T19:51:52.294Z",
+      "voting_end_time": "2021-12-22T19:51:52.294Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Band Oracle Incident Grants Part 1",
+      "voting_start_time": "2021-12-18T06:00:10.165Z",
+      "voting_end_time": "2021-12-20T06:00:10.165Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Re-enable and Update ETH/USDT PERP Market",
+      "voting_start_time": "2021-12-17T20:37:23.065Z",
+      "voting_end_time": "2021-12-19T20:37:23.065Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Trading Reward Campaign Boost Update",
+      "voting_start_time": "2021-12-17T19:13:05.670Z",
+      "voting_end_time": "2021-12-19T19:13:05.670Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": "4",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Injective x Terra Listing Proposal to List Native LUNA/UST Spot, UST/USDT Spot and LUNA/UST Perpetual Pairs",
+      "voting_start_time": "2021-12-07T01:24:29.149Z",
+      "voting_end_time": "2021-12-09T01:24:29.149Z",
+      "voteMeta": {
+        "yes": "49",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "BTC/USDT PERP Oracle Price Feed Update",
+      "voting_start_time": "2021-12-04T07:05:17.493Z",
+      "voting_end_time": "2021-12-06T07:05:17.493Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "ETH/USDT PERP Market Status Update",
+      "voting_start_time": "2021-12-04T03:42:49.817Z",
+      "voting_end_time": "2021-12-06T03:42:49.817Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Trading Reward Campaign Boost Update",
+      "voting_start_time": "2021-12-03T12:54:49.427Z",
+      "voting_end_time": "2021-12-05T12:54:49.427Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Add Terra Ecosystem Price Feeds",
+      "voting_start_time": "2021-12-02T16:02:17.727Z",
+      "voting_end_time": "2021-12-04T16:02:17.727Z",
+      "voteMeta": {
+        "yes": "43",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "INJ/USDT PERP Market Proposal",
+      "voting_start_time": "2021-11-24T20:22:11.458Z",
+      "voting_end_time": "2021-11-26T20:22:11.458Z",
+      "voteMeta": {
+        "yes": "44",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "ETH/USDT PERP Launch, BNB/USDT PERP Launch and Rewards Rate Update",
+      "voting_start_time": "2021-11-20T07:11:33.296Z",
+      "voting_end_time": "2021-11-22T07:11:33.296Z",
+      "voteMeta": {
+        "yes": "40",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "ATOM/USDT Spot Market Proposal ",
+      "voting_start_time": "2021-11-18T08:32:09.883Z",
+      "voting_end_time": "2021-11-20T08:32:09.883Z",
+      "voteMeta": {
+        "yes": "48",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "ATOM/USDT Sport Market Launch",
+      "voting_start_time": "2021-11-18T18:30:18.336Z",
+      "voting_end_time": "2021-11-20T18:30:18.336Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": "6",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Injective Astro Liquidity Incentive Program",
+      "voting_start_time": "2021-11-15T07:57:32.443Z",
+      "voting_end_time": "2021-11-17T07:57:32.443Z",
+      "voteMeta": {
+        "yes": "47",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Injective Protocol Canonical Chain Enhancement",
+      "voting_start_time": "2021-11-12T22:23:16.791Z",
+      "voting_end_time": "2021-11-14T22:23:16.791Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Injective VIP Fee Discount Program",
+      "voting_start_time": "2021-11-12T22:20:02.960Z",
+      "voting_end_time": "2021-11-14T22:20:02.960Z",
+      "voteMeta": {
+        "yes": "27",
+        "no": "2",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Launch of The Dedicated Market Making Program",
+      "voting_start_time": "2021-11-11T18:22:18.302Z",
+      "voting_end_time": "2021-11-13T18:22:18.302Z",
+      "voteMeta": {
+        "yes": "48",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Enable Band IBC with a request interval of 10 blocks",
+      "voting_start_time": "2021-11-11T17:29:56.971Z",
+      "voting_end_time": "2021-11-13T17:29:56.971Z",
+      "voteMeta": {
+        "yes": "46",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Authorize Band IBC Oracle Request",
+      "voting_start_time": "2021-11-10T01:45:16.207Z",
+      "voting_end_time": "2021-11-12T01:45:16.207Z",
+      "voteMeta": {
+        "yes": "50",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Injective Protocol Canonical Chain Upgrade",
+      "voting_start_time": "2021-11-06T10:30:58.903Z",
+      "voting_end_time": "2021-11-08T10:30:58.903Z",
+      "voteMeta": {
+        "yes": "77",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "IBC Connection Param Change",
+      "voting_start_time": "2021-10-25T10:02:44.724Z",
+      "voting_end_time": "2021-10-27T10:02:44.724Z",
+      "voteMeta": {
+        "yes": "18",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Stargazers Ambassador Program Launch",
+      "voting_start_time": "2021-10-12T08:04:34.809Z",
+      "voting_end_time": "2021-10-14T08:04:34.809Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": "2",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "IBC Transfer Param Change",
+      "voting_start_time": "2021-10-01T17:09:49.051Z",
+      "voting_end_time": "2021-10-03T17:09:49.051Z",
+      "voteMeta": {
+        "yes": "33",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Update Mint and Distribution Module Params",
+      "voting_start_time": "2021-09-17T01:15:06.237Z",
+      "voting_end_time": "2021-09-19T01:15:06.237Z",
+      "voteMeta": {
+        "yes": "27",
+        "no": "4",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Update AXS/USDT spot market trading fee",
+      "voting_start_time": "2021-09-11T13:36:38.563Z",
+      "voting_end_time": "2021-09-13T13:36:38.563Z",
+      "voteMeta": {
+        "yes": "34",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "AXS/USDT Spot Market Launch",
+      "voting_start_time": "2021-09-08T09:39:06.952Z",
+      "voting_end_time": "2021-09-10T09:39:06.952Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Enable Derivatives Exchange",
+      "voting_start_time": "2021-08-30T15:56:55.131Z",
+      "voting_end_time": "2021-09-01T15:56:55.131Z",
+      "voteMeta": {
+        "yes": "61",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Launch the Injective Stargazers Ambassador Program",
+      "voting_start_time": "2021-08-25T15:55:12.201Z",
+      "voting_end_time": "2021-08-27T15:55:12.201Z",
+      "voteMeta": {
+        "yes": "34",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Launch the Injective Stargazers Ambassador Program",
+      "voting_start_time": "2021-08-21T08:26:57.267Z",
+      "voting_end_time": "2021-08-23T08:26:57.267Z",
+      "voteMeta": {
+        "yes": "22",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "WBTC/USDC spot market params update",
+      "voting_start_time": "2021-08-13T18:53:24.932Z",
+      "voting_end_time": "2021-08-15T18:53:24.932Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "WBTC/USDC Spot Market Proposal ",
+      "voting_start_time": "2021-08-09T11:49:38.654Z",
+      "voting_end_time": "2021-08-11T11:49:38.654Z",
+      "voteMeta": {
+        "yes": "35",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "BTC/USDT PERP market proposal",
+      "voting_start_time": "2021-08-07T09:17:35.299Z",
+      "voting_end_time": "2021-08-09T09:17:35.299Z",
+      "voteMeta": {
+        "yes": "39",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "QNT/USDT Spot Market Proposal",
+      "voting_start_time": "2021-07-28T13:02:33.218Z",
+      "voting_end_time": "2021-07-30T13:02:33.218Z",
+      "voteMeta": {
+        "yes": "17",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "SNX - USDT Spot Market Proposal",
+      "voting_start_time": "2021-07-24T21:28:58.060Z",
+      "voting_end_time": "2021-07-26T21:28:58.060Z",
+      "voteMeta": {
+        "yes": "27",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "BUSD/USDC Spot Market",
+      "voting_start_time": "2021-07-19T07:47:53.416Z",
+      "voting_end_time": "2021-07-21T07:47:53.416Z",
+      "voteMeta": {
+        "yes": "15",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Pause QNT/USDC spot market",
+      "voting_start_time": "2021-07-15T19:41:34.690Z",
+      "voting_end_time": "2021-07-17T19:41:34.690Z",
+      "voteMeta": {
+        "yes": "17",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Enable Spot Exchange",
+      "voting_start_time": "2021-07-14T20:22:21.591Z",
+      "voting_end_time": "2021-07-16T20:22:21.591Z",
+      "voteMeta": {
+        "yes": "88",
+        "no": "3",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "LINK/USDT Spot Market",
+      "voting_start_time": "2021-07-14T04:00:35.888Z",
+      "voting_end_time": "2021-07-16T04:00:35.888Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "GRT/USDT Spot Market",
+      "voting_start_time": "2021-07-14T12:43:33.542Z",
+      "voting_end_time": "2021-07-16T12:43:33.542Z",
+      "voteMeta": {
+        "yes": "18",
+        "no": "1",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "SUSHI/USDT Spot Market",
+      "voting_start_time": "2021-07-14T12:47:34.655Z",
+      "voting_end_time": "2021-07-16T12:47:34.655Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "QNT/USDT Spot Market",
+      "voting_start_time": "2021-07-14T08:07:20.486Z",
+      "voting_end_time": "2021-07-16T08:07:20.486Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": "2",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "AAVE/USDT Spot Market",
+      "voting_start_time": "2021-07-14T04:09:59.483Z",
+      "voting_end_time": "2021-07-16T04:09:59.483Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "WETH/USDT Spot Market",
+      "voting_start_time": "2021-07-14T04:06:54.802Z",
+      "voting_end_time": "2021-07-16T04:06:54.802Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "UNI - USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-12T15:20:29.321Z",
+      "voting_end_time": "2021-07-14T15:20:29.321Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "MATIC - USDT Spot Market Proposal",
+      "voting_start_time": "2021-07-12T09:09:40.791Z",
+      "voting_end_time": "2021-07-14T09:09:40.791Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "INJ - USDT Spot Market Proposal",
+      "voting_start_time": "2021-07-11T09:54:36.019Z",
+      "voting_end_time": "2021-07-13T09:54:36.019Z",
+      "voteMeta": {
+        "yes": "35",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "CHZ - USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-10T01:44:51.391Z",
+      "voting_end_time": "2021-07-12T01:44:51.391Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": "3",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "GRT USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-09T18:15:13.302Z",
+      "voting_end_time": "2021-07-11T18:15:13.302Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "DEFI5 - USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-09T17:06:53.677Z",
+      "voting_end_time": "2021-07-11T17:06:53.677Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": "2",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "STARS/USDC Spot Market",
+      "voting_start_time": "2021-07-09T18:16:48.547Z",
+      "voting_end_time": "2021-07-11T18:16:48.547Z",
+      "voteMeta": {
+        "yes": "12",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "OCEAN USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-09T17:39:07.820Z",
+      "voting_end_time": "2021-07-11T17:39:07.820Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "UTK - USDC Spot Market",
+      "voting_start_time": "2021-07-09T10:48:12.859Z",
+      "voting_end_time": "2021-07-11T10:48:12.859Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "RUNE - USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-09T17:05:44.554Z",
+      "voting_end_time": "2021-07-11T17:05:44.554Z",
+      "voteMeta": {
+        "yes": "18",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "SWAP / USDC Spot Market",
+      "voting_start_time": "2021-07-08T23:31:42.052Z",
+      "voting_end_time": "2021-07-10T23:31:42.052Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "1 INCH - USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-09T09:07:50.140Z",
+      "voting_end_time": "2021-07-11T09:07:50.140Z",
+      "voteMeta": {
+        "yes": "18",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "ENJIN - USDC Spot Market",
+      "voting_start_time": "2021-07-09T09:02:03.917Z",
+      "voting_end_time": "2021-07-11T09:02:03.917Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "FTM USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-08T12:03:47.820Z",
+      "voting_end_time": "2021-07-10T12:03:47.820Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": "8",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "PAXG - USDC Spot Market",
+      "voting_start_time": "2021-07-08T07:58:07.055Z",
+      "voting_end_time": "2021-07-10T07:58:07.055Z",
+      "voteMeta": {
+        "yes": "21",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "SUSHI/USDC Spot Market",
+      "voting_start_time": "2021-07-07T18:14:37.941Z",
+      "voting_end_time": "2021-07-09T18:14:37.941Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "QNT USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-07T18:04:40.585Z",
+      "voting_end_time": "2021-07-09T18:04:40.585Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "LINK USDC Spot Market",
+      "voting_start_time": "2021-07-07T10:42:48.827Z",
+      "voting_end_time": "2021-07-09T10:42:48.827Z",
+      "voteMeta": {
+        "yes": "27",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "AAVE USDC Spot Market",
+      "voting_start_time": "2021-07-07T16:14:16.791Z",
+      "voting_end_time": "2021-07-09T16:14:16.791Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "MATIC USDC Spot Market",
+      "voting_start_time": "2021-07-07T17:04:32.310Z",
+      "voting_end_time": "2021-07-09T17:04:32.310Z",
+      "voteMeta": {
+        "yes": "19",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "UNI/USDT Spot Market",
+      "voting_start_time": "2021-07-07T17:08:29.377Z",
+      "voting_end_time": "2021-07-09T17:08:29.377Z",
+      "voteMeta": {
+        "yes": "13",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "USDT/USDC Spot Market",
+      "voting_start_time": "2021-07-06T08:55:49.546Z",
+      "voting_end_time": "2021-07-08T08:55:49.546Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "LINK/USDC Spot Proposal",
+      "voting_start_time": "2021-07-07T09:01:26.414Z",
+      "voting_end_time": "2021-07-09T09:01:26.414Z",
+      "voteMeta": {
+        "yes": "7",
+        "no": "3",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "USDT/USDC spot market",
+      "voting_start_time": "2021-07-05T16:28:09.331Z",
+      "voting_end_time": "2021-07-07T16:28:09.331Z",
+      "voteMeta": {
+        "yes": "19",
+        "no": "3",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "INJ/USDC",
+      "voting_start_time": "2021-07-05T16:51:15.634Z",
+      "voting_end_time": "2021-07-07T16:51:15.634Z",
+      "voteMeta": {
+        "yes": "42",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "WETH USDC Spot Market",
+      "voting_start_time": "2021-07-05T01:58:12.446Z",
+      "voting_end_time": "2021-07-07T01:58:12.446Z",
+      "voteMeta": {
+        "yes": "33",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "wETH/USDC Spot Market Proposal",
+      "voting_start_time": "2021-07-02T14:51:37.784Z",
+      "voting_end_time": "2021-07-04T14:51:37.784Z",
+      "voteMeta": {
+        "yes": "45",
+        "no": "1",
+        "abstain": 0
+      }
+    }
+  ]
+}

@@ -1,0 +1,434 @@
+{
+  "data": [
+    {
+      "title": "XPRT Liquidity Bootstrapping (XLB) incentives on Dexter and Osmosis - November 2023",
+      "voting_start_time": "2023-11-02T16:18:49.910Z",
+      "voting_end_time": "2023-11-07T16:18:49.910Z",
+      "voteMeta": {
+        "yes": "348",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Allowlist all messages via interchain host module",
+      "voting_start_time": "2023-10-29T06:48:58.504Z",
+      "voting_end_time": "2023-11-03T06:48:58.504Z",
+      "voteMeta": {
+        "yes": "349",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "/cosmos.upgrade.v1beta1.MsgSoftwareUpgrade",
+      "voting_start_time": "2023-10-27T17:32:46.733Z",
+      "voting_end_time": "2023-11-01T17:32:46.733Z",
+      "voteMeta": {
+        "yes": "360",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "/cosmos.distribution.v1beta1.MsgCommunityPoolSpend",
+      "voting_start_time": "2023-10-25T16:19:20.801Z",
+      "voting_end_time": "2023-10-30T16:19:20.801Z",
+      "voteMeta": {
+        "yes": "248",
+        "no": "2",
+        "abstain": "36"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅",
+      "voting_start_time": "2023-10-19T00:17:49.938Z",
+      "voting_end_time": "2023-10-24T00:17:49.938Z",
+      "voteMeta": {
+        "yes": "3",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "/pstake.liquidstakeibc.v1beta1.MsgUpdateParams",
+      "voting_start_time": "2023-10-16T10:01:59.231Z",
+      "voting_end_time": "2023-10-21T10:01:59.231Z",
+      "voteMeta": {
+        "yes": "241",
+        "no": "2",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "/cosmos.gov.v1.MsgUpdateParams",
+      "voting_start_time": "2023-10-14T16:46:58.766Z",
+      "voting_end_time": "2023-10-19T16:46:58.766Z",
+      "voteMeta": {
+        "yes": "269",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "💎Atom x Celestia Airdrop ✅",
+      "voting_start_time": "2023-10-11T02:09:58.772Z",
+      "voting_end_time": "2023-10-16T02:09:58.772Z",
+      "voteMeta": {
+        "yes": "4",
+        "no": "3",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "💎XPRT Airdrop ✅ ",
+      "voting_start_time": "2023-10-05T01:12:59.663Z",
+      "voting_end_time": "2023-10-10T01:12:59.663Z",
+      "voteMeta": {
+        "yes": "3",
+        "no": "24",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "XPRT Liquidity Bootstrapping incentives October 2023",
+      "voting_start_time": "2023-10-03T20:56:11.393Z",
+      "voting_end_time": "2023-10-08T20:56:11.393Z",
+      "voteMeta": {
+        "yes": "273",
+        "no": "1",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅ ",
+      "voting_start_time": "2023-10-02T15:16:29.839Z",
+      "voting_end_time": "2023-10-07T15:16:29.839Z",
+      "voteMeta": {
+        "yes": "14",
+        "no": "23",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅",
+      "voting_start_time": "2023-09-29T15:10:55.588Z",
+      "voting_end_time": "2023-10-04T15:10:55.588Z",
+      "voteMeta": {
+        "yes": "13",
+        "no": "13",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Re-enable IBC Client to Acrechain",
+      "voting_start_time": "2023-09-18T05:33:49.532Z",
+      "voting_end_time": "2023-09-23T05:33:49.532Z",
+      "voteMeta": {
+        "yes": "283",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Upgrade v9.2.0 PersistenceCore",
+      "voting_start_time": "2023-09-15T10:21:08.666Z",
+      "voting_end_time": "2023-09-20T10:21:08.666Z",
+      "voteMeta": {
+        "yes": "333",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "/cosmos.upgrade.v1beta1.MsgSoftwareUpgrade",
+      "voting_start_time": "2023-09-07T19:01:11.530Z",
+      "voting_end_time": "2023-09-12T19:01:11.530Z",
+      "voteMeta": {
+        "yes": "311",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "PersistenceCore v8 Pacaya Upgrade",
+      "voting_start_time": "2023-08-30T11:08:40.112Z",
+      "voting_end_time": "2023-09-04T11:08:40.112Z",
+      "voteMeta": {
+        "yes": "346",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Next leg of XPRT Liquidity Bootstrapping (XLB) incentives on Dexter and Osmosis",
+      "voting_start_time": "2023-08-23T16:18:33.869Z",
+      "voting_end_time": "2023-08-28T16:18:33.869Z",
+      "voteMeta": {
+        "yes": "333",
+        "no": "3",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Create and bootstrap PSTAKE/XPRT pool on Dexter with Persistence Community Owned Liquidity",
+      "voting_start_time": "2023-08-16T07:11:06.732Z",
+      "voting_end_time": "2023-08-21T07:11:06.732Z",
+      "voteMeta": {
+        "yes": "325",
+        "no": "1",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Change in Halving BlockHeight Parameter",
+      "voting_start_time": "2023-06-07T14:11:47.566Z",
+      "voting_end_time": "2023-06-12T14:11:47.566Z",
+      "voteMeta": {
+        "yes": "544",
+        "no": 0,
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Additional incentives for XPRT liquidity on Osmosis",
+      "voting_start_time": "2023-06-02T21:53:33.982Z",
+      "voting_end_time": "2023-06-07T21:53:33.982Z",
+      "voteMeta": {
+        "yes": "524",
+        "no": "4",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Change in Governance Parameters",
+      "voting_start_time": "2023-05-25T13:47:35.684Z",
+      "voting_end_time": "2023-06-01T13:47:35.684Z",
+      "voteMeta": {
+        "yes": "632",
+        "no": "6",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Update pSTAKE on Cosmos revenue address",
+      "voting_start_time": "2023-05-25T07:02:53.110Z",
+      "voting_end_time": "2023-06-01T07:02:53.110Z",
+      "voteMeta": {
+        "yes": "632",
+        "no": 0,
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Increase stkATOM Instant Redemption fee from 0.5% to 1%",
+      "voting_start_time": "2023-05-25T06:58:14.866Z",
+      "voting_end_time": "2023-06-01T06:58:14.866Z",
+      "voteMeta": {
+        "yes": "607",
+        "no": "5",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Change of proposed incentives for ATOM/XPRT-pool on Dexter from 45 to 90 days",
+      "voting_start_time": "2023-05-24T12:24:22.281Z",
+      "voting_end_time": "2023-05-31T12:24:22.281Z",
+      "voteMeta": {
+        "yes": "606",
+        "no": "3",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "Change in Inflation Parameters",
+      "voting_start_time": "2023-05-05T16:48:00.726Z",
+      "voting_end_time": "2023-05-12T16:48:00.726Z",
+      "voteMeta": {
+        "yes": "860",
+        "no": "9",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "Phase 1 Incentives Distribution for bootstrapping XPRT liquidity",
+      "voting_start_time": "2023-04-06T11:11:26.964Z",
+      "voting_end_time": "2023-04-13T11:11:26.964Z",
+      "voteMeta": {
+        "yes": "862",
+        "no": "4",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Allocate XPRT Incentives to bootstrap deeper XPRT liquidity",
+      "voting_start_time": "2023-03-22T18:56:20.276Z",
+      "voting_end_time": "2023-03-29T18:56:20.276Z",
+      "voteMeta": {
+        "yes": "852",
+        "no": "3",
+        "abstain": "16"
+      }
+    },
+    {
+      "title": "Dexter: Update Instantiate Config of LP Token and Pool Codes",
+      "voting_start_time": "2023-03-15T17:48:57.493Z",
+      "voting_end_time": "2023-03-22T17:48:57.493Z",
+      "voteMeta": {
+        "yes": "892",
+        "no": "4",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "Upgrade v7 PersistenceCore",
+      "voting_start_time": "2023-02-18T09:50:59.574Z",
+      "voting_end_time": "2023-02-25T09:50:59.574Z",
+      "voteMeta": {
+        "yes": "1183",
+        "no": 0,
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Increase Minimum Validator Fee to 5%",
+      "voting_start_time": "2023-02-10T11:12:46.865Z",
+      "voting_end_time": "2023-02-17T11:12:46.865Z",
+      "voteMeta": {
+        "yes": "959",
+        "no": "33",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "Parameters Change for better distribution of inflation",
+      "voting_start_time": "2023-01-24T09:00:29.870Z",
+      "voting_end_time": "2023-01-31T09:00:29.870Z",
+      "voteMeta": {
+        "yes": "1186",
+        "no": "3",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "Whitelist Dexter team's address for permissionless code storage and instantiation",
+      "voting_start_time": "2023-01-09T20:12:33.033Z",
+      "voting_end_time": "2023-01-16T20:12:33.033Z",
+      "voteMeta": {
+        "yes": "1133",
+        "no": "7",
+        "abstain": "36"
+      }
+    },
+    {
+      "title": "Grant proposal for Dexter - Interchain DEX for Yield-Generating Assets",
+      "voting_start_time": "2023-01-03T09:51:39.483Z",
+      "voting_end_time": "2023-01-10T09:51:39.483Z",
+      "voteMeta": {
+        "yes": "1129",
+        "no": "10",
+        "abstain": "94"
+      }
+    },
+    {
+      "title": "Upgrade v6 PersistenceCore",
+      "voting_start_time": "2023-01-02T18:58:50.988Z",
+      "voting_end_time": "2023-01-09T18:58:50.988Z",
+      "voteMeta": {
+        "yes": "1277",
+        "no": "2",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Signalling proposal to revert the Tombstone and Slashing from Nov 6th block #8647535 network halt and restart due to appHash mismatch event",
+      "voting_start_time": "2022-11-22T08:11:50.545Z",
+      "voting_end_time": "2022-11-29T08:11:50.545Z",
+      "voteMeta": {
+        "yes": "1325",
+        "no": "11",
+        "abstain": "44"
+      }
+    },
+    {
+      "title": "Upgrade v5 PersistenceCore",
+      "voting_start_time": "2022-11-15T18:16:52.571Z",
+      "voting_end_time": "2022-11-22T18:16:52.571Z",
+      "voteMeta": {
+        "yes": "1520",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Upgrade v4 PersistenceCore",
+      "voting_start_time": "2022-10-24T12:48:33.779Z",
+      "voting_end_time": "2022-10-31T12:48:33.779Z",
+      "voteMeta": {
+        "yes": "1840",
+        "no": "3",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "PersistenceCore v3 Upgrade",
+      "voting_start_time": "2022-08-30T09:54:51.264Z",
+      "voting_end_time": "2022-09-06T09:54:51.264Z",
+      "voteMeta": {
+        "yes": "2076",
+        "no": "1",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Increase Max validatros",
+      "voting_start_time": "2022-07-12T09:42:10.467Z",
+      "voting_end_time": "2022-07-19T09:42:10.467Z",
+      "voteMeta": {
+        "yes": "1998",
+        "no": "7",
+        "abstain": "21"
+      }
+    },
+    {
+      "title": "Decrease voting period for proposals",
+      "voting_start_time": "2022-03-09T05:17:26.000Z",
+      "voting_end_time": "2022-03-23T05:17:26.000Z",
+      "voteMeta": {
+        "yes": "3985",
+        "no": "224",
+        "abstain": "90"
+      }
+    },
+    {
+      "title": "Upgrade PersistenceCore chain to v2",
+      "voting_start_time": "2022-02-11T12:14:47.584Z",
+      "voting_end_time": "2022-02-25T12:14:47.584Z",
+      "voteMeta": {
+        "yes": "2670",
+        "no": "11",
+        "abstain": "27"
+      }
+    },
+    {
+      "title": "XPRT on Osmosis - Allocate Community Pool Funds to incentivise XPRT/UST pool liquidity providers on Osmosis",
+      "voting_start_time": "2022-01-31T18:55:01.808Z",
+      "voting_end_time": "2022-02-14T18:55:01.808Z",
+      "voteMeta": {
+        "yes": "1723",
+        "no": "40",
+        "abstain": "60"
+      }
+    },
+    {
+      "title": "Increase Persistene active validator set from 50 to 75",
+      "voting_start_time": "2021-09-13T08:57:40.559Z",
+      "voting_end_time": "2021-09-27T08:57:40.559Z",
+      "voteMeta": {
+        "yes": "444",
+        "no": "3",
+        "abstain": "1"
+      }
+    }
+  ]
+}

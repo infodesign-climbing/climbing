@@ -1,0 +1,1634 @@
+{
+  "data": [
+    {
+      "title": "Kava Rise payouts for October 2023",
+      "voting_start_time": "2023-11-09T22:49:05.281Z",
+      "voting_end_time": "2023-11-16T22:49:05.281Z",
+      "voteMeta": {
+        "yes": "304",
+        "no": "3",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Supply Funds into Kava Mint",
+      "voting_start_time": "2023-10-20T18:10:14.122Z",
+      "voting_end_time": "2023-10-27T18:10:14.122Z",
+      "voteMeta": {
+        "yes": "68",
+        "no": "153",
+        "abstain": "85"
+      }
+    },
+    {
+      "title": "Injective USDt Adoption",
+      "voting_start_time": "2023-10-19T08:35:09.159Z",
+      "voting_end_time": "2023-10-26T08:35:09.159Z",
+      "voteMeta": {
+        "yes": "338",
+        "no": "2",
+        "abstain": "22"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for September 2023",
+      "voting_start_time": "2023-10-06T17:56:31.250Z",
+      "voting_end_time": "2023-10-13T17:56:31.250Z",
+      "voteMeta": {
+        "yes": "278",
+        "no": "2",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "WAGMI Deploys on Kava",
+      "voting_start_time": "2023-10-04T15:15:48.847Z",
+      "voting_end_time": "2023-10-11T15:15:48.847Z",
+      "voteMeta": {
+        "yes": "294",
+        "no": "7",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for August 2023",
+      "voting_start_time": "2023-09-07T23:56:12.995Z",
+      "voting_end_time": "2023-09-14T23:56:12.995Z",
+      "voteMeta": {
+        "yes": "270",
+        "no": "14",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "Supply Funds into Kava Mint",
+      "voting_start_time": "2023-09-07T00:34:47.642Z",
+      "voting_end_time": "2023-09-14T00:34:47.642Z",
+      "voteMeta": {
+        "yes": "297",
+        "no": "3",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Abracadabra Joins Kava Ignition",
+      "voting_start_time": "2023-08-30T17:58:37.896Z",
+      "voting_end_time": "2023-09-06T17:58:37.896Z",
+      "voteMeta": {
+        "yes": "287",
+        "no": "8",
+        "abstain": "16"
+      }
+    },
+    {
+      "title": "Kinetix Joins Kava Ignition",
+      "voting_start_time": "2023-08-30T17:54:57.261Z",
+      "voting_end_time": "2023-09-06T17:54:57.261Z",
+      "voteMeta": {
+        "yes": "285",
+        "no": "5",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "Deposit Additional Funds into Kava Mint",
+      "voting_start_time": "2023-08-11T17:49:57.686Z",
+      "voting_end_time": "2023-08-18T17:49:57.686Z",
+      "voteMeta": {
+        "yes": "235",
+        "no": "25",
+        "abstain": "27"
+      }
+    },
+    {
+      "title": "Kava Ignition Program",
+      "voting_start_time": "2023-08-10T19:15:53.090Z",
+      "voting_end_time": "2023-08-17T19:15:53.090Z",
+      "voteMeta": {
+        "yes": "298",
+        "no": "5",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "Update Stability Committee Permissions to Include USDt in Lend and Mint",
+      "voting_start_time": "2023-08-09T22:51:36.834Z",
+      "voting_end_time": "2023-08-16T22:51:36.834Z",
+      "voteMeta": {
+        "yes": "312",
+        "no": "8",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for July 2023",
+      "voting_start_time": "2023-08-07T21:05:40.424Z",
+      "voting_end_time": "2023-08-14T21:05:40.424Z",
+      "voteMeta": {
+        "yes": "283",
+        "no": "7",
+        "abstain": "28"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for July 2023",
+      "voting_start_time": "2023-08-07T17:54:22.887Z",
+      "voting_end_time": "2023-08-14T17:54:22.887Z",
+      "voteMeta": {
+        "yes": "110",
+        "no": "136",
+        "abstain": "32"
+      }
+    },
+    {
+      "title": "Increases USDt incentives, removes various asset incentives in Kava Lend",
+      "voting_start_time": "2023-07-28T16:29:34.989Z",
+      "voting_end_time": "2023-08-04T16:29:34.989Z",
+      "voteMeta": {
+        "yes": "277",
+        "no": "22",
+        "abstain": "56"
+      }
+    },
+    {
+      "title": "Adds Tether USDt to Mint",
+      "voting_start_time": "2023-07-26T17:36:22.487Z",
+      "voting_end_time": "2023-08-02T17:36:22.487Z",
+      "voteMeta": {
+        "yes": "406",
+        "no": "4",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Supply Funds into Kava Mint",
+      "voting_start_time": "2023-07-15T20:54:47.009Z",
+      "voting_end_time": "2023-07-22T20:54:47.009Z",
+      "voteMeta": {
+        "yes": "314",
+        "no": "44",
+        "abstain": "34"
+      }
+    },
+    {
+      "title": "Adds EIP712 allowed messages",
+      "voting_start_time": "2023-07-14T22:58:42.201Z",
+      "voting_end_time": "2023-07-21T22:58:42.201Z",
+      "voteMeta": {
+        "yes": "351",
+        "no": "4",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Adds EIP712 allowed messages",
+      "voting_start_time": "2023-07-14T15:37:38.528Z",
+      "voting_end_time": "2023-07-21T15:37:38.528Z",
+      "voteMeta": {
+        "yes": "250",
+        "no": "90",
+        "abstain": "16"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for June 2023",
+      "voting_start_time": "2023-07-08T01:16:49.484Z",
+      "voting_end_time": "2023-07-15T01:16:49.484Z",
+      "voteMeta": {
+        "yes": "485",
+        "no": "13",
+        "abstain": "23"
+      }
+    },
+    {
+      "title": "Adds Tether USDt to kava lend and adjusts incentives",
+      "voting_start_time": "2023-07-06T19:17:40.977Z",
+      "voting_end_time": "2023-07-13T19:17:40.977Z",
+      "voteMeta": {
+        "yes": "549",
+        "no": "14",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Kava 14 Mainnet Upgrade",
+      "voting_start_time": "2023-06-30T23:52:38.972Z",
+      "voting_end_time": "2023-07-07T23:52:38.972Z",
+      "voteMeta": {
+        "yes": "580",
+        "no": "2",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Increases ATOM incentives, reduces multichain asset incentives in Kava Lend.",
+      "voting_start_time": "2023-06-16T22:55:00.399Z",
+      "voting_end_time": "2023-06-23T22:55:00.399Z",
+      "voteMeta": {
+        "yes": "477",
+        "no": "5",
+        "abstain": "21"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for May 2023",
+      "voting_start_time": "2023-06-08T21:01:26.777Z",
+      "voting_end_time": "2023-06-15T21:01:26.777Z",
+      "voteMeta": {
+        "yes": "474",
+        "no": "3",
+        "abstain": "19"
+      }
+    },
+    {
+      "title": "Adds Axelar WBTC to kava Lend and adjusts incentives",
+      "voting_start_time": "2023-06-05T23:06:51.818Z",
+      "voting_end_time": "2023-06-12T23:06:51.818Z",
+      "voteMeta": {
+        "yes": "449",
+        "no": "3",
+        "abstain": "32"
+      }
+    },
+    {
+      "title": "Deposit Funds into Kava Lend",
+      "voting_start_time": "2023-06-02T22:30:08.010Z",
+      "voting_end_time": "2023-06-09T22:30:08.010Z",
+      "voteMeta": {
+        "yes": "371",
+        "no": "12",
+        "abstain": "124"
+      }
+    },
+    {
+      "title": "Kava Horizon signaling proposal",
+      "voting_start_time": "2023-05-12T20:54:53.371Z",
+      "voting_end_time": "2023-05-19T20:54:53.371Z",
+      "voteMeta": {
+        "yes": "462",
+        "no": "49",
+        "abstain": "115"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for April 2023",
+      "voting_start_time": "2023-05-09T20:59:59.839Z",
+      "voting_end_time": "2023-05-16T20:59:59.839Z",
+      "voteMeta": {
+        "yes": "561",
+        "no": "7",
+        "abstain": "43"
+      }
+    },
+    {
+      "title": "Kava 13 Mainnet Upgrade",
+      "voting_start_time": "2023-05-09T14:59:23.631Z",
+      "voting_end_time": "2023-05-16T14:59:23.631Z",
+      "voteMeta": {
+        "yes": "679",
+        "no": "1",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Deposit Funds into Kava Lend",
+      "voting_start_time": "2023-05-03T19:16:02.719Z",
+      "voting_end_time": "2023-05-10T19:16:02.719Z",
+      "voteMeta": {
+        "yes": "579",
+        "no": "39",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "Add Kava Origin to Kava Infrastructure and Security Rewards",
+      "voting_start_time": "2023-04-27T23:36:02.590Z",
+      "voting_end_time": "2023-05-04T23:36:02.590Z",
+      "voteMeta": {
+        "yes": "584",
+        "no": "15",
+        "abstain": "59"
+      }
+    },
+    {
+      "title": "Addition of Multichain USDC,wBTC,USDT to Kava Lend",
+      "voting_start_time": "2023-04-18T16:55:06.941Z",
+      "voting_end_time": "2023-04-25T16:55:06.941Z",
+      "voteMeta": {
+        "yes": "713",
+        "no": "6",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Establish Kava Origin foundation",
+      "voting_start_time": "2023-04-06T22:26:39.232Z",
+      "voting_end_time": "2023-04-13T22:26:39.232Z",
+      "voteMeta": {
+        "yes": "318",
+        "no": "50",
+        "abstain": "223"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for March 2023",
+      "voting_start_time": "2023-04-05T04:32:30.998Z",
+      "voting_end_time": "2023-04-12T04:32:30.998Z",
+      "voteMeta": {
+        "yes": "642",
+        "no": "5",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "Update stability committee permissions to include USDC Kava Lend market",
+      "voting_start_time": "2023-04-04T16:47:52.496Z",
+      "voting_end_time": "2023-04-11T16:47:52.496Z",
+      "voteMeta": {
+        "yes": "670",
+        "no": "3",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Deposit Funds into Kava Lend",
+      "voting_start_time": "2023-03-22T18:09:41.941Z",
+      "voting_end_time": "2023-03-29T18:09:41.941Z",
+      "voteMeta": {
+        "yes": "649",
+        "no": "14",
+        "abstain": "26"
+      }
+    },
+    {
+      "title": "Adds Axlear USDC (erc20/axelar/usdc) to Kava Lend and updates incentives allocation to include axlUSDC incentives in Kava Lend.",
+      "voting_start_time": "2023-03-15T16:01:26.210Z",
+      "voting_end_time": "2023-03-22T16:01:26.210Z",
+      "voteMeta": {
+        "yes": "679",
+        "no": "6",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Addition of ETH price feed ",
+      "voting_start_time": "2023-03-07T02:39:19.724Z",
+      "voting_end_time": "2023-03-14T02:39:19.724Z",
+      "voteMeta": {
+        "yes": "674",
+        "no": "5",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for February 2023",
+      "voting_start_time": "2023-03-02T01:28:26.821Z",
+      "voting_end_time": "2023-03-09T01:28:26.821Z",
+      "voteMeta": {
+        "yes": "617",
+        "no": "6",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "Support Decentralization and Security on the Kava Network",
+      "voting_start_time": "2023-02-28T21:51:39.326Z",
+      "voting_end_time": "2023-03-07T21:51:39.326Z",
+      "voteMeta": {
+        "yes": "608",
+        "no": "25",
+        "abstain": "38"
+      }
+    },
+    {
+      "title": "Deposit Funds into Kava Lend",
+      "voting_start_time": "2023-02-21T23:24:50.425Z",
+      "voting_end_time": "2023-02-28T23:24:50.425Z",
+      "voteMeta": {
+        "yes": "683",
+        "no": "14",
+        "abstain": "19"
+      }
+    },
+    {
+      "title": "Adjust incentive rewards and staking incentives",
+      "voting_start_time": "2023-02-21T18:17:06.642Z",
+      "voting_end_time": "2023-02-28T18:17:06.642Z",
+      "voteMeta": {
+        "yes": "605",
+        "no": "45",
+        "abstain": "31"
+      }
+    },
+    {
+      "title": "Launch the $1,000,000 AKT Akash Open Cloud Kava Validator Campaign.",
+      "voting_start_time": "2023-02-21T08:42:31.886Z",
+      "voting_end_time": "2023-02-28T08:42:31.886Z",
+      "voteMeta": {
+        "yes": "408",
+        "no": "16",
+        "abstain": "258"
+      }
+    },
+    {
+      "title": "Kava 12 Mainnet Upgrade",
+      "voting_start_time": "2023-02-08T03:17:07.661Z",
+      "voting_end_time": "2023-02-15T03:17:07.661Z",
+      "voteMeta": {
+        "yes": "817",
+        "no": "3",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for January 2023",
+      "voting_start_time": "2023-02-07T23:49:21.580Z",
+      "voting_end_time": "2023-02-14T23:49:21.580Z",
+      "voteMeta": {
+        "yes": "715",
+        "no": "11",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for Dec 2022",
+      "voting_start_time": "2023-01-19T16:46:17.190Z",
+      "voting_end_time": "2023-01-26T16:46:17.190Z",
+      "voteMeta": {
+        "yes": "806",
+        "no": "6",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Kava 12 Software Upgrade Proposal",
+      "voting_start_time": "2023-01-18T05:19:54.908Z",
+      "voting_end_time": "2023-01-25T05:19:54.908Z",
+      "voteMeta": {
+        "yes": "759",
+        "no": "108",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Kava 12 Software Upgrade Proposal",
+      "voting_start_time": "2023-01-11T02:41:04.894Z",
+      "voting_end_time": "2023-01-18T02:41:04.894Z",
+      "voteMeta": {
+        "yes": "772",
+        "no": "92",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "BNB Earn Surge",
+      "voting_start_time": "2022-12-22T22:18:48.109Z",
+      "voting_end_time": "2022-12-29T22:18:48.109Z",
+      "voteMeta": {
+        "yes": "717",
+        "no": "14",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Remove Community Pool Funds From Earn Vault",
+      "voting_start_time": "2022-12-22T18:25:18.082Z",
+      "voting_end_time": "2022-12-29T18:25:18.082Z",
+      "voteMeta": {
+        "yes": "653",
+        "no": "12",
+        "abstain": "14"
+      }
+    },
+    {
+      "title": "Revised Kava Rise payouts for November 2022",
+      "voting_start_time": "2022-12-22T18:19:39.477Z",
+      "voting_end_time": "2022-12-29T18:19:39.477Z",
+      "voteMeta": {
+        "yes": "652",
+        "no": "10",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "Remove Community Pool Funds From Earn Vault",
+      "voting_start_time": "2022-12-13T02:49:30.064Z",
+      "voting_end_time": "2022-12-20T02:49:30.064Z",
+      "voteMeta": {
+        "yes": "555",
+        "no": "31",
+        "abstain": "104"
+      }
+    },
+    {
+      "title": "Kava Rise payouts for November 2022",
+      "voting_start_time": "2022-12-13T00:13:00.621Z",
+      "voting_end_time": "2022-12-20T00:13:00.621Z",
+      "voteMeta": {
+        "yes": "613",
+        "no": "17",
+        "abstain": "53"
+      }
+    },
+    {
+      "title": "Adjust AKT and HARD lend markets",
+      "voting_start_time": "2022-12-09T01:56:52.996Z",
+      "voting_end_time": "2022-12-16T01:56:52.996Z",
+      "voteMeta": {
+        "yes": "704",
+        "no": "23",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "Adjust incentive claim multipliers",
+      "voting_start_time": "2022-11-30T16:11:01.156Z",
+      "voting_end_time": "2022-12-07T16:11:01.156Z",
+      "voteMeta": {
+        "yes": "794",
+        "no": "51",
+        "abstain": "28"
+      }
+    },
+    {
+      "title": "Incentive adjustments for bKAVA, Kava Mint, and Kava Swap",
+      "voting_start_time": "2022-11-30T02:56:33.151Z",
+      "voting_end_time": "2022-12-07T02:56:33.151Z",
+      "voteMeta": {
+        "yes": "733",
+        "no": "75",
+        "abstain": "37"
+      }
+    },
+    {
+      "title": "Adds BNB earn vault and adjusts incentives.",
+      "voting_start_time": "2022-11-17T22:10:36.586Z",
+      "voting_end_time": "2022-11-24T22:10:36.586Z",
+      "voteMeta": {
+        "yes": "894",
+        "no": "6",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Revive IBC Client to Oppy Chain",
+      "voting_start_time": "2022-11-14T03:36:05.402Z",
+      "voting_end_time": "2022-11-21T03:36:05.402Z",
+      "voteMeta": {
+        "yes": "819",
+        "no": "8",
+        "abstain": "27"
+      }
+    },
+    {
+      "title": "Revive IBC Client to Terra",
+      "voting_start_time": "2022-11-05T20:07:05.485Z",
+      "voting_end_time": "2022-11-12T20:07:05.485Z",
+      "voteMeta": {
+        "yes": "897",
+        "no": "39",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Kava 11 Testnet Competition Winners Part 2",
+      "voting_start_time": "2022-11-04T23:54:28.596Z",
+      "voting_end_time": "2022-11-11T23:54:28.596Z",
+      "voteMeta": {
+        "yes": "784",
+        "no": "52",
+        "abstain": "27"
+      }
+    },
+    {
+      "title": "Kava 11 Testnet Competition Winners",
+      "voting_start_time": "2022-11-04T23:52:31.015Z",
+      "voting_end_time": "2022-11-11T23:52:31.015Z",
+      "voteMeta": {
+        "yes": "771",
+        "no": "38",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "Kava Rise October Payouts",
+      "voting_start_time": "2022-11-04T23:50:41.628Z",
+      "voting_end_time": "2022-11-11T23:50:41.628Z",
+      "voteMeta": {
+        "yes": "740",
+        "no": "41",
+        "abstain": "52"
+      }
+    },
+    {
+      "title": "Kava Rise September Payouts",
+      "voting_start_time": "2022-11-04T23:48:51.595Z",
+      "voting_end_time": "2022-11-11T23:48:51.595Z",
+      "voteMeta": {
+        "yes": "736",
+        "no": "34",
+        "abstain": "59"
+      }
+    },
+    {
+      "title": "Adjusts Kava incentive rewards for Swap, Lend, and Boost and KAVA stakers. Adds parameters for Multichain Dai, USDT to earn module. ",
+      "voting_start_time": "2022-11-04T23:46:22.325Z",
+      "voting_end_time": "2022-11-11T23:46:22.325Z",
+      "voteMeta": {
+        "yes": "830",
+        "no": "76",
+        "abstain": "41"
+      }
+    },
+    {
+      "title": "Community pool deposit to Earn",
+      "voting_start_time": "2022-10-31T17:34:13.344Z",
+      "voting_end_time": "2022-11-07T17:34:13.344Z",
+      "voteMeta": {
+        "yes": "1058",
+        "no": "31",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "Kava 11 Software Upgrade Proposal",
+      "voting_start_time": "2022-10-18T23:07:24.171Z",
+      "voting_end_time": "2022-10-25T23:07:24.171Z",
+      "voteMeta": {
+        "yes": "1142",
+        "no": "10",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Ethermint Funding Proposal For Past Development, Addressed from The Evmos Community to The Kava Community",
+      "voting_start_time": "2022-10-15T20:10:28.186Z",
+      "voting_end_time": "2022-10-22T20:10:28.186Z",
+      "voteMeta": {
+        "yes": "177",
+        "no": "359",
+        "abstain": "226"
+      }
+    },
+    {
+      "title": "Kava 11 Software Upgrade Proposal",
+      "voting_start_time": "2022-10-05T05:24:31.415Z",
+      "voting_end_time": "2022-10-12T05:24:31.415Z",
+      "voteMeta": {
+        "yes": "1029",
+        "no": "114",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Kava Pioneer Group 2 Payouts",
+      "voting_start_time": "2022-09-27T14:35:48.353Z",
+      "voting_end_time": "2022-10-04T14:35:48.353Z",
+      "voteMeta": {
+        "yes": "885",
+        "no": "17",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "Kava Rise August Payouts",
+      "voting_start_time": "2022-09-25T16:09:26.991Z",
+      "voting_end_time": "2022-10-02T16:09:26.991Z",
+      "voteMeta": {
+        "yes": "908",
+        "no": "14",
+        "abstain": "33"
+      }
+    },
+    {
+      "title": "Kava Infrastructure and Security Rewards Signaling Proposal.",
+      "voting_start_time": "2022-08-26T00:05:59.052Z",
+      "voting_end_time": "2022-09-02T00:05:59.052Z",
+      "voteMeta": {
+        "yes": "781",
+        "no": "48",
+        "abstain": "68"
+      }
+    },
+    {
+      "title": "EVM Infrastructure Funding Proposal",
+      "voting_start_time": "2022-08-23T13:00:43.593Z",
+      "voting_end_time": "2022-08-30T13:00:43.593Z",
+      "voteMeta": {
+        "yes": "792",
+        "no": "141",
+        "abstain": "61"
+      }
+    },
+    {
+      "title": "Kava Pioneer Group 1 Payouts",
+      "voting_start_time": "2022-08-08T12:14:15.001Z",
+      "voting_end_time": "2022-08-15T12:14:15.001Z",
+      "voteMeta": {
+        "yes": "751",
+        "no": "29",
+        "abstain": "57"
+      }
+    },
+    {
+      "title": "Kava Rise July Payouts",
+      "voting_start_time": "2022-08-08T12:13:30.781Z",
+      "voting_end_time": "2022-08-15T12:13:30.781Z",
+      "voteMeta": {
+        "yes": "693",
+        "no": "33",
+        "abstain": "45"
+      }
+    },
+    {
+      "title": "Kava Rise June Payouts",
+      "voting_start_time": "2022-08-08T12:12:33.307Z",
+      "voting_end_time": "2022-08-15T12:12:33.307Z",
+      "voteMeta": {
+        "yes": "657",
+        "no": "31",
+        "abstain": "44"
+      }
+    },
+    {
+      "title": "Set validator minimum commission rate to 5%",
+      "voting_start_time": "2022-07-20T15:16:02.732Z",
+      "voting_end_time": "2022-07-27T15:16:02.732Z",
+      "voteMeta": {
+        "yes": "819",
+        "no": "180",
+        "abstain": "42"
+      }
+    },
+    {
+      "title": "Adjust annual inflation for Kava stakers from 13.5% to 10%",
+      "voting_start_time": "2022-07-18T16:42:11.437Z",
+      "voting_end_time": "2022-07-25T16:42:11.437Z",
+      "voteMeta": {
+        "yes": "933",
+        "no": "89",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "WKAVA competition payouts",
+      "voting_start_time": "2022-06-29T18:31:53.429Z",
+      "voting_end_time": "2022-07-06T18:31:53.429Z",
+      "voteMeta": {
+        "yes": "2307",
+        "no": "73",
+        "abstain": "59"
+      }
+    },
+    {
+      "title": "Adjust annual inflation for Kava stakers from 17% to 13.5%",
+      "voting_start_time": "2022-06-14T19:24:25.269Z",
+      "voting_end_time": "2022-06-21T19:24:25.269Z",
+      "voteMeta": {
+        "yes": "619",
+        "no": "168",
+        "abstain": "63"
+      }
+    },
+    {
+      "title": "Adjust annual inflation for Kava stakers from 20% to 17%",
+      "voting_start_time": "2022-06-14T19:07:03.687Z",
+      "voting_end_time": "2022-06-21T19:07:03.687Z",
+      "voteMeta": {
+        "yes": "442",
+        "no": "169",
+        "abstain": "53"
+      }
+    },
+    {
+      "title": "Kava Rise - Phase 1 incentives signaling proposal.",
+      "voting_start_time": "2022-05-30T17:57:00.073Z",
+      "voting_end_time": "2022-06-06T17:57:00.073Z",
+      "voteMeta": {
+        "yes": "957",
+        "no": "26",
+        "abstain": "56"
+      }
+    },
+    {
+      "title": "Adjust liquidation penalty in Kava Mint to 2.5%.",
+      "voting_start_time": "2022-05-30T13:50:56.657Z",
+      "voting_end_time": "2022-06-06T13:50:56.657Z",
+      "voteMeta": {
+        "yes": "818",
+        "no": "40",
+        "abstain": "89"
+      }
+    },
+    {
+      "title": "Adjust annual inflation for Kava stakers from 20% to 17%",
+      "voting_start_time": "2022-05-30T13:49:30.562Z",
+      "voting_end_time": "2022-06-06T13:49:30.562Z",
+      "voteMeta": {
+        "yes": "787",
+        "no": "124",
+        "abstain": "71"
+      }
+    },
+    {
+      "title": "Kava 10 Software Upgrade Proposal",
+      "voting_start_time": "2022-05-18T03:47:28.210Z",
+      "voting_end_time": "2022-05-25T03:47:28.210Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Remove UST from Kava Mint",
+      "voting_start_time": "2022-05-13T05:44:37.269Z",
+      "voting_end_time": "2022-05-20T05:44:37.269Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Adjust UST in Kava Mint",
+      "voting_start_time": "2022-05-13T05:43:51.720Z",
+      "voting_end_time": "2022-05-20T05:43:51.720Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Adjust UST in Kava Mint",
+      "voting_start_time": "2022-05-10T18:13:27.846Z",
+      "voting_end_time": "2022-05-17T18:13:27.846Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava 10 Software Upgrade Proposal",
+      "voting_start_time": "2022-05-02T22:19:02.184Z",
+      "voting_end_time": "2022-05-09T22:19:02.184Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Enable delegators to withdraw to a different address",
+      "voting_start_time": "2022-03-31T02:24:47.504Z",
+      "voting_end_time": "2022-04-07T02:24:47.504Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Create Developer Incentives Fund via the community pool",
+      "voting_start_time": "2022-02-23T22:44:55.619Z",
+      "voting_end_time": "2022-03-02T22:44:55.619Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase BUSD debt limit to 200M USDX",
+      "voting_start_time": "2022-02-23T02:17:49.390Z",
+      "voting_end_time": "2022-03-02T02:17:49.390Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add AKT to Kava Lend",
+      "voting_start_time": "2022-02-19T02:02:00.842Z",
+      "voting_end_time": "2022-02-26T02:02:00.842Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Turn off AKT Stake drop",
+      "voting_start_time": "2022-02-19T01:32:54.701Z",
+      "voting_end_time": "2022-02-26T01:32:54.701Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Proposal for 100,000 AKT Stake drop",
+      "voting_start_time": "2022-02-18T01:36:58.676Z",
+      "voting_end_time": "2022-02-25T01:36:58.676Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava Loan-Wars Payouts",
+      "voting_start_time": "2022-02-04T02:54:08.214Z",
+      "voting_end_time": "2022-02-11T02:54:08.214Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava Swap SZN payouts",
+      "voting_start_time": "2022-02-03T23:30:38.301Z",
+      "voting_end_time": "2022-02-10T23:30:38.301Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava Swap incentivized testnet winner payouts",
+      "voting_start_time": "2022-02-03T23:24:20.454Z",
+      "voting_end_time": "2022-02-10T23:24:20.454Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add UST to Kava Mint",
+      "voting_start_time": "2022-01-27T20:27:18.787Z",
+      "voting_end_time": "2022-02-03T20:27:18.787Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava Anniversary Trading Competition winner payouts",
+      "voting_start_time": "2022-01-12T04:21:51.493Z",
+      "voting_end_time": "2022-01-19T04:21:51.493Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava-9 Software Upgrade Proposal",
+      "voting_start_time": "2022-01-11T02:27:53.353Z",
+      "voting_end_time": "2022-01-18T02:27:53.353Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase Kava Lend debt limit for XRPB collateral",
+      "voting_start_time": "2021-11-19T15:42:30.897Z",
+      "voting_end_time": "2021-11-26T15:42:30.897Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add SWP as a collateral for Kava Mint",
+      "voting_start_time": "2021-10-28T16:08:33.101Z",
+      "voting_end_time": "2021-11-04T16:08:33.101Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add swp/usdx TWAPS to pricefeed",
+      "voting_start_time": "2021-10-04T22:20:06.046Z",
+      "voting_end_time": "2021-10-11T22:20:06.046Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava Swap Trading Competition winner payouts",
+      "voting_start_time": "2021-09-30T20:58:58.226Z",
+      "voting_end_time": "2021-10-07T20:58:58.226Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava Swap incentivized testnet winner payouts",
+      "voting_start_time": "2021-09-27T14:16:06.431Z",
+      "voting_end_time": "2021-10-04T14:16:06.431Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava Swap incentivized testnet winner payouts",
+      "voting_start_time": "2021-09-14T20:52:17.898Z",
+      "voting_end_time": "2021-09-21T20:52:17.898Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava Swap (SWP) $100,000 Trading Competition",
+      "voting_start_time": "2021-08-26T12:06:41.431Z",
+      "voting_end_time": "2021-09-02T12:06:41.431Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava-8 Software Upgrade Proposal",
+      "voting_start_time": "2021-08-20T05:42:11.649Z",
+      "voting_end_time": "2021-08-27T05:42:11.649Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava 8 Upgrade Signaling Proposal",
+      "voting_start_time": "2021-08-12T03:13:20.495Z",
+      "voting_end_time": "2021-08-19T03:13:20.495Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "SAFU Fund Payouts for Missing Rewards from Kava-7 Migration (Part 4 of 4)",
+      "voting_start_time": "2021-07-22T19:19:04.928Z",
+      "voting_end_time": "2021-07-29T19:19:04.928Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "SAFU Fund Payouts for Missing Rewards from Kava-7 Migration (Part 3 of 4)",
+      "voting_start_time": "2021-07-22T19:10:06.005Z",
+      "voting_end_time": "2021-07-29T19:10:06.005Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "SAFU Fund Payouts for Missing Rewards from Kava-7 Migration (Part 2 of 4)",
+      "voting_start_time": "2021-07-22T19:05:39.310Z",
+      "voting_end_time": "2021-07-29T19:05:39.310Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "SAFU Fund Payouts for Missing Rewards from Kava-7 Migration (Part 1 of 4)",
+      "voting_start_time": "2021-07-22T19:02:52.859Z",
+      "voting_end_time": "2021-07-29T19:02:52.859Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Decrease BUSD-A CDP APY to 0%",
+      "voting_start_time": "2021-07-16T17:16:42.224Z",
+      "voting_end_time": "2021-07-23T17:16:42.224Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add 30 minute TWAP pricefeed for USDX",
+      "voting_start_time": "2021-07-15T16:28:47.868Z",
+      "voting_end_time": "2021-07-22T16:28:47.868Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Adjust HARD protocol supply and borrow rewards",
+      "voting_start_time": "2021-06-30T19:03:38.566Z",
+      "voting_end_time": "2021-07-07T19:03:38.566Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Decrease APYs for CDPS from 5% to 2.5%",
+      "voting_start_time": "2021-06-30T18:52:54.907Z",
+      "voting_end_time": "2021-07-07T18:52:54.907Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Migrates Hard protocol to 30-min TWAP pricefeeds.",
+      "voting_start_time": "2021-06-24T13:30:37.828Z",
+      "voting_end_time": "2021-07-01T13:30:37.828Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "SAFU Fund Payouts for May 19th Liquidations",
+      "voting_start_time": "2021-06-24T13:25:04.475Z",
+      "voting_end_time": "2021-07-01T13:25:04.475Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Complete SAFU fund funding by reducing community pool and inflation",
+      "voting_start_time": "2021-06-14T00:42:43.808Z",
+      "voting_end_time": "2021-06-21T00:42:43.808Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Removes KAVA rewards for USDX minters and redirects those rewards to Hard protocol.",
+      "voting_start_time": "2021-06-03T16:43:09.783Z",
+      "voting_end_time": "2021-06-10T16:43:09.783Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Halves KAVA rewards for USDX minters and redirects those rewards to Hard protocol.",
+      "voting_start_time": "2021-05-24T14:59:17.893Z",
+      "voting_end_time": "2021-05-31T14:59:17.893Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Create SAFU fund via the community pool",
+      "voting_start_time": "2021-05-05T23:12:14.631Z",
+      "voting_end_time": "2021-05-12T23:12:14.631Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add KAVA rewards for USDX suppliers to Hard protocol.",
+      "voting_start_time": "2021-04-20T16:07:25.297Z",
+      "voting_end_time": "2021-04-27T16:07:25.297Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Decrease HARD rewards for KAVA delegators",
+      "voting_start_time": "2021-04-13T17:05:35.826Z",
+      "voting_end_time": "2021-04-20T17:05:35.826Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase Minimum Staking Inflation Param",
+      "voting_start_time": "2021-04-13T16:56:23.840Z",
+      "voting_end_time": "2021-04-20T16:56:23.840Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava 7 Upgrade Proposal",
+      "voting_start_time": "2021-03-31T18:17:05.836Z",
+      "voting_end_time": "2021-04-07T18:17:05.836Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava 5.1 Upgrade Proposal",
+      "voting_start_time": "2021-03-24T03:42:32.912Z",
+      "voting_end_time": "2021-03-31T03:42:32.912Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava 5.1 Upgrade Proposal",
+      "voting_start_time": "2021-03-16T18:20:51.198Z",
+      "voting_end_time": "2021-03-23T18:20:51.198Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add USDX incentives for HBTC, update BTCB incentives",
+      "voting_start_time": "2021-03-09T01:08:46.714Z",
+      "voting_end_time": "2021-03-16T01:08:46.714Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava 5 Upgrade Proposal",
+      "voting_start_time": "2021-02-23T21:10:22.693Z",
+      "voting_end_time": "2021-03-02T21:10:22.693Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase Minimum Staking Inflation Param",
+      "voting_start_time": "2021-02-16T17:30:01.186Z",
+      "voting_end_time": "2021-02-23T17:30:01.186Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase USDX debt limits",
+      "voting_start_time": "2021-02-16T17:24:01.683Z",
+      "voting_end_time": "2021-02-23T17:24:01.683Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add HBTC to the list of allowed CDP collaterals",
+      "voting_start_time": "2021-02-10T03:04:16.938Z",
+      "voting_end_time": "2021-02-17T03:04:16.938Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add HBTC to Kava",
+      "voting_start_time": "2021-02-01T23:39:33.320Z",
+      "voting_end_time": "2021-02-08T23:39:33.320Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Update USDX minting incentives",
+      "voting_start_time": "2021-01-08T22:37:14.431Z",
+      "voting_end_time": "2021-01-15T22:37:14.431Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Adjust HARD incentives for liquidity providers",
+      "voting_start_time": "2021-01-08T22:35:08.635Z",
+      "voting_end_time": "2021-01-15T22:35:08.635Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Reduce BUSD incentives by 50%",
+      "voting_start_time": "2020-12-17T18:53:53.581Z",
+      "voting_end_time": "2020-12-24T18:53:53.581Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add HARD to the list of allowed CDP collaterals",
+      "voting_start_time": "2020-12-17T18:52:00.530Z",
+      "voting_end_time": "2020-12-24T18:52:00.530Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add HARD to the pricefeed",
+      "voting_start_time": "2020-12-08T04:38:26.964Z",
+      "voting_end_time": "2020-12-15T04:38:26.964Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add USDX Incentives for KAVA",
+      "voting_start_time": "2020-12-07T17:00:47.155Z",
+      "voting_end_time": "2020-12-14T17:00:47.155Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Set BUSD interest rate to 5% APY",
+      "voting_start_time": "2020-12-07T16:43:40.947Z",
+      "voting_end_time": "2020-12-14T16:43:40.947Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add KAVA to the list of allowed CDP collaterals",
+      "voting_start_time": "2020-11-25T18:53:34.815Z",
+      "voting_end_time": "2020-12-02T18:53:34.815Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "A USDX Incentives for XRP",
+      "voting_start_time": "2020-11-25T18:29:34.529Z",
+      "voting_end_time": "2020-12-02T18:29:34.529Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Add assets to hard protocol distribution",
+      "voting_start_time": "2020-11-12T03:11:57.570Z",
+      "voting_end_time": "2020-11-19T03:11:57.570Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Update CDP debt limits",
+      "voting_start_time": "2020-11-10T03:37:06.778Z",
+      "voting_end_time": "2020-11-17T03:37:06.778Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "A USDX Incentives for BTC",
+      "voting_start_time": "2020-11-09T14:28:18.663Z",
+      "voting_end_time": "2020-11-16T14:28:18.663Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "A USDX Incentives for BUSD",
+      "voting_start_time": "2020-11-02T13:57:40.332Z",
+      "voting_end_time": "2020-11-09T13:57:40.332Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "A USDX Incentives for BUSD",
+      "voting_start_time": "2020-10-24T14:11:24.087Z",
+      "voting_end_time": "2020-10-31T14:11:24.087Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "A USDX Incentives for BUSD",
+      "voting_start_time": "2020-10-17T14:05:15.541Z",
+      "voting_end_time": "2020-10-24T14:05:15.541Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava 4 Upgrade Proposal",
+      "voting_start_time": "2020-10-01T04:20:22.581Z",
+      "voting_end_time": "2020-10-15T04:20:22.581Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Harvest Proposal",
+      "voting_start_time": "2020-09-22T01:53:42.631Z",
+      "voting_end_time": "2020-10-06T01:53:42.631Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Activate usdx incentive rewards",
+      "voting_start_time": "2020-07-15T14:00:02.207Z",
+      "voting_end_time": "2020-07-29T14:00:02.207Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Activate usdx incentive rewards",
+      "voting_start_time": "2020-07-01T15:08:47.061Z",
+      "voting_end_time": "2020-07-15T15:08:47.061Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Activate usdx incentive rewards",
+      "voting_start_time": "2020-06-17T13:59:47.475Z",
+      "voting_end_time": "2020-07-01T13:59:47.475Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava 3 Upgrade Proposal B",
+      "voting_start_time": "2020-05-27T04:00:07.724Z",
+      "voting_end_time": "2020-06-10T04:00:07.724Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava 3 Upgrade Proposal",
+      "voting_start_time": "2020-05-17T19:50:48.493Z",
+      "voting_end_time": "2020-05-31T19:50:48.493Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Nominate Kava Safety Committee",
+      "voting_start_time": "2020-05-16T02:14:18.636Z",
+      "voting_end_time": "2020-05-30T02:14:18.636Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Nominate Kava Stability Committee",
+      "voting_start_time": "2020-05-16T02:13:16.534Z",
+      "voting_end_time": "2020-05-30T02:13:16.534Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "BNB Collateral and USDX Minting Rewards",
+      "voting_start_time": "2020-05-16T02:12:41.979Z",
+      "voting_end_time": "2020-05-30T02:12:41.979Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Nominate Kava Oracle Providers",
+      "voting_start_time": "2020-05-13T06:23:53.099Z",
+      "voting_end_time": "2020-05-27T06:23:53.099Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Kava Incentives Proposal",
+      "voting_start_time": "2020-03-24T07:11:00.433Z",
+      "voting_end_time": "2020-04-07T07:11:00.433Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Enable Transactions Param Change",
+      "voting_start_time": "2019-11-19T02:48:16.507Z",
+      "voting_end_time": "2019-12-03T02:48:16.507Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    }
+  ]
+}

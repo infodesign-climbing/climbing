@@ -1,0 +1,6174 @@
+{
+  "data": [
+    {
+      "title": "Remove second stage of USDC incentive migration",
+      "voting_start_time": "2023-11-12T10:35:52.293Z",
+      "voting_end_time": "2023-11-17T10:35:52.293Z",
+      "voteMeta": {
+        "yes": "1386",
+        "no": "14",
+        "abstain": "29"
+      }
+    },
+    {
+      "title": "Change Community pool default revenue token to USDC via Noble",
+      "voting_start_time": "2023-11-10T13:38:00.724Z",
+      "voting_end_time": "2023-11-15T13:38:00.724Z",
+      "voteMeta": {
+        "yes": "3339",
+        "no": "27",
+        "abstain": "45"
+      }
+    },
+    {
+      "title": "Abstract CosmWasm Upload Key Governance Proposal",
+      "voting_start_time": "2023-11-09T15:38:10.232Z",
+      "voting_end_time": "2023-11-14T15:38:10.232Z",
+      "voteMeta": {
+        "yes": "3284",
+        "no": "33",
+        "abstain": "206"
+      }
+    },
+    {
+      "title": "Routine Incentive Adjustment for November 2023",
+      "voting_start_time": "2023-11-08T10:25:39.915Z",
+      "voting_end_time": "2023-11-13T10:25:39.915Z",
+      "voteMeta": {
+        "yes": "4129",
+        "no": "11",
+        "abstain": "51"
+      }
+    },
+    {
+      "title": "Allow cw-hyperlane contracts to be uploaded",
+      "voting_start_time": "2023-11-06T19:48:20.922Z",
+      "voting_end_time": "2023-11-11T19:48:20.922Z",
+      "voteMeta": {
+        "yes": "4146",
+        "no": "17",
+        "abstain": "90"
+      }
+    },
+    {
+      "title": "Raise Minimum Gas Price to 0.025 uOSMO",
+      "voting_start_time": "2023-11-02T21:14:46.131Z",
+      "voting_end_time": "2023-11-07T21:14:46.131Z",
+      "voteMeta": {
+        "yes": "4745",
+        "no": "114",
+        "abstain": "61"
+      }
+    },
+    {
+      "title": "Allow Custom Creation subDAO to create Supercharged pools without Quote asset requirements",
+      "voting_start_time": "2023-11-01T11:35:17.342Z",
+      "voting_end_time": "2023-11-06T11:35:17.342Z",
+      "voteMeta": {
+        "yes": "3675",
+        "no": "35",
+        "abstain": "152"
+      }
+    },
+    {
+      "title": "Expedited: Add TIA as Fee Token",
+      "voting_start_time": "2023-10-31T20:06:56.823Z",
+      "voting_end_time": "2023-11-05T20:06:56.823Z",
+      "voteMeta": {
+        "yes": "4295",
+        "no": "28",
+        "abstain": "40"
+      }
+    },
+    {
+      "title": "Expedited: Establish Superfluid Staking for TIA and redirect a portion of Incentives",
+      "voting_start_time": "2023-10-31T20:03:01.590Z",
+      "voting_end_time": "2023-11-05T20:03:01.590Z",
+      "voteMeta": {
+        "yes": "3643",
+        "no": "24",
+        "abstain": "44"
+      }
+    },
+    {
+      "title": "💎$OSMO Airdrop ✅  - CELESTIA TESTNET ",
+      "voting_start_time": "2023-10-30T20:46:57.851Z",
+      "voting_end_time": "2023-11-04T20:46:57.851Z",
+      "voteMeta": {
+        "yes": "69",
+        "no": "30",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Automatic Staking of Osmosis Incentive Rewards",
+      "voting_start_time": "2023-10-30T10:29:23.619Z",
+      "voting_end_time": "2023-11-04T10:29:23.619Z",
+      "voteMeta": {
+        "yes": "3845",
+        "no": "30",
+        "abstain": "70"
+      }
+    },
+    {
+      "title": "Preapprove Incentives for Quote Asset Pairings",
+      "voting_start_time": "2023-10-30T10:14:10.376Z",
+      "voting_end_time": "2023-11-04T10:14:10.376Z",
+      "voteMeta": {
+        "yes": "3150",
+        "no": "14",
+        "abstain": "81"
+      }
+    },
+    {
+      "title": "Decrease Pool Creation fee to 400 OSMO",
+      "voting_start_time": "2023-10-27T09:45:05.554Z",
+      "voting_end_time": "2023-11-01T09:45:05.554Z",
+      "voteMeta": {
+        "yes": "3013",
+        "no": "77",
+        "abstain": "107"
+      }
+    },
+    {
+      "title": "Update stOSMO/OSMO Scaling Factor Controller to Auto Update Contract",
+      "voting_start_time": "2023-10-26T21:15:40.463Z",
+      "voting_end_time": "2023-10-31T21:15:40.463Z",
+      "voteMeta": {
+        "yes": "2789",
+        "no": "8",
+        "abstain": "45"
+      }
+    },
+    {
+      "title": "💎Celestia & ATOM Airdrop ✅ - Try New Feature!",
+      "voting_start_time": "2023-10-25T23:59:13.695Z",
+      "voting_end_time": "2023-10-30T23:59:13.695Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": "13",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Margined Protocol Whitelisted Address for Deployment of Power Perpetuals Contracts",
+      "voting_start_time": "2023-10-25T13:57:37.278Z",
+      "voting_end_time": "2023-10-30T13:57:37.278Z",
+      "voteMeta": {
+        "yes": "2311",
+        "no": "40",
+        "abstain": "395"
+      }
+    },
+    {
+      "title": "Celestia Incentive Spend",
+      "voting_start_time": "2023-10-24T12:57:06.799Z",
+      "voting_end_time": "2023-10-29T12:57:06.799Z",
+      "voteMeta": {
+        "yes": "3164",
+        "no": "38",
+        "abstain": "81"
+      }
+    },
+    {
+      "title": "Upload Ojo Oracle Contract Wasm Code",
+      "voting_start_time": "2023-10-24T16:09:34.327Z",
+      "voting_end_time": "2023-10-29T16:09:34.327Z",
+      "voteMeta": {
+        "yes": "2792",
+        "no": "7",
+        "abstain": "71"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅ - New version ⭐️",
+      "voting_start_time": "2023-10-23T16:58:30.089Z",
+      "voting_end_time": "2023-10-28T16:58:30.089Z",
+      "voteMeta": {
+        "yes": "63",
+        "no": "24",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "💎Celestia Airdrop on Osmosis✅  - 48 hours left!",
+      "voting_start_time": "2023-10-21T21:55:23.010Z",
+      "voting_end_time": "2023-10-26T21:55:23.010Z",
+      "voteMeta": {
+        "yes": "55",
+        "no": "8",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "🧪 New OSMO version - 48 Hours Left! 🧪",
+      "voting_start_time": "2023-10-21T00:07:38.337Z",
+      "voting_end_time": "2023-10-26T00:07:38.337Z",
+      "voteMeta": {
+        "yes": "67",
+        "no": "47",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "DYDX Incentive Spend",
+      "voting_start_time": "2023-10-20T13:59:41.857Z",
+      "voting_end_time": "2023-10-25T13:59:41.857Z",
+      "voteMeta": {
+        "yes": "3352",
+        "no": "27",
+        "abstain": "80"
+      }
+    },
+    {
+      "title": "Upload Transmuter v2 - Alloyed Assets",
+      "voting_start_time": "2023-10-19T09:14:03.277Z",
+      "voting_end_time": "2023-10-24T09:14:03.277Z",
+      "voteMeta": {
+        "yes": "2958",
+        "no": "33",
+        "abstain": "42"
+      }
+    },
+    {
+      "title": "Osmosis v20 Software Upgrade",
+      "voting_start_time": "2023-10-18T09:02:54.542Z",
+      "voting_end_time": "2023-10-23T09:02:54.542Z",
+      "voteMeta": {
+        "yes": "3285",
+        "no": "29",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "💫 Celestia is coming to Osmosis ",
+      "voting_start_time": "2023-10-18T02:56:52.619Z",
+      "voting_end_time": "2023-10-23T02:56:52.619Z",
+      "voteMeta": {
+        "yes": "41",
+        "no": "3",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Reactivate expired IBC client 07-tendermint-2229",
+      "voting_start_time": "2023-10-15T04:17:13.002Z",
+      "voting_end_time": "2023-10-20T04:17:13.002Z",
+      "voteMeta": {
+        "yes": "2558",
+        "no": "6",
+        "abstain": "37"
+      }
+    },
+    {
+      "title": "Deposit 350K OSMO to the Levana Osmo Liquidity Pool",
+      "voting_start_time": "2023-10-12T10:33:10.185Z",
+      "voting_end_time": "2023-10-17T10:33:10.185Z",
+      "voteMeta": {
+        "yes": "1125",
+        "no": "190",
+        "abstain": "1023"
+      }
+    },
+    {
+      "title": "Replace WBTC used as Quote Asset",
+      "voting_start_time": "2023-10-11T16:35:09.188Z",
+      "voting_end_time": "2023-10-16T16:35:09.188Z",
+      "voteMeta": {
+        "yes": "2357",
+        "no": "9",
+        "abstain": "34"
+      }
+    },
+    {
+      "title": "Cosmos x Celestia Airdrop ✅",
+      "voting_start_time": "2023-10-09T18:26:55.864Z",
+      "voting_end_time": "2023-10-14T18:26:55.864Z",
+      "voteMeta": {
+        "yes": "394",
+        "no": "9",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Update medasdigital-1 07-tendermint-2372 client",
+      "voting_start_time": "2023-10-09T15:35:56.509Z",
+      "voting_end_time": "2023-10-14T15:35:56.509Z",
+      "voteMeta": {
+        "yes": "1359",
+        "no": "22",
+        "abstain": "483"
+      }
+    },
+    {
+      "title": "Turn on Taker Fees at 0.1%",
+      "voting_start_time": "2023-10-08T00:52:45.775Z",
+      "voting_end_time": "2023-10-13T00:52:45.775Z",
+      "voteMeta": {
+        "yes": "2080",
+        "no": "40",
+        "abstain": "131"
+      }
+    },
+    {
+      "title": "Deploy 2M OSMO to an ampOSMO Supercharged Pool",
+      "voting_start_time": "2023-10-05T13:17:21.917Z",
+      "voting_end_time": "2023-10-10T13:17:21.917Z",
+      "voteMeta": {
+        "yes": "356",
+        "no": "845",
+        "abstain": "738"
+      }
+    },
+    {
+      "title": "Update Quasar Whitelisted Address for CL Vault Deployment",
+      "voting_start_time": "2023-10-04T14:56:59.267Z",
+      "voting_end_time": "2023-10-09T14:56:59.267Z",
+      "voteMeta": {
+        "yes": "2188",
+        "no": "12",
+        "abstain": "83"
+      }
+    },
+    {
+      "title": "Migration of Incentives from USDC.axl pools to USDC pools",
+      "voting_start_time": "2023-10-03T13:40:49.107Z",
+      "voting_end_time": "2023-10-08T13:40:49.107Z",
+      "voteMeta": {
+        "yes": "2269",
+        "no": "12",
+        "abstain": "55"
+      }
+    },
+    {
+      "title": "Routine Incentive Adjustment for October 2023",
+      "voting_start_time": "2023-10-02T16:16:14.649Z",
+      "voting_end_time": "2023-10-07T16:16:14.649Z",
+      "voteMeta": {
+        "yes": "2193",
+        "no": "14",
+        "abstain": "37"
+      }
+    },
+    {
+      "title": "Add PoolManager Messages into Allowed ICA Messages List",
+      "voting_start_time": "2023-10-02T11:57:13.119Z",
+      "voting_end_time": "2023-10-07T11:57:13.119Z",
+      "voteMeta": {
+        "yes": "2623",
+        "no": "5",
+        "abstain": "33"
+      }
+    },
+    {
+      "title": "Reduce Maximum Block Size",
+      "voting_start_time": "2023-10-01T09:36:33.062Z",
+      "voting_end_time": "2023-10-06T09:36:33.062Z",
+      "voteMeta": {
+        "yes": "1783",
+        "no": "128",
+        "abstain": "121"
+      }
+    },
+    {
+      "title": "Reduce Maximum Block Size",
+      "voting_start_time": "2023-10-01T09:23:10.005Z",
+      "voting_end_time": "2023-10-06T09:23:10.005Z",
+      "voteMeta": {
+        "yes": "112",
+        "no": "1621",
+        "abstain": "83"
+      }
+    },
+    {
+      "title": "Partial refund - pools created post-v19",
+      "voting_start_time": "2023-10-01T00:28:37.254Z",
+      "voting_end_time": "2023-10-06T00:28:37.254Z",
+      "voteMeta": {
+        "yes": "1899",
+        "no": "20",
+        "abstain": "152"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅ ",
+      "voting_start_time": "2023-09-30T02:53:56.713Z",
+      "voting_end_time": "2023-10-05T02:53:56.713Z",
+      "voteMeta": {
+        "yes": "9",
+        "no": "10",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Deploy 20M OSMO to the stOSMO Pool",
+      "voting_start_time": "2023-09-29T14:51:14.372Z",
+      "voting_end_time": "2023-10-04T14:51:14.372Z",
+      "voteMeta": {
+        "yes": "2188",
+        "no": "151",
+        "abstain": "119"
+      }
+    },
+    {
+      "title": "Allow Genie contracts to be uploaded",
+      "voting_start_time": "2023-09-27T13:54:46.625Z",
+      "voting_end_time": "2023-10-02T13:54:46.625Z",
+      "voteMeta": {
+        "yes": "1300",
+        "no": "117",
+        "abstain": "848"
+      }
+    },
+    {
+      "title": "Mutual token swap between Osmosis and MantaDAO",
+      "voting_start_time": "2023-09-26T17:35:15.216Z",
+      "voting_end_time": "2023-10-01T17:35:15.216Z",
+      "voteMeta": {
+        "yes": "780",
+        "no": "294",
+        "abstain": "1090"
+      }
+    },
+    {
+      "title": "Remove Incentives from Non-Strategic Pools",
+      "voting_start_time": "2023-09-26T00:43:03.311Z",
+      "voting_end_time": "2023-10-01T00:43:03.311Z",
+      "voteMeta": {
+        "yes": "1893",
+        "no": "88",
+        "abstain": "88"
+      }
+    },
+    {
+      "title": "Membrane Whitelisted Address for Deployment of Stablecoin Protocol contracts",
+      "voting_start_time": "2023-09-25T16:38:03.820Z",
+      "voting_end_time": "2023-09-30T16:38:03.820Z",
+      "voteMeta": {
+        "yes": "2083",
+        "no": "23",
+        "abstain": "127"
+      }
+    },
+    {
+      "title": "Add superfluid messages into allowed ICA messages list",
+      "voting_start_time": "2023-09-25T11:54:53.915Z",
+      "voting_end_time": "2023-09-30T11:54:53.915Z",
+      "voteMeta": {
+        "yes": "2110",
+        "no": "6",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "Signaling proposal: to match external XPLA incentives to XPLA/OSMO pool (#1173 on Osmosis AMM)",
+      "voting_start_time": "2023-09-24T02:00:10.929Z",
+      "voting_end_time": "2023-09-29T02:00:10.929Z",
+      "voteMeta": {
+        "yes": "651",
+        "no": "1146",
+        "abstain": "484"
+      }
+    },
+    {
+      "title": "Enable Permissionless Creation of Supercharged Pools",
+      "voting_start_time": "2023-09-23T10:57:09.216Z",
+      "voting_end_time": "2023-09-28T10:57:09.216Z",
+      "voteMeta": {
+        "yes": "2486",
+        "no": "21",
+        "abstain": "65"
+      }
+    },
+    {
+      "title": "Upload Swaprouter Contract V2",
+      "voting_start_time": "2023-09-21T15:40:14.225Z",
+      "voting_end_time": "2023-09-26T15:40:14.225Z",
+      "voteMeta": {
+        "yes": "2385",
+        "no": "5",
+        "abstain": "26"
+      }
+    },
+    {
+      "title": "Upload Crosschain Swaps Contract V2",
+      "voting_start_time": "2023-09-21T15:39:14.970Z",
+      "voting_end_time": "2023-09-26T15:39:14.970Z",
+      "voteMeta": {
+        "yes": "2314",
+        "no": "6",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "Upload CrossChain Registry Contract V1",
+      "voting_start_time": "2023-09-21T15:35:43.786Z",
+      "voting_end_time": "2023-09-26T15:35:43.786Z",
+      "voteMeta": {
+        "yes": "2285",
+        "no": "8",
+        "abstain": "21"
+      }
+    },
+    {
+      "title": "Allow Swing Cross-Chain Swaps Contracts to be Uploaded",
+      "voting_start_time": "2023-09-19T19:05:55.468Z",
+      "voting_end_time": "2023-09-24T19:05:55.468Z",
+      "voteMeta": {
+        "yes": "1949",
+        "no": "6",
+        "abstain": "26"
+      }
+    },
+    {
+      "title": "Delegate the setting of non-default taker fees to a Protocol Fee subDAO",
+      "voting_start_time": "2023-09-19T17:40:40.963Z",
+      "voting_end_time": "2023-09-24T17:40:40.963Z",
+      "voteMeta": {
+        "yes": "1768",
+        "no": "13",
+        "abstain": "103"
+      }
+    },
+    {
+      "title": "USDC Quote Asset Resubmission",
+      "voting_start_time": "2023-09-19T08:39:59.732Z",
+      "voting_end_time": "2023-09-24T08:39:59.732Z",
+      "voteMeta": {
+        "yes": "1991",
+        "no": "5",
+        "abstain": "28"
+      }
+    },
+    {
+      "title": "Migrate Superfluid Supercharged positions to a Wider Range",
+      "voting_start_time": "2023-09-18T08:58:01.468Z",
+      "voting_end_time": "2023-09-23T08:58:01.468Z",
+      "voteMeta": {
+        "yes": "2033",
+        "no": "10",
+        "abstain": "48"
+      }
+    },
+    {
+      "title": "Recognising wstETH Canonical Token status for Osmosis",
+      "voting_start_time": "2023-09-15T08:08:47.881Z",
+      "voting_end_time": "2023-09-20T08:08:47.881Z",
+      "voteMeta": {
+        "yes": "2215",
+        "no": "10",
+        "abstain": "37"
+      }
+    },
+    {
+      "title": "Recognizing USDC Canonical Status and Quote Asset",
+      "voting_start_time": "2023-09-13T16:06:50.399Z",
+      "voting_end_time": "2023-09-18T16:06:50.399Z",
+      "voteMeta": {
+        "yes": "3124",
+        "no": "9",
+        "abstain": "37"
+      }
+    },
+    {
+      "title": "Create Supercharged Pools: Community Request Resubmission",
+      "voting_start_time": "2023-09-13T14:44:50.051Z",
+      "voting_end_time": "2023-09-18T14:44:50.051Z",
+      "voteMeta": {
+        "yes": "2915",
+        "no": "10",
+        "abstain": "49"
+      }
+    },
+    {
+      "title": "Create Supercharged Pools: USDT pairing equivalents",
+      "voting_start_time": "2023-09-12T09:18:24.237Z",
+      "voting_end_time": "2023-09-17T09:18:24.237Z",
+      "voteMeta": {
+        "yes": "2294",
+        "no": "20",
+        "abstain": "58"
+      }
+    },
+    {
+      "title": "Enable superfluid staking on newly created OSMO/USDC, OSMO/ETH, and OSMO/ATOM supercharged liquidity pools",
+      "voting_start_time": "2023-09-08T21:52:51.487Z",
+      "voting_end_time": "2023-09-13T21:52:51.487Z",
+      "voteMeta": {
+        "yes": "2679",
+        "no": "7",
+        "abstain": "22"
+      }
+    },
+    {
+      "title": "Upload Alpine Pay Core contract",
+      "voting_start_time": "2023-09-08T03:11:34.369Z",
+      "voting_end_time": "2023-09-13T03:11:34.369Z",
+      "voteMeta": {
+        "yes": "759",
+        "no": "668",
+        "abstain": "605"
+      }
+    },
+    {
+      "title": "Incentivise SUI/USDT Supercharged Pools",
+      "voting_start_time": "2023-09-06T16:26:52.781Z",
+      "voting_end_time": "2023-09-11T16:26:52.781Z",
+      "voteMeta": {
+        "yes": "2199",
+        "no": "47",
+        "abstain": "82"
+      }
+    },
+    {
+      "title": "Incentivise APT/USDT Supercharged Pools",
+      "voting_start_time": "2023-09-06T16:26:46.762Z",
+      "voting_end_time": "2023-09-11T16:26:46.762Z",
+      "voteMeta": {
+        "yes": "2314",
+        "no": "39",
+        "abstain": "75"
+      }
+    },
+    {
+      "title": "Incentivise SOL/USDT Supercharged Pools",
+      "voting_start_time": "2023-09-06T16:26:34.823Z",
+      "voting_end_time": "2023-09-11T16:26:34.823Z",
+      "voteMeta": {
+        "yes": "2495",
+        "no": "36",
+        "abstain": "92"
+      }
+    },
+    {
+      "title": "Whitelist Transmuter Contract and CW Pool module",
+      "voting_start_time": "2023-09-06T08:11:17.154Z",
+      "voting_end_time": "2023-09-11T08:11:17.154Z",
+      "voteMeta": {
+        "yes": "2548",
+        "no": "4",
+        "abstain": "38"
+      }
+    },
+    {
+      "title": "Create Supercharged Pools: Community Requests",
+      "voting_start_time": "2023-09-05T07:43:01.251Z",
+      "voting_end_time": "2023-09-10T07:43:01.251Z",
+      "voteMeta": {
+        "yes": "2100",
+        "no": "10",
+        "abstain": "74"
+      }
+    },
+    {
+      "title": "Routine Incentive Adjustment for September 2023",
+      "voting_start_time": "2023-09-05T07:42:09.519Z",
+      "voting_end_time": "2023-09-10T07:42:09.519Z",
+      "voteMeta": {
+        "yes": "2479",
+        "no": "8",
+        "abstain": "78"
+      }
+    },
+    {
+      "title": "Implement Composable's Centauri bridge as the canonical route to the Polkadot and Kusama ecosystem",
+      "voting_start_time": "2023-09-04T21:20:07.229Z",
+      "voting_end_time": "2023-09-09T21:20:07.229Z",
+      "voteMeta": {
+        "yes": "2338",
+        "no": "7",
+        "abstain": "46"
+      }
+    },
+    {
+      "title": "Expedited: Repair migration for already approved CL pools",
+      "voting_start_time": "2023-09-03T10:08:47.953Z",
+      "voting_end_time": "2023-09-08T10:08:47.953Z",
+      "voteMeta": {
+        "yes": "3135",
+        "no": "4",
+        "abstain": "40"
+      }
+    },
+    {
+      "title": "Expedited: Repair migration for already approved CL pools",
+      "voting_start_time": "2023-09-03T08:07:10.907Z",
+      "voting_end_time": "2023-09-08T08:07:10.907Z",
+      "voteMeta": {
+        "yes": "2050",
+        "no": "357",
+        "abstain": "200"
+      }
+    },
+    {
+      "title": "HUAHUA Recovery from wrong pools",
+      "voting_start_time": "2023-09-01T12:04:49.109Z",
+      "voting_end_time": "2023-09-06T12:04:49.109Z",
+      "voteMeta": {
+        "yes": "1748",
+        "no": "9",
+        "abstain": "47"
+      }
+    },
+    {
+      "title": "Upload stToken Scaling Factor Auto-update Contract",
+      "voting_start_time": "2023-08-31T20:10:26.571Z",
+      "voting_end_time": "2023-09-05T20:10:26.571Z",
+      "voteMeta": {
+        "yes": "1894",
+        "no": "2",
+        "abstain": "25"
+      }
+    },
+    {
+      "title": "Upload Stride Redemption Rate Oracle Contract",
+      "voting_start_time": "2023-08-31T20:05:55.293Z",
+      "voting_end_time": "2023-09-05T20:05:55.293Z",
+      "voteMeta": {
+        "yes": "1904",
+        "no": "2",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Osmosis v19 Software Upgrade",
+      "voting_start_time": "2023-08-31T11:40:09.508Z",
+      "voting_end_time": "2023-09-05T11:40:09.508Z",
+      "voteMeta": {
+        "yes": "2502",
+        "no": "3",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Remove Unverified Status from Gelotto (GLTO) Token",
+      "voting_start_time": "2023-08-30T15:42:34.295Z",
+      "voting_end_time": "2023-09-04T15:42:34.295Z",
+      "voteMeta": {
+        "yes": "1329",
+        "no": "44",
+        "abstain": "274"
+      }
+    },
+    {
+      "title": "Upload WBTC Contract",
+      "voting_start_time": "2023-08-30T14:41:35.815Z",
+      "voting_end_time": "2023-09-04T14:41:35.815Z",
+      "voteMeta": {
+        "yes": "1731",
+        "no": "4",
+        "abstain": "32"
+      }
+    },
+    {
+      "title": "Upload Affiliate Swap Contract",
+      "voting_start_time": "2023-08-30T09:48:46.888Z",
+      "voting_end_time": "2023-09-04T09:48:46.888Z",
+      "voteMeta": {
+        "yes": "2012",
+        "no": "7",
+        "abstain": "48"
+      }
+    },
+    {
+      "title": "Whitelist address to deploy Composable VM CW contracts",
+      "voting_start_time": "2023-08-29T22:52:32.644Z",
+      "voting_end_time": "2023-09-03T22:52:32.644Z",
+      "voteMeta": {
+        "yes": "1547",
+        "no": "13",
+        "abstain": "172"
+      }
+    },
+    {
+      "title": "Osmosis Support Lab Funding Round September 2023 - March 2024",
+      "voting_start_time": "2023-08-29T20:53:42.070Z",
+      "voting_end_time": "2023-09-03T20:53:42.070Z",
+      "voteMeta": {
+        "yes": "1576",
+        "no": "13",
+        "abstain": "55"
+      }
+    },
+    {
+      "title": "Upload Transmuter Contract v1",
+      "voting_start_time": "2023-08-28T15:27:28.646Z",
+      "voting_end_time": "2023-09-02T15:27:28.646Z",
+      "voteMeta": {
+        "yes": "2117",
+        "no": "12",
+        "abstain": "75"
+      }
+    },
+    {
+      "title": "IBC Client Update: Expired Client to Starname Chain",
+      "voting_start_time": "2023-08-30T16:35:53.357Z",
+      "voting_end_time": "2023-09-04T16:35:53.357Z",
+      "voteMeta": {
+        "yes": "1554",
+        "no": 0,
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "💎 ATOM Airdrop ✅",
+      "voting_start_time": "2023-08-26T23:56:55.750Z",
+      "voting_end_time": "2023-08-31T23:56:55.750Z",
+      "voteMeta": {
+        "yes": "767",
+        "no": "12",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Create Supercharged Pools for ATOM, ETH, USDC and stATOM",
+      "voting_start_time": "2023-08-26T16:56:54.465Z",
+      "voting_end_time": "2023-08-31T16:56:54.465Z",
+      "voteMeta": {
+        "yes": "3234",
+        "no": "14",
+        "abstain": "43"
+      }
+    },
+    {
+      "title": "Community Spend: Match Kava Rise Rewards for three months",
+      "voting_start_time": "2023-08-25T16:56:35.509Z",
+      "voting_end_time": "2023-08-30T16:56:35.509Z",
+      "voteMeta": {
+        "yes": "2151",
+        "no": "60",
+        "abstain": "155"
+      }
+    },
+    {
+      "title": "Add ATOM/USDT pairings to the Osmosis Incentives Program",
+      "voting_start_time": "2023-08-25T16:54:55.451Z",
+      "voting_end_time": "2023-08-30T16:54:55.451Z",
+      "voteMeta": {
+        "yes": "3235",
+        "no": "14",
+        "abstain": "26"
+      }
+    },
+    {
+      "title": "Migration of Incentives from USDC/axlUSDT to USDC/USDT and StableSwap expansion",
+      "voting_start_time": "2023-08-25T16:54:27.652Z",
+      "voting_end_time": "2023-08-30T16:54:27.652Z",
+      "voteMeta": {
+        "yes": "3026",
+        "no": "10",
+        "abstain": "29"
+      }
+    },
+    {
+      "title": "Migration of Incentives from OSMO/axlUSDT to OSMO/USDT",
+      "voting_start_time": "2023-08-25T16:54:15.262Z",
+      "voting_end_time": "2023-08-30T16:54:15.262Z",
+      "voteMeta": {
+        "yes": "3042",
+        "no": "14",
+        "abstain": "38"
+      }
+    },
+    {
+      "title": "Create Initial Wormhole Supercharged Pools",
+      "voting_start_time": "2023-08-25T13:03:30.838Z",
+      "voting_end_time": "2023-08-30T13:03:30.838Z",
+      "voteMeta": {
+        "yes": "2695",
+        "no": "22",
+        "abstain": "67"
+      }
+    },
+    {
+      "title": "Expedited Proposal: Osmosis v18 Software Upgrade",
+      "voting_start_time": "2023-08-24T14:47:52.044Z",
+      "voting_end_time": "2023-08-25T14:47:52.044Z",
+      "voteMeta": {
+        "yes": "1281",
+        "no": "2",
+        "abstain": "22"
+      }
+    },
+    {
+      "title": "Create SEI Supercharged Pools",
+      "voting_start_time": "2023-08-21T10:52:07.241Z",
+      "voting_end_time": "2023-08-26T10:52:07.241Z",
+      "voteMeta": {
+        "yes": "3604",
+        "no": "94",
+        "abstain": "86"
+      }
+    },
+    {
+      "title": "Osmosis v17 Aluminium Upgrade",
+      "voting_start_time": "2023-08-18T10:56:22.848Z",
+      "voting_end_time": "2023-08-23T10:56:22.848Z",
+      "voteMeta": {
+        "yes": "4487",
+        "no": "10",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Approve the Stride Delegation Process Osmosis Advisory Council",
+      "voting_start_time": "2023-08-15T19:18:01.251Z",
+      "voting_end_time": "2023-08-20T19:18:01.251Z",
+      "voteMeta": {
+        "yes": "2519",
+        "no": "25",
+        "abstain": "41"
+      }
+    },
+    {
+      "title": "Upload the new Pyth contract (v-1.3.0) to the Osmosis chain.",
+      "voting_start_time": "2023-08-14T16:46:35.568Z",
+      "voting_end_time": "2023-08-19T16:46:35.568Z",
+      "voteMeta": {
+        "yes": "2859",
+        "no": "17",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "Add MsgCreateBalancerPool into Approved ICA Messages list",
+      "voting_start_time": "2023-08-08T16:09:10.269Z",
+      "voting_end_time": "2023-08-13T16:09:10.269Z",
+      "voteMeta": {
+        "yes": "3272",
+        "no": "17",
+        "abstain": "104"
+      }
+    },
+    {
+      "title": "Add Wormhole as a Canonical Bridge Service Provider",
+      "voting_start_time": "2023-08-07T18:45:37.060Z",
+      "voting_end_time": "2023-08-12T18:45:37.060Z",
+      "voteMeta": {
+        "yes": "2586",
+        "no": "35",
+        "abstain": "61"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-08-07",
+      "voting_start_time": "2023-08-07T15:48:13.673Z",
+      "voting_end_time": "2023-08-12T15:48:13.673Z",
+      "voteMeta": {
+        "yes": "2972",
+        "no": "34",
+        "abstain": "56"
+      }
+    },
+    {
+      "title": "Add ETH and WBTC as Quote Assets",
+      "voting_start_time": "2023-08-05T18:50:39.817Z",
+      "voting_end_time": "2023-08-10T18:50:39.817Z",
+      "voteMeta": {
+        "yes": "3360",
+        "no": "6",
+        "abstain": "48"
+      }
+    },
+    {
+      "title": "Create USDT Supercharged Pools",
+      "voting_start_time": "2023-08-05T18:49:56.819Z",
+      "voting_end_time": "2023-08-10T18:49:56.819Z",
+      "voteMeta": {
+        "yes": "3566",
+        "no": "14",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "Signaling Proposal for Incentives Program Update",
+      "voting_start_time": "2023-08-04T06:57:31.640Z",
+      "voting_end_time": "2023-08-09T06:57:31.640Z",
+      "voteMeta": {
+        "yes": "3517",
+        "no": "25",
+        "abstain": "133"
+      }
+    },
+    {
+      "title": "Signaling Proposal for WHALE/OSMO External Incentive Match Extension",
+      "voting_start_time": "2023-08-02T14:59:25.271Z",
+      "voting_end_time": "2023-08-07T14:59:25.271Z",
+      "voteMeta": {
+        "yes": "1037",
+        "no": "1585",
+        "abstain": "281"
+      }
+    },
+    {
+      "title": "Add NOM/OSMO (#882) to External Incentive Matching program",
+      "voting_start_time": "2023-07-31T20:20:10.148Z",
+      "voting_end_time": "2023-08-05T20:20:10.148Z",
+      "voteMeta": {
+        "yes": "1861",
+        "no": "603",
+        "abstain": "738"
+      }
+    },
+    {
+      "title": "Enable the Creation of USDT Supercharged Pools",
+      "voting_start_time": "2023-07-31T16:25:00.802Z",
+      "voting_end_time": "2023-08-05T16:25:00.802Z",
+      "voteMeta": {
+        "yes": "2746",
+        "no": "21",
+        "abstain": "54"
+      }
+    },
+    {
+      "title": "Recognising USDT Canonical status for Osmosis",
+      "voting_start_time": "2023-07-31T16:14:36.499Z",
+      "voting_end_time": "2023-08-05T16:14:36.499Z",
+      "voteMeta": {
+        "yes": "2419",
+        "no": "18",
+        "abstain": "64"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-07-31",
+      "voting_start_time": "2023-07-31T15:27:42.759Z",
+      "voting_end_time": "2023-08-05T15:27:42.759Z",
+      "voteMeta": {
+        "yes": "2231",
+        "no": "15",
+        "abstain": "100"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Matching External QSR incentives to QSR/OSMO pool #1060 on Osmosis AMM",
+      "voting_start_time": "2023-07-31T10:37:21.266Z",
+      "voting_end_time": "2023-08-05T10:37:21.266Z",
+      "voteMeta": {
+        "yes": "2413",
+        "no": "60",
+        "abstain": "250"
+      }
+    },
+    {
+      "title": "Signalling Proposal for Supercharged Pools Creation",
+      "voting_start_time": "2023-07-30T09:47:23.842Z",
+      "voting_end_time": "2023-08-04T09:47:23.842Z",
+      "voteMeta": {
+        "yes": "3378",
+        "no": "18",
+        "abstain": "47"
+      }
+    },
+    {
+      "title": "Allow Bonded Positions to convert to Staked Positions",
+      "voting_start_time": "2023-07-30T09:47:11.221Z",
+      "voting_end_time": "2023-08-04T09:47:11.221Z",
+      "voteMeta": {
+        "yes": "3446",
+        "no": "36",
+        "abstain": "67"
+      }
+    },
+    {
+      "title": "Signaling Proposal for WHALE/OSMO into Regular Incentive Program on Osmosis",
+      "voting_start_time": "2023-07-27T20:50:47.752Z",
+      "voting_end_time": "2023-08-01T20:50:47.752Z",
+      "voteMeta": {
+        "yes": "1683",
+        "no": "579",
+        "abstain": "1193"
+      }
+    },
+    {
+      "title": "Create Supercharged Pools for CRO, MATIC and BNB",
+      "voting_start_time": "2023-07-26T10:43:05.277Z",
+      "voting_end_time": "2023-07-31T10:43:05.277Z",
+      "voteMeta": {
+        "yes": "2341",
+        "no": "1086",
+        "abstain": "193"
+      }
+    },
+    {
+      "title": "Disposition of ProtoRev Collected Revenues",
+      "voting_start_time": "2023-07-24T16:00:40.241Z",
+      "voting_end_time": "2023-07-29T16:00:40.241Z",
+      "voteMeta": {
+        "yes": "901",
+        "no": "479",
+        "abstain": "1176"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-07-24",
+      "voting_start_time": "2023-07-24T15:28:37.024Z",
+      "voting_end_time": "2023-07-29T15:28:37.024Z",
+      "voteMeta": {
+        "yes": "3364",
+        "no": "32",
+        "abstain": "50"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-07-17",
+      "voting_start_time": "2023-07-17T15:29:38.631Z",
+      "voting_end_time": "2023-07-22T15:29:38.631Z",
+      "voteMeta": {
+        "yes": "2876",
+        "no": "23",
+        "abstain": "47"
+      }
+    },
+    {
+      "title": "Add PICA/OSMO to External Incentive Matching Program",
+      "voting_start_time": "2023-07-17T10:03:59.953Z",
+      "voting_end_time": "2023-07-22T10:03:59.953Z",
+      "voteMeta": {
+        "yes": "1370",
+        "no": "218",
+        "abstain": "1010"
+      }
+    },
+    {
+      "title": "Reduce Tokenfactory Denom Creation Gas",
+      "voting_start_time": "2023-07-14T18:27:26.153Z",
+      "voting_end_time": "2023-07-19T18:27:26.153Z",
+      "voteMeta": {
+        "yes": "2958",
+        "no": "30",
+        "abstain": "60"
+      }
+    },
+    {
+      "title": "Quasar Whitelisted Address for Deployment of CL Vaults",
+      "voting_start_time": "2023-07-14T22:24:28.459Z",
+      "voting_end_time": "2023-07-19T22:24:28.459Z",
+      "voteMeta": {
+        "yes": "2815",
+        "no": "23",
+        "abstain": "189"
+      }
+    },
+    {
+      "title": "Signalling proposal for adding LORE/OSMO to External Incentive Matching program",
+      "voting_start_time": "2023-07-14T14:05:19.745Z",
+      "voting_end_time": "2023-07-19T14:05:19.745Z",
+      "voteMeta": {
+        "yes": "2401",
+        "no": "86",
+        "abstain": "328"
+      }
+    },
+    {
+      "title": "Alternative Transaction Fee Policy",
+      "voting_start_time": "2023-07-13T17:50:43.553Z",
+      "voting_end_time": "2023-07-18T17:50:43.553Z",
+      "voteMeta": {
+        "yes": "3143",
+        "no": "13",
+        "abstain": "64"
+      }
+    },
+    {
+      "title": "Change Commonwealth Posting Requirement to Discourse",
+      "voting_start_time": "2023-07-11T10:51:38.741Z",
+      "voting_end_time": "2023-07-16T10:51:38.741Z",
+      "voteMeta": {
+        "yes": "2734",
+        "no": "15",
+        "abstain": "256"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-07-10",
+      "voting_start_time": "2023-07-10T15:36:39.628Z",
+      "voting_end_time": "2023-07-15T15:36:39.628Z",
+      "voteMeta": {
+        "yes": "3555",
+        "no": "9",
+        "abstain": "62"
+      }
+    },
+    {
+      "title": "Allow DAO DAO and Polytone Contract upload",
+      "voting_start_time": "2023-07-09T14:35:42.008Z",
+      "voting_end_time": "2023-07-14T14:35:42.008Z",
+      "voteMeta": {
+        "yes": "3388",
+        "no": "33",
+        "abstain": "196"
+      }
+    },
+    {
+      "title": "Osmosis v16 Magnesium Upgrade",
+      "voting_start_time": "2023-07-08T02:43:49.637Z",
+      "voting_end_time": "2023-07-13T02:43:49.637Z",
+      "voteMeta": {
+        "yes": "4995",
+        "no": "9",
+        "abstain": "29"
+      }
+    },
+    {
+      "title": "Allow Skip API Contract upload",
+      "voting_start_time": "2023-07-06T19:06:57.191Z",
+      "voting_end_time": "2023-07-11T19:06:57.191Z",
+      "voteMeta": {
+        "yes": "4035",
+        "no": "50",
+        "abstain": "133"
+      }
+    },
+    {
+      "title": "Phase out Incentives on Low Revenue Pools Part 2",
+      "voting_start_time": "2023-07-05T06:11:28.884Z",
+      "voting_end_time": "2023-07-10T06:11:28.884Z",
+      "voteMeta": {
+        "yes": "4005",
+        "no": "36",
+        "abstain": "185"
+      }
+    },
+    {
+      "title": "Launching ERIS Protocol on Osmosis",
+      "voting_start_time": "2023-07-04T11:14:21.126Z",
+      "voting_end_time": "2023-07-09T11:14:21.126Z",
+      "voteMeta": {
+        "yes": "3852",
+        "no": "35",
+        "abstain": "252"
+      }
+    },
+    {
+      "title": "Resubmission: Lengthen Thirdening and restore Thirdening impact",
+      "voting_start_time": "2023-07-03T17:08:36.887Z",
+      "voting_end_time": "2023-07-08T17:08:36.887Z",
+      "voteMeta": {
+        "yes": "3248",
+        "no": "20",
+        "abstain": "80"
+      }
+    },
+    {
+      "title": "Osmosis Max Supply Restoration through Excess OSMO Burn",
+      "voting_start_time": "2023-07-03T17:08:11.714Z",
+      "voting_end_time": "2023-07-08T17:08:11.714Z",
+      "voteMeta": {
+        "yes": "3932",
+        "no": "18",
+        "abstain": "64"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-07-03",
+      "voting_start_time": "2023-07-03T15:28:42.086Z",
+      "voting_end_time": "2023-07-08T15:28:42.086Z",
+      "voteMeta": {
+        "yes": "3571",
+        "no": "23",
+        "abstain": "177"
+      }
+    },
+    {
+      "title": "Protocol Taker Fee - Distribution of Fees paid in OSMO",
+      "voting_start_time": "2023-07-02T03:48:13.535Z",
+      "voting_end_time": "2023-07-07T03:48:13.535Z",
+      "voteMeta": {
+        "yes": "4003",
+        "no": "20",
+        "abstain": "33"
+      }
+    },
+    {
+      "title": "Allow Levana Contracts upload",
+      "voting_start_time": "2023-06-28T15:56:55.098Z",
+      "voting_end_time": "2023-07-03T15:56:55.098Z",
+      "voteMeta": {
+        "yes": "3379",
+        "no": "248",
+        "abstain": "347"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-06-26",
+      "voting_start_time": "2023-06-26T15:37:20.454Z",
+      "voting_end_time": "2023-07-01T15:37:20.454Z",
+      "voteMeta": {
+        "yes": "3291",
+        "no": "15",
+        "abstain": "73"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/KAVA",
+      "voting_start_time": "2023-06-26T15:18:05.754Z",
+      "voting_end_time": "2023-07-01T15:18:05.754Z",
+      "voteMeta": {
+        "yes": "3196",
+        "no": "59",
+        "abstain": "91"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/FET",
+      "voting_start_time": "2023-06-26T15:17:47.751Z",
+      "voting_end_time": "2023-07-01T15:17:47.751Z",
+      "voteMeta": {
+        "yes": "2851",
+        "no": "55",
+        "abstain": "219"
+      }
+    },
+    {
+      "title": "Community Enabled Analytics Program Renewal (July 2023 - June 2024)",
+      "voting_start_time": "2023-06-25T20:57:54.736Z",
+      "voting_end_time": "2023-06-30T20:57:54.736Z",
+      "voteMeta": {
+        "yes": "766",
+        "no": "1638",
+        "abstain": "461"
+      }
+    },
+    {
+      "title": "Signaling Proposal for stIBCX/OSMO (#1039) Incentivised Pool",
+      "voting_start_time": "2023-06-22T12:00:24.294Z",
+      "voting_end_time": "2023-06-27T12:00:24.294Z",
+      "voteMeta": {
+        "yes": "2861",
+        "no": "65",
+        "abstain": "195"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/INJ",
+      "voting_start_time": "2023-06-22T10:55:53.770Z",
+      "voting_end_time": "2023-06-27T10:55:53.770Z",
+      "voteMeta": {
+        "yes": "3656",
+        "no": "19",
+        "abstain": "72"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on stOSMO/OSMO",
+      "voting_start_time": "2023-06-20T20:03:11.979Z",
+      "voting_end_time": "2023-06-25T20:03:11.979Z",
+      "voteMeta": {
+        "yes": "3738",
+        "no": "47",
+        "abstain": "74"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on ION/OSMO Pool #1013",
+      "voting_start_time": "2023-06-20T13:12:17.662Z",
+      "voting_end_time": "2023-06-25T13:12:17.662Z",
+      "voteMeta": {
+        "yes": "3713",
+        "no": "36",
+        "abstain": "83"
+      }
+    },
+    {
+      "title": "Expedited Proposal: Thirdening Implementation",
+      "voting_start_time": "2023-06-20T13:10:31.665Z",
+      "voting_end_time": "2023-06-21T13:10:31.665Z",
+      "voteMeta": {
+        "yes": "2323",
+        "no": "13",
+        "abstain": "71"
+      }
+    },
+    {
+      "title": "Migrate OSMO Incentives from ION/OSMO Pool #2 to ION/OSMO Pool #1013",
+      "voting_start_time": "2023-06-20T13:06:56.541Z",
+      "voting_end_time": "2023-06-25T13:06:56.541Z",
+      "voteMeta": {
+        "yes": "3499",
+        "no": "25",
+        "abstain": "109"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-06-19",
+      "voting_start_time": "2023-06-19T15:21:57.070Z",
+      "voting_end_time": "2023-06-24T15:21:57.070Z",
+      "voteMeta": {
+        "yes": "2321",
+        "no": "37",
+        "abstain": "818"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/ARB",
+      "voting_start_time": "2023-06-19T10:39:49.222Z",
+      "voting_end_time": "2023-06-24T10:39:49.222Z",
+      "voteMeta": {
+        "yes": "3867",
+        "no": "30",
+        "abstain": "106"
+      }
+    },
+    {
+      "title": "Lengthen Thirdening and restore Thirdening impact",
+      "voting_start_time": "2023-06-14T18:09:08.089Z",
+      "voting_end_time": "2023-06-19T18:09:08.089Z",
+      "voteMeta": {
+        "yes": "4257",
+        "no": "16",
+        "abstain": "108"
+      }
+    },
+    {
+      "title": "Implement Halvening, new Emission Ratios and Reduce Superfluid Discount rate",
+      "voting_start_time": "2023-06-14T16:20:48.840Z",
+      "voting_end_time": "2023-06-19T16:20:48.840Z",
+      "voteMeta": {
+        "yes": "3996",
+        "no": "14",
+        "abstain": "87"
+      }
+    },
+    {
+      "title": "Supercharged Incentives Model",
+      "voting_start_time": "2023-06-14T11:55:50.385Z",
+      "voting_end_time": "2023-06-19T11:55:50.385Z",
+      "voteMeta": {
+        "yes": "3446",
+        "no": "16",
+        "abstain": "100"
+      }
+    },
+    {
+      "title": "Supercharged Liquidity Pools Rollout",
+      "voting_start_time": "2023-06-14T11:55:28.212Z",
+      "voting_end_time": "2023-06-19T11:55:28.212Z",
+      "voteMeta": {
+        "yes": "3338",
+        "no": "17",
+        "abstain": "108"
+      }
+    },
+    {
+      "title": "Reset Community Pool allocation to 0",
+      "voting_start_time": "2023-06-13T17:01:12.958Z",
+      "voting_end_time": "2023-06-18T17:01:12.958Z",
+      "voteMeta": {
+        "yes": "3969",
+        "no": "22",
+        "abstain": "165"
+      }
+    },
+    {
+      "title": "Introduce a Protocol Taker Fee for Osmosis swaps",
+      "voting_start_time": "2023-06-12T19:09:33.085Z",
+      "voting_end_time": "2023-06-17T19:09:33.085Z",
+      "voteMeta": {
+        "yes": "2971",
+        "no": "296",
+        "abstain": "183"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-06-12",
+      "voting_start_time": "2023-06-12T15:28:23.910Z",
+      "voting_end_time": "2023-06-17T15:28:23.910Z",
+      "voteMeta": {
+        "yes": "3386",
+        "no": "20",
+        "abstain": "105"
+      }
+    },
+    {
+      "title": "Decide What's Shown on the Main Osmosis Website",
+      "voting_start_time": "2023-06-11T22:57:58.399Z",
+      "voting_end_time": "2023-06-16T22:57:58.399Z",
+      "voteMeta": {
+        "yes": "1634",
+        "no": "540",
+        "abstain": "1513"
+      }
+    },
+    {
+      "title": "Upload Suitdrop Redeem Contract",
+      "voting_start_time": "2023-06-09T03:22:46.620Z",
+      "voting_end_time": "2023-06-14T03:22:46.620Z",
+      "voteMeta": {
+        "yes": "3221",
+        "no": "22",
+        "abstain": "279"
+      }
+    },
+    {
+      "title": "Allow Squid contracts to be uploaded",
+      "voting_start_time": "2023-06-07T00:08:39.548Z",
+      "voting_end_time": "2023-06-12T00:08:39.548Z",
+      "voteMeta": {
+        "yes": "2985",
+        "no": "74",
+        "abstain": "283"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-06-05",
+      "voting_start_time": "2023-06-05T16:05:12.519Z",
+      "voting_end_time": "2023-06-10T16:05:12.519Z",
+      "voteMeta": {
+        "yes": "3926",
+        "no": "33",
+        "abstain": "80"
+      }
+    },
+    {
+      "title": "Layerzero airdrop⚡",
+      "voting_start_time": "2023-06-03T10:10:06.164Z",
+      "voting_end_time": "2023-06-08T10:10:06.164Z",
+      "voteMeta": {
+        "yes": "137",
+        "no": "10",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Signaling Proposal for WHALE/OSMO External Incentive Match Extension ",
+      "voting_start_time": "2023-05-31T19:00:49.333Z",
+      "voting_end_time": "2023-06-05T19:00:49.333Z",
+      "voteMeta": {
+        "yes": "1650",
+        "no": "419",
+        "abstain": "1756"
+      }
+    },
+    {
+      "title": "Liquid Staked Token Incentive Category",
+      "voting_start_time": "2023-05-30T20:13:34.028Z",
+      "voting_end_time": "2023-06-04T20:13:34.028Z",
+      "voteMeta": {
+        "yes": "4029",
+        "no": "52",
+        "abstain": "177"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-05-29",
+      "voting_start_time": "2023-05-29T07:41:57.791Z",
+      "voting_end_time": "2023-06-03T07:41:57.791Z",
+      "voteMeta": {
+        "yes": "3719",
+        "no": "42",
+        "abstain": "194"
+      }
+    },
+    {
+      "title": "Upload Alpine Pay Core Contract",
+      "voting_start_time": "2023-05-27T05:40:47.199Z",
+      "voting_end_time": "2023-06-01T05:40:47.199Z",
+      "voteMeta": {
+        "yes": "847",
+        "no": "1153",
+        "abstain": "1573"
+      }
+    },
+    {
+      "title": "Alternative Signalling Proposal for use of ProtoRev Funds",
+      "voting_start_time": "2023-05-26T21:26:07.641Z",
+      "voting_end_time": "2023-05-31T21:26:07.641Z",
+      "voteMeta": {
+        "yes": "1064",
+        "no": "707",
+        "abstain": "1859"
+      }
+    },
+    {
+      "title": "Match External Incentives for qOSMO:OSMO pool (#956)",
+      "voting_start_time": "2023-05-26T11:18:09.445Z",
+      "voting_end_time": "2023-05-31T11:18:09.445Z",
+      "voteMeta": {
+        "yes": "3185",
+        "no": "93",
+        "abstain": "461"
+      }
+    },
+    {
+      "title": "Add Quicksilver qAssets to Osmosis",
+      "voting_start_time": "2023-05-26T11:17:41.762Z",
+      "voting_end_time": "2023-05-31T11:17:41.762Z",
+      "voteMeta": {
+        "yes": "3874",
+        "no": "47",
+        "abstain": "187"
+      }
+    },
+    {
+      "title": "Signaling Proposal for use of ProtoRev Funds",
+      "voting_start_time": "2023-05-25T22:15:43.200Z",
+      "voting_end_time": "2023-05-30T22:15:43.200Z",
+      "voteMeta": {
+        "yes": "582",
+        "no": "2200",
+        "abstain": "469"
+      }
+    },
+    {
+      "title": "Allow Calculated Finance contracts to be uploaded",
+      "voting_start_time": "2023-05-23T21:54:38.786Z",
+      "voting_end_time": "2023-05-28T21:54:38.786Z",
+      "voteMeta": {
+        "yes": "3919",
+        "no": "52",
+        "abstain": "231"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-05-22",
+      "voting_start_time": "2023-05-22T15:29:24.331Z",
+      "voting_end_time": "2023-05-27T15:29:24.331Z",
+      "voteMeta": {
+        "yes": "3891",
+        "no": "46",
+        "abstain": "124"
+      }
+    },
+    {
+      "title": "Allow CronCat contracts to be uploaded",
+      "voting_start_time": "2023-05-19T20:52:28.126Z",
+      "voting_end_time": "2023-05-24T20:52:28.126Z",
+      "voteMeta": {
+        "yes": "4285",
+        "no": "68",
+        "abstain": "161"
+      }
+    },
+    {
+      "title": "Suitdrop Commonwealth Proposal",
+      "voting_start_time": "2023-05-19T16:48:55.460Z",
+      "voting_end_time": "2023-05-24T16:48:55.460Z",
+      "voteMeta": {
+        "yes": "3559",
+        "no": "88",
+        "abstain": "702"
+      }
+    },
+    {
+      "title": "Update Lambda IBC Client on Osmosis",
+      "voting_start_time": "2023-05-17T14:23:04.818Z",
+      "voting_end_time": "2023-05-22T14:23:04.818Z",
+      "voteMeta": {
+        "yes": "4525",
+        "no": "19",
+        "abstain": "80"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-05-15",
+      "voting_start_time": "2023-05-15T16:00:27.736Z",
+      "voting_end_time": "2023-05-20T16:00:27.736Z",
+      "voteMeta": {
+        "yes": "2850",
+        "no": "55",
+        "abstain": "882"
+      }
+    },
+    {
+      "title": "Upload Wormhole core contract",
+      "voting_start_time": "2023-05-11T12:58:57.448Z",
+      "voting_end_time": "2023-05-16T12:58:57.448Z",
+      "voteMeta": {
+        "yes": "4779",
+        "no": "37",
+        "abstain": "128"
+      }
+    },
+    {
+      "title": "Upload Pyth contract",
+      "voting_start_time": "2023-05-11T12:58:42.525Z",
+      "voting_end_time": "2023-05-16T12:58:42.525Z",
+      "voteMeta": {
+        "yes": "4093",
+        "no": "34",
+        "abstain": "149"
+      }
+    },
+    {
+      "title": "Add FIL to the list of Major category assets",
+      "voting_start_time": "2023-05-10T15:53:20.202Z",
+      "voting_end_time": "2023-05-15T15:53:20.202Z",
+      "voteMeta": {
+        "yes": "3876",
+        "no": "82",
+        "abstain": "153"
+      }
+    },
+    {
+      "title": "Add LINK to the list of Major category assets",
+      "voting_start_time": "2023-05-10T15:53:07.956Z",
+      "voting_end_time": "2023-05-15T15:53:07.956Z",
+      "voteMeta": {
+        "yes": "4138",
+        "no": "47",
+        "abstain": "105"
+      }
+    },
+    {
+      "title": "ARB Bootstrapping liquidity incentives",
+      "voting_start_time": "2023-05-09T12:40:10.492Z",
+      "voting_end_time": "2023-05-14T12:40:10.492Z",
+      "voteMeta": {
+        "yes": "3831",
+        "no": "74",
+        "abstain": "158"
+      }
+    },
+    {
+      "title": "Allow IBCX Contracts to be Uploaded",
+      "voting_start_time": "2023-05-09T11:56:38.860Z",
+      "voting_end_time": "2023-05-14T11:56:38.860Z",
+      "voteMeta": {
+        "yes": "4336",
+        "no": "30",
+        "abstain": "58"
+      }
+    },
+    {
+      "title": "Add ARB to the list of Major category assets",
+      "voting_start_time": "2023-05-08T21:33:45.919Z",
+      "voting_end_time": "2023-05-13T21:33:45.919Z",
+      "voteMeta": {
+        "yes": "3962",
+        "no": "65",
+        "abstain": "115"
+      }
+    },
+    {
+      "title": "Signaling Proposal for ARB/OSMO incentivized pool",
+      "voting_start_time": "2023-05-08T21:06:26.010Z",
+      "voting_end_time": "2023-05-13T21:06:26.010Z",
+      "voteMeta": {
+        "yes": "3776",
+        "no": "64",
+        "abstain": "116"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-05-08",
+      "voting_start_time": "2023-05-08T15:48:09.398Z",
+      "voting_end_time": "2023-05-13T15:48:09.398Z",
+      "voteMeta": {
+        "yes": "3818",
+        "no": "39",
+        "abstain": "64"
+      }
+    },
+    {
+      "title": "ShapeShift Bounty Completion",
+      "voting_start_time": "2023-05-08T13:27:37.774Z",
+      "voting_end_time": "2023-05-13T13:27:37.774Z",
+      "voteMeta": {
+        "yes": "3562",
+        "no": "109",
+        "abstain": "371"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on SOMM/OSMO",
+      "voting_start_time": "2023-05-06T18:41:32.279Z",
+      "voting_end_time": "2023-05-11T18:41:32.279Z",
+      "voteMeta": {
+        "yes": "4061",
+        "no": "68",
+        "abstain": "188"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/FIL incentivised pool",
+      "voting_start_time": "2023-05-03T11:49:46.870Z",
+      "voting_end_time": "2023-05-08T11:49:46.870Z",
+      "voteMeta": {
+        "yes": "2795",
+        "no": "166",
+        "abstain": "1353"
+      }
+    },
+    {
+      "title": "Signalling Proposal for LIKE/OSMO External Incentive Match Renewal",
+      "voting_start_time": "2023-05-05T16:57:41.381Z",
+      "voting_end_time": "2023-05-10T16:57:41.381Z",
+      "voteMeta": {
+        "yes": "1469",
+        "no": "633",
+        "abstain": "1603"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-05-01",
+      "voting_start_time": "2023-05-01T15:25:29.302Z",
+      "voting_end_time": "2023-05-06T15:25:29.302Z",
+      "voteMeta": {
+        "yes": "4423",
+        "no": "13",
+        "abstain": "54"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/MARS",
+      "voting_start_time": "2023-04-29T09:49:11.090Z",
+      "voting_end_time": "2023-05-04T09:49:11.090Z",
+      "voteMeta": {
+        "yes": "5361",
+        "no": "52",
+        "abstain": "176"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on IST/OSMO & BLD/OSMO",
+      "voting_start_time": "2023-04-28T07:33:22.667Z",
+      "voting_end_time": "2023-05-03T07:33:22.667Z",
+      "voteMeta": {
+        "yes": "4991",
+        "no": "56",
+        "abstain": "170"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-04-24",
+      "voting_start_time": "2023-04-24T15:52:00.433Z",
+      "voting_end_time": "2023-04-29T15:52:00.433Z",
+      "voteMeta": {
+        "yes": "5375",
+        "no": "22",
+        "abstain": "83"
+      }
+    },
+    {
+      "title": "Signalling Proposal for JKL/OSMO Incentivized Liquidity Pool: ",
+      "voting_start_time": "2023-04-20T14:58:38.740Z",
+      "voting_end_time": "2023-04-25T14:58:38.740Z",
+      "voteMeta": {
+        "yes": "2746",
+        "no": "1216",
+        "abstain": "1931"
+      }
+    },
+    {
+      "title": "Add Stride’s LSTs to Osmosis Frontend",
+      "voting_start_time": "2023-04-20T15:41:05.477Z",
+      "voting_end_time": "2023-04-25T15:41:05.477Z",
+      "voteMeta": {
+        "yes": "6390",
+        "no": "149",
+        "abstain": "107"
+      }
+    },
+    {
+      "title": "Set token creation fee to zero; introduce an alternative spam-prevention mechanism",
+      "voting_start_time": "2023-04-21T11:15:35.567Z",
+      "voting_end_time": "2023-04-22T11:15:35.567Z",
+      "voteMeta": {
+        "yes": "2012",
+        "no": "121",
+        "abstain": "65"
+      }
+    },
+    {
+      "title": "Allow TFM Contracts to be Uploaded",
+      "voting_start_time": "2023-04-19T19:49:26.432Z",
+      "voting_end_time": "2023-04-24T19:49:26.432Z",
+      "voteMeta": {
+        "yes": "6277",
+        "no": "123",
+        "abstain": "105"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-04-17",
+      "voting_start_time": "2023-04-17T15:29:51.261Z",
+      "voting_end_time": "2023-04-22T15:29:51.261Z",
+      "voteMeta": {
+        "yes": "5954",
+        "no": "129",
+        "abstain": "118"
+      }
+    },
+    {
+      "title": "Decrease the Superfluid Risk Factor to 25%",
+      "voting_start_time": "2023-04-17T14:26:50.511Z",
+      "voting_end_time": "2023-04-22T14:26:50.511Z",
+      "voteMeta": {
+        "yes": "5701",
+        "no": "331",
+        "abstain": "150"
+      }
+    },
+    {
+      "title": "Adjust the Ratio of Emissions",
+      "voting_start_time": "2023-04-17T14:26:38.660Z",
+      "voting_end_time": "2023-04-22T14:26:38.660Z",
+      "voteMeta": {
+        "yes": "5897",
+        "no": "282",
+        "abstain": "124"
+      }
+    },
+    {
+      "title": "Lengthen OSMO Emission Schedule",
+      "voting_start_time": "2023-04-17T14:26:23.719Z",
+      "voting_end_time": "2023-04-22T14:26:23.719Z",
+      "voteMeta": {
+        "yes": "6341",
+        "no": "154",
+        "abstain": "82"
+      }
+    },
+    {
+      "title": "Upload StreamSwap Contract",
+      "voting_start_time": "2023-04-13T18:58:09.538Z",
+      "voting_end_time": "2023-04-18T18:58:09.538Z",
+      "voteMeta": {
+        "yes": "6608",
+        "no": "20",
+        "abstain": "94"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/NCT incentives",
+      "voting_start_time": "2023-04-12T15:07:18.858Z",
+      "voting_end_time": "2023-04-17T15:07:18.858Z",
+      "voteMeta": {
+        "yes": "4762",
+        "no": "118",
+        "abstain": "468"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-04-10",
+      "voting_start_time": "2023-04-10T15:37:29.647Z",
+      "voting_end_time": "2023-04-15T15:37:29.647Z",
+      "voteMeta": {
+        "yes": "5331",
+        "no": "18",
+        "abstain": "63"
+      }
+    },
+    {
+      "title": "Signaling Proposal for WHALE/OSMO External Incentive Match",
+      "voting_start_time": "2023-04-07T18:09:36.037Z",
+      "voting_end_time": "2023-04-12T18:09:36.037Z",
+      "voteMeta": {
+        "yes": "3790",
+        "no": "204",
+        "abstain": "1270"
+      }
+    },
+    {
+      "title": "Upload Cross-Chain Swap Contract v2",
+      "voting_start_time": "2023-04-05T10:34:12.438Z",
+      "voting_end_time": "2023-04-10T10:34:12.438Z",
+      "voteMeta": {
+        "yes": "6250",
+        "no": "21",
+        "abstain": "47"
+      }
+    },
+    {
+      "title": "Whitelist Apollo Vaults for OSMO/WBTC and OSMO/ETH",
+      "voting_start_time": "2023-04-04T10:17:50.865Z",
+      "voting_end_time": "2023-04-09T10:17:50.865Z",
+      "voteMeta": {
+        "yes": "5112",
+        "no": "35",
+        "abstain": "103"
+      }
+    },
+    {
+      "title": "Unfreeze IBC client to MediBloc",
+      "voting_start_time": "2023-04-04T08:27:45.777Z",
+      "voting_end_time": "2023-04-09T08:27:45.777Z",
+      "voteMeta": {
+        "yes": "5003",
+        "no": "33",
+        "abstain": "162"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-04-03",
+      "voting_start_time": "2023-04-03T15:42:14.857Z",
+      "voting_end_time": "2023-04-08T15:42:14.857Z",
+      "voteMeta": {
+        "yes": "4373",
+        "no": "45",
+        "abstain": "677"
+      }
+    },
+    {
+      "title": "Upload Autonomy Network Limits/Stops Wrapper Contract",
+      "voting_start_time": "2023-03-28T07:15:07.140Z",
+      "voting_end_time": "2023-04-02T07:15:07.140Z",
+      "voteMeta": {
+        "yes": "4710",
+        "no": "51",
+        "abstain": "337"
+      }
+    },
+    {
+      "title": "Upload Autonomy Network Registry Stake Contract V2",
+      "voting_start_time": "2023-03-28T07:11:29.188Z",
+      "voting_end_time": "2023-04-02T07:11:29.188Z",
+      "voteMeta": {
+        "yes": "4418",
+        "no": "48",
+        "abstain": "390"
+      }
+    },
+    {
+      "title": "Allow Kado Router Contracts to be Uploaded",
+      "voting_start_time": "2023-03-27T21:52:10.595Z",
+      "voting_end_time": "2023-04-01T21:52:10.595Z",
+      "voteMeta": {
+        "yes": "2724",
+        "no": "154",
+        "abstain": "2022"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-03-27",
+      "voting_start_time": "2023-03-27T15:38:09.528Z",
+      "voting_end_time": "2023-04-01T15:38:09.528Z",
+      "voteMeta": {
+        "yes": "3644",
+        "no": "49",
+        "abstain": "801"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/USDT",
+      "voting_start_time": "2023-03-27T10:14:17.959Z",
+      "voting_end_time": "2023-04-01T10:14:17.959Z",
+      "voteMeta": {
+        "yes": "4883",
+        "no": "30",
+        "abstain": "62"
+      }
+    },
+    {
+      "title": "ARBITRUM ($ARB) Airdrop claim",
+      "voting_start_time": "2023-03-25T10:00:28.652Z",
+      "voting_end_time": "2023-03-30T10:00:28.652Z",
+      "voteMeta": {
+        "yes": "330",
+        "no": "15",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Allow USDC as transaction fees",
+      "voting_start_time": "2023-03-24T17:04:36.111Z",
+      "voting_end_time": "2023-03-29T17:04:36.111Z",
+      "voteMeta": {
+        "yes": "6060",
+        "no": "109",
+        "abstain": "42"
+      }
+    },
+    {
+      "title": "Revive IBC Client to Dig",
+      "voting_start_time": "2023-03-25T04:34:10.642Z",
+      "voting_end_time": "2023-03-30T04:34:10.642Z",
+      "voteMeta": {
+        "yes": "790",
+        "no": "7",
+        "abstain": "34"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-03-20",
+      "voting_start_time": "2023-03-20T15:42:53.772Z",
+      "voting_end_time": "2023-03-25T15:42:53.772Z",
+      "voteMeta": {
+        "yes": "6257",
+        "no": "56",
+        "abstain": "272"
+      }
+    },
+    {
+      "title": "Enable icq messages",
+      "voting_start_time": "2023-03-20T14:21:53.671Z",
+      "voting_end_time": "2023-03-21T14:21:53.671Z",
+      "voteMeta": {
+        "yes": "22098",
+        "no": "19",
+        "abstain": "26"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/FTM",
+      "voting_start_time": "2023-03-20T15:43:55.193Z",
+      "voting_end_time": "2023-03-25T15:43:55.193Z",
+      "voteMeta": {
+        "yes": "5257",
+        "no": "103",
+        "abstain": "217"
+      }
+    },
+    {
+      "title": "Match External Incentives to extended STARS/OSMO pair",
+      "voting_start_time": "2023-03-19T22:11:08.274Z",
+      "voting_end_time": "2023-03-24T22:11:08.274Z",
+      "voteMeta": {
+        "yes": "3269",
+        "no": "233",
+        "abstain": "1854"
+      }
+    },
+    {
+      "title": "Enable ica lock and unlock",
+      "voting_start_time": "2023-03-18T09:15:07.112Z",
+      "voting_end_time": "2023-03-23T09:15:07.112Z",
+      "voteMeta": {
+        "yes": "6365",
+        "no": "35",
+        "abstain": "59"
+      }
+    },
+    {
+      "title": "OSMO Airdrop 🧪",
+      "voting_start_time": "2023-03-16T02:55:33.379Z",
+      "voting_end_time": "2023-03-21T02:55:33.379Z",
+      "voteMeta": {
+        "yes": "829",
+        "no": "27",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Osmosis Support Lab Funding Round March - August 2023",
+      "voting_start_time": "2023-03-15T14:06:45.921Z",
+      "voting_end_time": "2023-03-20T14:06:45.921Z",
+      "voteMeta": {
+        "yes": "5757",
+        "no": "121",
+        "abstain": "525"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-03-13",
+      "voting_start_time": "2023-03-13T15:25:27.885Z",
+      "voting_end_time": "2023-03-18T15:25:27.885Z",
+      "voteMeta": {
+        "yes": "7783",
+        "no": "32",
+        "abstain": "251"
+      }
+    },
+    {
+      "title": "Osmosis v15 Sodium Upgrade",
+      "voting_start_time": "2023-03-10T21:36:51.392Z",
+      "voting_end_time": "2023-03-15T21:36:51.392Z",
+      "voteMeta": {
+        "yes": "22763",
+        "no": "48",
+        "abstain": "170"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/CMST incentives",
+      "voting_start_time": "2023-03-08T06:21:44.358Z",
+      "voting_end_time": "2023-03-13T06:21:44.358Z",
+      "voteMeta": {
+        "yes": "3611",
+        "no": "221",
+        "abstain": "32704"
+      }
+    },
+    {
+      "title": "Establish new Core StableSwap pool (USDC/USDT)",
+      "voting_start_time": "2023-03-07T16:54:57.714Z",
+      "voting_end_time": "2023-03-12T16:54:57.714Z",
+      "voteMeta": {
+        "yes": "18424",
+        "no": "36",
+        "abstain": "193"
+      }
+    },
+    {
+      "title": "Upload Cross-Chain Swap Contract",
+      "voting_start_time": "2023-03-06T16:21:42.724Z",
+      "voting_end_time": "2023-03-11T16:21:42.724Z",
+      "voteMeta": {
+        "yes": "36787",
+        "no": "25",
+        "abstain": "62"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-03-06",
+      "voting_start_time": "2023-03-06T15:27:54.383Z",
+      "voting_end_time": "2023-03-11T15:27:54.383Z",
+      "voteMeta": {
+        "yes": "43518",
+        "no": "33",
+        "abstain": "692"
+      }
+    },
+    {
+      "title": "USDT Bootstrapping liquidity incentives",
+      "voting_start_time": "2023-03-06T15:01:03.183Z",
+      "voting_end_time": "2023-03-11T15:01:03.183Z",
+      "voteMeta": {
+        "yes": "44298",
+        "no": "65",
+        "abstain": "199"
+      }
+    },
+    {
+      "title": "Whitelist Apollo Vaults for stATOM/ATOM",
+      "voting_start_time": "2023-03-06T20:19:50.786Z",
+      "voting_end_time": "2023-03-11T20:19:50.786Z",
+      "voteMeta": {
+        "yes": "35293",
+        "no": "88",
+        "abstain": "1487"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/USDT incentives",
+      "voting_start_time": "2023-03-06T14:42:19.162Z",
+      "voting_end_time": "2023-03-11T14:42:19.162Z",
+      "voteMeta": {
+        "yes": "44294",
+        "no": "67",
+        "abstain": "181"
+      }
+    },
+    {
+      "title": "Re-evaluation of NGM/OSMO Incentives",
+      "voting_start_time": "2023-03-01T14:48:31.534Z",
+      "voting_end_time": "2023-03-06T14:48:31.534Z",
+      "voteMeta": {
+        "yes": "5420",
+        "no": "127",
+        "abstain": "39312"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/MARS incentives",
+      "voting_start_time": "2023-03-01T14:48:19.504Z",
+      "voting_end_time": "2023-03-06T14:48:19.504Z",
+      "voteMeta": {
+        "yes": "44520",
+        "no": "163",
+        "abstain": "200"
+      }
+    },
+    {
+      "title": "Upload CW721 Base Contract",
+      "voting_start_time": "2023-02-27T17:04:27.736Z",
+      "voting_end_time": "2023-03-04T17:04:27.736Z",
+      "voteMeta": {
+        "yes": "41260",
+        "no": "173",
+        "abstain": "2232"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-02-27",
+      "voting_start_time": "2023-02-27T15:36:42.988Z",
+      "voting_end_time": "2023-03-04T15:36:42.988Z",
+      "voteMeta": {
+        "yes": "42887",
+        "no": "57",
+        "abstain": "514"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/DOT",
+      "voting_start_time": "2023-02-27T14:24:14.544Z",
+      "voting_end_time": "2023-03-04T14:24:14.544Z",
+      "voteMeta": {
+        "yes": "43624",
+        "no": "67",
+        "abstain": "151"
+      }
+    },
+    {
+      "title": "Composability Incentives Category",
+      "voting_start_time": "2023-02-23T16:40:09.558Z",
+      "voting_end_time": "2023-02-28T16:40:09.558Z",
+      "voteMeta": {
+        "yes": "3837",
+        "no": "120",
+        "abstain": "36126"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/AVAX",
+      "voting_start_time": "2023-02-23T13:41:59.158Z",
+      "voting_end_time": "2023-02-28T13:41:59.158Z",
+      "voteMeta": {
+        "yes": "39874",
+        "no": "98",
+        "abstain": "294"
+      }
+    },
+    {
+      "title": "Signaling Proposal - Recognise CMST as a Stablecoin asset",
+      "voting_start_time": "2023-02-22T14:54:51.813Z",
+      "voting_end_time": "2023-02-27T14:54:51.813Z",
+      "voteMeta": {
+        "yes": "42599",
+        "no": "201",
+        "abstain": "1499"
+      }
+    },
+    {
+      "title": "Upgrade stOSMO, stJUNO, and stSTARS Pools to Stableswap",
+      "voting_start_time": "2023-02-21T19:53:28.368Z",
+      "voting_end_time": "2023-02-26T19:53:28.368Z",
+      "voteMeta": {
+        "yes": "44600",
+        "no": "43",
+        "abstain": "176"
+      }
+    },
+    {
+      "title": "Phase out incentives for BUSD",
+      "voting_start_time": "2023-02-21T12:53:46.114Z",
+      "voting_end_time": "2023-02-26T12:53:46.114Z",
+      "voteMeta": {
+        "yes": "44349",
+        "no": "116",
+        "abstain": "260"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-02-20",
+      "voting_start_time": "2023-02-20T15:52:26.933Z",
+      "voting_end_time": "2023-02-25T15:52:26.933Z",
+      "voteMeta": {
+        "yes": "44174",
+        "no": "57",
+        "abstain": "386"
+      }
+    },
+    {
+      "title": "Osmosis Proposal Standards",
+      "voting_start_time": "2023-02-20T14:49:54.783Z",
+      "voting_end_time": "2023-02-25T14:49:54.783Z",
+      "voteMeta": {
+        "yes": "45128",
+        "no": "41",
+        "abstain": "131"
+      }
+    },
+    {
+      "title": "Babylon signalling and phase1 Integration ",
+      "voting_start_time": "2023-02-20T17:43:57.137Z",
+      "voting_end_time": "2023-02-25T17:43:57.137Z",
+      "voteMeta": {
+        "yes": "44643",
+        "no": "72",
+        "abstain": "141"
+      }
+    },
+    {
+      "title": "Whitelist Apollo Vaults for USDC and ATOM",
+      "voting_start_time": "2023-02-16T23:04:28.980Z",
+      "voting_end_time": "2023-02-21T23:04:28.980Z",
+      "voteMeta": {
+        "yes": "43991",
+        "no": "111",
+        "abstain": "1382"
+      }
+    },
+    {
+      "title": "FTM Bootstrapping liquidity incentives",
+      "voting_start_time": "2023-02-15T12:18:31.297Z",
+      "voting_end_time": "2023-02-20T12:18:31.297Z",
+      "voteMeta": {
+        "yes": "45272",
+        "no": "152",
+        "abstain": "351"
+      }
+    },
+    {
+      "title": "Add FTM to the list of Major category assets",
+      "voting_start_time": "2023-02-15T12:18:15.477Z",
+      "voting_end_time": "2023-02-20T12:18:15.477Z",
+      "voteMeta": {
+        "yes": "45002",
+        "no": "151",
+        "abstain": "349"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/FTM incentivised pool",
+      "voting_start_time": "2023-02-15T12:18:03.323Z",
+      "voting_end_time": "2023-02-20T12:18:03.323Z",
+      "voteMeta": {
+        "yes": "44510",
+        "no": "126",
+        "abstain": "400"
+      }
+    },
+    {
+      "title": "Signaling Proposal - Define New Stable Asset: IST and incentivize stable swap pool DAI / CMST / IST with OSMO rewards",
+      "voting_start_time": "2023-02-15T17:35:58.291Z",
+      "voting_end_time": "2023-02-20T17:35:58.291Z",
+      "voteMeta": {
+        "yes": "4331",
+        "no": "428",
+        "abstain": "39930"
+      }
+    },
+    {
+      "title": "Signaling Proposal for IST/OSMO External Incentive Match",
+      "voting_start_time": "2023-02-15T17:33:28.191Z",
+      "voting_end_time": "2023-02-20T17:33:28.191Z",
+      "voteMeta": {
+        "yes": "4676",
+        "no": "451",
+        "abstain": "39511"
+      }
+    },
+    {
+      "title": "Remove Exit Fee option from pools\n",
+      "voting_start_time": "2023-02-13T15:37:40.808Z",
+      "voting_end_time": "2023-02-18T15:37:40.808Z",
+      "voteMeta": {
+        "yes": "46161",
+        "no": "100",
+        "abstain": "159"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-02-13",
+      "voting_start_time": "2023-02-13T15:33:49.322Z",
+      "voting_end_time": "2023-02-18T15:33:49.322Z",
+      "voteMeta": {
+        "yes": "45018",
+        "no": "46",
+        "abstain": "216"
+      }
+    },
+    {
+      "title": "Signalling Proposal for Initial IBC Rate Limits",
+      "voting_start_time": "2023-02-13T11:33:04.159Z",
+      "voting_end_time": "2023-02-18T11:33:04.159Z",
+      "voteMeta": {
+        "yes": "46244",
+        "no": "39",
+        "abstain": "206"
+      }
+    },
+    {
+      "title": "BUSD bootstrapping liquidity incentives",
+      "voting_start_time": "2023-02-07T13:00:39.980Z",
+      "voting_end_time": "2023-02-12T13:00:39.980Z",
+      "voteMeta": {
+        "yes": "8990",
+        "no": "128",
+        "abstain": "613"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/BUSD (#899) incentivised pool",
+      "voting_start_time": "2023-02-07T12:45:51.630Z",
+      "voting_end_time": "2023-02-12T12:45:51.630Z",
+      "voteMeta": {
+        "yes": "8603",
+        "no": "125",
+        "abstain": "582"
+      }
+    },
+    {
+      "title": "Signaling Proposal for ATOM/stkATOM Stableswap Pool External Incentive Match",
+      "voting_start_time": "2023-02-06T21:20:34.290Z",
+      "voting_end_time": "2023-02-11T21:20:34.290Z",
+      "voteMeta": {
+        "yes": "4632",
+        "no": "489",
+        "abstain": "3234"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-02-06",
+      "voting_start_time": "2023-02-06T15:38:37.791Z",
+      "voting_end_time": "2023-02-11T15:38:37.791Z",
+      "voteMeta": {
+        "yes": "8191",
+        "no": "30",
+        "abstain": "124"
+      }
+    },
+    {
+      "title": "Update IBC Client for Cerberus - 2nd time",
+      "voting_start_time": "2023-02-04T16:36:15.929Z",
+      "voting_end_time": "2023-02-09T16:36:15.929Z",
+      "voteMeta": {
+        "yes": "7197",
+        "no": "117",
+        "abstain": "895"
+      }
+    },
+    {
+      "title": "ProtoRev Revenue Allocation",
+      "voting_start_time": "2023-02-02T19:26:10.865Z",
+      "voting_end_time": "2023-02-07T19:26:10.865Z",
+      "voteMeta": {
+        "yes": "6090",
+        "no": "168",
+        "abstain": "26951"
+      }
+    },
+    {
+      "title": "OSMO/WYND Token Swap for Protocol Liquidity",
+      "voting_start_time": "2023-02-02T16:51:54.888Z",
+      "voting_end_time": "2023-02-07T16:51:54.888Z",
+      "voteMeta": {
+        "yes": "31272",
+        "no": "224",
+        "abstain": "2094"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/STRD",
+      "voting_start_time": "2023-02-02T17:47:23.921Z",
+      "voting_end_time": "2023-02-07T17:47:23.921Z",
+      "voteMeta": {
+        "yes": "31744",
+        "no": "210",
+        "abstain": "1138"
+      }
+    },
+    {
+      "title": "Update Shentu IBC Client on Osmosis",
+      "voting_start_time": "2023-02-01T09:51:33.061Z",
+      "voting_end_time": "2023-02-06T09:51:33.061Z",
+      "voteMeta": {
+        "yes": "33240",
+        "no": "30",
+        "abstain": "134"
+      }
+    },
+    {
+      "title": "Allow Apollo DAO LP Vault Contracts to be Uploaded",
+      "voting_start_time": "2023-01-31T14:10:31.755Z",
+      "voting_end_time": "2023-02-05T14:10:31.755Z",
+      "voteMeta": {
+        "yes": "33443",
+        "no": "151",
+        "abstain": "459"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-01-30",
+      "voting_start_time": "2023-01-30T15:30:08.867Z",
+      "voting_end_time": "2023-02-04T15:30:08.867Z",
+      "voteMeta": {
+        "yes": "33592",
+        "no": "52",
+        "abstain": "107"
+      }
+    },
+    {
+      "title": "Bootstrapping liquidity for Mars Protocol through Spend of Redirected Incentives",
+      "voting_start_time": "2023-01-28T16:16:56.871Z",
+      "voting_end_time": "2023-02-02T16:16:56.871Z",
+      "voteMeta": {
+        "yes": "10471",
+        "no": "192",
+        "abstain": "1077"
+      }
+    },
+    {
+      "title": "Allow Mars Outpost Contracts to be Uploaded to Osmosis",
+      "voting_start_time": "2023-01-28T16:16:29.098Z",
+      "voting_end_time": "2023-02-02T16:16:29.098Z",
+      "voteMeta": {
+        "yes": "33067",
+        "no": "114",
+        "abstain": "836"
+      }
+    },
+    {
+      "title": "Reactivate expired IBC client 07-tendermint-1",
+      "voting_start_time": "2023-01-27T20:22:30.230Z",
+      "voting_end_time": "2023-02-01T20:22:30.230Z",
+      "voteMeta": {
+        "yes": "35074",
+        "no": "42",
+        "abstain": "367"
+      }
+    },
+    {
+      "title": "Update the Impacthub-3 client with Ixo-4 client to recover channel between Osmosis and Ixo",
+      "voting_start_time": "2023-01-30T07:56:53.241Z",
+      "voting_end_time": "2023-02-04T07:56:53.241Z",
+      "voteMeta": {
+        "yes": "32071",
+        "no": "54",
+        "abstain": "446"
+      }
+    },
+    {
+      "title": "Upload SwapRouter Contract",
+      "voting_start_time": "2023-01-28T11:10:54.015Z",
+      "voting_end_time": "2023-02-02T11:10:54.015Z",
+      "voteMeta": {
+        "yes": "32941",
+        "no": "58",
+        "abstain": "706"
+      }
+    },
+    {
+      "title": "AVAX Bootstrapping liquidity incentives",
+      "voting_start_time": "2023-01-25T14:43:34.804Z",
+      "voting_end_time": "2023-01-30T14:43:34.804Z",
+      "voteMeta": {
+        "yes": "10806",
+        "no": "133",
+        "abstain": "324"
+      }
+    },
+    {
+      "title": "Add AVAX to the list of Major category assets",
+      "voting_start_time": "2023-01-25T14:09:48.161Z",
+      "voting_end_time": "2023-01-30T14:09:48.161Z",
+      "voteMeta": {
+        "yes": "11150",
+        "no": "83",
+        "abstain": "282"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/AVAX (#899) incentivised pool",
+      "voting_start_time": "2023-01-25T14:09:29.668Z",
+      "voting_end_time": "2023-01-30T14:09:29.668Z",
+      "voteMeta": {
+        "yes": "10240",
+        "no": "96",
+        "abstain": "286"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-01-23",
+      "voting_start_time": "2023-01-23T16:26:05.006Z",
+      "voting_end_time": "2023-01-28T16:26:05.006Z",
+      "voteMeta": {
+        "yes": "21900",
+        "no": "56",
+        "abstain": "355"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-01-23",
+      "voting_start_time": "2023-01-23T16:25:44.191Z",
+      "voting_end_time": "2023-01-28T16:25:44.191Z",
+      "voteMeta": {
+        "yes": "5403",
+        "no": "560",
+        "abstain": "15307"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/WBNB",
+      "voting_start_time": "2023-01-21T13:36:33.280Z",
+      "voting_end_time": "2023-01-26T13:36:33.280Z",
+      "voteMeta": {
+        "yes": "21416",
+        "no": "145",
+        "abstain": "277"
+      }
+    },
+    {
+      "title": "Incentivise Core StableSwap pool: USDC/USDT/BUSD",
+      "voting_start_time": "2023-01-18T14:54:49.591Z",
+      "voting_end_time": "2023-01-23T14:54:49.591Z",
+      "voteMeta": {
+        "yes": "22342",
+        "no": "131",
+        "abstain": "325"
+      }
+    },
+    {
+      "title": "Recognise BUSD as a Stablecoin asset",
+      "voting_start_time": "2023-01-18T14:16:14.258Z",
+      "voting_end_time": "2023-01-23T14:16:14.258Z",
+      "voteMeta": {
+        "yes": "20910",
+        "no": "249",
+        "abstain": "909"
+      }
+    },
+    {
+      "title": "Recognise USDT as a Stablecoin asset",
+      "voting_start_time": "2023-01-18T14:15:19.961Z",
+      "voting_end_time": "2023-01-23T14:15:19.961Z",
+      "voteMeta": {
+        "yes": "20870",
+        "no": "242",
+        "abstain": "496"
+      }
+    },
+    {
+      "title": "Osmosis v14 Neon Upgrade",
+      "voting_start_time": "2023-01-17T18:06:51.549Z",
+      "voting_end_time": "2023-01-22T18:06:51.549Z",
+      "voteMeta": {
+        "yes": "22816",
+        "no": "11",
+        "abstain": "73"
+      }
+    },
+    {
+      "title": "Phase out 1 and 7 day liquidity bonds",
+      "voting_start_time": "2023-01-17T07:51:48.268Z",
+      "voting_end_time": "2023-01-22T07:51:48.268Z",
+      "voteMeta": {
+        "yes": "19455",
+        "no": "378",
+        "abstain": "1152"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-01-16",
+      "voting_start_time": "2023-01-16T15:48:46.020Z",
+      "voting_end_time": "2023-01-21T15:48:46.020Z",
+      "voteMeta": {
+        "yes": "20797",
+        "no": "40",
+        "abstain": "185"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/WMATIC",
+      "voting_start_time": "2023-01-16T11:34:38.394Z",
+      "voting_end_time": "2023-01-21T11:34:38.394Z",
+      "voteMeta": {
+        "yes": "20916",
+        "no": "109",
+        "abstain": "164"
+      }
+    },
+    {
+      "title": "Phase out Incentives for EEUR",
+      "voting_start_time": "2023-01-16T11:33:32.554Z",
+      "voting_end_time": "2023-01-21T11:33:32.554Z",
+      "voteMeta": {
+        "yes": "20533",
+        "no": "46",
+        "abstain": "182"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-01-09",
+      "voting_start_time": "2023-01-09T17:02:46.293Z",
+      "voting_end_time": "2023-01-14T17:02:46.293Z",
+      "voteMeta": {
+        "yes": "27499",
+        "no": "54",
+        "abstain": "142"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2023-01-02",
+      "voting_start_time": "2023-01-02T15:40:03.525Z",
+      "voting_end_time": "2023-01-07T15:40:03.525Z",
+      "voteMeta": {
+        "yes": "26944",
+        "no": "30",
+        "abstain": "154"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/HUAHUA",
+      "voting_start_time": "2022-12-29T10:36:55.015Z",
+      "voting_end_time": "2023-01-03T10:36:55.015Z",
+      "voteMeta": {
+        "yes": "25392",
+        "no": "293",
+        "abstain": "462"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-12-26",
+      "voting_start_time": "2022-12-26T16:34:32.064Z",
+      "voting_end_time": "2022-12-31T16:34:32.064Z",
+      "voteMeta": {
+        "yes": "25553",
+        "no": "68",
+        "abstain": "292"
+      }
+    },
+    {
+      "title": "Reduce incentives on established Major and Stable category pools",
+      "voting_start_time": "2022-12-21T13:41:04.596Z",
+      "voting_end_time": "2022-12-26T13:41:04.596Z",
+      "voteMeta": {
+        "yes": "22749",
+        "no": "170",
+        "abstain": "488"
+      }
+    },
+    {
+      "title": "Remove Non-OSMO pool incentives",
+      "voting_start_time": "2022-12-21T13:29:43.583Z",
+      "voting_end_time": "2022-12-26T13:29:43.583Z",
+      "voteMeta": {
+        "yes": "9778",
+        "no": "348",
+        "abstain": "13750"
+      }
+    },
+    {
+      "title": "Community consent Cosmos Pay supporting OSMO",
+      "voting_start_time": "2022-12-20T19:50:42.349Z",
+      "voting_end_time": "2022-12-25T19:50:42.349Z",
+      "voteMeta": {
+        "yes": "19365",
+        "no": "1863",
+        "abstain": "2365"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-12-19",
+      "voting_start_time": "2022-12-19T16:47:33.161Z",
+      "voting_end_time": "2022-12-24T16:47:33.161Z",
+      "voteMeta": {
+        "yes": "24957",
+        "no": "39",
+        "abstain": "121"
+      }
+    },
+    {
+      "title": "WMATIC bootstrapping liquidity incentives",
+      "voting_start_time": "2022-12-14T14:03:22.550Z",
+      "voting_end_time": "2022-12-19T14:03:22.550Z",
+      "voteMeta": {
+        "yes": "20977",
+        "no": "153",
+        "abstain": "508"
+      }
+    },
+    {
+      "title": "Add WMATIC to the list of Major category assets",
+      "voting_start_time": "2022-12-14T13:57:24.847Z",
+      "voting_end_time": "2022-12-19T13:57:24.847Z",
+      "voteMeta": {
+        "yes": "20348",
+        "no": "135",
+        "abstain": "540"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/WMATIC(#789) incentivised pool",
+      "voting_start_time": "2022-12-14T13:56:19.791Z",
+      "voting_end_time": "2022-12-19T13:56:19.791Z",
+      "voteMeta": {
+        "yes": "20211",
+        "no": "116",
+        "abstain": "551"
+      }
+    },
+    {
+      "title": "Upload ICNS Contracts: Registrar Contract, Part 3",
+      "voting_start_time": "2022-12-13T15:10:36.228Z",
+      "voting_end_time": "2022-12-18T15:10:36.228Z",
+      "voteMeta": {
+        "yes": "19804",
+        "no": "61",
+        "abstain": "109"
+      }
+    },
+    {
+      "title": "Upload ICNS Contracts: Resolver Contract, Part 2",
+      "voting_start_time": "2022-12-13T15:10:14.503Z",
+      "voting_end_time": "2022-12-18T15:10:14.503Z",
+      "voteMeta": {
+        "yes": "19840",
+        "no": "58",
+        "abstain": "113"
+      }
+    },
+    {
+      "title": "Upload ICNS Contracts: Name-nft Contract, Part 1",
+      "voting_start_time": "2022-12-13T15:09:14.157Z",
+      "voting_end_time": "2022-12-18T15:09:14.157Z",
+      "voteMeta": {
+        "yes": "19666",
+        "no": "62",
+        "abstain": "113"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-12-12",
+      "voting_start_time": "2022-12-12T15:18:35.484Z",
+      "voting_end_time": "2022-12-17T15:18:35.484Z",
+      "voteMeta": {
+        "yes": "21867",
+        "no": "42",
+        "abstain": "138"
+      }
+    },
+    {
+      "title": "Osmosis Support Lab Funding Round December 2022 - February 2023",
+      "voting_start_time": "2022-12-10T02:37:27.982Z",
+      "voting_end_time": "2022-12-15T02:37:27.982Z",
+      "voteMeta": {
+        "yes": "23013",
+        "no": "178",
+        "abstain": "682"
+      }
+    },
+    {
+      "title": "Stableswap Incentive structure",
+      "voting_start_time": "2022-12-07T13:58:16.782Z",
+      "voting_end_time": "2022-12-12T13:58:16.782Z",
+      "voteMeta": {
+        "yes": "22568",
+        "no": "42",
+        "abstain": "101"
+      }
+    },
+    {
+      "title": "Phase out Incentives on Low Revenue Pools",
+      "voting_start_time": "2022-12-07T13:54:13.813Z",
+      "voting_end_time": "2022-12-12T13:54:13.813Z",
+      "voteMeta": {
+        "yes": "21340",
+        "no": "236",
+        "abstain": "488"
+      }
+    },
+    {
+      "title": "Proposal on Transferring ION to ION DAO Treasury",
+      "voting_start_time": "2022-12-06T13:50:25.348Z",
+      "voting_end_time": "2022-12-11T13:50:25.348Z",
+      "voteMeta": {
+        "yes": "8030",
+        "no": "206",
+        "abstain": "13475"
+      }
+    },
+    {
+      "title": "Replace LUNC IBC Client 07-tendermint-1549 with 07-tendermint-2369",
+      "voting_start_time": "2022-12-06T04:58:47.114Z",
+      "voting_end_time": "2022-12-11T04:58:47.114Z",
+      "voteMeta": {
+        "yes": "20917",
+        "no": "83",
+        "abstain": "525"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-12-05",
+      "voting_start_time": "2022-12-05T15:16:02.527Z",
+      "voting_end_time": "2022-12-10T15:16:02.527Z",
+      "voteMeta": {
+        "yes": "22484",
+        "no": "35",
+        "abstain": "107"
+      }
+    },
+    {
+      "title": "Match External Incentives to extended STARS/OSMO and ATOM/STARS pairs",
+      "voting_start_time": "2022-12-04T03:01:12.878Z",
+      "voting_end_time": "2022-12-09T03:01:12.878Z",
+      "voteMeta": {
+        "yes": "23650",
+        "no": "319",
+        "abstain": "694"
+      }
+    },
+    {
+      "title": "Osmosis v13 Fluorine upgrade proposal",
+      "voting_start_time": "2022-12-03T00:27:25.969Z",
+      "voting_end_time": "2022-12-08T00:27:25.969Z",
+      "voteMeta": {
+        "yes": "27636",
+        "no": "18",
+        "abstain": "64"
+      }
+    },
+    {
+      "title": "Signaling Proposal for stOSMO/OSMO (#833) Incentivised Pool",
+      "voting_start_time": "2022-11-29T16:22:27.244Z",
+      "voting_end_time": "2022-12-04T16:22:27.244Z",
+      "voteMeta": {
+        "yes": "27597",
+        "no": "258",
+        "abstain": "190"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-11-28",
+      "voting_start_time": "2022-11-28T15:22:59.467Z",
+      "voting_end_time": "2022-12-03T15:22:59.467Z",
+      "voteMeta": {
+        "yes": "27579",
+        "no": "61",
+        "abstain": "218"
+      }
+    },
+    {
+      "title": "Revive IBC Client to Dig",
+      "voting_start_time": "2022-11-24T02:05:40.682Z",
+      "voting_end_time": "2022-11-29T02:05:40.682Z",
+      "voteMeta": {
+        "yes": "23826",
+        "no": "279",
+        "abstain": "4158"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-11-21",
+      "voting_start_time": "2022-11-21T15:19:09.992Z",
+      "voting_end_time": "2022-11-26T15:19:09.992Z",
+      "voteMeta": {
+        "yes": "27943",
+        "no": "66",
+        "abstain": "154"
+      }
+    },
+    {
+      "title": "Signaling Proposal for IST/OSMO External Incentive Match",
+      "voting_start_time": "2022-11-15T02:44:43.705Z",
+      "voting_end_time": "2022-11-20T02:44:43.705Z",
+      "voteMeta": {
+        "yes": "22126",
+        "no": "298",
+        "abstain": "585"
+      }
+    },
+    {
+      "title": "Further Reduction of Liquidity Emissions",
+      "voting_start_time": "2022-11-14T16:05:22.486Z",
+      "voting_end_time": "2022-11-19T16:05:22.486Z",
+      "voteMeta": {
+        "yes": "21950",
+        "no": "197",
+        "abstain": "668"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-11-14",
+      "voting_start_time": "2022-11-14T15:22:54.568Z",
+      "voting_end_time": "2022-11-19T15:22:54.568Z",
+      "voteMeta": {
+        "yes": "21617",
+        "no": "41",
+        "abstain": "215"
+      }
+    },
+    {
+      "title": "Osmosis Grants Program (OGP) Renewal",
+      "voting_start_time": "2022-11-14T15:38:38.078Z",
+      "voting_end_time": "2022-11-19T15:38:38.078Z",
+      "voteMeta": {
+        "yes": "19603",
+        "no": "1669",
+        "abstain": "1158"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/NGM (#463)",
+      "voting_start_time": "2022-11-10T13:26:18.410Z",
+      "voting_end_time": "2022-11-15T13:26:18.410Z",
+      "voteMeta": {
+        "yes": "20991",
+        "no": "264",
+        "abstain": "336"
+      }
+    },
+    {
+      "title": "WBNB bootstrapping liquidity incentives",
+      "voting_start_time": "2022-11-09T14:39:46.993Z",
+      "voting_end_time": "2022-11-14T14:39:46.993Z",
+      "voteMeta": {
+        "yes": "21096",
+        "no": "191",
+        "abstain": "301"
+      }
+    },
+    {
+      "title": "Add WBNB to the list of Major category assets",
+      "voting_start_time": "2022-11-09T14:38:53.415Z",
+      "voting_end_time": "2022-11-14T14:38:53.415Z",
+      "voteMeta": {
+        "yes": "21643",
+        "no": "140",
+        "abstain": "234"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/WBNB incentivised pool",
+      "voting_start_time": "2022-11-08T22:03:49.555Z",
+      "voting_end_time": "2022-11-13T22:03:49.555Z",
+      "voteMeta": {
+        "yes": "20705",
+        "no": "175",
+        "abstain": "461"
+      }
+    },
+    {
+      "title": "Update IBC Client for Cerberus",
+      "voting_start_time": "2022-11-08T14:12:33.418Z",
+      "voting_end_time": "2022-11-13T14:12:33.418Z",
+      "voteMeta": {
+        "yes": "20520",
+        "no": "83",
+        "abstain": "505"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-11-07",
+      "voting_start_time": "2022-11-07T15:24:12.837Z",
+      "voting_end_time": "2022-11-12T15:24:12.837Z",
+      "voteMeta": {
+        "yes": "11929",
+        "no": "86",
+        "abstain": "397"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/AXL",
+      "voting_start_time": "2022-11-04T21:57:39.287Z",
+      "voting_end_time": "2022-11-09T21:57:39.287Z",
+      "voteMeta": {
+        "yes": "26475",
+        "no": "161",
+        "abstain": "238"
+      }
+    },
+    {
+      "title": "Implement A Minimum Gas Price of 0.0025 uOSMO on Osmosis",
+      "voting_start_time": "2022-11-04T22:00:58.830Z",
+      "voting_end_time": "2022-11-09T22:00:58.830Z",
+      "voteMeta": {
+        "yes": "27745",
+        "no": "441",
+        "abstain": "176"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-10-31",
+      "voting_start_time": "2022-10-31T15:56:47.876Z",
+      "voting_end_time": "2022-11-05T15:56:47.876Z",
+      "voteMeta": {
+        "yes": "31588",
+        "no": "41",
+        "abstain": "141"
+      }
+    },
+    {
+      "title": "Signalling Proposal for LIKE/OSMO External Incentive Match",
+      "voting_start_time": "2022-10-26T06:16:04.089Z",
+      "voting_end_time": "2022-10-31T06:16:04.089Z",
+      "voteMeta": {
+        "yes": "23206",
+        "no": "1133",
+        "abstain": "1317"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-10-24",
+      "voting_start_time": "2022-10-24T15:40:22.921Z",
+      "voting_end_time": "2022-10-29T15:40:22.921Z",
+      "voteMeta": {
+        "yes": "25289",
+        "no": "39",
+        "abstain": "131"
+      }
+    },
+    {
+      "title": "Match External Incentives for GRAV incentivised pairs",
+      "voting_start_time": "2022-10-19T19:26:44.139Z",
+      "voting_end_time": "2022-10-24T19:26:44.139Z",
+      "voteMeta": {
+        "yes": "11444",
+        "no": "1414",
+        "abstain": "16878"
+      }
+    },
+    {
+      "title": "Remove Incentives from OSMO/ROWAN (#629)",
+      "voting_start_time": "2022-10-17T15:41:03.640Z",
+      "voting_end_time": "2022-10-22T15:41:03.640Z",
+      "voteMeta": {
+        "yes": "10193",
+        "no": "552",
+        "abstain": "15515"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-10-17",
+      "voting_start_time": "2022-10-17T15:23:46.852Z",
+      "voting_end_time": "2022-10-22T15:23:46.852Z",
+      "voteMeta": {
+        "yes": "26157",
+        "no": "26",
+        "abstain": "104"
+      }
+    },
+    {
+      "title": "Gravity Incentivised Pools",
+      "voting_start_time": "2022-10-14T21:14:46.330Z",
+      "voting_end_time": "2022-10-19T21:14:46.330Z",
+      "voteMeta": {
+        "yes": "21738",
+        "no": "171",
+        "abstain": "305"
+      }
+    },
+    {
+      "title": "Match External Incentives on OSMO/EVMOS (#722)",
+      "voting_start_time": "2022-10-12T13:28:12.251Z",
+      "voting_end_time": "2022-10-17T13:28:12.251Z",
+      "voteMeta": {
+        "yes": "16848",
+        "no": "131",
+        "abstain": "144"
+      }
+    },
+    {
+      "title": "Signaling Proposal for STRD/OSMO (#806) Incentivised Pool",
+      "voting_start_time": "2022-10-11T01:57:29.831Z",
+      "voting_end_time": "2022-10-16T01:57:29.831Z",
+      "voteMeta": {
+        "yes": "14637",
+        "no": "340",
+        "abstain": "380"
+      }
+    },
+    {
+      "title": "Regular Incentive adjustment for 2022-10-10",
+      "voting_start_time": "2022-10-10T16:01:40.388Z",
+      "voting_end_time": "2022-10-15T16:01:40.388Z",
+      "voteMeta": {
+        "yes": "15003",
+        "no": "174",
+        "abstain": "389"
+      }
+    },
+    {
+      "title": "Upload Autonomy Network Stops/Limits Wrapper Contract",
+      "voting_start_time": "2022-10-07T15:41:12.907Z",
+      "voting_end_time": "2022-10-12T15:41:12.907Z",
+      "voteMeta": {
+        "yes": "25575",
+        "no": "642",
+        "abstain": "818"
+      }
+    },
+    {
+      "title": "Upload Autonomy Network Regsitry Stake Contract",
+      "voting_start_time": "2022-10-07T15:32:39.661Z",
+      "voting_end_time": "2022-10-12T15:32:39.661Z",
+      "voteMeta": {
+        "yes": "24691",
+        "no": "638",
+        "abstain": "825"
+      }
+    },
+    {
+      "title": "Signaling Proposal for Skip to Develop the ProtoRev Module",
+      "voting_start_time": "2022-10-07T15:59:33.609Z",
+      "voting_end_time": "2022-10-12T15:59:33.609Z",
+      "voteMeta": {
+        "yes": "26506",
+        "no": "60",
+        "abstain": "310"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-10-03\"",
+      "voting_start_time": "2022-10-03T15:21:10.795Z",
+      "voting_end_time": "2022-10-08T15:21:10.795Z",
+      "voteMeta": {
+        "yes": "17803",
+        "no": "39",
+        "abstain": "181"
+      }
+    },
+    {
+      "title": "Upload Apollo Liquid Staking Contract",
+      "voting_start_time": "2022-09-30T21:46:05.948Z",
+      "voting_end_time": "2022-10-05T21:46:05.948Z",
+      "voteMeta": {
+        "yes": "2958",
+        "no": "1924",
+        "abstain": "1932"
+      }
+    },
+    {
+      "title": "Increase the Osmosis Active Validator Set to 150 Validators (from 135)",
+      "voting_start_time": "2022-09-28T15:51:09.045Z",
+      "voting_end_time": "2022-10-03T15:51:09.045Z",
+      "voteMeta": {
+        "yes": "21188",
+        "no": "257",
+        "abstain": "340"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-09-26\"",
+      "voting_start_time": "2022-09-26T15:18:49.365Z",
+      "voting_end_time": "2022-10-01T15:18:49.365Z",
+      "voteMeta": {
+        "yes": "16995",
+        "no": "39",
+        "abstain": "152"
+      }
+    },
+    {
+      "title": "Osmosis v12 Oxygen Upgrade",
+      "voting_start_time": "2022-09-24T17:33:25.872Z",
+      "voting_end_time": "2022-09-29T17:33:25.872Z",
+      "voteMeta": {
+        "yes": "23852",
+        "no": "23",
+        "abstain": "45"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/AXL incentivised pool",
+      "voting_start_time": "2022-09-20T21:01:53.548Z",
+      "voting_end_time": "2022-09-25T21:01:53.548Z",
+      "voteMeta": {
+        "yes": "15719",
+        "no": "173",
+        "abstain": "425"
+      }
+    },
+    {
+      "title": "Proposal for Loan Swap of OSMO to Axelar",
+      "voting_start_time": "2022-09-19T22:21:23.113Z",
+      "voting_end_time": "2022-09-24T22:21:23.113Z",
+      "voteMeta": {
+        "yes": "15419",
+        "no": "240",
+        "abstain": "457"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-09-19\"",
+      "voting_start_time": "2022-09-19T15:26:30.605Z",
+      "voting_end_time": "2022-09-24T15:26:30.605Z",
+      "voteMeta": {
+        "yes": "15132",
+        "no": "37",
+        "abstain": "192"
+      }
+    },
+    {
+      "title": "Proposal for Community Enabled Analytics Program - Flipside Crypto",
+      "voting_start_time": "2022-09-18T19:07:46.871Z",
+      "voting_end_time": "2022-09-23T19:07:46.871Z",
+      "voteMeta": {
+        "yes": "17517",
+        "no": "155",
+        "abstain": "695"
+      }
+    },
+    {
+      "title": "Signaling Proposal for ATOM/stATOM (#803) Incentivised Pool",
+      "voting_start_time": "2022-09-14T02:51:30.125Z",
+      "voting_end_time": "2022-09-19T02:51:30.125Z",
+      "voteMeta": {
+        "yes": "21570",
+        "no": "168",
+        "abstain": "261"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-09-12\"",
+      "voting_start_time": "2022-09-12T10:28:35.976Z",
+      "voting_end_time": "2022-09-17T10:28:35.976Z",
+      "voteMeta": {
+        "yes": "18748",
+        "no": "78",
+        "abstain": "234"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-09-05\"",
+      "voting_start_time": "2022-09-05T14:39:13.039Z",
+      "voting_end_time": "2022-09-10T14:39:13.039Z",
+      "voteMeta": {
+        "yes": "18590",
+        "no": "86",
+        "abstain": "485"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/BLD pool (#795) incentivised pool",
+      "voting_start_time": "2022-09-03T20:02:15.129Z",
+      "voting_end_time": "2022-09-08T20:02:15.129Z",
+      "voteMeta": {
+        "yes": "13681",
+        "no": "788",
+        "abstain": "3653"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-08-29\"",
+      "voting_start_time": "2022-08-29T15:48:15.566Z",
+      "voting_end_time": "2022-09-03T15:48:15.566Z",
+      "voteMeta": {
+        "yes": "15886",
+        "no": "70",
+        "abstain": "294"
+      }
+    },
+    {
+      "title": "Osmosis Support Lab Funding Round September - November 2022",
+      "voting_start_time": "2022-08-29T13:10:27.143Z",
+      "voting_end_time": "2022-09-03T13:10:27.143Z",
+      "voteMeta": {
+        "yes": "16558",
+        "no": "271",
+        "abstain": "285"
+      }
+    },
+    {
+      "title": "Signalling Proposal: Removal of incentives from pool #690 MNTL/OSMO",
+      "voting_start_time": "2022-08-31T06:07:17.874Z",
+      "voting_end_time": "2022-09-05T06:07:17.874Z",
+      "voteMeta": {
+        "yes": "14837",
+        "no": "307",
+        "abstain": "926"
+      }
+    },
+    {
+      "title": "Revised - [ION DAO] initialize",
+      "voting_start_time": "2022-08-25T16:35:44.130Z",
+      "voting_end_time": "2022-08-30T16:35:44.130Z",
+      "voteMeta": {
+        "yes": "16852",
+        "no": "96",
+        "abstain": "353"
+      }
+    },
+    {
+      "title": "[ION DAO] Initialize",
+      "voting_start_time": "2022-08-25T09:40:19.466Z",
+      "voting_end_time": "2022-08-30T09:40:19.466Z",
+      "voteMeta": {
+        "yes": "8095",
+        "no": "7022",
+        "abstain": "617"
+      }
+    },
+    {
+      "title": "Remove blocked.go from Osmosis",
+      "voting_start_time": "2022-08-26T17:30:22.274Z",
+      "voting_end_time": "2022-08-31T17:30:22.274Z",
+      "voteMeta": {
+        "yes": "7406",
+        "no": "2702",
+        "abstain": "4853"
+      }
+    },
+    {
+      "title": "Upload Apollo Liquid Staking Contract",
+      "voting_start_time": "2022-08-22T16:51:42.853Z",
+      "voting_end_time": "2022-08-27T16:51:42.853Z",
+      "voteMeta": {
+        "yes": "11845",
+        "no": "366",
+        "abstain": "773"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-08-22\"",
+      "voting_start_time": "2022-08-22T14:36:34.905Z",
+      "voting_end_time": "2022-08-27T14:36:34.905Z",
+      "voteMeta": {
+        "yes": "12392",
+        "no": "99",
+        "abstain": "1375"
+      }
+    },
+    {
+      "title": "Signalling Proposal: Removal of incentives on pools #600 ATOM/CMDX & #601 CMDX/OSMO",
+      "voting_start_time": "2022-08-20T03:21:05.087Z",
+      "voting_end_time": "2022-08-25T03:21:05.087Z",
+      "voteMeta": {
+        "yes": "10027",
+        "no": "576",
+        "abstain": "3457"
+      }
+    },
+    {
+      "title": "[ION DAO] Store DAO contract's code",
+      "voting_start_time": "2022-08-19T06:01:42.331Z",
+      "voting_end_time": "2022-08-24T06:01:42.331Z",
+      "voteMeta": {
+        "yes": "8997",
+        "no": "100",
+        "abstain": "623"
+      }
+    },
+    {
+      "title": "[ION DAO] Store staking contract's code",
+      "voting_start_time": "2022-08-19T06:01:36.030Z",
+      "voting_end_time": "2022-08-24T06:01:36.030Z",
+      "voteMeta": {
+        "yes": "13786",
+        "no": "124",
+        "abstain": "546"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-08-15\"",
+      "voting_start_time": "2022-08-15T15:13:01.562Z",
+      "voting_end_time": "2022-08-20T15:13:01.562Z",
+      "voteMeta": {
+        "yes": "19796",
+        "no": "55",
+        "abstain": "310"
+      }
+    },
+    {
+      "title": "Signaling Proposal for GLTO/OSMO (#778) incentivized pool",
+      "voting_start_time": "2022-08-09T14:44:18.745Z",
+      "voting_end_time": "2022-08-14T14:44:18.745Z",
+      "voteMeta": {
+        "yes": "8765",
+        "no": "6244",
+        "abstain": "789"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-08-08\"",
+      "voting_start_time": "2022-08-08T16:43:34.565Z",
+      "voting_end_time": "2022-08-13T16:43:34.565Z",
+      "voteMeta": {
+        "yes": "14408",
+        "no": "75",
+        "abstain": "452"
+      }
+    },
+    {
+      "title": "Match external ECH incentives on ECH/OSMO (#747)",
+      "voting_start_time": "2022-08-06T09:55:08.202Z",
+      "voting_end_time": "2022-08-11T09:55:08.202Z",
+      "voteMeta": {
+        "yes": "4528",
+        "no": "2393",
+        "abstain": "645"
+      }
+    },
+    {
+      "title": "[ION DAO] Store DAO contract's code",
+      "voting_start_time": "2022-08-06T09:00:47.062Z",
+      "voting_end_time": "2022-08-11T09:00:47.062Z",
+      "voteMeta": {
+        "yes": "1154",
+        "no": "2472",
+        "abstain": "294"
+      }
+    },
+    {
+      "title": "[ION DAO] Store staking contract's code",
+      "voting_start_time": "2022-08-06T09:00:40.841Z",
+      "voting_end_time": "2022-08-11T09:00:40.841Z",
+      "voteMeta": {
+        "yes": "4471",
+        "no": "2536",
+        "abstain": "310"
+      }
+    },
+    {
+      "title": "Increase Deposit for Proposals to 1600 OSMO",
+      "voting_start_time": "2022-08-05T10:08:49.101Z",
+      "voting_end_time": "2022-08-10T10:08:49.101Z",
+      "voteMeta": {
+        "yes": "13089",
+        "no": "179",
+        "abstain": "113"
+      }
+    },
+    {
+      "title": "Upload CW3 Fixed Multisig",
+      "voting_start_time": "2022-08-03T00:30:18.949Z",
+      "voting_end_time": "2022-08-08T00:30:18.949Z",
+      "voteMeta": {
+        "yes": "9585",
+        "no": "42",
+        "abstain": "222"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-08-01\"",
+      "voting_start_time": "2022-08-01T15:47:25.991Z",
+      "voting_end_time": "2022-08-06T15:47:25.991Z",
+      "voteMeta": {
+        "yes": "15403",
+        "no": "66",
+        "abstain": "445"
+      }
+    },
+    {
+      "title": "Osmosis v11 Upgrade",
+      "voting_start_time": "2022-07-28T15:57:50.432Z",
+      "voting_end_time": "2022-08-02T15:57:50.432Z",
+      "voteMeta": {
+        "yes": "17194",
+        "no": "44",
+        "abstain": "75"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/LINK(#731) incentivised pool",
+      "voting_start_time": "2022-07-27T09:47:11.818Z",
+      "voting_end_time": "2022-08-01T09:47:11.818Z",
+      "voteMeta": {
+        "yes": "10363",
+        "no": "804",
+        "abstain": "788"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/INJ (#725) incentivised pool",
+      "voting_start_time": "2022-07-27T09:44:37.816Z",
+      "voting_end_time": "2022-08-01T09:44:37.816Z",
+      "voteMeta": {
+        "yes": "7169",
+        "no": "2732",
+        "abstain": "1573"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-07-25\"",
+      "voting_start_time": "2022-07-25T16:13:00.867Z",
+      "voting_end_time": "2022-07-30T16:13:00.867Z",
+      "voteMeta": {
+        "yes": "11480",
+        "no": "76",
+        "abstain": "264"
+      }
+    },
+    {
+      "title": "Polkadot (DOT) Bootstrapping liquidity incentives",
+      "voting_start_time": "2022-07-25T08:56:20.336Z",
+      "voting_end_time": "2022-07-30T08:56:20.336Z",
+      "voteMeta": {
+        "yes": "11254",
+        "no": "242",
+        "abstain": "357"
+      }
+    },
+    {
+      "title": "Add Polkadot (DOT) to the list of Major category assets",
+      "voting_start_time": "2022-07-25T08:56:07.822Z",
+      "voting_end_time": "2022-07-30T08:56:07.822Z",
+      "voteMeta": {
+        "yes": "10563",
+        "no": "187",
+        "abstain": "821"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/DOT (#773) incentivised pools",
+      "voting_start_time": "2022-07-25T08:55:55.332Z",
+      "voting_end_time": "2022-07-30T08:55:55.332Z",
+      "voteMeta": {
+        "yes": "10777",
+        "no": "221",
+        "abstain": "747"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/EEUR",
+      "voting_start_time": "2022-07-20T09:06:03.680Z",
+      "voting_end_time": "2022-07-25T09:06:03.680Z",
+      "voteMeta": {
+        "yes": "17137",
+        "no": "293",
+        "abstain": "569"
+      }
+    },
+    {
+      "title": "Signalling Proposal for OSMO/KAVA(#730) incentivised pools",
+      "voting_start_time": "2022-07-20T09:01:45.886Z",
+      "voting_end_time": "2022-07-25T09:01:45.886Z",
+      "voteMeta": {
+        "yes": "15463",
+        "no": "590",
+        "abstain": "1058"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-07-18\"",
+      "voting_start_time": "2022-07-18T15:20:41.913Z",
+      "voting_end_time": "2022-07-23T15:20:41.913Z",
+      "voteMeta": {
+        "yes": "19309",
+        "no": "83",
+        "abstain": "226"
+      }
+    },
+    {
+      "title": "Match External Incentives on OSMO/EVMOS (#722)",
+      "voting_start_time": "2022-07-14T16:13:15.277Z",
+      "voting_end_time": "2022-07-19T16:13:15.277Z",
+      "voteMeta": {
+        "yes": "18892",
+        "no": "367",
+        "abstain": "559"
+      }
+    },
+    {
+      "title": "Governance Module Upgrade: Expedited Proposals",
+      "voting_start_time": "2022-07-14T12:09:04.160Z",
+      "voting_end_time": "2022-07-19T12:09:04.160Z",
+      "voteMeta": {
+        "yes": "18544",
+        "no": "125",
+        "abstain": "204"
+      }
+    },
+    {
+      "title": "Gift to Osmosis stakeholders",
+      "voting_start_time": "2022-07-12T12:21:25.393Z",
+      "voting_end_time": "2022-07-17T12:21:25.393Z",
+      "voteMeta": {
+        "yes": "10353",
+        "no": "1879",
+        "abstain": "622"
+      }
+    },
+    {
+      "title": " Match XPRT External Incentives for Pools XPRT/USDC(#719) & XPRT/OSMO(#15)",
+      "voting_start_time": "2022-07-11T20:33:30.398Z",
+      "voting_end_time": "2022-07-16T20:33:30.398Z",
+      "voteMeta": {
+        "yes": "14698",
+        "no": "1766",
+        "abstain": "3361"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-07-11\"",
+      "voting_start_time": "2022-07-11T16:09:18.656Z",
+      "voting_end_time": "2022-07-16T16:09:18.656Z",
+      "voteMeta": {
+        "yes": "28934",
+        "no": "107",
+        "abstain": "333"
+      }
+    },
+    {
+      "title": "Reduce emissions to less strategically important pools",
+      "voting_start_time": "2022-07-05T13:55:06.951Z",
+      "voting_end_time": "2022-07-10T13:55:06.951Z",
+      "voteMeta": {
+        "yes": "20076",
+        "no": "273",
+        "abstain": "412"
+      }
+    },
+    {
+      "title": "Phase out Incentives on smaller Other Category pools",
+      "voting_start_time": "2022-07-05T13:54:16.867Z",
+      "voting_end_time": "2022-07-10T13:54:16.867Z",
+      "voteMeta": {
+        "yes": "16877",
+        "no": "679",
+        "abstain": "2270"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-07-04\"",
+      "voting_start_time": "2022-07-04T15:39:01.955Z",
+      "voting_end_time": "2022-07-09T15:39:01.955Z",
+      "voteMeta": {
+        "yes": "29731",
+        "no": "121",
+        "abstain": "347"
+      }
+    },
+    {
+      "title": "Manual Incentive Adjustment - resubmission",
+      "voting_start_time": "2022-07-03T18:27:34.573Z",
+      "voting_end_time": "2022-07-08T18:27:34.573Z",
+      "voteMeta": {
+        "yes": "27966",
+        "no": "920",
+        "abstain": "1903"
+      }
+    },
+    {
+      "title": "Match External Incentives on OSMO/MNTL (#690)",
+      "voting_start_time": "2022-06-28T20:01:16.129Z",
+      "voting_end_time": "2022-07-03T20:01:16.129Z",
+      "voteMeta": {
+        "yes": "25252",
+        "no": "3021",
+        "abstain": "3162"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/EVMOS",
+      "voting_start_time": "2022-06-28T15:52:56.012Z",
+      "voting_end_time": "2022-07-03T15:52:56.012Z",
+      "voteMeta": {
+        "yes": "31868",
+        "no": "195",
+        "abstain": "219"
+      }
+    },
+    {
+      "title": "Continued reduction of emissions to Liquidity Pools",
+      "voting_start_time": "2022-06-28T15:47:31.856Z",
+      "voting_end_time": "2022-07-03T15:47:31.856Z",
+      "voteMeta": {
+        "yes": "30708",
+        "no": "279",
+        "abstain": "359"
+      }
+    },
+    {
+      "title": "Manual Incentive Adjustment - Completely remove incentives for various pools",
+      "voting_start_time": "2022-06-28T16:40:37.587Z",
+      "voting_end_time": "2022-07-03T16:40:37.587Z",
+      "voteMeta": {
+        "yes": "21796",
+        "no": "6807",
+        "abstain": "894"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-06-27\"",
+      "voting_start_time": "2022-06-27T15:37:57.991Z",
+      "voting_end_time": "2022-07-02T15:37:57.991Z",
+      "voteMeta": {
+        "yes": "30539",
+        "no": "132",
+        "abstain": "491"
+      }
+    },
+    {
+      "title": "Signaling proposal: Create a osmosis bug bounty",
+      "voting_start_time": "2022-06-26T21:59:23.935Z",
+      "voting_end_time": "2022-07-01T21:59:23.935Z",
+      "voteMeta": {
+        "yes": "31645",
+        "no": "82",
+        "abstain": "179"
+      }
+    },
+    {
+      "title": "External Incentive Matching reduction within non-OSMO categories",
+      "voting_start_time": "2022-06-23T15:10:37.607Z",
+      "voting_end_time": "2022-06-28T15:10:37.607Z",
+      "voteMeta": {
+        "yes": "30899",
+        "no": "206",
+        "abstain": "473"
+      }
+    },
+    {
+      "title": "Match external incentives on OSMO/ LIKE (Pool #553)",
+      "voting_start_time": "2022-06-23T10:11:46.561Z",
+      "voting_end_time": "2022-06-28T10:11:46.561Z",
+      "voteMeta": {
+        "yes": "21133",
+        "no": "3823",
+        "abstain": "5013"
+      }
+    },
+    {
+      "title": "Signalling proposal for MEME incentivized pools",
+      "voting_start_time": "2022-06-21T16:40:25.223Z",
+      "voting_end_time": "2022-06-26T16:40:25.223Z",
+      "voteMeta": {
+        "yes": "21253",
+        "no": "8171",
+        "abstain": "981"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-06-20\"",
+      "voting_start_time": "2022-06-20T16:01:00.121Z",
+      "voting_end_time": "2022-06-25T16:01:00.121Z",
+      "voteMeta": {
+        "yes": "30674",
+        "no": "140",
+        "abstain": "302"
+      }
+    },
+    {
+      "title": "Update Shentu Client on Osmosis",
+      "voting_start_time": "2022-06-17T05:33:53.113Z",
+      "voting_end_time": "2022-06-22T05:33:53.113Z",
+      "voteMeta": {
+        "yes": "32251",
+        "no": "109",
+        "abstain": "357"
+      }
+    },
+    {
+      "title": "Fix IBC transfers between Lum Network and Osmosis",
+      "voting_start_time": "2022-06-16T12:24:39.546Z",
+      "voting_end_time": "2022-06-21T12:24:39.546Z",
+      "voteMeta": {
+        "yes": "31581",
+        "no": "189",
+        "abstain": "266"
+      }
+    },
+    {
+      "title": "Udate Bostrom client on Osmosis",
+      "voting_start_time": "2022-06-16T08:54:41.311Z",
+      "voting_end_time": "2022-06-21T08:54:41.311Z",
+      "voteMeta": {
+        "yes": "30970",
+        "no": "100",
+        "abstain": "300"
+      }
+    },
+    {
+      "title": "Fix IBC transfers between Lum Network and Osmosis",
+      "voting_start_time": "2022-06-13T15:19:46.119Z",
+      "voting_end_time": "2022-06-18T15:19:46.119Z",
+      "voteMeta": {
+        "yes": "30011",
+        "no": "687",
+        "abstain": "456"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-06-06\"",
+      "voting_start_time": "2022-06-06T15:11:38.712Z",
+      "voting_end_time": "2022-06-11T15:11:38.712Z",
+      "voteMeta": {
+        "yes": "13260",
+        "no": "73",
+        "abstain": "292"
+      }
+    },
+    {
+      "title": "Osmosis v9 Nitrogen Upgrade",
+      "voting_start_time": "2022-06-01T21:00:48.898Z",
+      "voting_end_time": "2022-06-06T21:00:48.898Z",
+      "voteMeta": {
+        "yes": "28898",
+        "no": "91",
+        "abstain": "210"
+      }
+    },
+    {
+      "title": "Osmosis Ministry of Marketing Funding Round: June - November 2022",
+      "voting_start_time": "2022-06-01T06:51:45.960Z",
+      "voting_end_time": "2022-06-06T06:51:45.960Z",
+      "voteMeta": {
+        "yes": "15013",
+        "no": "1411",
+        "abstain": "3541"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/REGEN",
+      "voting_start_time": "2022-06-01T00:59:44.784Z",
+      "voting_end_time": "2022-06-06T00:59:44.784Z",
+      "voteMeta": {
+        "yes": "17167",
+        "no": "689",
+        "abstain": "1180"
+      }
+    },
+    {
+      "title": "Approve Axelar via Moonbeam as the Canonical Polkadot Bridge",
+      "voting_start_time": "2022-05-31T10:29:29.856Z",
+      "voting_end_time": "2022-06-05T10:29:29.856Z",
+      "voteMeta": {
+        "yes": "19275",
+        "no": "172",
+        "abstain": "509"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-05-30\"",
+      "voting_start_time": "2022-05-30T15:48:13.354Z",
+      "voting_end_time": "2022-06-04T15:48:13.354Z",
+      "voteMeta": {
+        "yes": "18432",
+        "no": "147",
+        "abstain": "532"
+      }
+    },
+    {
+      "title": "Additional Funding for the Osmosis Grants Program",
+      "voting_start_time": "2022-05-29T17:14:26.353Z",
+      "voting_end_time": "2022-06-03T17:14:26.353Z",
+      "voteMeta": {
+        "yes": "18505",
+        "no": "279",
+        "abstain": "494"
+      }
+    },
+    {
+      "title": "Osmosis Support Lab Funding Round June - August 2022",
+      "voting_start_time": "2022-05-27T20:05:55.212Z",
+      "voting_end_time": "2022-06-01T20:05:55.212Z",
+      "voteMeta": {
+        "yes": "17581",
+        "no": "461",
+        "abstain": "869"
+      }
+    },
+    {
+      "title": "Major Incentives Category Rebalance",
+      "voting_start_time": "2022-05-27T08:56:50.767Z",
+      "voting_end_time": "2022-06-01T08:56:50.767Z",
+      "voteMeta": {
+        "yes": "17430",
+        "no": "322",
+        "abstain": "652"
+      }
+    },
+    {
+      "title": "Enable Superfluid for XPRT/OSMO (pool 15)",
+      "voting_start_time": "2022-05-26T12:20:40.914Z",
+      "voting_end_time": "2022-05-31T12:20:40.914Z",
+      "voteMeta": {
+        "yes": "13461",
+        "no": "1059",
+        "abstain": "2088"
+      }
+    },
+    {
+      "title": " Match XPRT External Incentives for XPRT/USDC (pool #719)",
+      "voting_start_time": "2022-05-26T11:18:40.116Z",
+      "voting_end_time": "2022-05-31T11:18:40.116Z",
+      "voteMeta": {
+        "yes": "12800",
+        "no": "1307",
+        "abstain": "2029"
+      }
+    },
+    {
+      "title": "Enable Superfluid for XPRT/OSMO (pool 15)",
+      "voting_start_time": "2022-05-26T11:16:51.022Z",
+      "voting_end_time": "2022-05-31T11:16:51.022Z",
+      "voteMeta": {
+        "yes": "13680",
+        "no": "1324",
+        "abstain": "1815"
+      }
+    },
+    {
+      "title": "EVMOS Incentivized pool with starting Incentives of 0.5%",
+      "voting_start_time": "2022-05-26T09:39:45.431Z",
+      "voting_end_time": "2022-05-31T09:39:45.431Z",
+      "voteMeta": {
+        "yes": "16926",
+        "no": "651",
+        "abstain": "747"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/WBTC",
+      "voting_start_time": "2022-05-26T07:58:54.396Z",
+      "voting_end_time": "2022-05-31T07:58:54.396Z",
+      "voteMeta": {
+        "yes": "16539",
+        "no": "254",
+        "abstain": "276"
+      }
+    },
+    {
+      "title": "\"Regular Incentive adjustment for 2022-05-22\"",
+      "voting_start_time": "2022-05-23T16:17:16.600Z",
+      "voting_end_time": "2022-05-28T16:17:16.600Z",
+      "voteMeta": {
+        "yes": "20720",
+        "no": "185",
+        "abstain": "576"
+      }
+    },
+    {
+      "title": "Signalling proposal for incentivized osmo/glx pool",
+      "voting_start_time": "2022-05-23T03:08:10.671Z",
+      "voting_end_time": "2022-05-28T03:08:10.671Z",
+      "voteMeta": {
+        "yes": "10601",
+        "no": "3439",
+        "abstain": "6651"
+      }
+    },
+    {
+      "title": "Match External Incentives on OSMO/AKT (#3)",
+      "voting_start_time": "2022-05-20T06:16:05.125Z",
+      "voting_end_time": "2022-05-25T06:16:05.125Z",
+      "voteMeta": {
+        "yes": "21755",
+        "no": "431",
+        "abstain": "707"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/DAI (#674), OSMO/USDC (#678) and OSMO/ETH (#704)",
+      "voting_start_time": "2022-05-20T22:45:51.875Z",
+      "voting_end_time": "2022-05-25T22:45:51.875Z",
+      "voteMeta": {
+        "yes": "23079",
+        "no": "201",
+        "abstain": "230"
+      }
+    },
+    {
+      "title": "Remove Superfluid Staking from OSMO/UST (#560) and OSMO/LUNA (#561) ",
+      "voting_start_time": "2022-05-19T16:29:39.537Z",
+      "voting_end_time": "2022-05-24T16:29:39.537Z",
+      "voteMeta": {
+        "yes": "22959",
+        "no": "449",
+        "abstain": "268"
+      }
+    },
+    {
+      "title": "Incentives - Repo Process and Category Model",
+      "voting_start_time": "2022-05-18T19:22:20.417Z",
+      "voting_end_time": "2022-05-23T19:22:20.417Z",
+      "voteMeta": {
+        "yes": "22642",
+        "no": "195",
+        "abstain": "1028"
+      }
+    },
+    {
+      "title": "Reduction of Voting Period to 2 Days",
+      "voting_start_time": "2022-05-19T09:52:20.993Z",
+      "voting_end_time": "2022-05-24T09:52:20.993Z",
+      "voteMeta": {
+        "yes": "10969",
+        "no": "10532",
+        "abstain": "665"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/JUNO",
+      "voting_start_time": "2022-05-16T17:36:06.525Z",
+      "voting_end_time": "2022-05-21T17:36:06.525Z",
+      "voteMeta": {
+        "yes": "25119",
+        "no": "267",
+        "abstain": "225"
+      }
+    },
+    {
+      "title": "Reallocate Incentives Removed From Terra Pools To Community Pool",
+      "voting_start_time": "2022-05-16T16:21:10.784Z",
+      "voting_end_time": "2022-05-21T16:21:10.784Z",
+      "voteMeta": {
+        "yes": "23061",
+        "no": "289",
+        "abstain": "333"
+      }
+    },
+    {
+      "title": "WBTC Incentivised pool with Minimum Incentives of 5%",
+      "voting_start_time": "2022-05-16T16:19:06.928Z",
+      "voting_end_time": "2022-05-21T16:19:06.928Z",
+      "voteMeta": {
+        "yes": "21754",
+        "no": "419",
+        "abstain": "877"
+      }
+    },
+    {
+      "title": "[Action Required] Signalling Proposal for Emergency v8 Upgrade at 4402000",
+      "voting_start_time": "2022-05-15T06:56:38.919Z",
+      "voting_end_time": "2022-05-20T06:56:38.919Z",
+      "voteMeta": {
+        "yes": "26078",
+        "no": "127",
+        "abstain": "400"
+      }
+    },
+    {
+      "title": "Remove Incentives from all Terra pools",
+      "voting_start_time": "2022-05-14T16:28:32.033Z",
+      "voting_end_time": "2022-05-19T16:28:32.033Z",
+      "voteMeta": {
+        "yes": "26216",
+        "no": "755",
+        "abstain": "547"
+      }
+    },
+    {
+      "title": "Add functionality to allow depooling of UST pools via emergency upgrade hard fork in proposal #225",
+      "voting_start_time": "2022-05-13T01:15:21.240Z",
+      "voting_end_time": "2022-05-18T01:15:21.240Z",
+      "voteMeta": {
+        "yes": "29475",
+        "no": "509",
+        "abstain": "535"
+      }
+    },
+    {
+      "title": "Use Hardfork to Accelerate Proposals #222, #223, and #224",
+      "voting_start_time": "2022-05-13T01:14:50.165Z",
+      "voting_end_time": "2022-05-18T01:14:50.165Z",
+      "voteMeta": {
+        "yes": "28375",
+        "no": "352",
+        "abstain": "501"
+      }
+    },
+    {
+      "title": "Reallocate half of the Incentives on LUNA/UST (#562) to OSMO/DAI (#674) & approve the pool for Osmosis incentives",
+      "voting_start_time": "2022-05-12T16:46:42.538Z",
+      "voting_end_time": "2022-05-17T16:46:42.538Z",
+      "voteMeta": {
+        "yes": "27472",
+        "no": "517",
+        "abstain": "533"
+      }
+    },
+    {
+      "title": "Reallocate half of the Incentives on OSMO/LUNA (#561) to OSMO/ETH (#704) & approve the pool for Osmosis incentives",
+      "voting_start_time": "2022-05-12T16:46:17.055Z",
+      "voting_end_time": "2022-05-17T16:46:17.055Z",
+      "voteMeta": {
+        "yes": "27877",
+        "no": "746",
+        "abstain": "802"
+      }
+    },
+    {
+      "title": "Reallocate half of the Incentives on OSMO/UST (#560) to OSMO/USDC (#678)",
+      "voting_start_time": "2022-05-12T16:45:24.491Z",
+      "voting_end_time": "2022-05-17T16:45:24.491Z",
+      "voteMeta": {
+        "yes": "29174",
+        "no": "1375",
+        "abstain": "1324"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 05/08/2022",
+      "voting_start_time": "2022-05-09T15:56:42.205Z",
+      "voting_end_time": "2022-05-14T15:56:42.205Z",
+      "voteMeta": {
+        "yes": "25133",
+        "no": "243",
+        "abstain": "668"
+      }
+    },
+    {
+      "title": " Match PSTAKE External Incentives for Pools #648",
+      "voting_start_time": "2022-05-07T10:57:09.479Z",
+      "voting_end_time": "2022-05-12T10:57:09.479Z",
+      "voteMeta": {
+        "yes": "23231",
+        "no": "2780",
+        "abstain": "2854"
+      }
+    },
+    {
+      "title": "Make Osmosis the Co-Lead Sponsor of Cosmoverse 2022",
+      "voting_start_time": "2022-05-05T12:28:46.593Z",
+      "voting_end_time": "2022-05-10T12:28:46.593Z",
+      "voteMeta": {
+        "yes": "33690",
+        "no": "1366",
+        "abstain": "1406"
+      }
+    },
+    {
+      "title": "Signalling Proposal for Incentivized Canonical USDC pool",
+      "voting_start_time": "2022-05-03T16:13:29.616Z",
+      "voting_end_time": "2022-05-08T16:13:29.616Z",
+      "voteMeta": {
+        "yes": "35213",
+        "no": "993",
+        "abstain": "1078"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 05/01/2022",
+      "voting_start_time": "2022-05-02T16:29:49.942Z",
+      "voting_end_time": "2022-05-07T16:29:49.942Z",
+      "voteMeta": {
+        "yes": "34697",
+        "no": "853",
+        "abstain": "1118"
+      }
+    },
+    {
+      "title": "Signalling Proposal for AssetMantle Incentivised pool",
+      "voting_start_time": "2022-05-01T19:43:00.603Z",
+      "voting_end_time": "2022-05-06T19:43:00.603Z",
+      "voteMeta": {
+        "yes": "43437",
+        "no": "2764",
+        "abstain": "2091"
+      }
+    },
+    {
+      "title": "Reduce OSMO/ATOM Pool Swap fee to 0.2%",
+      "voting_start_time": "2022-04-29T19:04:54.741Z",
+      "voting_end_time": "2022-05-04T19:04:54.741Z",
+      "voteMeta": {
+        "yes": "33340",
+        "no": "3137",
+        "abstain": "691"
+      }
+    },
+    {
+      "title": "Update Evmos Client on Osmosis",
+      "voting_start_time": "2022-04-28T03:05:37.467Z",
+      "voting_end_time": "2022-05-03T03:05:37.467Z",
+      "voteMeta": {
+        "yes": "38603",
+        "no": "683",
+        "abstain": "614"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 04/24/2022",
+      "voting_start_time": "2022-04-25T16:30:08.797Z",
+      "voting_end_time": "2022-04-30T16:30:08.797Z",
+      "voteMeta": {
+        "yes": "35134",
+        "no": "953",
+        "abstain": "1426"
+      }
+    },
+    {
+      "title": "Signalling Proposal for Fetch.ai Incentivised pool",
+      "voting_start_time": "2022-04-24T18:11:48.859Z",
+      "voting_end_time": "2022-04-29T18:11:48.859Z",
+      "voteMeta": {
+        "yes": "36491",
+        "no": "2222",
+        "abstain": "1885"
+      }
+    },
+    {
+      "title": "Do Not Adopt a Canonical Ethereum Bridge Service Provider",
+      "voting_start_time": "2022-04-22T17:34:36.566Z",
+      "voting_end_time": "2022-04-27T17:34:36.566Z",
+      "voteMeta": {
+        "yes": "24696",
+        "no": "24560",
+        "abstain": "2378"
+      }
+    },
+    {
+      "title": "Adopt Wormhole as the Canonical Ethereum Bridge Service Provider",
+      "voting_start_time": "2022-04-22T17:33:39.151Z",
+      "voting_end_time": "2022-04-27T17:33:39.151Z",
+      "voteMeta": {
+        "yes": "25720",
+        "no": "22783",
+        "abstain": "2524"
+      }
+    },
+    {
+      "title": "Adopt Nomad as the Canonical Ethereum Bridge Service Provider",
+      "voting_start_time": "2022-04-22T17:32:45.411Z",
+      "voting_end_time": "2022-04-27T17:32:45.411Z",
+      "voteMeta": {
+        "yes": "35269",
+        "no": "13712",
+        "abstain": "3633"
+      }
+    },
+    {
+      "title": "Adopt Gravity as the Canonical Ethereum Bridge Service Provider",
+      "voting_start_time": "2022-04-22T17:31:51.079Z",
+      "voting_end_time": "2022-04-27T17:31:51.079Z",
+      "voteMeta": {
+        "yes": "28858",
+        "no": "19219",
+        "abstain": "3539"
+      }
+    },
+    {
+      "title": "Adopt Axelar as the Canonical Ethereum Bridge Service Provider",
+      "voting_start_time": "2022-04-22T17:39:02.910Z",
+      "voting_end_time": "2022-04-27T17:39:02.910Z",
+      "voteMeta": {
+        "yes": "44887",
+        "no": "7622",
+        "abstain": "2729"
+      }
+    },
+    {
+      "title": "Canonical Ethereum Bridge Provider: Approval Voting Procedures & Reciprocal Expectations for Bridge Provision",
+      "voting_start_time": "2022-04-20T20:02:06.724Z",
+      "voting_end_time": "2022-04-25T20:02:06.724Z",
+      "voteMeta": {
+        "yes": "49298",
+        "no": "1255",
+        "abstain": "1210"
+      }
+    },
+    {
+      "title": "Signaling proposal to add Cerberus (CRBRUS) pool 662 to the Osmosis incentives program",
+      "voting_start_time": "2022-04-19T20:40:03.288Z",
+      "voting_end_time": "2022-04-24T20:40:03.288Z",
+      "voteMeta": {
+        "yes": "39405",
+        "no": "3613",
+        "abstain": "2171"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/AKT",
+      "voting_start_time": "2022-04-19T14:22:31.889Z",
+      "voting_end_time": "2022-04-24T14:22:31.889Z",
+      "voteMeta": {
+        "yes": "42913",
+        "no": "2123",
+        "abstain": "1824"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 04/17/2022",
+      "voting_start_time": "2022-04-18T15:20:38.690Z",
+      "voting_end_time": "2022-04-23T15:20:38.690Z",
+      "voteMeta": {
+        "yes": "41565",
+        "no": "1473",
+        "abstain": "2211"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/CMDX",
+      "voting_start_time": "2022-04-14T13:37:59.237Z",
+      "voting_end_time": "2022-04-19T13:37:59.237Z",
+      "voteMeta": {
+        "yes": "40961",
+        "no": "1741",
+        "abstain": "1912"
+      }
+    },
+    {
+      "title": "Onboard HOPE/OSMO #653 for Osmosis Incentives",
+      "voting_start_time": "2022-04-11T22:07:35.203Z",
+      "voting_end_time": "2022-04-16T22:07:35.203Z",
+      "voteMeta": {
+        "yes": "26467",
+        "no": "12455",
+        "abstain": "6068"
+      }
+    },
+    {
+      "title": "Formalize usage of commonwealth for governance",
+      "voting_start_time": "2022-04-11T06:56:49.112Z",
+      "voting_end_time": "2022-04-16T06:56:49.112Z",
+      "voteMeta": {
+        "yes": "41422",
+        "no": "1824",
+        "abstain": "2263"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 04/10/2022",
+      "voting_start_time": "2022-04-11T14:56:00.966Z",
+      "voting_end_time": "2022-04-16T14:56:00.966Z",
+      "voteMeta": {
+        "yes": "41011",
+        "no": "1499",
+        "abstain": "1455"
+      }
+    },
+    {
+      "title": "Increase Validator Set Size to 135",
+      "voting_start_time": "2022-04-08T18:07:43.774Z",
+      "voting_end_time": "2022-04-13T18:07:43.774Z",
+      "voteMeta": {
+        "yes": "39766",
+        "no": "1595",
+        "abstain": "1576"
+      }
+    },
+    {
+      "title": "Match External Incentives for PSTAKE/OSMO (#648)",
+      "voting_start_time": "2022-04-07T17:06:30.201Z",
+      "voting_end_time": "2022-04-12T17:06:30.201Z",
+      "voteMeta": {
+        "yes": "35662",
+        "no": "3694",
+        "abstain": "2730"
+      }
+    },
+    {
+      "title": "Match External Incentives for UMEE/OSMO and ATOM/UMEE",
+      "voting_start_time": "2022-04-07T18:19:07.569Z",
+      "voting_end_time": "2022-04-12T18:19:07.569Z",
+      "voteMeta": {
+        "yes": "36518",
+        "no": "2985",
+        "abstain": "2333"
+      }
+    },
+    {
+      "title": "Match External Incentives to extended STARS/OSMO and ATOM/STARS pairs",
+      "voting_start_time": "2022-04-05T15:38:21.163Z",
+      "voting_end_time": "2022-04-10T15:38:21.163Z",
+      "voteMeta": {
+        "yes": "37905",
+        "no": "2259",
+        "abstain": "1942"
+      }
+    },
+    {
+      "title": "Allocate a flat portion of staking rewards per validator",
+      "voting_start_time": "2022-04-05T17:39:39.685Z",
+      "voting_end_time": "2022-04-10T17:39:39.685Z",
+      "voteMeta": {
+        "yes": "22769",
+        "no": "12702",
+        "abstain": "3083"
+      }
+    },
+    {
+      "title": "Signalling Proposal for SWTH/OSMO(#651) Incentivized Pools",
+      "voting_start_time": "2022-04-05T03:06:44.063Z",
+      "voting_end_time": "2022-04-10T03:06:44.063Z",
+      "voteMeta": {
+        "yes": "25092",
+        "no": "4166",
+        "abstain": "10171"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 04/03/2022",
+      "voting_start_time": "2022-04-04T15:39:17.459Z",
+      "voting_end_time": "2022-04-09T15:39:17.459Z",
+      "voteMeta": {
+        "yes": "37683",
+        "no": "1120",
+        "abstain": "1726"
+      }
+    },
+    {
+      "title": "Remove incentives from all xki pools",
+      "voting_start_time": "2022-04-03T10:24:36.542Z",
+      "voting_end_time": "2022-04-08T10:24:36.542Z",
+      "voteMeta": {
+        "yes": "28912",
+        "no": "7648",
+        "abstain": "5195"
+      }
+    },
+    {
+      "title": "Multihop Discount on Osmosis Pools",
+      "voting_start_time": "2022-03-31T16:44:41.985Z",
+      "voting_end_time": "2022-04-05T16:44:41.985Z",
+      "voteMeta": {
+        "yes": "47261",
+        "no": "689",
+        "abstain": "912"
+      }
+    },
+    {
+      "title": "Launch the Osmosis Grants Program",
+      "voting_start_time": "2022-04-04T14:25:21.200Z",
+      "voting_end_time": "2022-04-09T14:25:21.200Z",
+      "voteMeta": {
+        "yes": "30849",
+        "no": "626",
+        "abstain": "864"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/STARS, OSMO/SCRT and OSMO/CRO",
+      "voting_start_time": "2022-03-28T09:46:10.023Z",
+      "voting_end_time": "2022-03-31T09:46:10.023Z",
+      "voteMeta": {
+        "yes": "45629",
+        "no": "1158",
+        "abstain": "1048"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 03/28/2022",
+      "voting_start_time": "2022-03-28T16:00:49.080Z",
+      "voting_end_time": "2022-03-31T16:00:49.080Z",
+      "voteMeta": {
+        "yes": "39836",
+        "no": "773",
+        "abstain": "2401"
+      }
+    },
+    {
+      "title": "Increase Voting Period to 5 days",
+      "voting_start_time": "2022-03-25T16:24:55.400Z",
+      "voting_end_time": "2022-03-28T16:24:55.400Z",
+      "voteMeta": {
+        "yes": "33163",
+        "no": "1281",
+        "abstain": "654"
+      }
+    },
+    {
+      "title": "Establish Carbon Market on Osmosis",
+      "voting_start_time": "2022-03-23T19:26:32.037Z",
+      "voting_end_time": "2022-03-26T19:26:32.037Z",
+      "voteMeta": {
+        "yes": "37923",
+        "no": "907",
+        "abstain": "849"
+      }
+    },
+    {
+      "title": "Signalling proposal for MARBLE/OSMO(#649) incentivized pool.",
+      "voting_start_time": "2022-03-21T11:25:44.758Z",
+      "voting_end_time": "2022-03-24T11:25:44.758Z",
+      "voteMeta": {
+        "yes": "26612",
+        "no": "4292",
+        "abstain": "6614"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 03/20/2022",
+      "voting_start_time": "2022-03-21T16:05:39.805Z",
+      "voting_end_time": "2022-03-24T16:05:39.805Z",
+      "voteMeta": {
+        "yes": "32535",
+        "no": "909",
+        "abstain": "1567"
+      }
+    },
+    {
+      "title": "Match External Incentives for SWTH/OSMO",
+      "voting_start_time": "2022-03-21T04:14:35.227Z",
+      "voting_end_time": "2022-03-24T04:14:35.227Z",
+      "voteMeta": {
+        "yes": "21064",
+        "no": "3472",
+        "abstain": "9263"
+      }
+    },
+    {
+      "title": "Osmosis Carbon Neutrality through Purchasing and Retiring NCT",
+      "voting_start_time": "2022-03-17T19:30:57.675Z",
+      "voting_end_time": "2022-03-20T19:30:57.675Z",
+      "voteMeta": {
+        "yes": "23496",
+        "no": "1210",
+        "abstain": "1531"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 03/14/2022 (hotfix for CMDX matching)",
+      "voting_start_time": "2022-03-14T14:52:14.521Z",
+      "voting_end_time": "2022-03-17T14:52:14.521Z",
+      "voteMeta": {
+        "yes": "25261",
+        "no": "263",
+        "abstain": "824"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 03/13/2022",
+      "voting_start_time": "2022-03-14T14:08:23.926Z",
+      "voting_end_time": "2022-03-17T14:08:23.926Z",
+      "voteMeta": {
+        "yes": "23966",
+        "no": "252",
+        "abstain": "834"
+      }
+    },
+    {
+      "title": "Match External Incentives for PSTAKE/OSMO (#648)",
+      "voting_start_time": "2022-03-13T18:16:36.782Z",
+      "voting_end_time": "2022-03-16T18:16:36.782Z",
+      "voteMeta": {
+        "yes": "19462",
+        "no": "1619",
+        "abstain": "2261"
+      }
+    },
+    {
+      "title": "Enable Superfluid Staking on OSMO/UST and OSMO/LUNA",
+      "voting_start_time": "2022-03-11T17:09:36.887Z",
+      "voting_end_time": "2022-03-14T17:09:36.887Z",
+      "voteMeta": {
+        "yes": "26695",
+        "no": "351",
+        "abstain": "383"
+      }
+    },
+    {
+      "title": "Signalling proposal for PSTAKE/OSMO(#648) incentivized pool.",
+      "voting_start_time": "2022-03-10T14:30:37.932Z",
+      "voting_end_time": "2022-03-13T14:30:37.932Z",
+      "voteMeta": {
+        "yes": "20660",
+        "no": "1991",
+        "abstain": "2725"
+      }
+    },
+    {
+      "title": "Signaling Proposal for GRAV Incentivized Pools",
+      "voting_start_time": "2022-03-08T21:34:23.252Z",
+      "voting_end_time": "2022-03-11T21:34:23.252Z",
+      "voteMeta": {
+        "yes": "20851",
+        "no": "2756",
+        "abstain": "1764"
+      }
+    },
+    {
+      "title": "Match External Incentives for CMDX/OSMO and CMDX/ATOM pairs",
+      "voting_start_time": "2022-03-08T11:32:22.948Z",
+      "voting_end_time": "2022-03-11T11:32:22.948Z",
+      "voteMeta": {
+        "yes": "22307",
+        "no": "859",
+        "abstain": "1093"
+      }
+    },
+    {
+      "title": "Signaling proposal to match DARC external incentives",
+      "voting_start_time": "2022-03-08T02:38:22.323Z",
+      "voting_end_time": "2022-03-11T02:38:22.323Z",
+      "voteMeta": {
+        "yes": "17937",
+        "no": "1280",
+        "abstain": "1962"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Add BAND Incentivized Pool",
+      "voting_start_time": "2022-03-07T10:36:59.777Z",
+      "voting_end_time": "2022-03-10T10:36:59.777Z",
+      "voteMeta": {
+        "yes": "17584",
+        "no": "1324",
+        "abstain": "1743"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 03/06/2022",
+      "voting_start_time": "2022-03-07T16:22:36.712Z",
+      "voting_end_time": "2022-03-10T16:22:36.712Z",
+      "voteMeta": {
+        "yes": "18853",
+        "no": "232",
+        "abstain": "619"
+      }
+    },
+    {
+      "title": "Signalling proposal: Match External Incentives to LIKE/OSMO and ATOM/LIKE pools",
+      "voting_start_time": "2022-03-03T07:39:36.591Z",
+      "voting_end_time": "2022-03-06T07:39:36.591Z",
+      "voteMeta": {
+        "yes": "17567",
+        "no": "1665",
+        "abstain": "2111"
+      }
+    },
+    {
+      "title": "Allocate 125k Osmo from the OCP to give Support/Marketing access to guidance on business matters related to Defi, DAOs, and structuring.",
+      "voting_start_time": "2022-03-02T15:46:17.506Z",
+      "voting_end_time": "2022-03-05T15:46:17.506Z",
+      "voteMeta": {
+        "yes": "13953",
+        "no": "6920",
+        "abstain": "1372"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 02/28/2022",
+      "voting_start_time": "2022-02-28T16:58:08.357Z",
+      "voting_end_time": "2022-03-03T16:58:08.357Z",
+      "voteMeta": {
+        "yes": "19906",
+        "no": "243",
+        "abstain": "853"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Add DEC Incentivized Pools (ATOM & OSMO)",
+      "voting_start_time": "2022-02-27T15:30:32.635Z",
+      "voting_end_time": "2022-03-02T15:30:32.635Z",
+      "voteMeta": {
+        "yes": "10636",
+        "no": "2496",
+        "abstain": "6296"
+      }
+    },
+    {
+      "title": "Osmosis v7 Carbon Upgrade",
+      "voting_start_time": "2022-02-25T08:06:58.679Z",
+      "voting_end_time": "2022-02-28T08:06:58.679Z",
+      "voteMeta": {
+        "yes": "23290",
+        "no": "90",
+        "abstain": "265"
+      }
+    },
+    {
+      "title": "Signaling proposal: UMEE incentivized pools (UMEE/UST and ATOM/UMEE pairs)",
+      "voting_start_time": "2022-02-22T19:37:37.553Z",
+      "voting_end_time": "2022-02-25T19:37:37.553Z",
+      "voteMeta": {
+        "yes": "16079",
+        "no": "1335",
+        "abstain": "1092"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 02/20/2022",
+      "voting_start_time": "2022-02-21T16:04:48.553Z",
+      "voting_end_time": "2022-02-24T16:04:48.553Z",
+      "voteMeta": {
+        "yes": "15235",
+        "no": "225",
+        "abstain": "559"
+      }
+    },
+    {
+      "title": "Signaling proposal for UMEE incentivized pools",
+      "voting_start_time": "2022-02-17T22:47:20.538Z",
+      "voting_end_time": "2022-02-20T22:47:20.538Z",
+      "voteMeta": {
+        "yes": "13249",
+        "no": "734",
+        "abstain": "682"
+      }
+    },
+    {
+      "title": "Match XPRT External Incentives for Pool #612",
+      "voting_start_time": "2022-02-17T18:56:20.177Z",
+      "voting_end_time": "2022-02-20T18:56:20.177Z",
+      "voteMeta": {
+        "yes": "10574",
+        "no": "852",
+        "abstain": "987"
+      }
+    },
+    {
+      "title": "Reducing the Impact of Volume Manipulation",
+      "voting_start_time": "2022-02-17T18:22:33.915Z",
+      "voting_end_time": "2022-02-20T18:22:33.915Z",
+      "voteMeta": {
+        "yes": "7672",
+        "no": "628",
+        "abstain": "3491"
+      }
+    },
+    {
+      "title": "Signaling proposal: Add OSMO incentives to ATOM:CHEQ pool (#617)",
+      "voting_start_time": "2022-02-16T16:21:38.412Z",
+      "voting_end_time": "2022-02-19T16:21:38.412Z",
+      "voteMeta": {
+        "yes": "5892",
+        "no": "2396",
+        "abstain": "4720"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 02/14/2022",
+      "voting_start_time": "2022-02-14T17:08:50.793Z",
+      "voting_end_time": "2022-02-17T17:08:50.793Z",
+      "voteMeta": {
+        "yes": "14952",
+        "no": "248",
+        "abstain": "603"
+      }
+    },
+    {
+      "title": "Signaling proposal for XPRT-UST(#612) incentivized pool.",
+      "voting_start_time": "2022-02-14T14:15:53.073Z",
+      "voting_end_time": "2022-02-17T14:15:53.073Z",
+      "voteMeta": {
+        "yes": "10233",
+        "no": "1463",
+        "abstain": "1882"
+      }
+    },
+    {
+      "title": "Signaling proposal for DARC incentivized pools",
+      "voting_start_time": "2022-02-15T05:22:44.300Z",
+      "voting_end_time": "2022-02-18T05:22:44.300Z",
+      "voteMeta": {
+        "yes": "8078",
+        "no": "825",
+        "abstain": "1604"
+      }
+    },
+    {
+      "title": "Osmosis community spend proposal HackAtom VI",
+      "voting_start_time": "2022-02-15T00:48:12.735Z",
+      "voting_end_time": "2022-02-18T00:48:12.735Z",
+      "voteMeta": {
+        "yes": "11217",
+        "no": "235",
+        "abstain": "302"
+      }
+    },
+    {
+      "title": "Signaling Proposal to match external incentives for the XKI:OSMO and XKI:UST pools",
+      "voting_start_time": "2022-02-11T12:01:18.819Z",
+      "voting_end_time": "2022-02-14T12:01:18.819Z",
+      "voteMeta": {
+        "yes": "9875",
+        "no": "1322",
+        "abstain": "1534"
+      }
+    },
+    {
+      "title": "Increase Max Rate of Incentive Adjustment from 20% to 25% (Round 3)",
+      "voting_start_time": "2022-02-10T20:27:14.121Z",
+      "voting_end_time": "2022-02-13T20:27:14.121Z",
+      "voteMeta": {
+        "yes": "13367",
+        "no": "268",
+        "abstain": "435"
+      }
+    },
+    {
+      "title": "Signaling proposal: Match external incentives on ATOM:CHEQ pool",
+      "voting_start_time": "2022-02-09T16:15:12.952Z",
+      "voting_end_time": "2022-02-12T16:15:12.952Z",
+      "voteMeta": {
+        "yes": "4881",
+        "no": "2134",
+        "abstain": "4744"
+      }
+    },
+    {
+      "title": "Osmosis Support Lab Second Funding Round",
+      "voting_start_time": "2022-02-07T16:40:48.670Z",
+      "voting_end_time": "2022-02-10T16:40:48.670Z",
+      "voteMeta": {
+        "yes": "13074",
+        "no": "302",
+        "abstain": "444"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 02/07/2022",
+      "voting_start_time": "2022-02-07T16:56:49.046Z",
+      "voting_end_time": "2022-02-10T16:56:49.046Z",
+      "voteMeta": {
+        "yes": "10600",
+        "no": "192",
+        "abstain": "713"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Add VDL Incentivized Pool",
+      "voting_start_time": "2022-02-05T10:36:38.069Z",
+      "voting_end_time": "2022-02-08T10:36:38.069Z",
+      "voteMeta": {
+        "yes": "9202",
+        "no": "974",
+        "abstain": "1516"
+      }
+    },
+    {
+      "title": "Signaling proposal for NETA incentivized pools",
+      "voting_start_time": "2022-02-05T00:32:03.609Z",
+      "voting_end_time": "2022-02-08T00:32:03.609Z",
+      "voteMeta": {
+        "yes": "10188",
+        "no": "756",
+        "abstain": "977"
+      }
+    },
+    {
+      "title": "Signaling Proposal to match external incentives for the ROWAN:OSMO pool and amend Proposal 135’s swap fee",
+      "voting_start_time": "2022-02-03T13:52:23.503Z",
+      "voting_end_time": "2022-02-06T13:52:23.503Z",
+      "voteMeta": {
+        "yes": "9304",
+        "no": "589",
+        "abstain": "759"
+      }
+    },
+    {
+      "title": "Signaling proposal for SOMM incentivized pools",
+      "voting_start_time": "2022-02-03T00:30:43.004Z",
+      "voting_end_time": "2022-02-06T00:30:43.004Z",
+      "voteMeta": {
+        "yes": "10491",
+        "no": "243",
+        "abstain": "343"
+      }
+    },
+    {
+      "title": "Match Bitsong External Incentives per Prop 47",
+      "voting_start_time": "2022-02-03T20:59:56.693Z",
+      "voting_end_time": "2022-02-06T20:59:56.693Z",
+      "voteMeta": {
+        "yes": "6780",
+        "no": "346",
+        "abstain": "474"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 01/30/2022",
+      "voting_start_time": "2022-01-31T16:54:49.257Z",
+      "voting_end_time": "2022-02-03T16:54:49.257Z",
+      "voteMeta": {
+        "yes": "8790",
+        "no": "146",
+        "abstain": "592"
+      }
+    },
+    {
+      "title": "Signalling Proposal: ROWAN-OSMO Incentivized Pool",
+      "voting_start_time": "2022-01-28T18:50:50.243Z",
+      "voting_end_time": "2022-01-31T18:50:50.243Z",
+      "voteMeta": {
+        "yes": "5858",
+        "no": "606",
+        "abstain": "546"
+      }
+    },
+    {
+      "title": "Development and Marketing Expansion to the Russian Community",
+      "voting_start_time": "2022-01-28T10:20:27.612Z",
+      "voting_end_time": "2022-01-31T10:20:27.612Z",
+      "voteMeta": {
+        "yes": "2795",
+        "no": "2886",
+        "abstain": "538"
+      }
+    },
+    {
+      "title": "Incentive Matching Fee Based and 1:1 Caps",
+      "voting_start_time": "2022-01-27T18:44:37.934Z",
+      "voting_end_time": "2022-01-30T18:44:37.934Z",
+      "voteMeta": {
+        "yes": "3753",
+        "no": "516",
+        "abstain": "1718"
+      }
+    },
+    {
+      "title": "Signalling Proposal: ROWAN Incentivized Pools and Matched Incentives",
+      "voting_start_time": "2022-01-27T16:48:53.197Z",
+      "voting_end_time": "2022-01-30T16:48:53.197Z",
+      "voteMeta": {
+        "yes": "2963",
+        "no": "2384",
+        "abstain": "684"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 01/24/2022",
+      "voting_start_time": "2022-01-24T16:43:57.318Z",
+      "voting_end_time": "2022-01-27T16:43:57.318Z",
+      "voteMeta": {
+        "yes": "5962",
+        "no": "145",
+        "abstain": "650"
+      }
+    },
+    {
+      "title": "Signaling proposal for DIG incentivized pools",
+      "voting_start_time": "2022-01-24T05:37:10.540Z",
+      "voting_end_time": "2022-01-27T05:37:10.540Z",
+      "voteMeta": {
+        "yes": "4068",
+        "no": "823",
+        "abstain": "1158"
+      }
+    },
+    {
+      "title": "Match External Incentives to DSM/OSMO and ATOM/DSM pairs",
+      "voting_start_time": "2022-01-22T07:24:02.638Z",
+      "voting_end_time": "2022-01-25T07:24:02.638Z",
+      "voteMeta": {
+        "yes": "5172",
+        "no": "359",
+        "abstain": "367"
+      }
+    },
+    {
+      "title": "Add a bias factor to external incentive matching",
+      "voting_start_time": "2022-01-22T05:43:48.376Z",
+      "voting_end_time": "2022-01-25T05:43:48.376Z",
+      "voteMeta": {
+        "yes": "4915",
+        "no": "130",
+        "abstain": "269"
+      }
+    },
+    {
+      "title": "Increase External Matched Incentives cap to 30%",
+      "voting_start_time": "2022-01-21T18:44:58.950Z",
+      "voting_end_time": "2022-01-24T18:44:58.950Z",
+      "voteMeta": {
+        "yes": "4272",
+        "no": "487",
+        "abstain": "387"
+      }
+    },
+    {
+      "title": "Match External Incentives for HUAHUA/OSMO and HUAHUA/ATOM pairs",
+      "voting_start_time": "2022-01-19T01:07:45.088Z",
+      "voting_end_time": "2022-01-22T01:07:45.088Z",
+      "voteMeta": {
+        "yes": "7375",
+        "no": "385",
+        "abstain": "293"
+      }
+    },
+    {
+      "title": "Signaling Proposal: DSM Incentivized Pools",
+      "voting_start_time": "2022-01-18T06:50:20.058Z",
+      "voting_end_time": "2022-01-21T06:50:20.058Z",
+      "voteMeta": {
+        "yes": "6087",
+        "no": "221",
+        "abstain": "332"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 01/16/2022",
+      "voting_start_time": "2022-01-17T16:06:58.523Z",
+      "voting_end_time": "2022-01-20T16:06:58.523Z",
+      "voteMeta": {
+        "yes": "5110",
+        "no": "97",
+        "abstain": "326"
+      }
+    },
+    {
+      "title": "Signaling proposal for DIG incentivized pools",
+      "voting_start_time": "2022-01-19T13:22:23.203Z",
+      "voting_end_time": "2022-01-22T13:22:23.203Z",
+      "voteMeta": {
+        "yes": "1951",
+        "no": "855",
+        "abstain": "953"
+      }
+    },
+    {
+      "title": "Match External Incentives to STARS/OSMO and ATOM/STARS pairs",
+      "voting_start_time": "2022-01-11T02:24:44.857Z",
+      "voting_end_time": "2022-01-14T02:24:44.857Z",
+      "voteMeta": {
+        "yes": "4010",
+        "no": "76",
+        "abstain": "122"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 01/09/2022",
+      "voting_start_time": "2022-01-10T16:19:49.862Z",
+      "voting_end_time": "2022-01-13T16:19:49.862Z",
+      "voteMeta": {
+        "yes": "3411",
+        "no": "39",
+        "abstain": "117"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Ion🧿 DAO & Treasury",
+      "voting_start_time": "2022-01-09T06:48:49.636Z",
+      "voting_end_time": "2022-01-12T06:48:49.636Z",
+      "voteMeta": {
+        "yes": "4008",
+        "no": "1311",
+        "abstain": "560"
+      }
+    },
+    {
+      "title": "Match External Incentives to OSMO/UST and LUNA/UST",
+      "voting_start_time": "2022-01-07T07:52:54.946Z",
+      "voting_end_time": "2022-01-10T07:52:54.946Z",
+      "voteMeta": {
+        "yes": "4230",
+        "no": "246",
+        "abstain": "310"
+      }
+    },
+    {
+      "title": "Signaling Proposal: STARS Incentivized Pools",
+      "voting_start_time": "2022-01-05T23:23:49.915Z",
+      "voting_end_time": "2022-01-08T23:23:49.915Z",
+      "voteMeta": {
+        "yes": "4227",
+        "no": "70",
+        "abstain": "134"
+      }
+    },
+    {
+      "title": "Addendum to prop 116 - CMDX/UST",
+      "voting_start_time": "2022-01-04T17:12:27.768Z",
+      "voting_end_time": "2022-01-07T17:12:27.768Z",
+      "voteMeta": {
+        "yes": "3897",
+        "no": "60",
+        "abstain": "170"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 01/02/2022",
+      "voting_start_time": "2022-01-03T16:16:01.915Z",
+      "voting_end_time": "2022-01-06T16:16:01.915Z",
+      "voteMeta": {
+        "yes": "3465",
+        "no": "103",
+        "abstain": "313"
+      }
+    },
+    {
+      "title": "Fix IBC transfers between Lum Network and Osmosis",
+      "voting_start_time": "2021-12-31T14:58:26.954Z",
+      "voting_end_time": "2022-01-03T14:58:26.954Z",
+      "voteMeta": {
+        "yes": "4050",
+        "no": "48",
+        "abstain": "93"
+      }
+    },
+    {
+      "title": "Increase Max Validator Set Size to 118",
+      "voting_start_time": "2021-12-29T12:32:24.909Z",
+      "voting_end_time": "2022-01-01T12:32:24.909Z",
+      "voteMeta": {
+        "yes": "2212",
+        "no": "615",
+        "abstain": "355"
+      }
+    },
+    {
+      "title": "Match External Incentives for BTSG/OSMO, BTSG/ATOM and BTSG/UST",
+      "voting_start_time": "2021-12-28T18:12:00.541Z",
+      "voting_end_time": "2021-12-31T18:12:00.541Z",
+      "voteMeta": {
+        "yes": "2973",
+        "no": "135",
+        "abstain": "198"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 12/26/2021",
+      "voting_start_time": "2021-12-27T16:12:34.082Z",
+      "voting_end_time": "2021-12-30T16:12:34.082Z",
+      "voteMeta": {
+        "yes": "2881",
+        "no": "45",
+        "abstain": "126"
+      }
+    },
+    {
+      "title": "Enable IBC transfers between Lum Network and Osmosis",
+      "voting_start_time": "2021-12-25T17:52:13.920Z",
+      "voting_end_time": "2021-12-28T17:52:13.920Z",
+      "voteMeta": {
+        "yes": "1747",
+        "no": "1360",
+        "abstain": "428"
+      }
+    },
+    {
+      "title": "Cosmoverse 2021 a HUGE success! Let’s LEAD the way with support for more!",
+      "voting_start_time": "2021-12-22T18:32:01.984Z",
+      "voting_end_time": "2021-12-25T18:32:01.984Z",
+      "voteMeta": {
+        "yes": "3120",
+        "no": "137",
+        "abstain": "132"
+      }
+    },
+    {
+      "title": "Signaling proposal for HUAHUA incentivized pools",
+      "voting_start_time": "2021-12-22T14:07:04.586Z",
+      "voting_end_time": "2021-12-25T14:07:04.586Z",
+      "voteMeta": {
+        "yes": "2325",
+        "no": "442",
+        "abstain": "323"
+      }
+    },
+    {
+      "title": "Signaling Proposal: LUM Incentivized Pools",
+      "voting_start_time": "2021-12-21T18:35:38.749Z",
+      "voting_end_time": "2021-12-24T18:35:38.749Z",
+      "voteMeta": {
+        "yes": "2688",
+        "no": "198",
+        "abstain": "195"
+      }
+    },
+    {
+      "title": "Integrating CosmWasm into Osmosis",
+      "voting_start_time": "2021-12-20T19:46:59.945Z",
+      "voting_end_time": "2021-12-23T19:46:59.945Z",
+      "voteMeta": {
+        "yes": "3433",
+        "no": "108",
+        "abstain": "66"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 12/19/2021",
+      "voting_start_time": "2021-12-20T15:51:46.830Z",
+      "voting_end_time": "2021-12-23T15:51:46.830Z",
+      "voteMeta": {
+        "yes": "2481",
+        "no": "33",
+        "abstain": "135"
+      }
+    },
+    {
+      "title": "[Action Required] IBC patch upgrade at 2464000",
+      "voting_start_time": "2021-12-18T08:43:26.712Z",
+      "voting_end_time": "2021-12-21T08:43:26.712Z",
+      "voteMeta": {
+        "yes": "3124",
+        "no": "5",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Incentivize JUNO/UST Pool #580",
+      "voting_start_time": "2021-12-17T01:20:46.798Z",
+      "voting_end_time": "2021-12-20T01:20:46.798Z",
+      "voteMeta": {
+        "yes": "2315",
+        "no": "222",
+        "abstain": "176"
+      }
+    },
+    {
+      "title": "Regen token transfer",
+      "voting_start_time": "2021-12-15T04:25:47.673Z",
+      "voting_end_time": "2021-12-18T04:25:47.673Z",
+      "voteMeta": {
+        "yes": "2726",
+        "no": "31",
+        "abstain": "66"
+      }
+    },
+    {
+      "title": "Stargaze Community Loan and LBP",
+      "voting_start_time": "2021-12-14T05:21:39.380Z",
+      "voting_end_time": "2021-12-17T05:21:39.380Z",
+      "voteMeta": {
+        "yes": "2352",
+        "no": "37",
+        "abstain": "92"
+      }
+    },
+    {
+      "title": "Proposal for removing OSMO incentives on JUNO / XKI pool",
+      "voting_start_time": "2021-12-13T10:56:09.317Z",
+      "voting_end_time": "2021-12-16T10:56:09.317Z",
+      "voteMeta": {
+        "yes": "1777",
+        "no": "49",
+        "abstain": "125"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 12/12/2021",
+      "voting_start_time": "2021-12-13T16:06:47.716Z",
+      "voting_end_time": "2021-12-16T16:06:47.716Z",
+      "voteMeta": {
+        "yes": "1404",
+        "no": "28",
+        "abstain": "138"
+      }
+    },
+    {
+      "title": "Distribution of Clawback ION/OSMO to OSMO stakers.",
+      "voting_start_time": "2021-12-11T09:44:46.625Z",
+      "voting_end_time": "2021-12-14T09:44:46.625Z",
+      "voteMeta": {
+        "yes": "1052",
+        "no": "677",
+        "abstain": "142"
+      }
+    },
+    {
+      "title": "Osmosis v5 Boron Upgrade",
+      "voting_start_time": "2021-12-11T05:56:17.042Z",
+      "voting_end_time": "2021-12-14T05:56:17.042Z",
+      "voteMeta": {
+        "yes": "2219",
+        "no": "9",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "Increase max Rate of Incentive adjustment from 15% to 20% (Round 2)",
+      "voting_start_time": "2021-12-11T01:35:29.225Z",
+      "voting_end_time": "2021-12-14T01:35:29.225Z",
+      "voteMeta": {
+        "yes": "1625",
+        "no": "38",
+        "abstain": "97"
+      }
+    },
+    {
+      "title": "Match External Incentives for BTSG/OSMO, BTSG/ATOM and BTSG/UST",
+      "voting_start_time": "2021-12-10T14:25:14.036Z",
+      "voting_end_time": "2021-12-13T14:25:14.036Z",
+      "voteMeta": {
+        "yes": "1237",
+        "no": "95",
+        "abstain": "116"
+      }
+    },
+    {
+      "title": "Match External Incentives for DVPN/OSMO and DVPN/ATOM pairs",
+      "voting_start_time": "2021-12-09T19:03:31.745Z",
+      "voting_end_time": "2021-12-12T19:03:31.745Z",
+      "voteMeta": {
+        "yes": "1543",
+        "no": "43",
+        "abstain": "61"
+      }
+    },
+    {
+      "title": "Match CMDX External Incentives for Pools 600 and 601",
+      "voting_start_time": "2021-12-07T18:24:44.924Z",
+      "voting_end_time": "2021-12-10T18:24:44.924Z",
+      "voteMeta": {
+        "yes": "1847",
+        "no": "40",
+        "abstain": "102"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 12/05/2021",
+      "voting_start_time": "2021-12-06T16:03:04.779Z",
+      "voting_end_time": "2021-12-09T16:03:04.779Z",
+      "voteMeta": {
+        "yes": "1462",
+        "no": "21",
+        "abstain": "117"
+      }
+    },
+    {
+      "title": "Cleanup & Refund < $1k TVL Pools",
+      "voting_start_time": "2021-12-06T15:30:50.512Z",
+      "voting_end_time": "2021-12-09T15:30:50.512Z",
+      "voteMeta": {
+        "yes": "1609",
+        "no": "13",
+        "abstain": "23"
+      }
+    },
+    {
+      "title": "Incentives for CHEQ-OSMO",
+      "voting_start_time": "2021-12-04T18:45:07.371Z",
+      "voting_end_time": "2021-12-07T18:45:07.371Z",
+      "voteMeta": {
+        "yes": "1038",
+        "no": "197",
+        "abstain": "252"
+      }
+    },
+    {
+      "title": "Match External Incentives for MED/OSMO and MED/ATOM pairs",
+      "voting_start_time": "2021-12-01T06:25:53.600Z",
+      "voting_end_time": "2021-12-04T06:25:53.600Z",
+      "voteMeta": {
+        "yes": "1538",
+        "no": "115",
+        "abstain": "118"
+      }
+    },
+    {
+      "title": "Signaling proposal for BOOT incentivized pools",
+      "voting_start_time": "2021-12-01T09:41:04.646Z",
+      "voting_end_time": "2021-12-04T09:41:04.646Z",
+      "voteMeta": {
+        "yes": "1036",
+        "no": "280",
+        "abstain": "156"
+      }
+    },
+    {
+      "title": "Signaling Proposal: BTSG Incentivized Pools",
+      "voting_start_time": "2021-11-30T16:19:16.483Z",
+      "voting_end_time": "2021-12-03T16:19:16.483Z",
+      "voteMeta": {
+        "yes": "1150",
+        "no": "146",
+        "abstain": "187"
+      }
+    },
+    {
+      "title": "Increase max Rate of Incentive adjustment from 10% to 15%",
+      "voting_start_time": "2021-12-02T01:36:09.424Z",
+      "voting_end_time": "2021-12-05T01:36:09.424Z",
+      "voteMeta": {
+        "yes": "1122",
+        "no": "24",
+        "abstain": "44"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 11/28/2021",
+      "voting_start_time": "2021-11-29T16:09:59.115Z",
+      "voting_end_time": "2021-12-02T16:09:59.115Z",
+      "voteMeta": {
+        "yes": "1583",
+        "no": "24",
+        "abstain": "113"
+      }
+    },
+    {
+      "title": "Signaling Proposal: MED Incentivized Pools",
+      "voting_start_time": "2021-11-25T06:44:14.451Z",
+      "voting_end_time": "2021-11-28T06:44:14.451Z",
+      "voteMeta": {
+        "yes": "1271",
+        "no": "162",
+        "abstain": "90"
+      }
+    },
+    {
+      "title": "Match External Incentives for SCRT/ATOM and SCRT/OSMO pairs",
+      "voting_start_time": "2021-11-22T18:37:03.054Z",
+      "voting_end_time": "2021-11-25T18:37:03.054Z",
+      "voteMeta": {
+        "yes": "2113",
+        "no": "45",
+        "abstain": "58"
+      }
+    },
+    {
+      "title": "Signaling Proposal for XKI/JUNO incentivized pool",
+      "voting_start_time": "2021-11-24T13:51:04.643Z",
+      "voting_end_time": "2021-11-27T13:51:04.643Z",
+      "voteMeta": {
+        "yes": "588",
+        "no": "251",
+        "abstain": "182"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 11/21/2021",
+      "voting_start_time": "2021-11-22T16:16:56.220Z",
+      "voting_end_time": "2021-11-25T16:16:56.220Z",
+      "voteMeta": {
+        "yes": "1486",
+        "no": "18",
+        "abstain": "81"
+      }
+    },
+    {
+      "title": "Space Pussy Demands Incentivization",
+      "voting_start_time": "2021-11-21T13:13:43.644Z",
+      "voting_end_time": "2021-11-24T13:13:43.644Z",
+      "voteMeta": {
+        "yes": "1123",
+        "no": "436",
+        "abstain": "162"
+      }
+    },
+    {
+      "title": "Set Max validators to 150",
+      "voting_start_time": "2021-11-20T20:09:31.493Z",
+      "voting_end_time": "2021-11-23T20:09:31.493Z",
+      "voteMeta": {
+        "yes": "714",
+        "no": "570",
+        "abstain": "461"
+      }
+    },
+    {
+      "title": "Signaling Proposal: CMDX Incentivized Pools",
+      "voting_start_time": "2021-11-18T17:34:18.545Z",
+      "voting_end_time": "2021-11-21T17:34:18.545Z",
+      "voteMeta": {
+        "yes": "1905",
+        "no": "64",
+        "abstain": "76"
+      }
+    },
+    {
+      "title": "Signaling proposal for XKI incentivized pools",
+      "voting_start_time": "2021-11-16T11:57:15.998Z",
+      "voting_end_time": "2021-11-19T11:57:15.998Z",
+      "voteMeta": {
+        "yes": "1695",
+        "no": "75",
+        "abstain": "83"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 11/15/2021",
+      "voting_start_time": "2021-11-15T16:27:31.996Z",
+      "voting_end_time": "2021-11-18T16:27:31.996Z",
+      "voteMeta": {
+        "yes": "1610",
+        "no": "16",
+        "abstain": "79"
+      }
+    },
+    {
+      "title": "Signaling Proposal: SCRT Incentivized Pools",
+      "voting_start_time": "2021-11-12T22:17:47.690Z",
+      "voting_end_time": "2021-11-15T22:17:47.690Z",
+      "voteMeta": {
+        "yes": "2762",
+        "no": "46",
+        "abstain": "53"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 11/08/2021",
+      "voting_start_time": "2021-11-08T16:59:45.001Z",
+      "voting_end_time": "2021-11-11T16:59:45.001Z",
+      "voteMeta": {
+        "yes": "2368",
+        "no": "42",
+        "abstain": "136"
+      }
+    },
+    {
+      "title": "Adjust Liquidity Mining Gauge Reward Allocations",
+      "voting_start_time": "2021-11-06T03:19:35.329Z",
+      "voting_end_time": "2021-11-09T03:19:35.329Z",
+      "voteMeta": {
+        "yes": "2350",
+        "no": "100",
+        "abstain": "65"
+      }
+    },
+    {
+      "title": "Signal Proposal: Community Spend proposal for getting Osmosis participate in HackAtom VI!",
+      "voting_start_time": "2021-11-06T12:40:41.254Z",
+      "voting_end_time": "2021-11-09T12:40:41.254Z",
+      "voteMeta": {
+        "yes": "1958",
+        "no": "32",
+        "abstain": "38"
+      }
+    },
+    {
+      "title": "Match external incentives to BCNA/OSMO and ATOM/BCNA pairs",
+      "voting_start_time": "2021-11-02T14:43:56.073Z",
+      "voting_end_time": "2021-11-05T14:43:56.073Z",
+      "voteMeta": {
+        "yes": "1618",
+        "no": "144",
+        "abstain": "125"
+      }
+    },
+    {
+      "title": "Match External Incentives to LUNA/UST and UST/OSMO pairs",
+      "voting_start_time": "2021-11-01T16:29:31.021Z",
+      "voting_end_time": "2021-11-04T16:29:31.021Z",
+      "voteMeta": {
+        "yes": "1625",
+        "no": "46",
+        "abstain": "65"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 11/01/2021",
+      "voting_start_time": "2021-11-01T16:30:08.695Z",
+      "voting_end_time": "2021-11-04T16:30:08.695Z",
+      "voteMeta": {
+        "yes": "1280",
+        "no": "25",
+        "abstain": "83"
+      }
+    },
+    {
+      "title": "Signaling proposal for BCNA incentivized pools",
+      "voting_start_time": "2021-11-01T09:39:24.869Z",
+      "voting_end_time": "2021-11-04T09:39:24.869Z",
+      "voteMeta": {
+        "yes": "1266",
+        "no": "102",
+        "abstain": "89"
+      }
+    },
+    {
+      "title": "Add more Luna, Ust and Eeur pools to incentives",
+      "voting_start_time": "2021-10-28T23:07:00.920Z",
+      "voting_end_time": "2021-10-31T23:07:00.920Z",
+      "voteMeta": {
+        "yes": "1693",
+        "no": "180",
+        "abstain": "93"
+      }
+    },
+    {
+      "title": "Osmosis Community Support DAO",
+      "voting_start_time": "2021-10-28T19:56:10.925Z",
+      "voting_end_time": "2021-10-31T19:56:10.925Z",
+      "voteMeta": {
+        "yes": "1613",
+        "no": "57",
+        "abstain": "57"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 10/25/2021",
+      "voting_start_time": "2021-10-25T16:23:27.170Z",
+      "voting_end_time": "2021-10-28T16:23:27.170Z",
+      "voteMeta": {
+        "yes": "2090",
+        "no": "32",
+        "abstain": "115"
+      }
+    },
+    {
+      "title": "Incentivising UST and Luna on Osmosis exposes the ecosystem and stakeholders to significant regulatory and stability risk",
+      "voting_start_time": "2021-10-23T23:22:47.277Z",
+      "voting_end_time": "2021-10-26T23:22:47.277Z",
+      "voteMeta": {
+        "yes": "544",
+        "no": "1462",
+        "abstain": "134"
+      }
+    },
+    {
+      "title": "Incentives Adjustment Model Change - Subsidy Balancing",
+      "voting_start_time": "2021-10-22T16:45:46.245Z",
+      "voting_end_time": "2021-10-25T16:45:46.245Z",
+      "voteMeta": {
+        "yes": "1789",
+        "no": "42",
+        "abstain": "120"
+      }
+    },
+    {
+      "title": "Osmosis Marketing DAO",
+      "voting_start_time": "2021-10-22T16:57:02.428Z",
+      "voting_end_time": "2021-10-25T16:57:02.428Z",
+      "voteMeta": {
+        "yes": "1740",
+        "no": "85",
+        "abstain": "111"
+      }
+    },
+    {
+      "title": "Add Incentives to Osmo/Ust and Osmo/Luna",
+      "voting_start_time": "2021-10-22T16:01:30.488Z",
+      "voting_end_time": "2021-10-25T16:01:30.488Z",
+      "voteMeta": {
+        "yes": "2099",
+        "no": "56",
+        "abstain": "25"
+      }
+    },
+    {
+      "title": "Signaling proposal for LIKE incentivized pools",
+      "voting_start_time": "2021-10-20T07:52:00.248Z",
+      "voting_end_time": "2021-10-23T07:52:00.248Z",
+      "voteMeta": {
+        "yes": "1691",
+        "no": "130",
+        "abstain": "181"
+      }
+    },
+    {
+      "title": "Signaling proposal for IXO incentivized pools",
+      "voting_start_time": "2021-10-19T18:40:37.756Z",
+      "voting_end_time": "2021-10-22T18:40:37.756Z",
+      "voteMeta": {
+        "yes": "1735",
+        "no": "87",
+        "abstain": "123"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 10/18/2021",
+      "voting_start_time": "2021-10-18T16:35:27.208Z",
+      "voting_end_time": "2021-10-21T16:35:27.208Z",
+      "voteMeta": {
+        "yes": "1774",
+        "no": "19",
+        "abstain": "56"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 10/11/2021",
+      "voting_start_time": "2021-10-11T16:31:38.069Z",
+      "voting_end_time": "2021-10-14T16:31:38.069Z",
+      "voteMeta": {
+        "yes": "1384",
+        "no": "31",
+        "abstain": "79"
+      }
+    },
+    {
+      "title": "Add Incentive Matching to Prop 13 Model",
+      "voting_start_time": "2021-10-05T18:43:00.097Z",
+      "voting_end_time": "2021-10-08T18:43:00.097Z",
+      "voteMeta": {
+        "yes": "1450",
+        "no": "36",
+        "abstain": "35"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 10/04/2021",
+      "voting_start_time": "2021-10-04T16:09:08.154Z",
+      "voting_end_time": "2021-10-07T16:09:08.154Z",
+      "voteMeta": {
+        "yes": "1316",
+        "no": "24",
+        "abstain": "102"
+      }
+    },
+    {
+      "title": "Increase Pool Creation Fee to 100 osmo",
+      "voting_start_time": "2021-10-03T00:59:02.464Z",
+      "voting_end_time": "2021-10-06T00:59:02.464Z",
+      "voteMeta": {
+        "yes": "1660",
+        "no": "95",
+        "abstain": "35"
+      }
+    },
+    {
+      "title": "CCCProposal",
+      "voting_start_time": "2021-10-01T07:08:13.428Z",
+      "voting_end_time": "2021-10-04T07:08:13.428Z",
+      "voteMeta": {
+        "yes": "1741",
+        "no": "48",
+        "abstain": "49"
+      }
+    },
+    {
+      "title": "Signaling proposal for EEUR incentivized pools",
+      "voting_start_time": "2021-09-28T11:40:14.331Z",
+      "voting_end_time": "2021-10-01T11:40:14.331Z",
+      "voteMeta": {
+        "yes": "1406",
+        "no": "50",
+        "abstain": "46"
+      }
+    },
+    {
+      "title": "Signaling proposal for NGM incentivized pools",
+      "voting_start_time": "2021-09-28T11:39:35.706Z",
+      "voting_end_time": "2021-10-01T11:39:35.706Z",
+      "voteMeta": {
+        "yes": "1165",
+        "no": "38",
+        "abstain": "56"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 09/27/2021",
+      "voting_start_time": "2021-09-27T16:30:53.412Z",
+      "voting_end_time": "2021-09-30T16:30:53.412Z",
+      "voteMeta": {
+        "yes": "1008",
+        "no": "42",
+        "abstain": "104"
+      }
+    },
+    {
+      "title": "Signaling Proposal for JUNO incentivized pools",
+      "voting_start_time": "2021-09-25T14:27:47.988Z",
+      "voting_end_time": "2021-09-28T14:27:47.988Z",
+      "voteMeta": {
+        "yes": "2036",
+        "no": "56",
+        "abstain": "33"
+      }
+    },
+    {
+      "title": "Community Support DAO",
+      "voting_start_time": "2021-09-21T02:56:19.461Z",
+      "voting_end_time": "2021-09-24T02:56:19.461Z",
+      "voteMeta": {
+        "yes": "1017",
+        "no": "744",
+        "abstain": "120"
+      }
+    },
+    {
+      "title": "Osmosis v4 Berylium Upgrade",
+      "voting_start_time": "2021-09-20T18:26:01.349Z",
+      "voting_end_time": "2021-09-23T18:26:01.349Z",
+      "voteMeta": {
+        "yes": "1800",
+        "no": "9",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 09/20/2021",
+      "voting_start_time": "2021-09-20T16:29:08.558Z",
+      "voting_end_time": "2021-09-23T16:29:08.558Z",
+      "voteMeta": {
+        "yes": "1228",
+        "no": "28",
+        "abstain": "50"
+      }
+    },
+    {
+      "title": "Use Dual-AMM design for incentivized stable coin pools?",
+      "voting_start_time": "2021-09-18T05:17:50.266Z",
+      "voting_end_time": "2021-09-21T05:17:50.266Z",
+      "voteMeta": {
+        "yes": "872",
+        "no": "726",
+        "abstain": "113"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 09/13/2021",
+      "voting_start_time": "2021-09-13T16:02:42.990Z",
+      "voting_end_time": "2021-09-16T16:02:42.990Z",
+      "voteMeta": {
+        "yes": "1585",
+        "no": "40",
+        "abstain": "82"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 09/06/2021",
+      "voting_start_time": "2021-09-06T15:48:48.120Z",
+      "voting_end_time": "2021-09-09T15:48:48.120Z",
+      "voteMeta": {
+        "yes": "1120",
+        "no": "30",
+        "abstain": "96"
+      }
+    },
+    {
+      "title": "Clawback ALL unclaimed ION & OSMO to Community Pool after airdrop decay period?",
+      "voting_start_time": "2021-09-06T05:17:07.206Z",
+      "voting_end_time": "2021-09-09T05:17:07.206Z",
+      "voteMeta": {
+        "yes": "1232",
+        "no": "40",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Remove the proposer bonus lottery",
+      "voting_start_time": "2021-09-02T06:08:03.397Z",
+      "voting_end_time": "2021-09-05T06:08:03.397Z",
+      "voteMeta": {
+        "yes": "1022",
+        "no": "82",
+        "abstain": "57"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 08/30/2021",
+      "voting_start_time": "2021-08-30T15:32:20.406Z",
+      "voting_end_time": "2021-09-02T15:32:20.406Z",
+      "voteMeta": {
+        "yes": "1207",
+        "no": "22",
+        "abstain": "68"
+      }
+    },
+    {
+      "title": "Would you be open to a clawback of 'unclaimed' ION?",
+      "voting_start_time": "2021-08-30T02:05:21.711Z",
+      "voting_end_time": "2021-09-02T02:05:21.711Z",
+      "voteMeta": {
+        "yes": "1258",
+        "no": "51",
+        "abstain": "41"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 08/23/2021",
+      "voting_start_time": "2021-08-23T17:00:44.636Z",
+      "voting_end_time": "2021-08-26T17:00:44.636Z",
+      "voteMeta": {
+        "yes": "966",
+        "no": "25",
+        "abstain": "58"
+      }
+    },
+    {
+      "title": "Shapeshift Integration",
+      "voting_start_time": "2021-08-20T18:27:03.501Z",
+      "voting_end_time": "2021-08-23T18:27:03.501Z",
+      "voteMeta": {
+        "yes": "1255",
+        "no": "22",
+        "abstain": "26"
+      }
+    },
+    {
+      "title": "Should we add incentives to IOV pools 183 and 197?",
+      "voting_start_time": "2021-08-18T22:05:03.089Z",
+      "voting_end_time": "2021-08-21T22:05:03.089Z",
+      "voteMeta": {
+        "yes": "985",
+        "no": "104",
+        "abstain": "75"
+      }
+    },
+    {
+      "title": "Double the block gas limits",
+      "voting_start_time": "2021-08-18T23:44:14.901Z",
+      "voting_end_time": "2021-08-21T23:44:14.901Z",
+      "voteMeta": {
+        "yes": "999",
+        "no": "34",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 08/16/2021",
+      "voting_start_time": "2021-08-16T16:56:25.972Z",
+      "voting_end_time": "2021-08-19T16:56:25.972Z",
+      "voteMeta": {
+        "yes": "735",
+        "no": "490",
+        "abstain": "145"
+      }
+    },
+    {
+      "title": "Lower minimum commission rate to 1%",
+      "voting_start_time": "2021-08-12T13:33:40.294Z",
+      "voting_end_time": "2021-08-15T13:33:40.294Z",
+      "voteMeta": {
+        "yes": "482",
+        "no": "489",
+        "abstain": "43"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 08/02/2021",
+      "voting_start_time": "2021-08-10T15:13:13.884Z",
+      "voting_end_time": "2021-08-13T15:13:13.884Z",
+      "voteMeta": {
+        "yes": "1247",
+        "no": "19",
+        "abstain": "35"
+      }
+    },
+    {
+      "title": "Decrease the minimum deposit amount for governance proposals",
+      "voting_start_time": "2021-07-29T17:27:55.390Z",
+      "voting_end_time": "2021-08-01T17:27:55.390Z",
+      "voteMeta": {
+        "yes": "830",
+        "no": "160",
+        "abstain": "49"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments for 07/19/2021",
+      "voting_start_time": "2021-07-19T23:33:05.366Z",
+      "voting_end_time": "2021-07-22T23:33:05.366Z",
+      "voteMeta": {
+        "yes": "942",
+        "no": "22",
+        "abstain": "51"
+      }
+    },
+    {
+      "title": "Semi-Automatic Incentive Adjustments Model",
+      "voting_start_time": "2021-07-17T23:23:49.415Z",
+      "voting_end_time": "2021-07-20T23:23:49.415Z",
+      "voteMeta": {
+        "yes": "886",
+        "no": "20",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Distribute LP rewards for epoch that ended at 2021-06-23 (Revised)",
+      "voting_start_time": "2021-07-11T20:10:57.440Z",
+      "voting_end_time": "2021-07-14T20:10:57.440Z",
+      "voteMeta": {
+        "yes": "1210",
+        "no": "81",
+        "abstain": "54"
+      }
+    },
+    {
+      "title": "Switch to Intended Prop 6 incentives + Community Pool Adjustment",
+      "voting_start_time": "2021-07-04T19:30:34.235Z",
+      "voting_end_time": "2021-07-07T19:30:34.235Z",
+      "voteMeta": {
+        "yes": "1135",
+        "no": "78",
+        "abstain": "113"
+      }
+    },
+    {
+      "title": "Osmosis Inflation Dynamics Adjustment",
+      "voting_start_time": "2021-07-01T03:57:09.874Z",
+      "voting_end_time": "2021-07-04T03:57:09.874Z",
+      "voteMeta": {
+        "yes": "644",
+        "no": "840",
+        "abstain": "109"
+      }
+    },
+    {
+      "title": "Add OSMO incentives to Regen pools",
+      "voting_start_time": "2021-06-29T21:41:57.774Z",
+      "voting_end_time": "2021-07-02T21:41:57.774Z",
+      "voteMeta": {
+        "yes": "1348",
+        "no": "389",
+        "abstain": "60"
+      }
+    },
+    {
+      "title": "Italian Educational Content",
+      "voting_start_time": "2021-06-28T10:27:14.269Z",
+      "voting_end_time": "2021-07-01T10:27:14.269Z",
+      "voteMeta": {
+        "yes": "375",
+        "no": "1091",
+        "abstain": "125"
+      }
+    },
+    {
+      "title": "Increase the minimum block gas and size limits to allow for more transactions in blocks",
+      "voting_start_time": "2021-06-25T21:22:27.795Z",
+      "voting_end_time": "2021-06-28T21:22:27.795Z",
+      "voteMeta": {
+        "yes": "2338",
+        "no": "43",
+        "abstain": "34"
+      }
+    },
+    {
+      "title": "We're on the side of the little girl.",
+      "voting_start_time": "2021-06-25T06:37:32.839Z",
+      "voting_end_time": "2021-06-28T06:37:32.839Z",
+      "voteMeta": {
+        "yes": "1184",
+        "no": "104",
+        "abstain": "338"
+      }
+    },
+    {
+      "title": "Set Initial Liquidity Mining Incentives",
+      "voting_start_time": "2021-06-20T16:52:08.442Z",
+      "voting_end_time": "2021-06-23T16:52:08.442Z",
+      "voteMeta": {
+        "yes": "2934",
+        "no": "20",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "We want to claim rewards completely",
+      "voting_start_time": "2021-06-19T22:31:38.874Z",
+      "voting_end_time": "2021-06-22T22:31:38.874Z",
+      "voteMeta": {
+        "yes": "3152",
+        "no": "192",
+        "abstain": "128"
+      }
+    }
+  ]
+}

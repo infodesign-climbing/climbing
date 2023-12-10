@@ -1,0 +1,4131 @@
+{
+  "data": [
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "WETH",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/weth.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "USDC",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdc.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "USDT",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/ethereum/asset/usdt.png",
+          "tokenType": "bridge"
+        },
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "OSMO",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/osmosis/asset/osmo.png",
+          "tokenType": "ibc"
+        },
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    },
+    {
+      "assets": [
+        {
+          "displayDenom": "SOMM",
+          "tokenImg": "//raw.githubusercontent.com/cosmostation/chainlist/master/chain/sommelier/asset/somm.png",
+          "tokenType": "staking"
+        }
+      ]
+    }
+  ]
+}

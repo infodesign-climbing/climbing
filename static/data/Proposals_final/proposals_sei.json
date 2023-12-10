@@ -1,0 +1,234 @@
+{
+  "data": [
+    {
+      "title": "v3.2.1",
+      "voting_start_time": "2023-10-13T16:40:24.270Z",
+      "voting_end_time": "2023-10-18T16:40:24.270Z",
+      "voteMeta": {
+        "yes": "85",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase validator set to 39",
+      "voting_start_time": "2023-09-29T23:35:12.539Z",
+      "voting_end_time": "2023-10-04T23:35:12.539Z",
+      "voteMeta": {
+        "yes": "78",
+        "no": "2",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "v3.1.1",
+      "voting_start_time": "2023-09-27T18:46:27.537Z",
+      "voting_end_time": "2023-10-02T18:46:27.537Z",
+      "voteMeta": {
+        "yes": "98",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Change oracle whitelist",
+      "voting_start_time": "2023-09-27T18:26:40.620Z",
+      "voting_end_time": "2023-09-28T18:26:40.620Z",
+      "voteMeta": {
+        "yes": "54",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase validator set to 38",
+      "voting_start_time": "2023-09-21T19:16:46.104Z",
+      "voting_end_time": "2023-09-22T19:16:46.104Z",
+      "voteMeta": {
+        "yes": "43",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "v3.0.9",
+      "voting_start_time": "2023-09-07T14:47:49.117Z",
+      "voting_end_time": "2023-09-12T14:47:49.117Z",
+      "voteMeta": {
+        "yes": "124",
+        "no": "2",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase validator set to 36",
+      "voting_start_time": "2023-09-01T03:41:31.386Z",
+      "voting_end_time": "2023-09-02T03:41:31.386Z",
+      "voteMeta": {
+        "yes": "55",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase governance deposit parameters  ✅ ",
+      "voting_start_time": "2023-08-19T19:38:19.567Z",
+      "voting_end_time": "2023-08-24T19:38:19.567Z",
+      "voteMeta": {
+        "yes": "123",
+        "no": "21",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Increase governance deposit parameters",
+      "voting_start_time": "2023-08-19T17:20:18.917Z",
+      "voting_end_time": "2023-08-24T17:20:18.917Z",
+      "voteMeta": {
+        "yes": "160",
+        "no": "10",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "SEI / ATOM Airdrop ✅",
+      "voting_start_time": "2023-08-19T13:52:11.215Z",
+      "voting_end_time": "2023-08-24T13:52:11.215Z",
+      "voteMeta": {
+        "yes": "153",
+        "no": "13",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Mint Param Change Proposal",
+      "voting_start_time": "2023-08-13T17:01:24.890Z",
+      "voting_end_time": "2023-08-14T17:01:24.890Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Update Global Minimum Prices",
+      "voting_start_time": "2023-08-13T16:58:38.788Z",
+      "voting_end_time": "2023-08-14T16:58:38.788Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "3.0.8",
+      "voting_start_time": "2023-08-09T02:35:34.940Z",
+      "voting_end_time": "2023-08-10T02:35:34.940Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "3.0.7",
+      "voting_start_time": "2023-08-02T21:53:42.823Z",
+      "voting_end_time": "2023-08-03T21:53:42.823Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "3.0.6",
+      "voting_start_time": "2023-07-18T02:33:58.237Z",
+      "voting_end_time": "2023-07-19T02:33:58.237Z",
+      "voteMeta": {
+        "yes": "22",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "3.0.4",
+      "voting_start_time": "2023-06-21T16:12:18.442Z",
+      "voting_end_time": "2023-06-22T16:12:18.442Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "3.0.3",
+      "voting_start_time": "2023-06-07T03:46:10.453Z",
+      "voting_end_time": "2023-06-08T03:46:10.453Z",
+      "voteMeta": {
+        "yes": "27",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Change oracle vote period to 2 blocks and slash window to 216k",
+      "voting_start_time": "2023-06-01T16:59:08.290Z",
+      "voting_end_time": "2023-06-02T16:59:08.290Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "3.0.2",
+      "voting_start_time": "2023-05-30T15:27:37.549Z",
+      "voting_end_time": "2023-05-31T15:27:37.549Z",
+      "voteMeta": {
+        "yes": "27",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "3.0.2",
+      "voting_start_time": "2023-05-30T15:20:03.857Z",
+      "voting_end_time": "2023-06-04T15:20:03.857Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": "26",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Change oracle params to require uptime",
+      "voting_start_time": "2023-05-25T20:50:24.127Z",
+      "voting_end_time": "2023-05-26T20:50:24.127Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": "1",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Decrease min_commission_rate to 0%",
+      "voting_start_time": "2023-05-25T20:46:54.326Z",
+      "voting_end_time": "2023-05-30T20:46:54.326Z",
+      "voteMeta": {
+        "yes": "2",
+        "no": "23",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Update Max Validators",
+      "voting_start_time": "2023-05-23T04:18:55.705Z",
+      "voting_end_time": "2023-05-24T04:18:55.705Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": 0,
+        "abstain": 0
+      }
+    }
+  ]
+}

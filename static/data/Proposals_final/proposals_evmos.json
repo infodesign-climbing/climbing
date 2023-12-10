@@ -1,0 +1,1524 @@
+{
+  "data": [
+    {
+      "title": "The New Lightning Network",
+      "voting_start_time": "2023-11-10T15:45:21.096Z",
+      "voting_end_time": "2023-11-15T15:45:21.096Z",
+      "voteMeta": {
+        "yes": "101",
+        "no": "118",
+        "abstain": "42"
+      }
+    },
+    {
+      "title": "Lunar Launch  Tashi Launch Liquidity Incentives Phase 2",
+      "voting_start_time": "2023-11-07T20:44:54.547Z",
+      "voting_end_time": "2023-11-12T20:44:54.547Z",
+      "voteMeta": {
+        "yes": "1561",
+        "no": "39",
+        "abstain": "299"
+      }
+    },
+    {
+      "title": "$Evmos Airdrop",
+      "voting_start_time": "2023-11-04T21:43:25.465Z",
+      "voting_end_time": "2023-11-09T21:43:25.465Z",
+      "voteMeta": {
+        "yes": "73",
+        "no": "133",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": " 💎$Evmos Airdrop ✅ - DYDX Migration",
+      "voting_start_time": "2023-11-03T02:15:43.312Z",
+      "voting_end_time": "2023-11-08T02:15:43.312Z",
+      "voteMeta": {
+        "yes": "35",
+        "no": "56",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Evmos Testnet v15.0.0 Upgrade",
+      "voting_start_time": "2023-11-01T10:22:52.579Z",
+      "voting_end_time": "2023-11-06T10:22:52.579Z",
+      "voteMeta": {
+        "yes": "2360",
+        "no": "9",
+        "abstain": "26"
+      }
+    },
+    {
+      "title": "💎USDC Airdrop ✅ - New Feature!",
+      "voting_start_time": "2023-10-30T16:03:08.749Z",
+      "voting_end_time": "2023-11-04T16:03:08.749Z",
+      "voteMeta": {
+        "yes": "52",
+        "no": "27",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Extend USDT Liquidity Incentives by 2 Months",
+      "voting_start_time": "2023-10-28T16:55:33.695Z",
+      "voting_end_time": "2023-11-02T16:55:33.695Z",
+      "voteMeta": {
+        "yes": "1740",
+        "no": "28",
+        "abstain": "46"
+      }
+    },
+    {
+      "title": "💎Evmos Airdrop ✅ - New Feature!",
+      "voting_start_time": "2023-10-27T03:05:52.796Z",
+      "voting_end_time": "2023-11-01T03:05:52.796Z",
+      "voteMeta": {
+        "yes": "39",
+        "no": "21",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Evmos DAO Participation in Tashi Genesis Pools Phase 2",
+      "voting_start_time": "2023-10-25T13:58:03.239Z",
+      "voting_end_time": "2023-10-30T13:58:03.239Z",
+      "voteMeta": {
+        "yes": "1419",
+        "no": "38",
+        "abstain": "418"
+      }
+    },
+    {
+      "title": "ERC20 registration for native USDC and Kava",
+      "voting_start_time": "2023-10-23T08:52:44.436Z",
+      "voting_end_time": "2023-10-28T08:52:44.436Z",
+      "voteMeta": {
+        "yes": "1856",
+        "no": "6",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "💎Evmos Airdrop ✅",
+      "voting_start_time": "2023-10-19T00:06:24.162Z",
+      "voting_end_time": "2023-10-24T00:06:24.162Z",
+      "voteMeta": {
+        "yes": "45",
+        "no": "13",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Increase Deposit Amount for Evmos Governance Proposals",
+      "voting_start_time": "2023-10-12T21:03:59.323Z",
+      "voting_end_time": "2023-10-17T21:03:59.323Z",
+      "voteMeta": {
+        "yes": "95",
+        "no": "35",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Increase Deposit Amount for Evmos Governance Proposals",
+      "voting_start_time": "2023-10-12T16:58:25.668Z",
+      "voting_end_time": "2023-10-17T16:58:25.668Z",
+      "voteMeta": {
+        "yes": "1725",
+        "no": "15",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "💎Evmos Airdrop ✅",
+      "voting_start_time": "2023-10-11T01:28:14.895Z",
+      "voting_end_time": "2023-10-16T01:28:14.895Z",
+      "voteMeta": {
+        "yes": "28",
+        "no": "6",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Additional Treasury stEVMOS/EVMOS Liquidity on Forge",
+      "voting_start_time": "2023-10-10T16:48:56.435Z",
+      "voting_end_time": "2023-10-15T16:48:56.435Z",
+      "voteMeta": {
+        "yes": "1451",
+        "no": "37",
+        "abstain": "122"
+      }
+    },
+    {
+      "title": "Cosmos x Celestia Airdrop ✅",
+      "voting_start_time": "2023-10-09T13:30:48.548Z",
+      "voting_end_time": "2023-10-14T13:30:48.548Z",
+      "voteMeta": {
+        "yes": "93",
+        "no": "47",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "💎Evmos Airdrop ✅",
+      "voting_start_time": "2023-10-07T16:01:47.743Z",
+      "voting_end_time": "2023-10-12T16:01:47.743Z",
+      "voteMeta": {
+        "yes": "113",
+        "no": "60",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Proposal for Evmos Incentives: Forge Dex and Tashi Collaboration",
+      "voting_start_time": "2023-10-06T18:17:51.868Z",
+      "voting_end_time": "2023-10-11T18:17:51.868Z",
+      "voteMeta": {
+        "yes": "752",
+        "no": "322",
+        "abstain": "734"
+      }
+    },
+    {
+      "title": "💎Evmos Airdrop ✅",
+      "voting_start_time": "2023-09-28T00:36:16.872Z",
+      "voting_end_time": "2023-10-03T00:36:16.872Z",
+      "voteMeta": {
+        "yes": "65",
+        "no": "33",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "💎Evmos Airdrop ✅",
+      "voting_start_time": "2023-09-26T03:45:21.566Z",
+      "voting_end_time": "2023-10-01T03:45:21.566Z",
+      "voteMeta": {
+        "yes": "89",
+        "no": "17",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Recover expired IBC client for Noble",
+      "voting_start_time": "2023-09-26T03:26:54.710Z",
+      "voting_end_time": "2023-10-01T03:26:54.710Z",
+      "voteMeta": {
+        "yes": "2283",
+        "no": "11",
+        "abstain": "25"
+      }
+    },
+    {
+      "title": "Community to Sponsor Development of LSDFI on EVMOS",
+      "voting_start_time": "2023-09-22T23:01:01.530Z",
+      "voting_end_time": "2023-09-27T23:01:01.530Z",
+      "voteMeta": {
+        "yes": "833",
+        "no": "1265",
+        "abstain": "201"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v14.0.0 Upgrade",
+      "voting_start_time": "2023-09-19T23:49:19.131Z",
+      "voting_end_time": "2023-09-24T23:49:19.131Z",
+      "voteMeta": {
+        "yes": "2969",
+        "no": "5",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "ERC20 Registration Wormhole Assets",
+      "voting_start_time": "2023-09-19T15:11:54.693Z",
+      "voting_end_time": "2023-09-24T15:11:54.693Z",
+      "voteMeta": {
+        "yes": "2616",
+        "no": "5",
+        "abstain": "21"
+      }
+    },
+    {
+      "title": "Native USDt liquidity incentives",
+      "voting_start_time": "2023-09-10T12:20:34.858Z",
+      "voting_end_time": "2023-09-15T12:20:34.858Z",
+      "voteMeta": {
+        "yes": "1823",
+        "no": "37",
+        "abstain": "90"
+      }
+    },
+    {
+      "title": "IBC Registration for TASHI",
+      "voting_start_time": "2023-09-05T13:40:43.489Z",
+      "voting_end_time": "2023-09-10T13:40:43.489Z",
+      "voteMeta": {
+        "yes": "1819",
+        "no": "9",
+        "abstain": "34"
+      }
+    },
+    {
+      "title": "Inferno 2 - Continuing Forge LP incentives with Revert Finance",
+      "voting_start_time": "2023-08-25T03:42:13.482Z",
+      "voting_end_time": "2023-08-30T03:42:13.482Z",
+      "voteMeta": {
+        "yes": "1553",
+        "no": "82",
+        "abstain": "279"
+      }
+    },
+    {
+      "title": "Lunar Launch – Tashi Launch Liquidity Incentives",
+      "voting_start_time": "2023-08-24T00:49:35.200Z",
+      "voting_end_time": "2023-08-29T00:49:35.200Z",
+      "voteMeta": {
+        "yes": "1242",
+        "no": "138",
+        "abstain": "287"
+      }
+    },
+    {
+      "title": "Incentive Program for Steer's capital-efficient trading strategies",
+      "voting_start_time": "2023-08-18T15:34:31.298Z",
+      "voting_end_time": "2023-08-23T15:34:31.298Z",
+      "voteMeta": {
+        "yes": "2059",
+        "no": "47",
+        "abstain": "119"
+      }
+    },
+    {
+      "title": "ERC20 registration for (native) USDT issued on Kava",
+      "voting_start_time": "2023-08-15T17:22:18.458Z",
+      "voting_end_time": "2023-08-20T17:22:18.458Z",
+      "voteMeta": {
+        "yes": "1907",
+        "no": "9",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "[ECP-3] Renewal of the Evmos DAO Governance Workstream",
+      "voting_start_time": "2023-07-30T08:54:24.316Z",
+      "voting_end_time": "2023-08-04T08:54:24.316Z",
+      "voteMeta": {
+        "yes": "1788",
+        "no": "37",
+        "abstain": "294"
+      }
+    },
+    {
+      "title": "Register ERC20 for Crescent Network",
+      "voting_start_time": "2023-07-24T09:22:10.502Z",
+      "voting_end_time": "2023-07-29T09:22:10.502Z",
+      "voteMeta": {
+        "yes": "1917",
+        "no": "15",
+        "abstain": "27"
+      }
+    },
+    {
+      "title": "Participation in Genesis Pools on Tashi: An Opportunity for Evmos Community",
+      "voting_start_time": "2023-07-17T12:24:33.320Z",
+      "voting_end_time": "2023-07-22T12:24:33.320Z",
+      "voteMeta": {
+        "yes": "1339",
+        "no": "214",
+        "abstain": "632"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v13.0.2 (Apeiron) Upgrade",
+      "voting_start_time": "2023-07-06T09:25:43.619Z",
+      "voting_end_time": "2023-07-11T09:25:43.619Z",
+      "voteMeta": {
+        "yes": "3923",
+        "no": "9",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "Build a Decentralized Derivatives Exchange on EVMOS",
+      "voting_start_time": "2023-06-03T18:02:54.027Z",
+      "voting_end_time": "2023-06-08T18:02:54.027Z",
+      "voteMeta": {
+        "yes": "1337",
+        "no": "1444",
+        "abstain": "260"
+      }
+    },
+    {
+      "title": "Inferno - An incentive program to bootstrap liquidity in Forge",
+      "voting_start_time": "2023-05-10T16:59:26.661Z",
+      "voting_end_time": "2023-05-15T16:59:26.661Z",
+      "voteMeta": {
+        "yes": "4201",
+        "no": "54",
+        "abstain": "88"
+      }
+    },
+    {
+      "title": "ERC20 registration for rETH, wstETH, Pepe, stINJ, QCK, qATOM, qOSMO, SCRT, AXL",
+      "voting_start_time": "2023-05-08T17:44:17.068Z",
+      "voting_end_time": "2023-05-13T17:44:17.068Z",
+      "voteMeta": {
+        "yes": "4127",
+        "no": "31",
+        "abstain": "50"
+      }
+    },
+    {
+      "title": "Register NEOK Token as an IBC Coin",
+      "voting_start_time": "2023-05-02T22:29:25.119Z",
+      "voting_end_time": "2023-05-07T22:29:25.119Z",
+      "voteMeta": {
+        "yes": "4106",
+        "no": "37",
+        "abstain": "117"
+      }
+    },
+    {
+      "title": "Actionable analytics, management, and Incentives tools for liquidity providers by Revert Finance",
+      "voting_start_time": "2023-04-18T13:57:39.180Z",
+      "voting_end_time": "2023-04-23T13:57:39.180Z",
+      "voteMeta": {
+        "yes": "4889",
+        "no": "49",
+        "abstain": "146"
+      }
+    },
+    {
+      "title": "Treasury stEVMOS/EVMOS Liquidity Pool on Forge",
+      "voting_start_time": "2023-04-11T16:58:25.006Z",
+      "voting_end_time": "2023-04-16T16:58:25.006Z",
+      "voteMeta": {
+        "yes": "5836",
+        "no": "61",
+        "abstain": "160"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v12.1.0 Upgrade",
+      "voting_start_time": "2023-03-26T08:29:40.577Z",
+      "voting_end_time": "2023-03-31T08:29:40.577Z",
+      "voteMeta": {
+        "yes": "7907",
+        "no": "12",
+        "abstain": "34"
+      }
+    },
+    {
+      "title": "Evmos Testnet v12.0.0 Upgrade",
+      "voting_start_time": "2023-03-24T09:29:25.352Z",
+      "voting_end_time": "2023-03-29T09:29:25.352Z",
+      "voteMeta": {
+        "yes": "3929",
+        "no": "2406",
+        "abstain": "211"
+      }
+    },
+    {
+      "title": "Disable conversion for previously registered USK",
+      "voting_start_time": "2023-03-10T11:06:09.115Z",
+      "voting_end_time": "2023-03-15T11:06:09.115Z",
+      "voteMeta": {
+        "yes": "5279",
+        "no": "42",
+        "abstain": "329"
+      }
+    },
+    {
+      "title": "[ECP-2B] Formalizing and Funding of the Community Mod & Support Workstream",
+      "voting_start_time": "2023-03-01T20:26:53.059Z",
+      "voting_end_time": "2023-03-06T20:26:53.059Z",
+      "voteMeta": {
+        "yes": "2507",
+        "no": "2167",
+        "abstain": "730"
+      }
+    },
+    {
+      "title": "Kick off ReFi on Evmos: offset Evmos’s carbon emission for 2022!",
+      "voting_start_time": "2023-02-28T19:50:32.797Z",
+      "voting_end_time": "2023-03-05T19:50:32.797Z",
+      "voteMeta": {
+        "yes": "3105",
+        "no": "1533",
+        "abstain": "892"
+      }
+    },
+    {
+      "title": "Build A Community Owned DEX (UniV3)",
+      "voting_start_time": "2023-02-27T17:33:41.420Z",
+      "voting_end_time": "2023-03-04T17:33:41.420Z",
+      "voteMeta": {
+        "yes": "5837",
+        "no": "139",
+        "abstain": "589"
+      }
+    },
+    {
+      "title": "Register Celer Assets (USDC, USDT, WETH, DAI, WBTC) as IBC Tokens",
+      "voting_start_time": "2023-02-23T10:00:38.862Z",
+      "voting_end_time": "2023-02-28T10:00:38.862Z",
+      "voteMeta": {
+        "yes": "6297",
+        "no": "22",
+        "abstain": "44"
+      }
+    },
+    {
+      "title": "Crescent External Incentives",
+      "voting_start_time": "2023-02-20T08:04:02.068Z",
+      "voting_end_time": "2023-02-25T08:04:02.068Z",
+      "voteMeta": {
+        "yes": "2701",
+        "no": "2814",
+        "abstain": "538"
+      }
+    },
+    {
+      "title": "ERC20 registration for Stride Staked Assets (stATOM, stEVMOS, stOSMO, stJUNO, stSTARS and Stride)",
+      "voting_start_time": "2023-02-17T08:24:16.137Z",
+      "voting_end_time": "2023-02-22T08:24:16.137Z",
+      "voteMeta": {
+        "yes": "7779",
+        "no": "40",
+        "abstain": "60"
+      }
+    },
+    {
+      "title": "Disable conversion for previously registered EEUR",
+      "voting_start_time": "2023-02-10T09:16:59.099Z",
+      "voting_end_time": "2023-02-15T09:16:59.099Z",
+      "voteMeta": {
+        "yes": "6637",
+        "no": "56",
+        "abstain": "164"
+      }
+    },
+    {
+      "title": "DoraHacks Hackathon Proposal with Evmos",
+      "voting_start_time": "2023-02-10T09:14:35.668Z",
+      "voting_end_time": "2023-02-15T09:14:35.668Z",
+      "voteMeta": {
+        "yes": "6624",
+        "no": "150",
+        "abstain": "426"
+      }
+    },
+    {
+      "title": "Register ERC20 for yEVMOS: Liquid Staking Token",
+      "voting_start_time": "2023-02-05T18:10:55.186Z",
+      "voting_end_time": "2023-02-10T18:10:55.186Z",
+      "voteMeta": {
+        "yes": "6150",
+        "no": "1291",
+        "abstain": "331"
+      }
+    },
+    {
+      "title": "[ECP-2A] Formalizing and Funding the Governance Council Workstream (Rev. 2)",
+      "voting_start_time": "2023-01-30T18:28:40.002Z",
+      "voting_end_time": "2023-02-04T18:28:40.002Z",
+      "voteMeta": {
+        "yes": "4906",
+        "no": "735",
+        "abstain": "2354"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v11.0.0 Upgrade",
+      "voting_start_time": "2023-01-28T10:58:36.846Z",
+      "voting_end_time": "2023-02-02T10:58:36.846Z",
+      "voteMeta": {
+        "yes": "14135",
+        "no": "27",
+        "abstain": "26"
+      }
+    },
+    {
+      "title": "Evmos x Covalent Hackathon Participant Rewards Re-Adjustment",
+      "voting_start_time": "2023-01-26T15:35:27.322Z",
+      "voting_end_time": "2023-01-31T15:35:27.322Z",
+      "voteMeta": {
+        "yes": "8075",
+        "no": "150",
+        "abstain": "202"
+      }
+    },
+    {
+      "title": "Encode Club's Evmos Grant Proposal",
+      "voting_start_time": "2023-01-25T21:36:53.733Z",
+      "voting_end_time": "2023-01-30T21:36:53.733Z",
+      "voteMeta": {
+        "yes": "8519",
+        "no": "174",
+        "abstain": "195"
+      }
+    },
+    {
+      "title": "New Evmos Liquidity Incentive and SpaceFi Whole Launching",
+      "voting_start_time": "2023-01-20T16:23:12.516Z",
+      "voting_end_time": "2023-01-25T16:23:12.516Z",
+      "voteMeta": {
+        "yes": "5016",
+        "no": "773",
+        "abstain": "1285"
+      }
+    },
+    {
+      "title": "Cancellation of Prop 45, Clarification of Laurel Project Role",
+      "voting_start_time": "2023-01-08T18:52:57.295Z",
+      "voting_end_time": "2023-01-13T18:52:57.295Z",
+      "voteMeta": {
+        "yes": "7737",
+        "no": "76",
+        "abstain": "470"
+      }
+    },
+    {
+      "title": "Consensus Test",
+      "voting_start_time": "2023-01-08T17:13:39.621Z",
+      "voting_end_time": "2023-01-13T17:13:39.621Z",
+      "voteMeta": {
+        "yes": "1137",
+        "no": "804",
+        "abstain": "771"
+      }
+    },
+    {
+      "title": "Governance Consensus: Governance Immunity",
+      "voting_start_time": "2023-01-07T20:17:55.073Z",
+      "voting_end_time": "2023-01-12T20:17:55.073Z",
+      "voteMeta": {
+        "yes": "1081",
+        "no": "813",
+        "abstain": "1155"
+      }
+    },
+    {
+      "title": "Increase Developer Revenue from 50% to 95%",
+      "voting_start_time": "2023-01-07T19:37:30.289Z",
+      "voting_end_time": "2023-01-12T19:37:30.289Z",
+      "voteMeta": {
+        "yes": "8100",
+        "no": "339",
+        "abstain": "388"
+      }
+    },
+    {
+      "title": "Ratify Governance-Official Meanings for Yes, No, Abstain and NoWithVeto",
+      "voting_start_time": "2023-01-07T06:40:56.280Z",
+      "voting_end_time": "2023-01-12T06:40:56.280Z",
+      "voteMeta": {
+        "yes": "6985",
+        "no": "100",
+        "abstain": "298"
+      }
+    },
+    {
+      "title": "Retroactive Payment for Public Goods (Evmos Development for 2022)",
+      "voting_start_time": "2023-01-06T22:12:52.679Z",
+      "voting_end_time": "2023-01-11T22:12:52.679Z",
+      "voteMeta": {
+        "yes": "791",
+        "no": "2017",
+        "abstain": "335"
+      }
+    },
+    {
+      "title": "Governance Consensus: No Criminal Decisions",
+      "voting_start_time": "2023-01-05T17:19:49.527Z",
+      "voting_end_time": "2023-01-10T17:19:49.527Z",
+      "voteMeta": {
+        "yes": "953",
+        "no": "997",
+        "abstain": "1185"
+      }
+    },
+    {
+      "title": "Governance Consensus: Only Elected Officers May Represent the Will of the Chain",
+      "voting_start_time": "2023-01-04T20:08:52.743Z",
+      "voting_end_time": "2023-01-09T20:08:52.743Z",
+      "voteMeta": {
+        "yes": "1152",
+        "no": "1644",
+        "abstain": "469"
+      }
+    },
+    {
+      "title": "Increase Deposit Amount for Evmos Proposals",
+      "voting_start_time": "2023-01-03T23:51:21.117Z",
+      "voting_end_time": "2023-01-08T23:51:21.117Z",
+      "voteMeta": {
+        "yes": "8014",
+        "no": "127",
+        "abstain": "76"
+      }
+    },
+    {
+      "title": "Retroactive Payment for Public Goods (Evmos Development for March 2022)",
+      "voting_start_time": "2022-12-31T20:30:54.790Z",
+      "voting_end_time": "2023-01-05T20:30:54.790Z",
+      "voteMeta": {
+        "yes": "1281",
+        "no": "2340",
+        "abstain": "526"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v10.0.0 Upgrade",
+      "voting_start_time": "2022-12-29T01:34:20.404Z",
+      "voting_end_time": "2023-01-03T01:34:20.404Z",
+      "voteMeta": {
+        "yes": "8843",
+        "no": "7",
+        "abstain": "22"
+      }
+    },
+    {
+      "title": "Governance Consensus: The Governance Language is English",
+      "voting_start_time": "2022-12-26T12:52:55.884Z",
+      "voting_end_time": "2022-12-31T12:52:55.884Z",
+      "voteMeta": {
+        "yes": "3524",
+        "no": "1819",
+        "abstain": "1481"
+      }
+    },
+    {
+      "title": "Funding Request - MetaTank",
+      "voting_start_time": "2022-12-23T14:45:50.021Z",
+      "voting_end_time": "2022-12-28T14:45:50.021Z",
+      "voteMeta": {
+        "yes": "6511",
+        "no": "699",
+        "abstain": "773"
+      }
+    },
+    {
+      "title": "Register ERC20 for COMPOSITE (CMST): Stablecoin of Harbor Protocol",
+      "voting_start_time": "2022-12-16T11:46:33.027Z",
+      "voting_end_time": "2022-12-21T11:46:33.027Z",
+      "voteMeta": {
+        "yes": "7893",
+        "no": "76",
+        "abstain": "277"
+      }
+    },
+    {
+      "title": "Register ERC20 for COMDEX (CMDX)",
+      "voting_start_time": "2022-12-16T11:45:47.976Z",
+      "voting_end_time": "2022-12-21T11:45:47.976Z",
+      "voteMeta": {
+        "yes": "7755",
+        "no": "61",
+        "abstain": "202"
+      }
+    },
+    {
+      "title": "Common Sense Setting: No Payment For Unsolicited Services",
+      "voting_start_time": "2022-12-15T21:13:11.954Z",
+      "voting_end_time": "2022-12-20T21:13:11.954Z",
+      "voteMeta": {
+        "yes": "2073",
+        "no": "3165",
+        "abstain": "2331"
+      }
+    },
+    {
+      "title": "Disable conversion for previously registered stATOM",
+      "voting_start_time": "2022-12-12T06:12:34.405Z",
+      "voting_end_time": "2022-12-17T06:12:34.405Z",
+      "voteMeta": {
+        "yes": "7959",
+        "no": "98",
+        "abstain": "245"
+      }
+    },
+    {
+      "title": "[ECP-2A] Formalizing and Funding the Governance Council Workstream",
+      "voting_start_time": "2022-12-09T02:35:50.650Z",
+      "voting_end_time": "2022-12-14T02:35:50.650Z",
+      "voteMeta": {
+        "yes": "3821",
+        "no": "4299",
+        "abstain": "680"
+      }
+    },
+    {
+      "title": "The Alternative: An Honest DAO and an Independent Evmos Chain",
+      "voting_start_time": "2022-11-29T11:47:53.190Z",
+      "voting_end_time": "2022-12-04T11:47:53.190Z",
+      "voteMeta": {
+        "yes": "2780",
+        "no": "4335",
+        "abstain": "1896"
+      }
+    },
+    {
+      "title": "[ECP-1] Formalizing the Foundational Layer of Evmos DAO Governance",
+      "voting_start_time": "2022-11-29T00:10:12.885Z",
+      "voting_end_time": "2022-12-04T00:10:12.885Z",
+      "voteMeta": {
+        "yes": "8958",
+        "no": "314",
+        "abstain": "294"
+      }
+    },
+    {
+      "title": "Evmos Ecosystem Campaign by Galxe",
+      "voting_start_time": "2022-11-21T21:55:47.520Z",
+      "voting_end_time": "2022-11-26T21:55:47.520Z",
+      "voteMeta": {
+        "yes": "3162",
+        "no": "3724",
+        "abstain": "2437"
+      }
+    },
+    {
+      "title": "Dystopia Labs - Evmos Developer Acquisition Grant Request",
+      "voting_start_time": "2022-11-15T22:09:29.130Z",
+      "voting_end_time": "2022-11-20T22:09:29.130Z",
+      "voteMeta": {
+        "yes": "8861",
+        "no": "472",
+        "abstain": "1031"
+      }
+    },
+    {
+      "title": "Register ERC20 for Tgrade (TGD)",
+      "voting_start_time": "2022-11-12T19:22:55.342Z",
+      "voting_end_time": "2022-11-17T19:22:55.342Z",
+      "voteMeta": {
+        "yes": "10686",
+        "no": "82",
+        "abstain": "184"
+      }
+    },
+    {
+      "title": "Register ERC20 for Injective (INJ)",
+      "voting_start_time": "2022-11-05T07:47:49.513Z",
+      "voting_end_time": "2022-11-10T07:47:49.513Z",
+      "voteMeta": {
+        "yes": "11497",
+        "no": "88",
+        "abstain": "136"
+      }
+    },
+    {
+      "title": "FootieSZN initial funding proposal",
+      "voting_start_time": "2022-10-30T06:37:26.261Z",
+      "voting_end_time": "2022-11-04T06:37:26.261Z",
+      "voteMeta": {
+        "yes": "3650",
+        "no": "7215",
+        "abstain": "1099"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v9.1.0 Upgrade",
+      "voting_start_time": "2022-10-28T21:02:33.287Z",
+      "voting_end_time": "2022-11-02T21:02:33.287Z",
+      "voteMeta": {
+        "yes": "16895",
+        "no": "50",
+        "abstain": "57"
+      }
+    },
+    {
+      "title": "Register ERC20 for Tether USD on Axelar (axlUSDT)",
+      "voting_start_time": "2022-10-26T17:29:15.689Z",
+      "voting_end_time": "2022-10-31T17:29:15.689Z",
+      "voteMeta": {
+        "yes": "13269",
+        "no": "62",
+        "abstain": "84"
+      }
+    },
+    {
+      "title": "Register ERC20 for axlDAI (Dai Stablecoin on Axelar)",
+      "voting_start_time": "2022-10-23T07:57:58.454Z",
+      "voting_end_time": "2022-10-28T07:57:58.454Z",
+      "voteMeta": {
+        "yes": "13018",
+        "no": "69",
+        "abstain": "120"
+      }
+    },
+    {
+      "title": "Register ERC20 for Teritori (Tori)",
+      "voting_start_time": "2022-10-21T10:46:13.332Z",
+      "voting_end_time": "2022-10-26T10:46:13.332Z",
+      "voteMeta": {
+        "yes": "15283",
+        "no": "127",
+        "abstain": "172"
+      }
+    },
+    {
+      "title": "Evmos Faucet for DeFi Kickoff",
+      "voting_start_time": "2022-10-13T18:17:56.313Z",
+      "voting_end_time": "2022-10-18T18:17:56.313Z",
+      "voteMeta": {
+        "yes": "12896",
+        "no": "161",
+        "abstain": "187"
+      }
+    },
+    {
+      "title": "Extending Osmosis External Incentives",
+      "voting_start_time": "2022-10-11T21:07:58.888Z",
+      "voting_end_time": "2022-10-16T21:07:58.888Z",
+      "voteMeta": {
+        "yes": "11854",
+        "no": "234",
+        "abstain": "166"
+      }
+    },
+    {
+      "title": "Incubation Proposal from Chainhub",
+      "voting_start_time": "2022-10-06T22:57:30.442Z",
+      "voting_end_time": "2022-10-11T22:57:30.442Z",
+      "voteMeta": {
+        "yes": "2492",
+        "no": "6751",
+        "abstain": "1014"
+      }
+    },
+    {
+      "title": "Register ERC20 for USK (Stablecoin of Kujira)",
+      "voting_start_time": "2022-10-05T16:41:47.828Z",
+      "voting_end_time": "2022-10-10T16:41:47.828Z",
+      "voteMeta": {
+        "yes": "12877",
+        "no": "200",
+        "abstain": "171"
+      }
+    },
+    {
+      "title": "Liquidity Mining Proposal for Axelar Network, Celer Network, and Gravity Bridge on Kinesis",
+      "voting_start_time": "2022-10-05T05:34:24.771Z",
+      "voting_end_time": "2022-10-10T05:34:24.771Z",
+      "voteMeta": {
+        "yes": "12291",
+        "no": "223",
+        "abstain": "329"
+      }
+    },
+    {
+      "title": "Community Pool Spend: Recover IBC tokens from Airdrop",
+      "voting_start_time": "2022-10-04T19:41:59.481Z",
+      "voting_end_time": "2022-10-09T19:41:59.481Z",
+      "voteMeta": {
+        "yes": "13696",
+        "no": "92",
+        "abstain": "172"
+      }
+    },
+    {
+      "title": "Register ERC20 for stATOM (Stride Staked Atom)",
+      "voting_start_time": "2022-09-30T06:27:25.496Z",
+      "voting_end_time": "2022-10-05T06:27:25.496Z",
+      "voteMeta": {
+        "yes": "13933",
+        "no": "81",
+        "abstain": "162"
+      }
+    },
+    {
+      "title": "Launching the Evmos Liquidity Incentives Program",
+      "voting_start_time": "2022-09-27T23:00:24.518Z",
+      "voting_end_time": "2022-10-02T23:00:24.518Z",
+      "voteMeta": {
+        "yes": "15310",
+        "no": "128",
+        "abstain": "116"
+      }
+    },
+    {
+      "title": "Ethermint Funding Proposal For Past Development, Addressed from The Evmos Community to The Kava Community",
+      "voting_start_time": "2022-09-18T07:08:00.051Z",
+      "voting_end_time": "2022-09-23T07:08:00.051Z",
+      "voteMeta": {
+        "yes": "13468",
+        "no": "324",
+        "abstain": "1266"
+      }
+    },
+    {
+      "title": "Register ERC20 for axlWETH (Axelar wETH)",
+      "voting_start_time": "2022-09-18T07:07:19.874Z",
+      "voting_end_time": "2022-09-23T07:07:19.874Z",
+      "voteMeta": {
+        "yes": "13342",
+        "no": "57",
+        "abstain": "108"
+      }
+    },
+    {
+      "title": "Register ERC20 for axlWBTC (Axelar wBTC)",
+      "voting_start_time": "2022-09-18T07:06:50.736Z",
+      "voting_end_time": "2022-09-23T07:06:50.736Z",
+      "voteMeta": {
+        "yes": "13351",
+        "no": "53",
+        "abstain": "108"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v8.1.0 Upgrade",
+      "voting_start_time": "2022-09-15T10:56:56.270Z",
+      "voting_end_time": "2022-09-20T10:56:56.270Z",
+      "voteMeta": {
+        "yes": "23164",
+        "no": "41",
+        "abstain": "85"
+      }
+    },
+    {
+      "title": "Register ERC20 for axlUSDC (Axelar USDC)",
+      "voting_start_time": "2022-09-12T18:41:50.930Z",
+      "voting_end_time": "2022-09-17T18:41:50.930Z",
+      "voteMeta": {
+        "yes": "16003",
+        "no": "105",
+        "abstain": "164"
+      }
+    },
+    {
+      "title": "Incubation Proposal: ChainHub/Texas Blockchain Projects for Evmos",
+      "voting_start_time": "2022-09-10T20:41:13.943Z",
+      "voting_end_time": "2022-09-15T20:41:13.943Z",
+      "voteMeta": {
+        "yes": "5508",
+        "no": "9203",
+        "abstain": "1115"
+      }
+    },
+    {
+      "title": "Register ERC20 for EEUR (e-Money Euro)",
+      "voting_start_time": "2022-09-11T17:58:15.932Z",
+      "voting_end_time": "2022-09-16T17:58:15.932Z",
+      "voteMeta": {
+        "yes": "15119",
+        "no": "211",
+        "abstain": "168"
+      }
+    },
+    {
+      "title": "Cora Protocol: Lending without liquidations",
+      "voting_start_time": "2022-09-01T07:43:40.442Z",
+      "voting_end_time": "2022-09-06T07:43:40.442Z",
+      "voteMeta": {
+        "yes": "4746",
+        "no": "8962",
+        "abstain": "1072"
+      }
+    },
+    {
+      "title": "Covalent API's Integration of Evmos and the #OneMillionWallets Hackathon",
+      "voting_start_time": "2022-08-31T00:17:11.678Z",
+      "voting_end_time": "2022-09-05T00:17:11.678Z",
+      "voteMeta": {
+        "yes": "14861",
+        "no": "136",
+        "abstain": "285"
+      }
+    },
+    {
+      "title": "Register ERC20 for Juno",
+      "voting_start_time": "2022-08-29T12:48:24.393Z",
+      "voting_end_time": "2022-09-03T12:48:24.393Z",
+      "voteMeta": {
+        "yes": "15705",
+        "no": "82",
+        "abstain": "78"
+      }
+    },
+    {
+      "title": "Fund DIA Randomness Oracle Gas Fees for 1 Year",
+      "voting_start_time": "2022-08-26T17:06:12.331Z",
+      "voting_end_time": "2022-08-31T17:06:12.331Z",
+      "voteMeta": {
+        "yes": "14475",
+        "no": "599",
+        "abstain": "593"
+      }
+    },
+    {
+      "title": "The Interim Constitution of Evmos DAO",
+      "voting_start_time": "2022-08-25T19:21:28.065Z",
+      "voting_end_time": "2022-08-30T19:21:28.065Z",
+      "voteMeta": {
+        "yes": "21473",
+        "no": "244",
+        "abstain": "164"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v8.0.0 Upgrade",
+      "voting_start_time": "2022-08-22T13:42:56.017Z",
+      "voting_end_time": "2022-08-27T13:42:56.017Z",
+      "voteMeta": {
+        "yes": "20404",
+        "no": "9201",
+        "abstain": "249"
+      }
+    },
+    {
+      "title": "Register ERC20 for Regen Network (REGEN)",
+      "voting_start_time": "2022-08-21T12:02:24.764Z",
+      "voting_end_time": "2022-08-26T12:02:24.764Z",
+      "voteMeta": {
+        "yes": "16004",
+        "no": "183",
+        "abstain": "232"
+      }
+    },
+    {
+      "title": "Register ERC20 for Stargaze (STARS)",
+      "voting_start_time": "2022-08-21T12:03:20.007Z",
+      "voting_end_time": "2022-08-26T12:03:20.007Z",
+      "voteMeta": {
+        "yes": "16136",
+        "no": "78",
+        "abstain": "142"
+      }
+    },
+    {
+      "title": "Revive Sifchain IBC client",
+      "voting_start_time": "2022-08-15T23:33:16.858Z",
+      "voting_end_time": "2022-08-20T23:33:16.858Z",
+      "voteMeta": {
+        "yes": "14422",
+        "no": "191",
+        "abstain": "250"
+      }
+    },
+    {
+      "title": "Revive Juno IBC client",
+      "voting_start_time": "2022-08-12T19:02:34.958Z",
+      "voting_end_time": "2022-08-17T19:02:34.958Z",
+      "voteMeta": {
+        "yes": "15937",
+        "no": "105",
+        "abstain": "156"
+      }
+    },
+    {
+      "title": "Sponsor volunteer researcher for EVM-Inter-Chain lobby for Evmos",
+      "voting_start_time": "2022-08-12T19:29:50.132Z",
+      "voting_end_time": "2022-08-17T19:29:50.132Z",
+      "voteMeta": {
+        "yes": "13966",
+        "no": "462",
+        "abstain": "530"
+      }
+    },
+    {
+      "title": "Parameter change: maximum deposit time, minimum deposit amount.",
+      "voting_start_time": "2022-07-31T07:48:40.334Z",
+      "voting_end_time": "2022-08-05T07:48:40.334Z",
+      "voteMeta": {
+        "yes": "13657",
+        "no": "337",
+        "abstain": "312"
+      }
+    },
+    {
+      "title": "Airdrop claim courtesy proposal",
+      "voting_start_time": "2022-07-30T04:22:04.271Z",
+      "voting_end_time": "2022-08-04T04:22:04.271Z",
+      "voteMeta": {
+        "yes": "9162",
+        "no": "778",
+        "abstain": "4350"
+      }
+    },
+    {
+      "title": "Evmos Sponsorship of HackAtom Seoul 2022 and Participation in Korea Blockchain Week",
+      "voting_start_time": "2022-07-16T17:47:38.127Z",
+      "voting_end_time": "2022-07-21T17:47:38.127Z",
+      "voteMeta": {
+        "yes": "17098",
+        "no": "436",
+        "abstain": "502"
+      }
+    },
+    {
+      "title": "Evmos Developer Acquisition with Dystopia Labs",
+      "voting_start_time": "2022-07-15T13:24:39.988Z",
+      "voting_end_time": "2022-07-20T13:24:39.988Z",
+      "voteMeta": {
+        "yes": "11773",
+        "no": "379",
+        "abstain": "610"
+      }
+    },
+    {
+      "title": "Evmos external incentives on Osmosis",
+      "voting_start_time": "2022-07-13T20:24:37.377Z",
+      "voting_end_time": "2022-07-18T20:24:37.377Z",
+      "voteMeta": {
+        "yes": "10928",
+        "no": "771",
+        "abstain": "295"
+      }
+    },
+    {
+      "title": "Gift to Ethereum stakeholders",
+      "voting_start_time": "2022-07-12T12:35:53.227Z",
+      "voting_end_time": "2022-07-17T12:35:53.227Z",
+      "voteMeta": {
+        "yes": "4713",
+        "no": "1498",
+        "abstain": "378"
+      }
+    },
+    {
+      "title": "Register ERC20 for ATOM (Cosmos Hub)",
+      "voting_start_time": "2022-07-12T08:55:08.685Z",
+      "voting_end_time": "2022-07-17T08:55:08.685Z",
+      "voteMeta": {
+        "yes": "11095",
+        "no": "75",
+        "abstain": "147"
+      }
+    },
+    {
+      "title": "Recover JUNO channel by upgrading to new client",
+      "voting_start_time": "2022-07-10T07:45:49.180Z",
+      "voting_end_time": "2022-07-15T07:45:49.180Z",
+      "voteMeta": {
+        "yes": "13883",
+        "no": "160",
+        "abstain": "154"
+      }
+    },
+    {
+      "title": "Register ERC20 for Osmosis",
+      "voting_start_time": "2022-07-07T05:43:57.002Z",
+      "voting_end_time": "2022-07-12T05:43:57.002Z",
+      "voteMeta": {
+        "yes": "17309",
+        "no": "143",
+        "abstain": "185"
+      }
+    },
+    {
+      "title": "Extend Rektdrop Claims Period by 21 days",
+      "voting_start_time": "2022-07-02T10:03:58.513Z",
+      "voting_end_time": "2022-07-07T10:03:58.513Z",
+      "voteMeta": {
+        "yes": "12875",
+        "no": "2929",
+        "abstain": "539"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v6.0.1 Upgrade",
+      "voting_start_time": "2022-06-29T15:16:29.886Z",
+      "voting_end_time": "2022-07-04T15:16:29.886Z",
+      "voteMeta": {
+        "yes": "17173",
+        "no": "137",
+        "abstain": "105"
+      }
+    },
+    {
+      "title": "Bootstrap liquidity on Evmos dapps",
+      "voting_start_time": "2022-06-28T04:12:06.233Z",
+      "voting_end_time": "2022-07-03T04:12:06.233Z",
+      "voteMeta": {
+        "yes": "10278",
+        "no": "3536",
+        "abstain": "549"
+      }
+    },
+    {
+      "title": "Grant Request to Sponsor EVMOS Public RPC by Pocket Network",
+      "voting_start_time": "2022-06-24T15:58:20.130Z",
+      "voting_end_time": "2022-06-29T15:58:20.130Z",
+      "voteMeta": {
+        "yes": "14398",
+        "no": "335",
+        "abstain": "573"
+      }
+    },
+    {
+      "title": "Exswap Bootstrap Proposal ",
+      "voting_start_time": "2022-06-17T15:58:51.178Z",
+      "voting_end_time": "2022-06-22T15:58:51.178Z",
+      "voteMeta": {
+        "yes": "11425",
+        "no": "2297",
+        "abstain": "862"
+      }
+    },
+    {
+      "title": "Evmos Mainnet v5.0.0 Upgrade",
+      "voting_start_time": "2022-06-15T10:47:46.958Z",
+      "voting_end_time": "2022-06-20T10:47:46.958Z",
+      "voteMeta": {
+        "yes": "15200",
+        "no": "1285",
+        "abstain": "223"
+      }
+    },
+    {
+      "title": "EVMOS GRANT - Airdrop Calculator built by Cryptech",
+      "voting_start_time": "2022-06-07T05:32:15.472Z",
+      "voting_end_time": "2022-06-12T05:32:15.472Z",
+      "voteMeta": {
+        "yes": "9122",
+        "no": "3189",
+        "abstain": "3030"
+      }
+    },
+    {
+      "title": "Evmos Get Momentum - $1m Evmos Developer Incentive Program Proposal",
+      "voting_start_time": "2022-06-03T13:59:58.598Z",
+      "voting_end_time": "2022-06-08T13:59:58.598Z",
+      "voteMeta": {
+        "yes": "16591",
+        "no": "380",
+        "abstain": "457"
+      }
+    },
+    {
+      "title": "Recover expired IBC client for Cosmos hub",
+      "voting_start_time": "2022-05-31T13:57:36.314Z",
+      "voting_end_time": "2022-06-05T13:57:36.314Z",
+      "voteMeta": {
+        "yes": "20922",
+        "no": "315",
+        "abstain": "608"
+      }
+    },
+    {
+      "title": "Grant proposal for Flux Protocol an oracle solution live on Evmos",
+      "voting_start_time": "2022-05-27T14:21:47.819Z",
+      "voting_end_time": "2022-06-01T14:21:47.819Z",
+      "voteMeta": {
+        "yes": "20443",
+        "no": "380",
+        "abstain": "763"
+      }
+    },
+    {
+      "title": "Parameter change: Enable the inflation module",
+      "voting_start_time": "2022-05-23T14:27:06.784Z",
+      "voting_end_time": "2022-05-28T14:27:06.784Z",
+      "voteMeta": {
+        "yes": "14504",
+        "no": "259",
+        "abstain": "228"
+      }
+    },
+    {
+      "title": "Sponsor Nebular Summit during Paris EthCC week in July",
+      "voting_start_time": "2022-05-23T07:00:23.911Z",
+      "voting_end_time": "2022-05-28T07:00:23.911Z",
+      "voteMeta": {
+        "yes": "9481",
+        "no": "235",
+        "abstain": "727"
+      }
+    },
+    {
+      "title": "Register ERC20 for G-WETH",
+      "voting_start_time": "2022-05-19T01:06:38.972Z",
+      "voting_end_time": "2022-05-24T01:06:38.972Z",
+      "voteMeta": {
+        "yes": "10304",
+        "no": "203",
+        "abstain": "302"
+      }
+    },
+    {
+      "title": "Register ERC20 for G-WBTC",
+      "voting_start_time": "2022-05-19T00:54:20.881Z",
+      "voting_end_time": "2022-05-24T00:54:20.881Z",
+      "voteMeta": {
+        "yes": "7521",
+        "no": "159",
+        "abstain": "179"
+      }
+    },
+    {
+      "title": "Register ERC20 for G-USDT",
+      "voting_start_time": "2022-05-19T00:44:21.746Z",
+      "voting_end_time": "2022-05-24T00:44:21.746Z",
+      "voteMeta": {
+        "yes": "6889",
+        "no": "174",
+        "abstain": "147"
+      }
+    },
+    {
+      "title": "Register ERC20 for G-USDC",
+      "voting_start_time": "2022-05-19T00:42:19.930Z",
+      "voting_end_time": "2022-05-24T00:42:19.930Z",
+      "voteMeta": {
+        "yes": "7004",
+        "no": "101",
+        "abstain": "108"
+      }
+    },
+    {
+      "title": "Register ERC20 for G-DAI",
+      "voting_start_time": "2022-05-19T00:40:48.828Z",
+      "voting_end_time": "2022-05-24T00:40:48.828Z",
+      "voteMeta": {
+        "yes": "6845",
+        "no": "115",
+        "abstain": "126"
+      }
+    },
+    {
+      "title": "Register ERC20 for GRAV",
+      "voting_start_time": "2022-05-19T00:04:36.718Z",
+      "voting_end_time": "2022-05-24T00:04:36.718Z",
+      "voteMeta": {
+        "yes": "7202",
+        "no": "121",
+        "abstain": "154"
+      }
+    },
+    {
+      "title": "Parameter change: Enable the erc20 module",
+      "voting_start_time": "2022-05-18T15:42:39.683Z",
+      "voting_end_time": "2022-05-23T15:42:39.683Z",
+      "voteMeta": {
+        "yes": "9582",
+        "no": "49",
+        "abstain": "150"
+      }
+    },
+    {
+      "title": "Parameter change: Enable the erc20 module",
+      "voting_start_time": "2022-05-13T10:35:13.575Z",
+      "voting_end_time": "2022-05-18T10:35:13.575Z",
+      "voteMeta": {
+        "yes": "8088",
+        "no": "83",
+        "abstain": "90"
+      }
+    },
+    {
+      "title": "Amend Prematurely-Initiated Decay Period for Claims",
+      "voting_start_time": "2022-05-13T07:25:52.687Z",
+      "voting_end_time": "2022-05-18T07:25:52.687Z",
+      "voteMeta": {
+        "yes": "6388",
+        "no": "80",
+        "abstain": "137"
+      }
+    },
+    {
+      "title": "Recover Cosmoshub channel by upgrading to new client",
+      "voting_start_time": "2022-05-11T23:53:42.571Z",
+      "voting_end_time": "2022-05-16T23:53:42.571Z",
+      "voteMeta": {
+        "yes": "8075",
+        "no": "68",
+        "abstain": "90"
+      }
+    },
+    {
+      "title": "Extend Rektdrop Claims Period by 21 days",
+      "voting_start_time": "2022-05-07T03:38:46.534Z",
+      "voting_end_time": "2022-05-12T03:38:46.534Z",
+      "voteMeta": {
+        "yes": "12991",
+        "no": "912",
+        "abstain": "250"
+      }
+    },
+    {
+      "title": "Reset BaseFee to Default and Increase ElasticityMultiplier",
+      "voting_start_time": "2022-05-06T08:41:05.050Z",
+      "voting_end_time": "2022-05-11T08:41:05.050Z",
+      "voteMeta": {
+        "yes": "10125",
+        "no": "202",
+        "abstain": "317"
+      }
+    },
+    {
+      "title": "Increase the minimum deposit for governance proposals",
+      "voting_start_time": "2022-05-05T07:46:39.525Z",
+      "voting_end_time": "2022-05-10T07:46:39.525Z",
+      "voteMeta": {
+        "yes": "13413",
+        "no": "1006",
+        "abstain": "315"
+      }
+    },
+    {
+      "title": "Transfer Expanding.space validator to another wallet",
+      "voting_start_time": "2022-05-03T21:52:35.740Z",
+      "voting_end_time": "2022-05-08T21:52:35.740Z",
+      "voteMeta": {
+        "yes": "8890",
+        "no": "5029",
+        "abstain": "1327"
+      }
+    },
+    {
+      "title": "Incentivise Diffusion Usage",
+      "voting_start_time": "2022-04-29T16:56:18.161Z",
+      "voting_end_time": "2022-05-04T16:56:18.161Z",
+      "voteMeta": {
+        "yes": "43702",
+        "no": "950",
+        "abstain": "870"
+      }
+    },
+    {
+      "title": "Turn on inflation rewards",
+      "voting_start_time": "2022-04-29T16:37:56.994Z",
+      "voting_end_time": "2022-05-04T16:37:56.994Z",
+      "voteMeta": {
+        "yes": "13888",
+        "no": "6576",
+        "abstain": "644"
+      }
+    },
+    {
+      "title": "Evmos",
+      "voting_start_time": "2022-04-29T16:22:30.876Z",
+      "voting_end_time": "2022-05-04T16:22:30.876Z",
+      "voteMeta": {
+        "yes": "19435",
+        "no": "404",
+        "abstain": "929"
+      }
+    },
+    {
+      "title": "Governance Proposal Mission",
+      "voting_start_time": "2022-04-29T16:40:46.963Z",
+      "voting_end_time": "2022-05-04T16:40:46.963Z",
+      "voteMeta": {
+        "yes": "15011",
+        "no": "321",
+        "abstain": "1280"
+      }
+    },
+    {
+      "title": "Airdrop Claim Mission",
+      "voting_start_time": "2022-03-03T19:18:21.382Z",
+      "voting_end_time": "2022-03-08T19:18:21.382Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    }
+  ]
+}

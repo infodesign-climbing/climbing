@@ -2,10 +2,9 @@
   import { ColorType, CrosshairMode } from "lightweight-charts";
   import {
     Chart,
-    CandlestickSeries,
-    LineSeries,
+    LineSeries
   } from "svelte-lightweight-charts";
-  // ¸ÞÀÎ±×·¡ÇÁ µðÀÚÀÎ ¿É¼Ç
+  // ï¿½ï¿½ï¿½Î±×·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½É¼ï¿½
   const options = {
     width: 833,
     height: 384,
@@ -42,7 +41,7 @@
       vertTouchDrag: false,
     },
   };
-  // ¼­ºê±×·¡ÇÁ1 µðÀÚÀÎ ¿É¼Ç
+  // ï¿½ï¿½ï¿½ï¿½×·ï¿½ï¿½ï¿½1 ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½É¼ï¿½
   const options2 = {
     width: 833,
     height: 235,
@@ -79,7 +78,7 @@
       vertTouchDrag: false,
     },
   };
-  // ÄÚÀÎ 1 ¿¹½Ãµ¥ÀÌÅÍ
+  // ï¿½ï¿½ï¿½ï¿½ 1 ï¿½ï¿½ï¿½Ãµï¿½ï¿½ï¿½ï¿½ï¿½
   const line = [
     { time: "2018-10-19", value: 35.98 },
     { time: "2018-10-22", value: 35.75 },
@@ -232,7 +231,7 @@
     { time: "2019-05-24", value: 42.67 },
     { time: "2019-05-28", value: 42.75 },
   ];
-  // ÄÚÀÎ 2 ¿¹½Ãµ¥ÀÌÅÍ
+  // ï¿½ï¿½ï¿½ï¿½ 2 ï¿½ï¿½ï¿½Ãµï¿½ï¿½ï¿½ï¿½ï¿½
   const line1 = [
     { time: "2018-10-19", value: 26.19 },
     { time: "2018-10-22", value: 25.87 },
@@ -391,9 +390,9 @@
   <!-- svelte-ignore a11y-missing-attribute -->
 
   <div class="Bgr2"></div>
-  <!--±×·¡ÇÁ ¼½¼Ç-->
+  <!--ï¿½×·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½-->
   <div class="Graph">
-    <!--¸ÞÀÎ ±×·¡ÇÁ-->
+    <!--ï¿½ï¿½ï¿½ï¿½ ï¿½×·ï¿½ï¿½ï¿½-->
     <div class="Main1">
       <Chart {...options}>
         <LineSeries
@@ -410,7 +409,7 @@
         />
       </Chart>
     </div>
-    <!--¼­ºê ±×·¡ÇÁ-->
+    <!--ï¿½ï¿½ï¿½ï¿½ ï¿½×·ï¿½ï¿½ï¿½-->
     <div class="Sub3">
       <Chart {...options2}>
         <LineSeries
@@ -428,13 +427,13 @@
       </Chart>
     </div>
   </div>
-  <!--ÁÂÃø»ó´Ü ·Î°í-->
+  <!--ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ ï¿½Î°ï¿½-->
   <div class="Climbing">Climbing</div>
-  <!--¸®½ºÆ® ½ºÅ©·Ñ-->
+  <!--ï¿½ï¿½ï¿½ï¿½Æ® ï¿½ï¿½Å©ï¿½ï¿½-->
   <div class="Scrollsample"></div>
-  <!--ÄÚÀÎ ¸®½ºÆ®-->
+  <!--ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ®-->
   <div class="List">
-    <!--ÄÚÀÎ 5-->
+    <!--ï¿½ï¿½ï¿½ï¿½ 5-->
     <div class="Box5">
       <div class="Rectangle11"></div>
       <div class="In">
@@ -444,7 +443,7 @@
         <div class="Price">0.998425</div>
       </div>
     </div>
-    <!--ÄÚÀÎ 4-->
+    <!--ï¿½ï¿½ï¿½ï¿½ 4-->
     <div class="Box4">
       <div class="Rectangle11"></div>
       <div class="In">
@@ -454,7 +453,7 @@
         <div class="Price">0.998425</div>
       </div>
     </div>
-    <!--ÄÚÀÎ 3-->
+    <!--ï¿½ï¿½ï¿½ï¿½ 3-->
     <div class="Box3">
       <div class="Rectangle11"></div>
       <div class="In">
@@ -464,7 +463,7 @@
         <div class="Price">0.998425</div>
       </div>
     </div>
-    <!--ÄÚÀÎ 2-->
+    <!--ï¿½ï¿½ï¿½ï¿½ 2-->
     <div class="Box2">
       <div class="Rectangle11"></div>
       <div class="In">
@@ -474,7 +473,7 @@
         <div class="Price">0.998425</div>
       </div>
     </div>
-    <!--ÄÚÀÎ 1-->
+    <!--ï¿½ï¿½ï¿½ï¿½ 1-->
     <div class="Box1">
       <div class="Rectangle11"></div>
       <div class="In">
@@ -485,24 +484,24 @@
       </div>
     </div>
   </div>
-  <!--±×·¡ÇÁ ¼½¼Ç µå·Ó´Ù¿î ¸Þ´º-->
+  <!--ï¿½×·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ó´Ù¿ï¿½ ï¿½Þ´ï¿½-->
   <div class="Variant3">
-    <!--±×·¡ÇÁ °³¼ö µå·Ó´Ù¿î-->
+    <!--ï¿½×·ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ó´Ù¿ï¿½-->
     <div class="Component11">
-      <div class="Label">±×·¡ÇÁ ¼ö</div>
+      <div class="Label">ï¿½×·ï¿½ï¿½ï¿½ ï¿½ï¿½</div>
       <div class="Assetdown">
         <div class="Vector"></div>
       </div>
     </div>
   </div>
-  <!--±×·¡ÇÁ ½Ã°£ ´ÜÀ§ µå·Ó´Ù¿î-->
+  <!--ï¿½×·ï¿½ï¿½ï¿½ ï¿½Ã°ï¿½ ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½Ó´Ù¿ï¿½-->
   <div class="Component12">
-    <div class="Label">½Ã°£</div>
+    <div class="Label">ï¿½Ã°ï¿½</div>
     <div class="Assetdown">
       <div class="Vector"></div>
     </div>
   </div>
-  <!--ÄÚÀÎ ¸®½ºÆ® main/sub ÀüÈ¯¹öÆ°-->
+  <!--ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½ï¿½ï¿½Æ® main/sub ï¿½ï¿½È¯ï¿½ï¿½Æ°-->
   <div class="Group17">
     <div class="Rectangle12"></div>
     <div class="Main">Main</div>

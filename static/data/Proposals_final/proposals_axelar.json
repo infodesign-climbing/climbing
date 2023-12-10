@@ -1,0 +1,604 @@
+{
+  "data": [
+    {
+      "title": "Increase voting period for governance proposal",
+      "voting_start_time": "2023-11-03T00:27:53.804Z",
+      "voting_end_time": "2023-11-04T00:27:53.804Z",
+      "voteMeta": {
+        "yes": "238",
+        "no": "2",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Update min deposit for governance proposals",
+      "voting_start_time": "2023-11-03T00:24:34.128Z",
+      "voting_end_time": "2023-11-04T00:24:34.128Z",
+      "voteMeta": {
+        "yes": "212",
+        "no": "7",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Update Mantle EVM chain confirmation height",
+      "voting_start_time": "2023-11-03T00:22:00.563Z",
+      "voting_end_time": "2023-11-04T00:22:00.563Z",
+      "voteMeta": {
+        "yes": "220",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Update inflation rate for maintaining EVM chains",
+      "voting_start_time": "2023-11-03T00:19:00.244Z",
+      "voting_end_time": "2023-11-04T00:19:00.244Z",
+      "voteMeta": {
+        "yes": "220",
+        "no": "1",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Activate 7-day timelock for Axelar Gateway Governance",
+      "voting_start_time": "2023-10-27T09:53:50.000Z",
+      "voting_end_time": "2023-10-28T09:53:50.000Z",
+      "voteMeta": {
+        "yes": "174",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Test Interchain Governance Proposal",
+      "voting_start_time": "2023-10-20T11:13:15.942Z",
+      "voting_end_time": "2023-10-21T11:13:15.942Z",
+      "voteMeta": {
+        "yes": "174",
+        "no": "2",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Axelar v0.34 Upgrade Proposal",
+      "voting_start_time": "2023-09-11T17:01:49.594Z",
+      "voting_end_time": "2023-09-12T17:01:49.594Z",
+      "voteMeta": {
+        "yes": "178",
+        "no": 0,
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Liquidity Incentives for Kyberswap axlUSDC and axl-wstETH pools",
+      "voting_start_time": "2023-09-09T05:51:37.797Z",
+      "voting_end_time": "2023-09-10T05:51:37.797Z",
+      "voteMeta": {
+        "yes": "136",
+        "no": "2",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Axelar Latam Community",
+      "voting_start_time": "2023-08-28T17:08:46.244Z",
+      "voting_end_time": "2023-08-29T17:08:46.244Z",
+      "voteMeta": {
+        "yes": "171",
+        "no": "10",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "Liquidity Incentives for axlUSDC-USDT on BNB Chain PancakeSwap",
+      "voting_start_time": "2023-08-24T16:29:03.679Z",
+      "voting_end_time": "2023-08-25T16:29:03.679Z",
+      "voteMeta": {
+        "yes": "196",
+        "no": "2",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Lava Network - Decentralized Public RPC for Axelar",
+      "voting_start_time": "2023-08-09T18:34:44.997Z",
+      "voting_end_time": "2023-08-10T18:34:44.997Z",
+      "voteMeta": {
+        "yes": "192",
+        "no": "1",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Axelar India Launch - 2023",
+      "voting_start_time": "2023-07-05T19:26:53.000Z",
+      "voting_end_time": "2023-07-06T19:26:53.000Z",
+      "voteMeta": {
+        "yes": "273",
+        "no": "6",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Bringing MetaMask to Axelar & The Rest of the Cosmos",
+      "voting_start_time": "2023-06-19T21:58:55.791Z",
+      "voting_end_time": "2023-06-20T21:58:55.791Z",
+      "voteMeta": {
+        "yes": "310",
+        "no": "26",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Incentives for axlUSDC pools",
+      "voting_start_time": "2023-06-06T22:57:37.440Z",
+      "voting_end_time": "2023-06-07T22:57:37.440Z",
+      "voteMeta": {
+        "yes": "198",
+        "no": "7",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Liquidity Incentives for axlUSDC-USDT and AXL-USDT on BSC PancakeSwap",
+      "voting_start_time": "2023-06-06T10:10:06.179Z",
+      "voting_end_time": "2023-06-07T10:10:06.179Z",
+      "voteMeta": {
+        "yes": "217",
+        "no": "6",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Liquidity Incentives for axlUSDC-USDT and AXL-USDT on BSC PancakeSwap",
+      "voting_start_time": "2023-06-02T15:29:06.398Z",
+      "voting_end_time": "2023-06-03T15:29:06.398Z",
+      "voteMeta": {
+        "yes": "336",
+        "no": "4",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Increase Avalanche block gas limit",
+      "voting_start_time": "2023-06-01T18:46:32.815Z",
+      "voting_end_time": "2023-06-02T18:46:32.815Z",
+      "voteMeta": {
+        "yes": "368",
+        "no": "2",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Increase validator active set to 75",
+      "voting_start_time": "2023-06-01T17:25:49.729Z",
+      "voting_end_time": "2023-06-02T17:25:49.729Z",
+      "voteMeta": {
+        "yes": "354",
+        "no": "2",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Update Filecoin confirmation height",
+      "voting_start_time": "2023-04-20T18:01:37.234Z",
+      "voting_end_time": "2023-04-21T18:01:37.234Z",
+      "voteMeta": {
+        "yes": "341",
+        "no": 0,
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Axelar v0.33 Upgrade Proposal",
+      "voting_start_time": "2023-04-06T18:23:27.449Z",
+      "voting_end_time": "2023-04-07T18:23:27.449Z",
+      "voteMeta": {
+        "yes": "386",
+        "no": 0,
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "ATOM Airdrop for COSMOS holders ✅",
+      "voting_start_time": "2023-02-07T17:08:20.294Z",
+      "voting_end_time": "2023-02-08T17:08:20.294Z",
+      "voteMeta": {
+        "yes": "66",
+        "no": "27",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "USDC Airdrop Proposal 🪂",
+      "voting_start_time": "2023-02-07T14:49:57.262Z",
+      "voting_end_time": "2023-02-08T14:49:57.262Z",
+      "voteMeta": {
+        "yes": "64",
+        "no": "29",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Increase Minimum Deposit for Governance Proposals",
+      "voting_start_time": "2023-02-06T18:16:07.105Z",
+      "voting_end_time": "2023-02-07T18:16:07.105Z",
+      "voteMeta": {
+        "yes": "447",
+        "no": "8",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "ATOM / USDC Airdrop ✅",
+      "voting_start_time": "2023-02-05T20:48:04.893Z",
+      "voting_end_time": "2023-02-06T20:48:04.893Z",
+      "voteMeta": {
+        "yes": "38",
+        "no": "34",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "ATOM Airdrop for COSMOS holders ✅",
+      "voting_start_time": "2023-02-04T20:24:05.859Z",
+      "voting_end_time": "2023-02-05T20:24:05.859Z",
+      "voteMeta": {
+        "yes": "62",
+        "no": "27",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "ATOM / USDC Airdrop ✅",
+      "voting_start_time": "2023-02-04T19:29:10.762Z",
+      "voting_end_time": "2023-02-05T19:29:10.762Z",
+      "voteMeta": {
+        "yes": "39",
+        "no": "30",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Axelar New Features ✅",
+      "voting_start_time": "2023-02-04T02:26:26.604Z",
+      "voting_end_time": "2023-02-05T02:26:26.604Z",
+      "voteMeta": {
+        "yes": "40",
+        "no": "21",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "MARS Airdrop for COSMOS holders ✅",
+      "voting_start_time": "2023-02-03T22:56:53.946Z",
+      "voting_end_time": "2023-02-04T22:56:53.946Z",
+      "voteMeta": {
+        "yes": "67",
+        "no": "20",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Axelar Airdrop ✅",
+      "voting_start_time": "2023-01-31T23:32:46.142Z",
+      "voting_end_time": "2023-02-01T23:32:46.142Z",
+      "voteMeta": {
+        "yes": "50",
+        "no": "37",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "APTOS Airdrop for COSMOS holders ✅",
+      "voting_start_time": "2023-01-31T17:58:01.139Z",
+      "voting_end_time": "2023-02-01T17:58:01.139Z",
+      "voteMeta": {
+        "yes": "75",
+        "no": "21",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Axelar v0.31 Upgrade Proposal",
+      "voting_start_time": "2023-01-29T13:49:22.850Z",
+      "voting_end_time": "2023-01-30T13:49:22.850Z",
+      "voteMeta": {
+        "yes": "499",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Increase validator active set to 70",
+      "voting_start_time": "2023-01-26T14:51:17.418Z",
+      "voting_end_time": "2023-01-27T14:51:17.418Z",
+      "voteMeta": {
+        "yes": "434",
+        "no": "1",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Fund MapOfZones to support operations",
+      "voting_start_time": "2023-01-19T20:26:51.491Z",
+      "voting_end_time": "2023-01-20T20:26:51.491Z",
+      "voteMeta": {
+        "yes": "459",
+        "no": "1",
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Increase validator active set to 65",
+      "voting_start_time": "2023-01-18T16:16:03.474Z",
+      "voting_end_time": "2023-01-19T16:16:03.474Z",
+      "voteMeta": {
+        "yes": "426",
+        "no": "4",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Increase validator active set to 60",
+      "voting_start_time": "2022-12-12T14:15:55.503Z",
+      "voting_end_time": "2022-12-13T14:15:55.503Z",
+      "voteMeta": {
+        "yes": "411",
+        "no": "7",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Update inflation rate on the network",
+      "voting_start_time": "2022-12-12T14:10:47.980Z",
+      "voting_end_time": "2022-12-13T14:10:47.980Z",
+      "voteMeta": {
+        "yes": "395",
+        "no": "3",
+        "abstain": "1"
+      }
+    },
+    {
+      "title": "Axelar v0.29 Upgrade Proposal",
+      "voting_start_time": "2022-12-01T19:13:25.568Z",
+      "voting_end_time": "2022-12-02T19:13:25.568Z",
+      "voteMeta": {
+        "yes": "476",
+        "no": "2",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Axelar v0.29 Upgrade Proposal",
+      "voting_start_time": "2022-12-01T18:49:24.853Z",
+      "voting_end_time": "2022-12-02T18:49:24.853Z",
+      "voteMeta": {
+        "yes": "68",
+        "no": "307",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Increase validator active set to 55",
+      "voting_start_time": "2022-11-29T15:51:46.172Z",
+      "voting_end_time": "2022-11-30T15:51:46.172Z",
+      "voteMeta": {
+        "yes": "445",
+        "no": "3",
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.28 Upgrade Proposal",
+      "voting_start_time": "2022-11-27T22:07:29.636Z",
+      "voting_end_time": "2022-11-28T22:07:29.636Z",
+      "voteMeta": {
+        "yes": "408",
+        "no": 0,
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Revive IBC Client to Terra Classic",
+      "voting_start_time": "2022-11-23T10:08:38.448Z",
+      "voting_end_time": "2022-11-24T10:08:38.448Z",
+      "voteMeta": {
+        "yes": "299",
+        "no": "13",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Update inflation rate on the network",
+      "voting_start_time": "2022-11-07T20:20:09.292Z",
+      "voting_end_time": "2022-11-08T20:20:09.292Z",
+      "voteMeta": {
+        "yes": "340",
+        "no": "1",
+        "abstain": "3"
+      }
+    },
+    {
+      "title": "Staking Param Change",
+      "voting_start_time": "2022-10-01T20:48:25.302Z",
+      "voting_end_time": "2022-10-02T20:48:25.302Z",
+      "voteMeta": {
+        "yes": "74",
+        "no": "180",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Enabling rewards on the network",
+      "voting_start_time": "2022-09-22T18:53:00.557Z",
+      "voting_end_time": "2022-09-23T18:53:00.557Z",
+      "voteMeta": {
+        "yes": "37",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Update governance voting period and Ethereum confirmation height",
+      "voting_start_time": "2022-09-20T15:55:02.573Z",
+      "voting_end_time": "2022-09-20T16:25:02.573Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Update network params",
+      "voting_start_time": "2022-09-20T14:29:25.863Z",
+      "voting_end_time": "2022-09-20T14:59:25.863Z",
+      "voteMeta": {
+        "yes": "22",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.26 Upgrade Proposal",
+      "voting_start_time": "2022-09-12T13:06:06.623Z",
+      "voting_end_time": "2022-09-12T13:36:06.623Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.24 Upgrade Proposal",
+      "voting_start_time": "2022-08-29T14:24:43.125Z",
+      "voting_end_time": "2022-08-29T14:54:43.125Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.21 Upgrade Proposal",
+      "voting_start_time": "2022-08-26T17:02:17.211Z",
+      "voting_end_time": "2022-08-26T17:32:17.211Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.20 Upgrade Proposal",
+      "voting_start_time": "2022-08-08T13:42:01.871Z",
+      "voting_end_time": "2022-08-08T14:12:01.871Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.19 Upgrade Proposal",
+      "voting_start_time": "2022-06-08T14:42:41.384Z",
+      "voting_end_time": "2022-06-08T15:12:41.384Z",
+      "voteMeta": {
+        "yes": "27",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.18 Upgrade Proposal",
+      "voting_start_time": "2022-06-08T12:55:50.588Z",
+      "voting_end_time": "2022-06-08T13:25:50.588Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Decrease gov voting period temporarily",
+      "voting_start_time": "2022-06-06T15:16:28.151Z",
+      "voting_end_time": "2022-06-07T15:16:28.151Z",
+      "voteMeta": {
+        "yes": "29",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.17 Upgrade Proposal",
+      "voting_start_time": "2022-04-27T05:39:54.492Z",
+      "voting_end_time": "2022-04-28T05:39:54.492Z",
+      "voteMeta": {
+        "yes": "26",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.16 Upgrade Proposal",
+      "voting_start_time": "2022-03-19T23:45:32.295Z",
+      "voting_end_time": "2022-03-20T23:45:32.295Z",
+      "voteMeta": {
+        "yes": "23",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.15 Upgrade Proposal",
+      "voting_start_time": "2022-03-15T01:38:30.947Z",
+      "voting_end_time": "2022-03-16T01:38:30.947Z",
+      "voteMeta": {
+        "yes": "30",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.14 Upgrade Proposal",
+      "voting_start_time": "2022-02-28T20:40:37.247Z",
+      "voting_end_time": "2022-03-01T20:40:37.247Z",
+      "voteMeta": {
+        "yes": "25",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase multisig timeout duration",
+      "voting_start_time": "2022-02-06T05:49:40.896Z",
+      "voting_end_time": "2022-02-07T05:49:40.896Z",
+      "voteMeta": {
+        "yes": "24",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Reduce TSS suspend duration",
+      "voting_start_time": "2022-02-04T17:19:29.064Z",
+      "voting_end_time": "2022-02-05T17:19:29.064Z",
+      "voteMeta": {
+        "yes": "20",
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Axelar v0.13 Upgrade Proposal",
+      "voting_start_time": "2022-01-14T16:24:28.058Z",
+      "voting_end_time": "2022-01-15T16:24:28.058Z",
+      "voteMeta": {
+        "yes": "16",
+        "no": 0,
+        "abstain": 0
+      }
+    }
+  ]
+}

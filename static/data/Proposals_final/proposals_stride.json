@@ -1,0 +1,464 @@
+{
+  "data": [
+    {
+      "title": "Adjustments to Stride's Validator Selection for Compatibility with the Liquid Staking Module",
+      "voting_start_time": "2023-10-25T00:35:33.210Z",
+      "voting_end_time": "2023-10-28T00:35:33.210Z",
+      "voteMeta": {
+        "yes": "804",
+        "no": "2",
+        "abstain": "67"
+      }
+    },
+    {
+      "title": "Stride v16 Bootes Release",
+      "voting_start_time": "2023-10-15T00:40:33.281Z",
+      "voting_end_time": "2023-10-18T00:40:33.281Z",
+      "voteMeta": {
+        "yes": "952",
+        "no": 0,
+        "abstain": "6"
+      }
+    },
+    {
+      "title": "Stride v15 Aries Release",
+      "voting_start_time": "2023-09-18T08:35:23.904Z",
+      "voting_end_time": "2023-09-21T08:35:23.904Z",
+      "voteMeta": {
+        "yes": "1202",
+        "no": "2",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Enable ustrd as an ICS reward denom",
+      "voting_start_time": "2023-09-01T00:54:38.018Z",
+      "voting_end_time": "2023-09-04T00:54:38.018Z",
+      "voteMeta": {
+        "yes": "891",
+        "no": "1",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Stride v14 Pegasus Release",
+      "voting_start_time": "2023-08-28T04:40:08.985Z",
+      "voting_end_time": "2023-08-31T04:40:08.985Z",
+      "voteMeta": {
+        "yes": "1093",
+        "no": "3",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Set Unbonding Time in CCV Consumer to 14 Days",
+      "voting_start_time": "2023-08-24T21:28:19.076Z",
+      "voting_end_time": "2023-08-27T21:28:19.076Z",
+      "voteMeta": {
+        "yes": "989",
+        "no": "5",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Stride v13 Volans Release",
+      "voting_start_time": "2023-08-11T01:14:49.571Z",
+      "voting_end_time": "2023-08-14T01:14:49.571Z",
+      "voteMeta": {
+        "yes": "1225",
+        "no": "2",
+        "abstain": "9"
+      }
+    },
+    {
+      "title": "Stride v12 Andromeda Release",
+      "voting_start_time": "2023-07-16T00:02:27.411Z",
+      "voting_end_time": "2023-07-19T00:02:27.411Z",
+      "voteMeta": {
+        "yes": "1504",
+        "no": "4",
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Stride v11 Virgo Release",
+      "voting_start_time": "2023-06-24T07:17:10.528Z",
+      "voting_end_time": "2023-06-27T07:17:10.528Z",
+      "voteMeta": {
+        "yes": "1803",
+        "no": "4",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Stride v10 Perseus Release",
+      "voting_start_time": "2023-06-15T15:28:35.459Z",
+      "voting_end_time": "2023-06-18T15:28:35.459Z",
+      "voteMeta": {
+        "yes": "1660",
+        "no": "12",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Signaling proposal to acquire Bad Kids",
+      "voting_start_time": "2023-06-09T08:58:24.747Z",
+      "voting_end_time": "2023-06-12T08:58:24.747Z",
+      "voteMeta": {
+        "yes": "1215",
+        "no": "152",
+        "abstain": "135"
+      }
+    },
+    {
+      "title": "Quasar partnership proposal for cosmos etf",
+      "voting_start_time": "2023-06-06T10:33:33.059Z",
+      "voting_end_time": "2023-06-09T10:33:33.059Z",
+      "voteMeta": {
+        "yes": "231",
+        "no": "712",
+        "abstain": "156"
+      }
+    },
+    {
+      "title": "Stride and Carbon Alliance Proposal: stLUNA as Carbon's Alliance Asset and STRD incentives for STRD collateral",
+      "voting_start_time": "2023-05-30T07:35:49.983Z",
+      "voting_end_time": "2023-06-02T07:35:49.983Z",
+      "voteMeta": {
+        "yes": "1473",
+        "no": "65",
+        "abstain": "147"
+      }
+    },
+    {
+      "title": "Stride v9 Cetus Release",
+      "voting_start_time": "2023-04-22T23:44:56.454Z",
+      "voting_end_time": "2023-04-25T23:44:56.454Z",
+      "voteMeta": {
+        "yes": "2644",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Join ATOM Economic Zone and adopt ICS",
+      "voting_start_time": "2023-04-20T19:00:20.708Z",
+      "voting_end_time": "2023-04-23T19:00:20.708Z",
+      "voteMeta": {
+        "yes": "3106",
+        "no": "9",
+        "abstain": "18"
+      }
+    },
+    {
+      "title": "Enable Autopilot",
+      "voting_start_time": "2023-04-16T15:18:23.226Z",
+      "voting_end_time": "2023-04-19T15:18:23.226Z",
+      "voteMeta": {
+        "yes": "2677",
+        "no": "4",
+        "abstain": "20"
+      }
+    },
+    {
+      "title": "Stride v8 Octans Release",
+      "voting_start_time": "2023-03-26T08:44:54.532Z",
+      "voting_end_time": "2023-03-29T08:44:54.532Z",
+      "voteMeta": {
+        "yes": "2261",
+        "no": "1",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Stride v7 Taurus Release",
+      "voting_start_time": "2023-03-14T05:47:52.393Z",
+      "voting_end_time": "2023-03-17T05:47:52.393Z",
+      "voteMeta": {
+        "yes": "2276",
+        "no": "1",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Incentive Diversification",
+      "voting_start_time": "2023-02-27T04:49:19.685Z",
+      "voting_end_time": "2023-03-02T04:49:19.685Z",
+      "voteMeta": {
+        "yes": "2169",
+        "no": "18",
+        "abstain": "37"
+      }
+    },
+    {
+      "title": "Stride v6 Tucana Release",
+      "voting_start_time": "2023-02-23T00:08:13.475Z",
+      "voting_end_time": "2023-02-26T00:08:13.475Z",
+      "voteMeta": {
+        "yes": "2169",
+        "no": "3",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "ATOM / LUNA Airdrop 🔥",
+      "voting_start_time": "2023-01-31T01:22:18.028Z",
+      "voting_end_time": "2023-02-03T01:22:18.028Z",
+      "voteMeta": {
+        "yes": "202",
+        "no": "255",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "ATOM Airdrop for LUNA/LUNC/COSMOS holders ✅",
+      "voting_start_time": "2023-01-31T01:21:37.201Z",
+      "voting_end_time": "2023-02-03T01:21:37.201Z",
+      "voteMeta": {
+        "yes": "175",
+        "no": "228",
+        "abstain": "27"
+      }
+    },
+    {
+      "title": "USDC Airdrop 🔥",
+      "voting_start_time": "2023-01-31T01:20:55.956Z",
+      "voting_end_time": "2023-02-03T01:20:55.956Z",
+      "voteMeta": {
+        "yes": "164",
+        "no": "204",
+        "abstain": "33"
+      }
+    },
+    {
+      "title": "USDC Airdrop 🔥",
+      "voting_start_time": "2023-01-30T00:52:48.003Z",
+      "voting_end_time": "2023-02-02T00:52:48.003Z",
+      "voteMeta": {
+        "yes": "244",
+        "no": "216",
+        "abstain": "44"
+      }
+    },
+    {
+      "title": "ATOM / LUNA Airdrop 🔥",
+      "voting_start_time": "2023-01-30T00:51:49.012Z",
+      "voting_end_time": "2023-02-02T00:51:49.012Z",
+      "voteMeta": {
+        "yes": "207",
+        "no": "218",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "APTOS Airdrop for LUNA/LUNC/COSMOS holders ✅",
+      "voting_start_time": "2023-01-29T14:36:12.674Z",
+      "voting_end_time": "2023-02-01T14:36:12.674Z",
+      "voteMeta": {
+        "yes": "300",
+        "no": "187",
+        "abstain": "44"
+      }
+    },
+    {
+      "title": "ATOM Airdrop for LUNA/LUNC/COSMOS holders ✅",
+      "voting_start_time": "2023-01-29T14:35:19.584Z",
+      "voting_end_time": "2023-02-01T14:35:19.584Z",
+      "voteMeta": {
+        "yes": "260",
+        "no": "182",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "ATOM / LUNA Airdrop 🔥",
+      "voting_start_time": "2023-01-29T08:24:18.154Z",
+      "voting_end_time": "2023-02-01T08:24:18.154Z",
+      "voteMeta": {
+        "yes": "276",
+        "no": "203",
+        "abstain": "41"
+      }
+    },
+    {
+      "title": " Increase Deposit for Proposals to 100 STRD",
+      "voting_start_time": "2023-01-29T08:23:43.841Z",
+      "voting_end_time": "2023-02-01T08:23:43.841Z",
+      "voteMeta": {
+        "yes": "223",
+        "no": "234",
+        "abstain": "63"
+      }
+    },
+    {
+      "title": "Parameter Change: Increase Deposit for Proposals to 2000 STRD",
+      "voting_start_time": "2023-01-28T11:54:18.464Z",
+      "voting_end_time": "2023-01-31T11:54:18.464Z",
+      "voteMeta": {
+        "yes": "2025",
+        "no": "28",
+        "abstain": "25"
+      }
+    },
+    {
+      "title": "ATOM Airdrop for LUNA/LUNC/COSMOS holders ✅",
+      "voting_start_time": "2023-01-28T11:46:54.899Z",
+      "voting_end_time": "2023-01-31T11:46:54.899Z",
+      "voteMeta": {
+        "yes": "234",
+        "no": "223",
+        "abstain": "54"
+      }
+    },
+    {
+      "title": "APTOS Airdrop for LUNA/LUNC/COSMOS holders ✅",
+      "voting_start_time": "2023-01-28T11:45:51.818Z",
+      "voting_end_time": "2023-01-31T11:45:51.818Z",
+      "voteMeta": {
+        "yes": "226",
+        "no": "219",
+        "abstain": "58"
+      }
+    },
+    {
+      "title": "Parameter Change: Increase Deposit for Proposals to 2000 STRD",
+      "voting_start_time": "2023-01-28T01:44:56.449Z",
+      "voting_end_time": "2023-01-31T01:44:56.449Z",
+      "voteMeta": {
+        "yes": "1142",
+        "no": "494",
+        "abstain": "74"
+      }
+    },
+    {
+      "title": "New Features Available ✅",
+      "voting_start_time": "2023-01-28T00:30:16.043Z",
+      "voting_end_time": "2023-01-31T00:30:16.043Z",
+      "voteMeta": {
+        "yes": "148",
+        "no": "210",
+        "abstain": "76"
+      }
+    },
+    {
+      "title": "ATOM / LUNA Airdrop ✅",
+      "voting_start_time": "2023-01-28T00:26:26.510Z",
+      "voting_end_time": "2023-01-31T00:26:26.510Z",
+      "voteMeta": {
+        "yes": "193",
+        "no": "208",
+        "abstain": "59"
+      }
+    },
+    {
+      "title": "APTOS Airdrop for LUNA/LUNC/COSMOS holders ✅",
+      "voting_start_time": "2023-01-27T23:38:21.197Z",
+      "voting_end_time": "2023-01-30T23:38:21.197Z",
+      "voteMeta": {
+        "yes": "212",
+        "no": "186",
+        "abstain": "64"
+      }
+    },
+    {
+      "title": "Parameter Change: Remove Validator Rebalancing Threshold",
+      "voting_start_time": "2023-01-25T00:45:54.798Z",
+      "voting_end_time": "2023-01-28T00:45:54.798Z",
+      "voteMeta": {
+        "yes": "2302",
+        "no": "5",
+        "abstain": "41"
+      }
+    },
+    {
+      "title": "Stride v5 Draco Release",
+      "voting_start_time": "2023-01-21T05:15:29.915Z",
+      "voting_end_time": "2023-01-24T05:15:29.915Z",
+      "voteMeta": {
+        "yes": "2853",
+        "no": "6",
+        "abstain": "19"
+      }
+    },
+    {
+      "title": "Setting Stride's Roadmap for 2023",
+      "voting_start_time": "2023-01-08T01:22:21.568Z",
+      "voting_end_time": "2023-01-11T01:22:21.568Z",
+      "voteMeta": {
+        "yes": "2775",
+        "no": "6",
+        "abstain": "19"
+      }
+    },
+    {
+      "title": "Redelegate Stride's Cosmos Hub Validator Set",
+      "voting_start_time": "2023-01-04T18:55:23.099Z",
+      "voting_end_time": "2023-01-07T18:55:23.099Z",
+      "voteMeta": {
+        "yes": "2505",
+        "no": "8",
+        "abstain": "60"
+      }
+    },
+    {
+      "title": "Stride v4 Lyra Release",
+      "voting_start_time": "2022-12-03T21:49:57.964Z",
+      "voting_end_time": "2022-12-06T21:49:57.964Z",
+      "voteMeta": {
+        "yes": "3474",
+        "no": "5",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Re-Allocate the Stride Protocol Commission Fee",
+      "voting_start_time": "2022-11-20T19:12:10.594Z",
+      "voting_end_time": "2022-11-23T19:12:10.594Z",
+      "voteMeta": {
+        "yes": "2527",
+        "no": "7",
+        "abstain": "26"
+      }
+    },
+    {
+      "title": "Stride v3 Aquarius Release",
+      "voting_start_time": "2022-11-19T07:26:38.076Z",
+      "voting_end_time": "2022-11-22T07:26:38.076Z",
+      "voteMeta": {
+        "yes": "849",
+        "no": 0,
+        "abstain": "4"
+      }
+    },
+    {
+      "title": "Param Change: Initialize Num Validators Safety Param",
+      "voting_start_time": "2022-10-28T00:48:22.294Z",
+      "voting_end_time": "2022-10-31T00:48:22.294Z",
+      "voteMeta": {
+        "yes": "785",
+        "no": 0,
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "Stride v2 Orion Release",
+      "voting_start_time": "2022-10-22T17:42:38.288Z",
+      "voting_end_time": "2022-10-25T17:42:38.288Z",
+      "voteMeta": {
+        "yes": "840",
+        "no": "4",
+        "abstain": "5"
+      }
+    },
+    {
+      "title": "Stride v2 Orion Release",
+      "voting_start_time": "2022-10-22T04:02:53.460Z",
+      "voting_end_time": "2022-10-25T04:02:53.460Z",
+      "voteMeta": {
+        "yes": "538",
+        "no": "77",
+        "abstain": "44"
+      }
+    }
+  ]
+}

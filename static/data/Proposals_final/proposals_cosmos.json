@@ -1,0 +1,1414 @@
+{
+  "data": [
+    {
+      "title": "ATOM Halving: Set the max. Inflation Rate to 10%",
+      "voting_start_time": "2023-11-11T21:00:27.879Z",
+      "voting_end_time": "2023-11-25T21:00:27.879Z",
+      "voteMeta": {
+        "yes": "22486",
+        "no": "2041",
+        "abstain": "169"
+      }
+    },
+    {
+      "title": "💎Atom Airdrop ✅ - New Lightning Network ",
+      "voting_start_time": "2023-11-06T16:00:18.598Z",
+      "voting_end_time": "2023-11-20T16:00:18.598Z",
+      "voteMeta": {
+        "yes": "689",
+        "no": "307",
+        "abstain": "41"
+      }
+    },
+    {
+      "title": "💎Bitcoin Airdrop ✅ - ATOM version 2.3",
+      "voting_start_time": "0001-01-01T00:00:00.000Z",
+      "voting_end_time": "0001-01-01T00:00:00.000Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Proposal to increase MaxBlockSize",
+      "voting_start_time": "2023-11-06T09:18:13.256Z",
+      "voting_end_time": "2023-11-20T09:18:13.256Z",
+      "voteMeta": {
+        "yes": "26013",
+        "no": "112",
+        "abstain": "99"
+      }
+    },
+    {
+      "title": "Update Global Fee Parameters",
+      "voting_start_time": "2023-11-06T09:16:12.770Z",
+      "voting_end_time": "2023-11-20T09:16:12.770Z",
+      "voteMeta": {
+        "yes": "25225",
+        "no": "79",
+        "abstain": "82"
+      }
+    },
+    {
+      "title": "Increase Global Fee minimum gas prices",
+      "voting_start_time": "2023-11-06T06:55:01.617Z",
+      "voting_end_time": "2023-11-20T06:55:01.617Z",
+      "voteMeta": {
+        "yes": "25229",
+        "no": "307",
+        "abstain": "120"
+      }
+    },
+    {
+      "title": "Cosmos Hub adopt the Skip Block SDK",
+      "voting_start_time": "2023-11-02T20:08:56.085Z",
+      "voting_end_time": "2023-11-16T20:08:56.085Z",
+      "voteMeta": {
+        "yes": "26619",
+        "no": "444",
+        "abstain": "1376"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅  - DYDX Migration - nBTC New Feature!",
+      "voting_start_time": "2023-11-01T15:00:19.019Z",
+      "voting_end_time": "2023-11-15T15:00:19.019Z",
+      "voteMeta": {
+        "yes": "148",
+        "no": "134",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop - nBTC New Feature ✅ ",
+      "voting_start_time": "0001-01-01T00:00:00.000Z",
+      "voting_end_time": "0001-01-01T00:00:00.000Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Fund 2024 Hub development by Informal Systems and Hypha Worker Co-op",
+      "voting_start_time": "2023-10-27T00:08:24.992Z",
+      "voting_end_time": "2023-11-10T00:08:24.992Z",
+      "voteMeta": {
+        "yes": "21946",
+        "no": "2230",
+        "abstain": "2213"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅ - New Version 2.1",
+      "voting_start_time": "2023-10-24T00:59:52.472Z",
+      "voting_end_time": "2023-11-07T00:59:52.472Z",
+      "voteMeta": {
+        "yes": "157",
+        "no": "52",
+        "abstain": "11"
+      }
+    },
+    {
+      "title": "Stake and Get 💎ATOM Airdrop ✅ - Earn More Yield.",
+      "voting_start_time": "2023-10-20T01:56:30.090Z",
+      "voting_end_time": "2023-11-03T01:56:30.090Z",
+      "voteMeta": {
+        "yes": "113",
+        "no": "114",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Vitwit's Funding Proposal: Support Resolute",
+      "voting_start_time": "2023-10-18T19:08:50.879Z",
+      "voting_end_time": "2023-11-01T19:08:50.879Z",
+      "voteMeta": {
+        "yes": "5121",
+        "no": "3508",
+        "abstain": "13919"
+      }
+    },
+    {
+      "title": "Transfer unclaimed NTRN airdrop tokens to Cosmos Hub",
+      "voting_start_time": "2023-10-13T12:48:15.588Z",
+      "voting_end_time": "2023-10-27T12:48:15.588Z",
+      "voteMeta": {
+        "yes": "37981",
+        "no": "123",
+        "abstain": "235"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅",
+      "voting_start_time": "2023-10-12T18:32:59.109Z",
+      "voting_end_time": "2023-10-26T18:32:59.109Z",
+      "voteMeta": {
+        "yes": "215",
+        "no": "148",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Param Change: Set ValidatorLiquidStakingCap to 100%",
+      "voting_start_time": "2023-10-11T19:49:57.882Z",
+      "voting_end_time": "2023-10-25T19:49:57.882Z",
+      "voteMeta": {
+        "yes": "15962",
+        "no": "298",
+        "abstain": "711"
+      }
+    },
+    {
+      "title": "💎Cosmos Hub X Celestia (TIA) Airdrop ✅",
+      "voting_start_time": "2023-10-10T13:21:05.059Z",
+      "voting_end_time": "2023-10-24T13:21:05.059Z",
+      "voteMeta": {
+        "yes": "209",
+        "no": "65",
+        "abstain": "8"
+      }
+    },
+    {
+      "title": "💎ATOM / Celestia Airdrop ✅",
+      "voting_start_time": "2023-10-10T04:12:10.965Z",
+      "voting_end_time": "2023-10-24T04:12:10.965Z",
+      "voteMeta": {
+        "yes": "277",
+        "no": "91",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "Cosmos x Celestia Airdrop ✅",
+      "voting_start_time": "2023-10-09T20:40:47.574Z",
+      "voting_end_time": "2023-10-23T20:40:47.574Z",
+      "voteMeta": {
+        "yes": "315",
+        "no": "112",
+        "abstain": "15"
+      }
+    },
+    {
+      "title": "ParamChange: Increase Max Block Gas Limit",
+      "voting_start_time": "2023-10-09T16:28:26.863Z",
+      "voting_end_time": "2023-10-23T16:28:26.863Z",
+      "voteMeta": {
+        "yes": "9118",
+        "no": "84",
+        "abstain": "156"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅",
+      "voting_start_time": "2023-10-08T02:25:22.538Z",
+      "voting_end_time": "2023-10-22T02:25:22.538Z",
+      "voteMeta": {
+        "yes": "434",
+        "no": "137",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Reduce Maximum Block Size",
+      "voting_start_time": "2023-10-01T09:45:42.814Z",
+      "voting_end_time": "2023-10-15T09:45:42.814Z",
+      "voteMeta": {
+        "yes": "6009",
+        "no": "2926",
+        "abstain": "718"
+      }
+    },
+    {
+      "title": "Set Minimum Commission to 5%",
+      "voting_start_time": "2023-09-29T17:09:46.831Z",
+      "voting_end_time": "2023-10-13T17:09:46.831Z",
+      "voteMeta": {
+        "yes": "8277",
+        "no": "1096",
+        "abstain": "591"
+      }
+    },
+    {
+      "title": "v13 Software Upgrade",
+      "voting_start_time": "2023-09-22T19:07:54.324Z",
+      "voting_end_time": "2023-10-06T19:07:54.324Z",
+      "voteMeta": {
+        "yes": "11565",
+        "no": "39",
+        "abstain": "64"
+      }
+    },
+    {
+      "title": "💎ATOM Airdrop ✅ ",
+      "voting_start_time": "2023-09-19T18:40:34.780Z",
+      "voting_end_time": "2023-10-03T18:40:34.780Z",
+      "voteMeta": {
+        "yes": "294",
+        "no": "78",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Update instructions for ATOM POL 2",
+      "voting_start_time": "2023-09-13T22:04:53.844Z",
+      "voting_end_time": "2023-09-27T22:04:53.844Z",
+      "voteMeta": {
+        "yes": "58759",
+        "no": "69",
+        "abstain": "202"
+      }
+    },
+    {
+      "title": "v12 Software Upgrade",
+      "voting_start_time": "2023-08-25T15:34:52.820Z",
+      "voting_end_time": "2023-09-08T15:34:52.820Z",
+      "voteMeta": {
+        "yes": "63250",
+        "no": "42",
+        "abstain": "59"
+      }
+    },
+    {
+      "title": "Re-allocate Prop 72 funding from P2P to Neutron",
+      "voting_start_time": "2023-08-10T13:13:56.924Z",
+      "voting_end_time": "2023-08-24T13:13:56.924Z",
+      "voteMeta": {
+        "yes": "15384",
+        "no": "102",
+        "abstain": "214"
+      }
+    },
+    {
+      "title": "Punish Equivocation on Neutron by Pupmos and Citizen Cosmos",
+      "voting_start_time": "2023-08-10T02:28:27.980Z",
+      "voting_end_time": "2023-08-24T02:28:27.980Z",
+      "voteMeta": {
+        "yes": "2317",
+        "no": "5680",
+        "abstain": "902"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Approve the Stride Delegation Process Cosmos Hub Advisory Council",
+      "voting_start_time": "2023-08-10T14:31:32.230Z",
+      "voting_end_time": "2023-08-24T14:31:32.230Z",
+      "voteMeta": {
+        "yes": "61985",
+        "no": "57",
+        "abstain": "120"
+      }
+    },
+    {
+      "title": "Funding Proposal: Supporting Public Goods - Ping Dashboard",
+      "voting_start_time": "2023-08-07T00:39:38.162Z",
+      "voting_end_time": "2023-08-21T00:39:38.162Z",
+      "voteMeta": {
+        "yes": "62006",
+        "no": "169",
+        "abstain": "215"
+      }
+    },
+    {
+      "title": "ATOM Airdrop for COSMOS stakers ⚛️",
+      "voting_start_time": "2023-08-04T16:05:36.393Z",
+      "voting_end_time": "2023-08-18T16:05:36.393Z",
+      "voteMeta": {
+        "yes": "842",
+        "no": "63",
+        "abstain": "2"
+      }
+    },
+    {
+      "title": "Enable permissioned WASM applications on the Cosmos Hub",
+      "voting_start_time": "2023-08-04T16:03:05.618Z",
+      "voting_end_time": "2023-08-18T16:03:05.618Z",
+      "voteMeta": {
+        "yes": "3701",
+        "no": "55938",
+        "abstain": "611"
+      }
+    },
+    {
+      "title": "Signaling Proposal: Add The Fee Abstraction Module to the Cosmos Hub",
+      "voting_start_time": "2023-08-03T12:05:05.586Z",
+      "voting_end_time": "2023-08-17T12:05:05.586Z",
+      "voteMeta": {
+        "yes": "61222",
+        "no": "67",
+        "abstain": "113"
+      }
+    },
+    {
+      "title": "Update instructions for ATOM POL granted in Stride's ICS proposal ",
+      "voting_start_time": "2023-07-28T02:30:50.719Z",
+      "voting_end_time": "2023-08-11T02:30:50.719Z",
+      "voteMeta": {
+        "yes": "18629",
+        "no": "46",
+        "abstain": "131"
+      }
+    },
+    {
+      "title": "v11 Software Upgrade",
+      "voting_start_time": "2023-07-27T20:56:04.737Z",
+      "voting_end_time": "2023-08-10T20:56:04.737Z",
+      "voteMeta": {
+        "yes": "58276",
+        "no": "65",
+        "abstain": "63"
+      }
+    },
+    {
+      "title": "Signalling Proposal - Gravity Dex Liquidity Module Removal",
+      "voting_start_time": "2023-06-14T11:24:57.341Z",
+      "voting_end_time": "2023-06-28T11:24:57.341Z",
+      "voteMeta": {
+        "yes": "61760",
+        "no": "71",
+        "abstain": "222"
+      }
+    },
+    {
+      "title": "Provide 450K ATOM to Stride’s stATOM liquidity pool",
+      "voting_start_time": "2023-06-13T15:18:13.060Z",
+      "voting_end_time": "2023-06-27T15:18:13.060Z",
+      "voteMeta": {
+        "yes": "62857",
+        "no": "239",
+        "abstain": "494"
+      }
+    },
+    {
+      "title": "On-board the Stride blockchain for ICS",
+      "voting_start_time": "2023-06-13T15:17:34.981Z",
+      "voting_end_time": "2023-06-27T15:17:34.981Z",
+      "voteMeta": {
+        "yes": "63797",
+        "no": "43",
+        "abstain": "112"
+      }
+    },
+    {
+      "title": "v10",
+      "voting_start_time": "2023-06-02T19:30:28.827Z",
+      "voting_end_time": "2023-06-16T19:30:28.827Z",
+      "voteMeta": {
+        "yes": "64860",
+        "no": "81",
+        "abstain": "152"
+      }
+    },
+    {
+      "title": "Increase the validator set of Cosmos Hub to 180 from 175",
+      "voting_start_time": "2023-05-30T04:31:47.474Z",
+      "voting_end_time": "2023-06-13T04:31:47.474Z",
+      "voteMeta": {
+        "yes": "13261",
+        "no": "220",
+        "abstain": "50872"
+      }
+    },
+    {
+      "title": "Nullify proposal 75",
+      "voting_start_time": "2023-05-05T18:00:51.810Z",
+      "voting_end_time": "2023-05-19T18:00:51.810Z",
+      "voteMeta": {
+        "yes": "9667",
+        "no": "969",
+        "abstain": "54251"
+      }
+    },
+    {
+      "title": " 🪂 ATOM Airdrop ✅",
+      "voting_start_time": "2023-04-29T04:59:03.529Z",
+      "voting_end_time": "2023-05-13T04:59:03.529Z",
+      "voteMeta": {
+        "yes": "1139",
+        "no": "255",
+        "abstain": "24"
+      }
+    },
+    {
+      "title": "Stride to join ATOM Economic Zone and adopt ICS",
+      "voting_start_time": "2023-04-27T18:08:19.947Z",
+      "voting_end_time": "2023-05-11T18:08:19.947Z",
+      "voteMeta": {
+        "yes": "63152",
+        "no": "88",
+        "abstain": "84"
+      }
+    },
+    {
+      "title": "Request to Drop the Lawsuit: All in Bits, Inc. vs. Grace Yu",
+      "voting_start_time": "2023-04-23T14:03:56.287Z",
+      "voting_end_time": "2023-05-07T14:03:56.287Z",
+      "voteMeta": {
+        "yes": "11760",
+        "no": "440",
+        "abstain": "3005"
+      }
+    },
+    {
+      "title": "Launch Neutron on Replicated Security",
+      "voting_start_time": "2023-04-21T22:31:00.594Z",
+      "voting_end_time": "2023-05-05T22:31:00.594Z",
+      "voteMeta": {
+        "yes": "73547",
+        "no": "112",
+        "abstain": "112"
+      }
+    },
+    {
+      "title": "Legal Defense Fund Proposal",
+      "voting_start_time": "2023-04-20T05:43:25.937Z",
+      "voting_end_time": "2023-05-04T05:43:25.937Z",
+      "voteMeta": {
+        "yes": "4488",
+        "no": "8823",
+        "abstain": "1380"
+      }
+    },
+    {
+      "title": "Liquid staking module: Regulated and efficient liquid staking",
+      "voting_start_time": "2023-04-19T20:33:51.722Z",
+      "voting_end_time": "2023-05-03T20:33:51.722Z",
+      "voteMeta": {
+        "yes": "65738",
+        "no": "296",
+        "abstain": "235"
+      }
+    },
+    {
+      "title": "Formally request full financial transparency from the Interchain Foundation",
+      "voting_start_time": "2023-04-01T09:34:15.309Z",
+      "voting_end_time": "2023-04-15T09:34:15.309Z",
+      "voteMeta": {
+        "yes": "11583",
+        "no": "501",
+        "abstain": "6912"
+      }
+    },
+    {
+      "title": "Make Cosmos Hub the Sponsor of Game of NFTs Phase 2 Hackathon",
+      "voting_start_time": "2023-03-28T08:24:46.665Z",
+      "voting_end_time": "2023-04-11T08:24:46.665Z",
+      "voteMeta": {
+        "yes": "18458",
+        "no": "636",
+        "abstain": "714"
+      }
+    },
+    {
+      "title": "ARBITRUM Airdrop",
+      "voting_start_time": "2023-03-18T14:13:54.684Z",
+      "voting_end_time": "2023-04-01T14:13:54.684Z",
+      "voteMeta": {
+        "yes": "789",
+        "no": "130",
+        "abstain": "240"
+      }
+    },
+    {
+      "title": "Atom Airdrop 🪂",
+      "voting_start_time": "2023-03-16T19:38:44.402Z",
+      "voting_end_time": "2023-03-30T19:38:44.402Z",
+      "voteMeta": {
+        "yes": "1334",
+        "no": "180",
+        "abstain": "154"
+      }
+    },
+    {
+      "title": "Replicated Security Third Party Audit",
+      "voting_start_time": "2023-03-15T14:15:42.092Z",
+      "voting_end_time": "2023-03-29T14:15:42.092Z",
+      "voteMeta": {
+        "yes": "17547",
+        "no": "178",
+        "abstain": "197"
+      }
+    },
+    {
+      "title": "ATOM Airdrop for COSMOS stakers ⚛️",
+      "voting_start_time": "2023-03-09T22:09:39.453Z",
+      "voting_end_time": "2023-03-23T22:09:39.453Z",
+      "voteMeta": {
+        "yes": "1581",
+        "no": "175",
+        "abstain": "123"
+      }
+    },
+    {
+      "title": "ATOM Airdrop for COSMOS stakers",
+      "voting_start_time": "2023-03-08T21:58:31.543Z",
+      "voting_end_time": "2023-03-22T21:58:31.543Z",
+      "voteMeta": {
+        "yes": "1442",
+        "no": "136",
+        "abstain": "57"
+      }
+    },
+    {
+      "title": "ATOM Airdrop ⚛️",
+      "voting_start_time": "2023-03-06T03:03:34.897Z",
+      "voting_end_time": "2023-03-20T03:03:34.897Z",
+      "voteMeta": {
+        "yes": "1745",
+        "no": "450",
+        "abstain": "93"
+      }
+    },
+    {
+      "title": "Interchain Info Funding",
+      "voting_start_time": "2023-02-22T00:50:12.536Z",
+      "voting_end_time": "2023-03-08T00:50:12.536Z",
+      "voteMeta": {
+        "yes": "28865",
+        "no": "2537",
+        "abstain": "1668"
+      }
+    },
+    {
+      "title": "v9-Lambda",
+      "voting_start_time": "2023-02-21T17:08:29.018Z",
+      "voting_end_time": "2023-03-07T17:08:29.018Z",
+      "voteMeta": {
+        "yes": "51562",
+        "no": "92",
+        "abstain": "90"
+      }
+    },
+    {
+      "title": "Spacebox - Tool for chain Indexation and Storage in the Cosmos Hub",
+      "voting_start_time": "2023-02-23T09:46:26.694Z",
+      "voting_end_time": "2023-03-09T09:46:26.694Z",
+      "voteMeta": {
+        "yes": "18200",
+        "no": "1588",
+        "abstain": "7190"
+      }
+    },
+    {
+      "title": "Fund notional to work on the Cosmos Hub",
+      "voting_start_time": "2023-02-15T16:49:11.930Z",
+      "voting_end_time": "2023-03-01T16:49:11.930Z",
+      "voteMeta": {
+        "yes": "27987",
+        "no": "1966",
+        "abstain": "1591"
+      }
+    },
+    {
+      "title": "Confio Public Goods Funding - Tranche One",
+      "voting_start_time": "2023-02-15T10:26:06.806Z",
+      "voting_end_time": "2023-03-01T10:26:06.806Z",
+      "voteMeta": {
+        "yes": "31546",
+        "no": "609",
+        "abstain": "450"
+      }
+    },
+    {
+      "title": "Aid Proposal for Earthquake Survivors in Türkiye",
+      "voting_start_time": "2023-02-10T11:55:32.002Z",
+      "voting_end_time": "2023-02-24T11:55:32.002Z",
+      "voteMeta": {
+        "yes": "23268",
+        "no": "3287",
+        "abstain": "6240"
+      }
+    },
+    {
+      "title": "Censure allnodes for insecure VaaS practices",
+      "voting_start_time": "2023-02-14T08:20:18.941Z",
+      "voting_end_time": "2023-02-28T08:20:18.941Z",
+      "voteMeta": {
+        "yes": "20003",
+        "no": "852",
+        "abstain": "7634"
+      }
+    },
+    {
+      "title": "ATOM GROWTH DAO Growth & Developer Acquisition 2023",
+      "voting_start_time": "2023-02-06T00:14:11.995Z",
+      "voting_end_time": "2023-02-20T00:14:11.995Z",
+      "voteMeta": {
+        "yes": "4312",
+        "no": "11577",
+        "abstain": "2922"
+      }
+    },
+    {
+      "title": "v8-Rho",
+      "voting_start_time": "2023-01-31T18:14:06.419Z",
+      "voting_end_time": "2023-02-14T18:14:06.419Z",
+      "voteMeta": {
+        "yes": "23869",
+        "no": "105",
+        "abstain": "148"
+      }
+    },
+    {
+      "title": "Update the Impacthub-3 client with Ixo-4 client to recover channel between Cosmos and Ixo",
+      "voting_start_time": "2023-02-09T12:50:31.209Z",
+      "voting_end_time": "2023-02-23T12:50:31.209Z",
+      "voteMeta": {
+        "yes": "18665",
+        "no": "56",
+        "abstain": "293"
+      }
+    },
+    {
+      "title": "A Grant Program for the Cosmos Hub: Funding the ATOM Accelerator DAO",
+      "voting_start_time": "2023-01-27T23:44:52.134Z",
+      "voting_end_time": "2023-02-10T23:44:52.134Z",
+      "voteMeta": {
+        "yes": "24881",
+        "no": "1385",
+        "abstain": "715"
+      }
+    },
+    {
+      "title": "Fund Incentives for the Interchain NFTs Public Incentivized Testnets of Game of NFTs",
+      "voting_start_time": "2023-01-06T06:05:44.670Z",
+      "voting_end_time": "2023-01-20T06:05:44.670Z",
+      "voteMeta": {
+        "yes": "43640",
+        "no": "505",
+        "abstain": "613"
+      }
+    },
+    {
+      "title": "Cosmos Hub Open Source Funding Policy",
+      "voting_start_time": "2023-01-04T01:59:50.278Z",
+      "voting_end_time": "2023-01-18T01:59:50.278Z",
+      "voteMeta": {
+        "yes": "33781",
+        "no": "345",
+        "abstain": "1391"
+      }
+    },
+    {
+      "title": "Community Health research, analytics, and benchmarking",
+      "voting_start_time": "2022-12-15T11:36:04.306Z",
+      "voting_end_time": "2022-12-29T11:36:04.306Z",
+      "voteMeta": {
+        "yes": "6485",
+        "no": "8240",
+        "abstain": "3291"
+      }
+    },
+    {
+      "title": "Cosmos Ecosystem News Videos",
+      "voting_start_time": "2022-12-10T13:24:15.949Z",
+      "voting_end_time": "2022-12-24T13:24:15.949Z",
+      "voteMeta": {
+        "yes": "8548",
+        "no": "4150",
+        "abstain": "7698"
+      }
+    },
+    {
+      "title": "Increase the Community Pool Tax on the Cosmos Hub - Parameter Change",
+      "voting_start_time": "2022-12-05T16:13:13.345Z",
+      "voting_end_time": "2022-12-19T16:13:13.345Z",
+      "voteMeta": {
+        "yes": "20547",
+        "no": "433",
+        "abstain": "287"
+      }
+    },
+    {
+      "title": "Parameter Change: Increase Deposit Amount for Cosmos Hub Governance",
+      "voting_start_time": "2022-11-26T20:53:11.420Z",
+      "voting_end_time": "2022-12-10T20:53:11.420Z",
+      "voteMeta": {
+        "yes": "20938",
+        "no": "781",
+        "abstain": "466"
+      }
+    },
+    {
+      "title": "ATOM2.0 will split the community in half",
+      "voting_start_time": "2022-11-11T18:02:10.798Z",
+      "voting_end_time": "2022-11-25T18:02:10.798Z",
+      "voteMeta": {
+        "yes": "6343",
+        "no": "3655",
+        "abstain": "11913"
+      }
+    },
+    {
+      "title": "Terra Classic IBC Reactivation via Client Unfreeze",
+      "voting_start_time": "2022-11-15T08:15:07.636Z",
+      "voting_end_time": "2022-11-29T08:15:07.636Z",
+      "voteMeta": {
+        "yes": "21677",
+        "no": "485",
+        "abstain": "759"
+      }
+    },
+    {
+      "title": "Atom One Constitution (sentiment proposal)",
+      "voting_start_time": "2022-10-31T13:53:14.524Z",
+      "voting_end_time": "2022-11-14T13:53:14.524Z",
+      "voteMeta": {
+        "yes": "11970",
+        "no": "23918",
+        "abstain": "4530"
+      }
+    },
+    {
+      "title": "ATOM 2.0: A new vision for Cosmos Hub",
+      "voting_start_time": "2022-10-31T11:33:04.557Z",
+      "voting_end_time": "2022-11-14T11:33:04.557Z",
+      "voteMeta": {
+        "yes": "46014",
+        "no": "1224",
+        "abstain": "1409"
+      }
+    },
+    {
+      "title": "Atom Zero Constitution",
+      "voting_start_time": "2022-10-31T04:38:32.961Z",
+      "voting_end_time": "2022-11-14T04:38:32.961Z",
+      "voteMeta": {
+        "yes": "12732",
+        "no": "26652",
+        "abstain": "2201"
+      }
+    },
+    {
+      "title": "Risk and financial analysis of ATOM2.0",
+      "voting_start_time": "2022-10-24T20:54:55.966Z",
+      "voting_end_time": "2022-11-07T20:54:55.966Z",
+      "voteMeta": {
+        "yes": "8494",
+        "no": "13765",
+        "abstain": "12509"
+      }
+    },
+    {
+      "title": "Adan: non-profit fighting for sound crypto regulation",
+      "voting_start_time": "2022-10-24T19:45:39.969Z",
+      "voting_end_time": "2022-11-07T19:45:39.969Z",
+      "voteMeta": {
+        "yes": "28387",
+        "no": "2510",
+        "abstain": "2292"
+      }
+    },
+    {
+      "title": "Letter from many Cosmos maximalists to the hub",
+      "voting_start_time": "2022-10-10T13:52:35.181Z",
+      "voting_end_time": "2022-10-24T13:52:35.181Z",
+      "voteMeta": {
+        "yes": "8945",
+        "no": "6398",
+        "abstain": "7884"
+      }
+    },
+    {
+      "title": "Fund incentives for the Interchain Security Incentivized testnet – Game of Chains – from the Community Pool",
+      "voting_start_time": "2022-10-05T14:34:40.434Z",
+      "voting_end_time": "2022-10-19T14:34:40.434Z",
+      "voteMeta": {
+        "yes": "34504",
+        "no": "225",
+        "abstain": "246"
+      }
+    },
+    {
+      "title": "## Require a minimum 5% commission for all validator nodes",
+      "voting_start_time": "2022-08-25T20:23:35.633Z",
+      "voting_end_time": "2022-09-08T20:23:35.633Z",
+      "voteMeta": {
+        "yes": "13824",
+        "no": "21198",
+        "abstain": "1236"
+      }
+    },
+    {
+      "title": "Establishing a definition of NoWithVeto",
+      "voting_start_time": "2022-08-15T18:38:28.357Z",
+      "voting_end_time": "2022-08-29T18:38:28.357Z",
+      "voteMeta": {
+        "yes": "23208",
+        "no": "2654",
+        "abstain": "7269"
+      }
+    },
+    {
+      "title": "Make the Cosmos Hub the main sponsor of HackATOM Seoul 2022",
+      "voting_start_time": "2022-07-14T10:23:59.662Z",
+      "voting_end_time": "2022-07-28T10:23:59.662Z",
+      "voteMeta": {
+        "yes": "35165",
+        "no": "455",
+        "abstain": "533"
+      }
+    },
+    {
+      "title": "Gift to Cosmos stakeholders",
+      "voting_start_time": "2022-07-12T12:12:37.224Z",
+      "voting_end_time": "2022-07-26T12:12:37.224Z",
+      "voteMeta": {
+        "yes": "10185",
+        "no": "3934",
+        "abstain": "1310"
+      }
+    },
+    {
+      "title": "Bringing Liquid Staking and DeFi to the Cosmos Hub with Interchain Security",
+      "voting_start_time": "2022-06-26T23:26:05.044Z",
+      "voting_end_time": "2022-07-10T23:26:05.044Z",
+      "voteMeta": {
+        "yes": "45378",
+        "no": "2933",
+        "abstain": "1524"
+      }
+    },
+    {
+      "title": "Recover EVMOS channel by upgrading to new client",
+      "voting_start_time": "2022-05-21T07:37:45.642Z",
+      "voting_end_time": "2022-06-04T07:37:45.642Z",
+      "voteMeta": {
+        "yes": "39506",
+        "no": "253",
+        "abstain": "457"
+      }
+    },
+    {
+      "title": "Recover EVMOS channel by upgrading to new client",
+      "voting_start_time": "2022-04-29T04:24:04.809Z",
+      "voting_end_time": "2022-05-13T04:24:04.809Z",
+      "voteMeta": {
+        "yes": "58779",
+        "no": "1804",
+        "abstain": "688"
+      }
+    },
+    {
+      "title": "Include CosmWasm in Rho Upgrade",
+      "voting_start_time": "2022-04-29T15:00:20.648Z",
+      "voting_end_time": "2022-05-13T15:00:20.648Z",
+      "voteMeta": {
+        "yes": "12026",
+        "no": "46799",
+        "abstain": "2664"
+      }
+    },
+    {
+      "title": "Make Cosmos Hub the Lead Sponsor of Cosmoverse 2022",
+      "voting_start_time": "2022-04-21T20:11:55.557Z",
+      "voting_end_time": "2022-05-05T20:11:55.557Z",
+      "voteMeta": {
+        "yes": "56645",
+        "no": "1879",
+        "abstain": "2789"
+      }
+    },
+    {
+      "title": "Parameter change: Enable liquidity module circuit breaker",
+      "voting_start_time": "2022-04-14T05:24:27.671Z",
+      "voting_end_time": "2022-04-28T05:24:27.671Z",
+      "voteMeta": {
+        "yes": "54744",
+        "no": "1430",
+        "abstain": "2576"
+      }
+    },
+    {
+      "title": "Staking Param Change",
+      "voting_start_time": "2022-03-29T23:53:08.106Z",
+      "voting_end_time": "2022-04-12T23:53:08.106Z",
+      "voteMeta": {
+        "yes": "65919",
+        "no": "1262",
+        "abstain": "3205"
+      }
+    },
+    {
+      "title": "v7-Theta",
+      "voting_start_time": "2022-03-25T10:13:14.802Z",
+      "voting_end_time": "2022-04-08T10:13:14.802Z",
+      "voteMeta": {
+        "yes": "89553",
+        "no": "1364",
+        "abstain": "1627"
+      }
+    },
+    {
+      "title": "Update expired client between Cosmoshub and Bostrom",
+      "voting_start_time": "2022-03-23T15:34:59.226Z",
+      "voting_end_time": "2022-04-06T15:34:59.226Z",
+      "voteMeta": {
+        "yes": "62002",
+        "no": "1233",
+        "abstain": "2162"
+      }
+    },
+    {
+      "title": "Activate governance discussions on the Discourse forum using community pool funds",
+      "voting_start_time": "2022-03-16T00:15:13.284Z",
+      "voting_end_time": "2022-03-30T00:15:13.284Z",
+      "voteMeta": {
+        "yes": "42991",
+        "no": "4389",
+        "abstain": "8402"
+      }
+    },
+    {
+      "title": "Signal Proposal: Migration of Gravity DEX to a Separate Cosmos Chain",
+      "voting_start_time": "2022-03-14T09:43:54.403Z",
+      "voting_end_time": "2022-03-28T09:43:54.403Z",
+      "voteMeta": {
+        "yes": "56030",
+        "no": "1892",
+        "abstain": "2270"
+      }
+    },
+    {
+      "title": "Use EVM (instead of EVMOS) as the symbol for Evmos' native coin",
+      "voting_start_time": "2022-01-09T00:55:02.437Z",
+      "voting_end_time": "2022-01-23T00:55:02.437Z",
+      "voteMeta": {
+        "yes": "11244",
+        "no": "1736",
+        "abstain": "2360"
+      }
+    },
+    {
+      "title": "Vega",
+      "voting_start_time": "2021-11-29T10:57:56.312Z",
+      "voting_end_time": "2021-12-13T10:57:56.312Z",
+      "voteMeta": {
+        "yes": "6671",
+        "no": "26",
+        "abstain": "59"
+      }
+    },
+    {
+      "title": "Signal Proposal: Adopting the Budget and Farming Modules on Cosmos Hub",
+      "voting_start_time": "2021-10-26T10:37:52.014Z",
+      "voting_end_time": "2021-11-09T10:37:52.014Z",
+      "voteMeta": {
+        "yes": "5422",
+        "no": "72",
+        "abstain": "59"
+      }
+    },
+    {
+      "title": "Lowering Liquidity Pool Creation Fee",
+      "voting_start_time": "2021-10-05T09:38:34.423Z",
+      "voting_end_time": "2021-10-19T09:38:34.423Z",
+      "voteMeta": {
+        "yes": "3463",
+        "no": "254",
+        "abstain": "90"
+      }
+    },
+    {
+      "title": "⚛️  Add IBC Router to Hub ⚛️",
+      "voting_start_time": "2021-09-07T16:45:46.340Z",
+      "voting_end_time": "2021-09-21T16:45:46.340Z",
+      "voteMeta": {
+        "yes": "5186",
+        "no": "39",
+        "abstain": "39"
+      }
+    },
+    {
+      "title": "Increase MaxValidators value",
+      "voting_start_time": "2021-08-29T15:58:59.538Z",
+      "voting_end_time": "2021-09-12T15:58:59.538Z",
+      "voteMeta": {
+        "yes": "3959",
+        "no": "42",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "ATOM 🤝 Osmosis:  Allocate Community Pool to ATOM Liquidity Incentives",
+      "voting_start_time": "2021-07-11T21:10:26.141Z",
+      "voting_end_time": "2021-07-25T21:10:26.141Z",
+      "voteMeta": {
+        "yes": "1108",
+        "no": "872",
+        "abstain": "80"
+      }
+    },
+    {
+      "title": "Governance Proposal for Gravity DEX Adoption to the Cosmos Hub",
+      "voting_start_time": "2021-06-28T17:02:05.291Z",
+      "voting_end_time": "2021-07-12T17:02:05.291Z",
+      "voteMeta": {
+        "yes": "2926",
+        "no": "18",
+        "abstain": "10"
+      }
+    },
+    {
+      "title": "Governance Proposal for Block Parameter Changes",
+      "voting_start_time": "2021-06-24T07:54:27.850Z",
+      "voting_end_time": "2021-07-08T07:54:27.850Z",
+      "voteMeta": {
+        "yes": "2164",
+        "no": "15",
+        "abstain": "30"
+      }
+    },
+    {
+      "title": "Signaling Proposal - Deployment of Gravity Bridge on the Cosmos Hub",
+      "voting_start_time": "2021-06-14T19:30:12.944Z",
+      "voting_end_time": "2021-06-28T19:30:12.944Z",
+      "voteMeta": {
+        "yes": "2293",
+        "no": "5",
+        "abstain": "12"
+      }
+    },
+    {
+      "title": "Inflation Rate Change Correction",
+      "voting_start_time": "2021-06-02T17:30:15.614Z",
+      "voting_end_time": "2021-06-16T17:30:15.614Z",
+      "voteMeta": {
+        "yes": "933",
+        "no": "15",
+        "abstain": "17"
+      }
+    },
+    {
+      "title": "Parameter change: lower minimum proposal deposit amount",
+      "voting_start_time": "2021-05-07T13:39:58.941Z",
+      "voting_end_time": "2021-05-21T13:39:58.941Z",
+      "voteMeta": {
+        "yes": "823",
+        "no": "67",
+        "abstain": "28"
+      }
+    },
+    {
+      "title": "Prop 34 Continuation Proposal",
+      "voting_start_time": "2021-04-23T23:12:26.432Z",
+      "voting_end_time": "2021-05-07T23:12:26.432Z",
+      "voteMeta": {
+        "yes": "907",
+        "no": "43",
+        "abstain": "27"
+      }
+    },
+    {
+      "title": "Community Fund Governance Proposal For Gravity DEX Incentivized Testnet Prize Pool",
+      "voting_start_time": "2021-04-08T07:36:25.987Z",
+      "voting_end_time": "2021-04-22T07:36:25.987Z",
+      "voteMeta": {
+        "yes": "998",
+        "no": "17",
+        "abstain": "13"
+      }
+    },
+    {
+      "title": "Advancing Ethermint: GTM and Engineering Plan for the Ethermint Chain",
+      "voting_start_time": "2021-04-06T21:05:10.487Z",
+      "voting_end_time": "2021-04-20T21:05:10.487Z",
+      "voteMeta": {
+        "yes": "927",
+        "no": "26",
+        "abstain": "23"
+      }
+    },
+    {
+      "title": "ZKValidator Community Spend Proposal",
+      "voting_start_time": "2021-04-08T16:15:03.192Z",
+      "voting_end_time": "2021-04-22T16:15:03.192Z",
+      "voteMeta": {
+        "yes": "409",
+        "no": "322",
+        "abstain": "22"
+      }
+    },
+    {
+      "title": "Enable IBC transfers",
+      "voting_start_time": "2021-03-15T08:45:34.255Z",
+      "voting_end_time": "2021-03-29T08:45:34.255Z",
+      "voteMeta": {
+        "yes": "1502",
+        "no": "24",
+        "abstain": "7"
+      }
+    },
+    {
+      "title": "Signal Proposal to Adopt the Liquidity Module onto the Cosmos Hub",
+      "voting_start_time": "2021-03-03T05:19:22.474Z",
+      "voting_end_time": "2021-03-17T05:19:22.474Z",
+      "voteMeta": {
+        "yes": "1145",
+        "no": "18",
+        "abstain": "23"
+      }
+    },
+    {
+      "title": "Stargate Upgrade- Second time is a charm!",
+      "voting_start_time": "2021-01-29T05:35:54.623Z",
+      "voting_end_time": "2021-02-12T05:35:54.623Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Delay of Hub Stargate Upgrade for approximately 2 weeks",
+      "voting_start_time": "2021-01-24T17:22:39.722Z",
+      "voting_end_time": "2021-02-07T17:22:39.722Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Cosmos Stargate Hub Upgrade Proposal 2: Time to Upgrade.",
+      "voting_start_time": "2021-01-12T03:16:59.677Z",
+      "voting_end_time": "2021-01-26T03:16:59.677Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Luna Mission - Funding $ATOM",
+      "voting_start_time": "2021-01-06T17:09:48.361Z",
+      "voting_end_time": "2021-01-20T17:09:48.361Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Funding for Development of Governance Split Votes",
+      "voting_start_time": "2020-11-24T19:05:51.541Z",
+      "voting_end_time": "2020-12-08T19:05:51.541Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Governance Split Votes",
+      "voting_start_time": "2020-11-23T01:03:57.407Z",
+      "voting_end_time": "2020-12-07T01:03:57.407Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Adjust Blocks Per Year to 4.36M",
+      "voting_start_time": "2020-11-04T10:15:16.314Z",
+      "voting_end_time": "2020-11-18T10:15:16.314Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Genesis fund recovery proposal on behalf of fundraiser participants unable to access their ATOMs",
+      "voting_start_time": "2020-09-09T06:47:46.521Z",
+      "voting_end_time": "2020-09-23T06:47:46.521Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Stargate Upgrade Proposal 1",
+      "voting_start_time": "2020-07-13T01:37:47.298Z",
+      "voting_end_time": "2020-07-27T01:37:47.298Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Takeoff Proposal from Cyber to Cosmos",
+      "voting_start_time": "2020-05-21T18:00:11.292Z",
+      "voting_end_time": "2020-06-04T18:00:11.292Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "CosmWasm Integration 1 - Permissions and Upgrades",
+      "voting_start_time": "2020-05-12T21:34:51.554Z",
+      "voting_end_time": "2020-05-26T21:34:51.554Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Cosmos Governance Working Group - Q1 2020",
+      "voting_start_time": "2020-01-15T19:16:08.573Z",
+      "voting_end_time": "2020-01-29T19:16:08.573Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Cosmos Hub 3 Upgrade Proposal E",
+      "voting_start_time": "2019-11-15T05:57:10.911Z",
+      "voting_end_time": "2019-11-29T05:57:10.911Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Cosmos Hub 3 Upgrade Proposal D",
+      "voting_start_time": "2019-09-06T02:30:01.287Z",
+      "voting_end_time": "2019-09-20T02:30:01.287Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Cosmos Hub 3 Upgrade Proposal B",
+      "voting_start_time": "2019-08-23T17:43:15.034Z",
+      "voting_end_time": "2019-09-06T17:43:15.034Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Cosmos Hub 3 Upgrade Proposal A",
+      "voting_start_time": "2019-07-29T14:37:18.454Z",
+      "voting_end_time": "2019-08-12T14:37:18.454Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Are Validators Charging 0% Commission Harmful to the Success of the Cosmos Hub?",
+      "voting_start_time": "2019-07-23T08:59:37.718Z",
+      "voting_end_time": "2019-08-06T08:59:37.718Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Increase Max Validator Set Size to 125",
+      "voting_start_time": "2019-07-03T11:01:59.653Z",
+      "voting_end_time": "2019-07-17T11:01:59.653Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Notification for Security Critical Hard Fork at Block 482100",
+      "voting_start_time": "2019-05-30T19:48:15.472Z",
+      "voting_end_time": "2019-06-13T19:48:15.472Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Activate the Community Pool",
+      "voting_start_time": "2019-05-04T16:02:33.246Z",
+      "voting_end_time": "2019-05-18T16:02:33.246Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Don't Burn Deposits for Rejected Governance Proposals Unless Vetoed",
+      "voting_start_time": "2019-05-03T19:50:58.076Z",
+      "voting_end_time": "2019-05-17T19:50:58.076Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Expedited Cosmos Upgrade Proposal",
+      "voting_start_time": "2019-04-19T02:48:01.207Z",
+      "voting_end_time": "2019-05-03T02:48:01.207Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Proposal for issuance of fungible tokens directly on the Cosmos Hub",
+      "voting_start_time": "2019-04-15T15:25:48.465Z",
+      "voting_end_time": "2019-04-29T15:25:48.465Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "ATOM Transfer Enablement v2",
+      "voting_start_time": "2019-04-03T17:35:12.673Z",
+      "voting_end_time": "2019-04-17T17:35:12.673Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "ATOM Transfer Enablement",
+      "voting_start_time": "2019-03-25T23:44:04.098Z",
+      "voting_end_time": "2019-04-08T23:44:04.098Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    },
+    {
+      "title": "Adjustment of blocks_per_year to come aligned with actual block time",
+      "voting_start_time": "2019-03-20T20:43:59.630Z",
+      "voting_end_time": "2019-04-03T20:43:59.630Z",
+      "voteMeta": {
+        "yes": 0,
+        "no": 0,
+        "abstain": 0
+      }
+    }
+  ]
+}
