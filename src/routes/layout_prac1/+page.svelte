@@ -1,615 +1,554 @@
-<script>
-  import { ColorType, CrosshairMode } from "lightweight-charts";
+<script lang="ts">
+  import { type ChainInfo } from "@src/lib";
+  import { type IChartApi, createChart } from "lightweight-charts";
+  import { requestGet } from "@src/lib/requester";
+  import moment from "moment";
+  import _ from "lodash";
   import {
-    Chart,
-    CandlestickSeries,
-    LineSeries,
-  } from "svelte-lightweight-charts";
+    Table,
+    TableBody,
+    TableBodyCell,
+    TableBodyRow,
+    TableHead,
+    TableHeadCell,
+  } from "flowbite-svelte"; //import
 
-  const options = {
-    width: 1000,
-    height: 500,
-    rightPriceScale: {
-      visible: true,
-      borderColor: "#363C4E",
-    },
-    leftPriceScale: {
-      visible: true,
-      borderColor: "#363C4E",
-    },
-    layout: {
-      background: {
-        type: ColorType.Solid,
-        color: "#2B2B43",
+  let data: ChainInfo;
+  const promiseData = requestGet<ChainInfo>("/data/archway.json").then((d) => {
+    data = d;
+    return d;
+  }); // 상수? requestGet 데이터요청 // .then()은 프로미스가 이행될 때 실행 //함수 d, data = d, 함수 d를 리턴
+  let eleLineGraph: HTMLDivElement; //  let a : b 로 타입 정의
+  let eleLineGraphWidth: number;
+  let eleLineGraphHeight: number;
+  let eleLineGraph2: HTMLDivElement; //  let a : b 로 타입 정의
+  let eleLineGraphWidth2: number;
+  let eleLineGraphHeight2: number;
+  let eleLineGraph3: HTMLDivElement; //  let a : b 로 타입 정의
+  let eleLineGraphWidth3: number;
+  let eleLineGraphHeight3: number;
+  let chart: IChartApi;
+  let chart2: IChartApi;
+  let chart3: IChartApi;
+
+  var darkTheme = {
+    chart: {
+      layout: {
+        background: {
+          type: "solid",
+          color: "#2B2B43",
+        },
+        lineColor: "#2B2B43",
+        textColor: "#D9D9D9",
       },
-      textColor: "#D9D9D9",
-    },
-    grid: {
-      horzLines: {
-        color: "#363C4E",
+      watermark: {
+        color: "rgba(0, 0, 0, 0)",
       },
-      vertLines: {
-        color: "#2B2B43",
+      crosshair: {
+        color: "#758696",
+      },
+      grid: {
+        vertLines: {
+          color: "#2B2B43",
+        },
+        horzLines: {
+          color: "#363C4E",
+        },
       },
     },
-    crosshair: {
-      mode: CrosshairMode.Normal,
-    },
-    timeScale: {
-      borderColor: "#363C4E",
-    },
-    handleScroll: {
-      vertTouchDrag: false,
+    series: {
+      topColor: "rgba(32, 226, 47, 0.56)",
+      bottomColor: "rgba(32, 226, 47, 0.04)",
+      lineColor: "rgba(32, 226, 47, 1)",
     },
   };
 
-  const options2 = {
-    width: 1000,
-    height: 500,
-    rightPriceScale: {
-      visible: true,
-      borderColor: "rgba(197, 203, 206, 1)",
-    },
-    leftPriceScale: {
-      visible: true,
-      borderColor: "rgba(197, 203, 206, 1)",
-    },
-    layout: {
-      background: {
-        type: ColorType.Solid,
-        color: "#FFFFFF",
-      },
-      textColor: "rgba(33, 56, 77, 1)",
-    },
-    grid: {
-      horzLines: {
-        color: "#F0F3FA",
-      },
-      vertLines: {
-        color: "#F0F3FA",
-      },
-    },
-    crosshair: {
-      mode: CrosshairMode.Normal,
-    },
-    timeScale: {
-      borderColor: "rgba(197, 203, 206, 1)",
-    },
-    handleScroll: {
-      vertTouchDrag: false,
-    },
-  };
+  $: {
+    // 반응성 구문?
+    if (eleLineGraph && data) {
+      chart && chart.remove();
+      chart = createChart(eleLineGraph, {
+        width: eleLineGraphWidth,
+        height: eleLineGraphHeight,
+      }); //
 
-  const line = [
-    { time: "2018-10-19", value: 35.98 },
-    { time: "2018-10-22", value: 35.75 },
-    { time: "2018-10-23", value: 35.65 },
-    { time: "2018-10-24", value: 34.12 },
-    { time: "2018-10-25", value: 35.84 },
-    { time: "2018-10-26", value: 35.24 },
-    { time: "2018-10-29", value: 35.99 },
-    { time: "2018-10-30", value: 37.71 },
-    { time: "2018-10-31", value: 38.14 },
-    { time: "2018-11-01", value: 37.95 },
-    { time: "2018-11-02", value: 37.66 },
-    { time: "2018-11-05", value: 38.02 },
-    { time: "2018-11-06", value: 37.73 },
-    { time: "2018-11-07", value: 38.3 },
-    { time: "2018-11-08", value: 38.3 },
-    { time: "2018-11-09", value: 38.34 },
-    { time: "2018-11-12", value: 38.0 },
-    { time: "2018-11-13", value: 37.72 },
-    { time: "2018-11-14", value: 38.29 },
-    { time: "2018-11-15", value: 38.49 },
-    { time: "2018-11-16", value: 38.59 },
-    { time: "2018-11-19", value: 38.18 },
-    { time: "2018-11-20", value: 36.76 },
-    { time: "2018-11-21", value: 37.51 },
-    { time: "2018-11-23", value: 37.39 },
-    { time: "2018-11-26", value: 37.77 },
-    { time: "2018-11-27", value: 38.36 },
-    { time: "2018-11-28", value: 39.06 },
-    { time: "2018-11-29", value: 39.42 },
-    { time: "2018-11-30", value: 39.01 },
-    { time: "2018-12-03", value: 39.15 },
-    { time: "2018-12-04", value: 37.69 },
-    { time: "2018-12-06", value: 37.88 },
-    { time: "2018-12-07", value: 37.41 },
-    { time: "2018-12-10", value: 37.35 },
-    { time: "2018-12-11", value: 36.84 },
-    { time: "2018-12-12", value: 36.98 },
-    { time: "2018-12-13", value: 36.76 },
-    { time: "2018-12-14", value: 36.34 },
-    { time: "2018-12-17", value: 36.21 },
-    { time: "2018-12-18", value: 35.65 },
-    { time: "2018-12-19", value: 35.19 },
-    { time: "2018-12-20", value: 34.62 },
-    { time: "2018-12-21", value: 33.75 },
-    { time: "2018-12-24", value: 33.07 },
-    { time: "2018-12-26", value: 34.14 },
-    { time: "2018-12-27", value: 34.47 },
-    { time: "2018-12-28", value: 34.35 },
-    { time: "2018-12-31", value: 34.05 },
-    { time: "2019-01-02", value: 34.37 },
-    { time: "2019-01-03", value: 34.64 },
-    { time: "2019-01-04", value: 35.81 },
-    { time: "2019-01-07", value: 35.43 },
-    { time: "2019-01-08", value: 35.72 },
-    { time: "2019-01-09", value: 36.06 },
-    { time: "2019-01-10", value: 35.82 },
-    { time: "2019-01-11", value: 35.63 },
-    { time: "2019-01-14", value: 35.77 },
-    { time: "2019-01-15", value: 35.83 },
-    { time: "2019-01-16", value: 35.9 },
-    { time: "2019-01-17", value: 35.91 },
-    { time: "2019-01-18", value: 36.21 },
-    { time: "2019-01-22", value: 34.97 },
-    { time: "2019-01-23", value: 36.89 },
-    { time: "2019-01-24", value: 36.24 },
-    { time: "2019-01-25", value: 35.78 },
-    { time: "2019-01-28", value: 35.37 },
-    { time: "2019-01-29", value: 36.08 },
-    { time: "2019-01-30", value: 35.43 },
-    { time: "2019-01-31", value: 36.57 },
-    { time: "2019-02-01", value: 36.79 },
-    { time: "2019-02-04", value: 36.77 },
-    { time: "2019-02-05", value: 37.15 },
-    { time: "2019-02-06", value: 37.17 },
-    { time: "2019-02-07", value: 37.68 },
-    { time: "2019-02-08", value: 37.6 },
-    { time: "2019-02-11", value: 37.0 },
-    { time: "2019-02-12", value: 37.24 },
-    { time: "2019-02-13", value: 37.03 },
-    { time: "2019-02-14", value: 37.26 },
-    { time: "2019-02-15", value: 37.77 },
-    { time: "2019-02-19", value: 37.55 },
-    { time: "2019-02-20", value: 37.79 },
-    { time: "2019-02-21", value: 38.47 },
-    { time: "2019-02-22", value: 38.61 },
-    { time: "2019-02-25", value: 38.57 },
-    { time: "2019-02-26", value: 38.8 },
-    { time: "2019-02-27", value: 38.53 },
-    { time: "2019-02-28", value: 38.67 },
-    { time: "2019-03-01", value: 39.1 },
-    { time: "2019-03-04", value: 38.73 },
-    { time: "2019-03-05", value: 38.72 },
-    { time: "2019-03-06", value: 38.61 },
-    { time: "2019-03-07", value: 38.38 },
-    { time: "2019-03-08", value: 38.19 },
-    { time: "2019-03-11", value: 39.17 },
-    { time: "2019-03-12", value: 39.49 },
-    { time: "2019-03-13", value: 39.56 },
-    { time: "2019-03-14", value: 39.87 },
-    { time: "2019-03-15", value: 40.47 },
-    { time: "2019-03-18", value: 39.92 },
-    { time: "2019-03-19", value: 39.78 },
-    { time: "2019-03-20", value: 39.47 },
-    { time: "2019-03-21", value: 40.05 },
-    { time: "2019-03-22", value: 39.46 },
-    { time: "2019-03-25", value: 39.18 },
-    { time: "2019-03-26", value: 39.63 },
-    { time: "2019-03-27", value: 40.21 },
-    { time: "2019-03-28", value: 40.42 },
-    { time: "2019-03-29", value: 39.98 },
-    { time: "2019-04-01", value: 40.31 },
-    { time: "2019-04-02", value: 40.02 },
-    { time: "2019-04-03", value: 40.27 },
-    { time: "2019-04-04", value: 40.41 },
-    { time: "2019-04-05", value: 40.42 },
-    { time: "2019-04-08", value: 40.71 },
-    { time: "2019-04-09", value: 41.04 },
-    { time: "2019-04-10", value: 41.08 },
-    { time: "2019-04-11", value: 41.04 },
-    { time: "2019-04-12", value: 41.3 },
-    { time: "2019-04-15", value: 41.78 },
-    { time: "2019-04-16", value: 41.97 },
-    { time: "2019-04-17", value: 42.57 },
-    { time: "2019-04-18", value: 42.43 },
-    { time: "2019-04-22", value: 42.0 },
-    { time: "2019-04-23", value: 41.99 },
-    { time: "2019-04-24", value: 41.85 },
-    { time: "2019-04-25", value: 42.93 },
-    { time: "2019-04-26", value: 43.08 },
-    { time: "2019-04-29", value: 43.45 },
-    { time: "2019-04-30", value: 43.53 },
-    { time: "2019-05-01", value: 43.42 },
-    { time: "2019-05-02", value: 42.65 },
-    { time: "2019-05-03", value: 43.29 },
-    { time: "2019-05-06", value: 43.3 },
-    { time: "2019-05-07", value: 42.76 },
-    { time: "2019-05-08", value: 42.55 },
-    { time: "2019-05-09", value: 42.92 },
-    { time: "2019-05-10", value: 43.15 },
-    { time: "2019-05-13", value: 42.28 },
-    { time: "2019-05-14", value: 42.91 },
-    { time: "2019-05-15", value: 42.49 },
-    { time: "2019-05-16", value: 43.19 },
-    { time: "2019-05-17", value: 43.54 },
-    { time: "2019-05-20", value: 42.78 },
-    { time: "2019-05-21", value: 43.29 },
-    { time: "2019-05-22", value: 43.3 },
-    { time: "2019-05-23", value: 42.73 },
-    { time: "2019-05-24", value: 42.67 },
-    { time: "2019-05-28", value: 42.75 },
-  ];
+      const lineSeries = chart.addLineSeries();
+      const series = _(data.data) // chaininfo.data
+        .map((unit) => {
+          const time = moment(unit.createdAt._seconds * 1000).format(
+            "YYYY-MM-DD"
+          );
+          const value = unit.unit.market.values[0]; // chaininfo(archway).unit.market.value
+          return {
+            time,
+            value: value || 0,
+          };
+        })
+        .uniqBy("time")
+        .orderBy("time", "asc")
+        .value();
 
-  const line1 = [
-    { time: "2018-10-19", value: 26.19 },
-    { time: "2018-10-22", value: 25.87 },
-    { time: "2018-10-23", value: 25.83 },
-    { time: "2018-10-24", value: 25.78 },
-    { time: "2018-10-25", value: 25.82 },
-    { time: "2018-10-26", value: 25.81 },
-    { time: "2018-10-29", value: 25.82 },
-    { time: "2018-10-30", value: 25.71 },
-    { time: "2018-10-31", value: 25.82 },
-    { time: "2018-11-01", value: 25.72 },
-    { time: "2018-11-02", value: 25.74 },
-    { time: "2018-11-05", value: 25.81 },
-    { time: "2018-11-06", value: 25.75 },
-    { time: "2018-11-07", value: 25.73 },
-    { time: "2018-11-08", value: 25.75 },
-    { time: "2018-11-09", value: 25.75 },
-    { time: "2018-11-12", value: 25.76 },
-    { time: "2018-11-13", value: 25.8 },
-    { time: "2018-11-14", value: 25.77 },
-    { time: "2018-11-15", value: 25.75 },
-    { time: "2018-11-16", value: 25.75 },
-    { time: "2018-11-19", value: 25.75 },
-    { time: "2018-11-20", value: 25.72 },
-    { time: "2018-11-21", value: 25.78 },
-    { time: "2018-11-23", value: 25.72 },
-    { time: "2018-11-26", value: 25.78 },
-    { time: "2018-11-27", value: 25.85 },
-    { time: "2018-11-28", value: 25.85 },
-    { time: "2018-11-29", value: 25.55 },
-    { time: "2018-11-30", value: 25.41 },
-    { time: "2018-12-03", value: 25.41 },
-    { time: "2018-12-04", value: 25.42 },
-    { time: "2018-12-06", value: 25.33 },
-    { time: "2018-12-07", value: 25.39 },
-    { time: "2018-12-10", value: 25.32 },
-    { time: "2018-12-11", value: 25.48 },
-    { time: "2018-12-12", value: 25.39 },
-    { time: "2018-12-13", value: 25.45 },
-    { time: "2018-12-14", value: 25.52 },
-    { time: "2018-12-17", value: 25.38 },
-    { time: "2018-12-18", value: 25.36 },
-    { time: "2018-12-19", value: 25.65 },
-    { time: "2018-12-20", value: 25.7 },
-    { time: "2018-12-21", value: 25.66 },
-    { time: "2018-12-24", value: 25.66 },
-    { time: "2018-12-26", value: 25.65 },
-    { time: "2018-12-27", value: 25.66 },
-    { time: "2018-12-28", value: 25.68 },
-    { time: "2018-12-31", value: 25.77 },
-    { time: "2019-01-02", value: 25.72 },
-    { time: "2019-01-03", value: 25.69 },
-    { time: "2019-01-04", value: 25.71 },
-    { time: "2019-01-07", value: 25.72 },
-    { time: "2019-01-08", value: 25.72 },
-    { time: "2019-01-09", value: 25.66 },
-    { time: "2019-01-10", value: 25.85 },
-    { time: "2019-01-11", value: 25.92 },
-    { time: "2019-01-14", value: 25.94 },
-    { time: "2019-01-15", value: 25.95 },
-    { time: "2019-01-16", value: 26.0 },
-    { time: "2019-01-17", value: 25.99 },
-    { time: "2019-01-18", value: 25.6 },
-    { time: "2019-01-22", value: 25.81 },
-    { time: "2019-01-23", value: 25.7 },
-    { time: "2019-01-24", value: 25.74 },
-    { time: "2019-01-25", value: 25.8 },
-    { time: "2019-01-28", value: 25.83 },
-    { time: "2019-01-29", value: 25.7 },
-    { time: "2019-01-30", value: 25.78 },
-    { time: "2019-01-31", value: 25.35 },
-    { time: "2019-02-01", value: 25.6 },
-    { time: "2019-02-04", value: 25.65 },
-    { time: "2019-02-05", value: 25.73 },
-    { time: "2019-02-06", value: 25.71 },
-    { time: "2019-02-07", value: 25.71 },
-    { time: "2019-02-08", value: 25.72 },
-    { time: "2019-02-11", value: 25.76 },
-    { time: "2019-02-12", value: 25.84 },
-    { time: "2019-02-13", value: 25.85 },
-    { time: "2019-02-14", value: 25.87 },
-    { time: "2019-02-15", value: 25.89 },
-    { time: "2019-02-19", value: 25.9 },
-    { time: "2019-02-20", value: 25.92 },
-    { time: "2019-02-21", value: 25.96 },
-    { time: "2019-02-22", value: 26.0 },
-    { time: "2019-02-25", value: 25.93 },
-    { time: "2019-02-26", value: 25.92 },
-    { time: "2019-02-27", value: 25.67 },
-    { time: "2019-02-28", value: 25.79 },
-    { time: "2019-03-01", value: 25.86 },
-    { time: "2019-03-04", value: 25.94 },
-    { time: "2019-03-05", value: 26.02 },
-    { time: "2019-03-06", value: 25.95 },
-    { time: "2019-03-07", value: 25.89 },
-    { time: "2019-03-08", value: 25.94 },
-    { time: "2019-03-11", value: 25.91 },
-    { time: "2019-03-12", value: 25.92 },
-    { time: "2019-03-13", value: 26.0 },
-    { time: "2019-03-14", value: 26.05 },
-    { time: "2019-03-15", value: 26.11 },
-    { time: "2019-03-18", value: 26.1 },
-    { time: "2019-03-19", value: 25.98 },
-    { time: "2019-03-20", value: 26.11 },
-    { time: "2019-03-21", value: 26.12 },
-    { time: "2019-03-22", value: 25.88 },
-    { time: "2019-03-25", value: 25.85 },
-    { time: "2019-03-26", value: 25.72 },
-    { time: "2019-03-27", value: 25.73 },
-    { time: "2019-03-28", value: 25.8 },
-    { time: "2019-03-29", value: 25.77 },
-    { time: "2019-04-01", value: 26.06 },
-    { time: "2019-04-02", value: 25.93 },
-    { time: "2019-04-03", value: 25.95 },
-    { time: "2019-04-04", value: 26.06 },
-    { time: "2019-04-05", value: 26.16 },
-    { time: "2019-04-08", value: 26.12 },
-    { time: "2019-04-09", value: 26.07 },
-    { time: "2019-04-10", value: 26.13 },
-    { time: "2019-04-11", value: 26.04 },
-    { time: "2019-04-12", value: 26.04 },
-    { time: "2019-04-15", value: 26.05 },
-    { time: "2019-04-16", value: 26.01 },
-    { time: "2019-04-17", value: 26.09 },
-    { time: "2019-04-18", value: 26.0 },
-    { time: "2019-04-22", value: 26.0 },
-    { time: "2019-04-23", value: 26.06 },
-    { time: "2019-04-24", value: 26.0 },
-    { time: "2019-04-25", value: 25.81 },
-    { time: "2019-04-26", value: 25.88 },
-    { time: "2019-04-29", value: 25.91 },
-    { time: "2019-04-30", value: 25.9 },
-    { time: "2019-05-01", value: 26.02 },
-    { time: "2019-05-02", value: 25.97 },
-    { time: "2019-05-03", value: 26.02 },
-    { time: "2019-05-06", value: 26.03 },
-    { time: "2019-05-07", value: 26.04 },
-    { time: "2019-05-08", value: 26.05 },
-    { time: "2019-05-09", value: 26.05 },
-    { time: "2019-05-10", value: 26.08 },
-    { time: "2019-05-13", value: 26.05 },
-    { time: "2019-05-14", value: 26.01 },
-    { time: "2019-05-15", value: 26.03 },
-    { time: "2019-05-16", value: 26.14 },
-    { time: "2019-05-17", value: 26.09 },
-    { time: "2019-05-20", value: 26.01 },
-    { time: "2019-05-21", value: 26.12 },
-    { time: "2019-05-22", value: 26.15 },
-    { time: "2019-05-23", value: 26.18 },
-    { time: "2019-05-24", value: 26.16 },
-    { time: "2019-05-28", value: 26.23 },
-  ];
+      lineSeries.setData(series);
+    }
+  }
+  $: {
+    // 반응성 구문?
+    if (eleLineGraph2 && data) {
+      chart2 && chart2.remove();
+      chart2 = createChart(eleLineGraph2, {
+        width: eleLineGraphWidth2,
+        height: eleLineGraphHeight2,
+      }); //
+      const lineSeries = chart2.addLineSeries();
+      const series = _(data.data) // chaininfo.data
+        .map((unit) => {
+          const time = moment(unit.createdAt._seconds * 1000).format(
+            "YYYY-MM-DD"
+          );
+          const value = unit.unit.market.values[0]; // chaininfo(archway).unit.market.value
+          return {
+            time,
+            value: value || 0,
+          };
+        })
+        .uniqBy("time")
+        .orderBy("time", "asc")
+        .value();
+
+      lineSeries.setData(series);
+    }
+  }
+  $: {
+    // 반응성 구문?
+    if (eleLineGraph3 && data) {
+      chart3 && chart3.remove();
+      chart3 = createChart(eleLineGraph3, {
+        width: eleLineGraphWidth3,
+        height: eleLineGraphHeight3,
+      }); //
+      const lineSeries = chart3.addLineSeries();
+      const series = _(data.data) // chaininfo.data
+        .map((unit) => {
+          const time = moment(unit.createdAt._seconds * 1000).format(
+            "YYYY-MM-DD"
+          );
+          const value = unit.unit.market.values[0]; // chaininfo(archway).unit.market.value
+          return {
+            time,
+            value: value || 0,
+          };
+        })
+        .uniqBy("time")
+        .orderBy("time", "asc")
+        .value();
+
+      lineSeries.setData(series);
+    }
+  }
 </script>
 
-<div>
-  <div></div>
-  <div></div>
-  <div class="main_logo">Climbing</div>
-  <div>
-    <div></div>
-    <div>
-      <div>
-        <div class="coin1">BTC</div>
+<body>
+  <div class="bgr1">
+    <div class="content-wrapper">
+      <div class="left-content">
+        <!-- 왼쪽 콘텐츠 추가 -->
+
+        <select name="sort">
+          <option disabled selected>정렬</option>
+          <option value="1day">오름차순</option>
+          <option value="1month">내림차순</option>
+          <option value="1year">가격변동</option>
+        </select>
+
+        <div class="choices-container">
+          <div class="choice">
+            <div class="top-section">
+              <img
+                class="logo"
+                src="https://example.com/logo1.png"
+                alt="Logo 1"
+              />
+              <div class="name">BTC</div>
+              <div class="percent">+20%</div>
+            </div>
+            <div class="bottom-section">
+              <div class="price">100,000,000$</div>
+            </div>
+          </div>
+
+          <div class="choice">
+            <div class="top-section">
+              <img
+                class="logo"
+                src="https://example.com/logo1.png"
+                alt="Logo 1"
+              />
+              <div class="name">BTC</div>
+              <div class="percent">+20%</div>
+            </div>
+            <div class="bottom-section">
+              <div class="price">100,000,000$</div>
+            </div>
+          </div>
+
+          <div class="choice">
+            <div class="top-section">
+              <img
+                class="logo"
+                src="https://example.com/logo1.png"
+                alt="Logo 1"
+              />
+              <div class="name">BTC</div>
+              <div class="percent">+20%</div>
+            </div>
+            <div class="bottom-section">
+              <div class="price">100,000,000$</div>
+            </div>
+          </div>
+
+          <div class="choice">
+            <div class="top-section">
+              <img
+                class="logo"
+                src="https://example.com/logo1.png"
+                alt="Logo 1"
+              />
+              <div class="name">BTC</div>
+              <div class="percent">+20%</div>
+            </div>
+            <div class="bottom-section">
+              <div class="price">100,000,000$</div>
+            </div>
+          </div>
+
+          <div class="choice">
+            <div class="top-section">
+              <img
+                class="logo"
+                src="https://example.com/logo1.png"
+                alt="Logo 1"
+              />
+              <div class="name">BTC</div>
+              <div class="percent">+20%</div>
+            </div>
+            <div class="bottom-section">
+              <div class="price">100,000,000$</div>
+            </div>
+          </div>
+
+          <div class="choice">
+            <div class="top-section">
+              <img
+                class="logo"
+                src="https://example.com/logo1.png"
+                alt="Logo 1"
+              />
+              <div class="name">BTC</div>
+              <div class="percent">+20%</div>
+            </div>
+            <div class="bottom-section">
+              <div class="price">100,000,000$</div>
+            </div>
+          </div>
+
+          <div class="choice">
+            <div class="top-section">
+              <img
+                class="logo"
+                src="https://example.com/logo1.png"
+                alt="Logo 1"
+              />
+              <div class="name">BTC</div>
+              <div class="percent">+20%</div>
+            </div>
+            <div class="bottom-section">
+              <div class="price">100,000,000$</div>
+            </div>
+          </div>
+
+          <div class="choice">
+            <div class="top-section">
+              <img
+                class="logo"
+                src="https://example.com/logo1.png"
+                alt="Logo 1"
+              />
+              <div class="name">BTC</div>
+              <div class="percent">+20%</div>
+            </div>
+            <div class="bottom-section">
+              <div class="price">100,000,000$</div>
+            </div>
+          </div>
+
+          <div class="choice">
+            <div class="top-section">
+              <img
+                class="logo"
+                src="https://example.com/logo1.png"
+                alt="Logo 1"
+              />
+              <div class="name">BTC</div>
+              <div class="percent">+20%</div>
+            </div>
+            <div class="bottom-section">
+              <div class="price">100,000,000$</div>
+            </div>
+          </div>
+        </div>
       </div>
-      <div>
-        <div class="per1">20.4%</div>
-      </div>
-      <div></div>
-      <div>
-        <div class="price1">0.998425</div>
+
+      <div class="right-content">
+        <!-- 오른쪽 콘텐츠 추가 -->
+
+        <div class="select-container">
+          <select name="graph" class="graph">
+            <option disabled selected>그래프 수</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+          </select>
+
+          <select name="time">
+            <option disabled selected>시간</option>
+            <option value="1day">1일</option>
+            <option value="1month">1달</option>
+            <option value="1year">1년</option>
+          </select>
+        </div>
+
+        <div class="box-container">
+          <div
+            class="box1"
+            bind:this={eleLineGraph}
+            bind:clientWidth={eleLineGraphWidth}
+            bind:clientHeight={eleLineGraphHeight}
+          ></div>
+          <div
+            class="box2"
+            bind:this={eleLineGraph2}
+            bind:clientWidth={eleLineGraphWidth2}
+            bind:clientHeight={eleLineGraphHeight2}
+          ></div>
+          <div
+            class="box3"
+            bind:this={eleLineGraph3}
+            bind:clientWidth={eleLineGraphWidth3}
+            bind:clientHeight={eleLineGraphHeight3}
+          ></div>
+        </div>
+        <img class="logo" src="https://ifh.cc/g/5oXZRJ.png" alt="logo" />
       </div>
     </div>
   </div>
-  <div>
-    <div></div>
-    <div>
-      <div>
-        <div class="coin1">BTC</div>
-      </div>
-      <div>
-        <div class="per1">20.4%</div>
-      </div>
-      <div></div>
-      <div>
-        <div class="price1">0.998425</div>
-      </div>
-    </div>
-  </div>
-  <div>
-    <div></div>
-    <div>
-      <div>
-        <div class="coin1">BTC</div>
-      </div>
-      <div>
-        <div class="per1">20.4%</div>
-      </div>
-      <div></div>
-      <div>
-        <div class="price1">0.998425</div>
-      </div>
-    </div>
-  </div>
-  <div>
-    <div></div>
-    <div>
-      <div>
-        <div class="coin1">BTC</div>
-      </div>
-      <div>
-        <div class="per1">20.4%</div>
-      </div>
-      <div></div>
-      <div>
-        <div class="price1">0.998425</div>
-      </div>
-    </div>
-  </div>
-  <div>
-    <div></div>
-    <div>
-      <div>
-        <div class="coin1">BTC</div>
-      </div>
-      <div>
-        <div class="per1">20.4%</div>
-      </div>
-      <div></div>
-      <div>
-        <div class="price1">0.998425</div>
-      </div>
-    </div>
-  </div>
-  <div></div>
-  <div>
-    <div class="main">Main</div>
-  </div>
-</div>
+</body>
 
 <style lang="scss">
-  .main_logo {
-    font-size: 35px;
-    font-family: "Fugaz One";
-    font-weight: 400;
-    color: rgba(255, 255, 255, 1);
-    width: 137px;
-    height: 51px;
+  /* Place your CSS styles in this file */
+
+  @import url("https://fonts.googleapis.com/css2?family=Fugaz+One&family=Noto+Sans+KR&display=swap");
+  @import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+
+  body {
+    height: 100vh;
+    width: 100vw;
+    background: url("https://ifh.cc/g/7ZZRzn.jpg") no-repeat center;
+    background-size: cover;
   }
 
-  .coin1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 45.89px;
-    height: 45.89px;
+  .bgr1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 80%;
+    height: 90%;
+    background-color: #06092b;
+    border-radius: 15px;
+    box-shadow: 0 0 20px rgba(255, 255, 255, 0.5);
+    margin: 50px auto;
   }
 
-  .per1 {
-    font-size: 12px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 75, 75, 1);
-    width: 48.19px;
-    height: 20.65px;
+  .content-wrapper {
+    display: flex;
+    flex: 1;
+    width: 100%;
+    height: 100%;
   }
 
-  .price1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 193.9px;
-    height: 32.13px;
+  .left-content,
+  .right-content {
+    height: 80%;
+    box-sizing: border-box;
   }
-  .coin1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 45.89px;
-    height: 45.89px;
+
+  .left-content {
+    background-color: aqua;
+    margin: 92px 10px 30px 40px;
+    display: flex;
+
+    align-items: flex-start; /* 수정: 상단 정렬을 위해 */
+    justify-content: flex-start; /* 수정: 상단 정렬을 위해 */
   }
-  .per1 {
-    font-size: 12px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 75, 75, 1);
-    width: 48.19px;
-    height: 20.65px;
+
+  .left-content select {
+    display: inline-block; /* 수정: 블록에서 인라인으로 변경 */
+    width: calc(100% - 20px);
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    height: 36px; /* 추가: 높이 조절 */
+    padding: 0; /* 추가: 내부 간격 제거 */
   }
-  .price1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 193.9px;
-    height: 32.13px;
+  .left-content select[name="sort"] {
+    width: 104px;
+    height: 36px;
+    padding: 8px;
   }
-  .coin1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 45.89px;
-    height: 45.89px;
+
+  .choices-container {
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    height: 70vh;
+    width: flex;
+    padding: 20px;
+    box-sizing: border-box;
   }
-  .per1 {
-    font-size: 12px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 75, 75, 1);
-    width: 48.19px;
-    height: 20.65px;
+
+  .choice {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    width: 170px;
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
   }
-  .price1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 193.9px;
-    height: 32.13px;
+
+  .choice:hover {
+    background-color: #f0f0f0;
   }
-  .coin1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 45.89px;
-    height: 45.89px;
+  .top-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
   }
-  .per1 {
-    font-size: 12px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 75, 75, 1);
-    width: 48.19px;
-    height: 20.65px;
+  .logo {
+    width: 10px;
+    height: 10px;
+    margin-bottom: 10px;
+    flex: 1;
   }
-  .price1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 193.9px;
-    height: 32.13px;
+
+  .name {
+    font-weight: bold;
+    margin-bottom: 5px;
+    flex: 1;
   }
-  .coin1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 45.89px;
-    height: 45.89px;
+
+  .percent {
+    color: green;
+    margin-bottom: 5px;
+    flex: 1;
   }
-  .per1 {
-    font-size: 12px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 75, 75, 1);
-    width: 48.19px;
-    height: 20.65px;
+
+  .price {
+    color: blue;
   }
-  .price1 {
-    font-size: 16px;
-    font-family: "Inter";
-    font-weight: 600;
-    color: rgba(255, 255, 255, 1);
-    width: 193.9px;
-    height: 32.13px;
+
+  .select-container {
+    margin-bottom: -10px; /* "그래프 수" select에만 10px 마진 추가 */
+    align-self: flex-end; /* 우측 상단 정렬 */
   }
-  .main {
-    font-size: 14px;
-    font-family: "Inter";
-    font-weight: 700;
-    color: rgba(255, 255, 255, 1);
-    width: 48.76px;
-    height: 22.71px;
+
+  .right-content {
+    flex: 4;
+    background-color: red;
+    margin: 92px 40px 30px 10px;
+    display: flex;
+    flex-direction: column; /* 세로로 정렬 */
+    justify-content: flex-end; /* 하단 정렬 */
+    align-items: center; /* 중앙 정렬 */
+  }
+
+  .box-container {
+    display: flex;
+    flex-direction: column; /* 세로로 정렬 */
+    align-items: center; /* 중앙 정렬 */
+    margin-top: 20px; /* .select-container와의 간격 조절 */
+    height: 100%; /* 부모인 .right-content의 높이에 맞추기 */
+    width: 100%; /* 부모인 .right-content의 가로 크기에 맞추기 */
+  }
+
+  .right-content .box1 {
+    flex: 6; /* 균일한 가로 사이즈 및 세로 공간 분배 */
+    width: 100%; /* 최대 가로 사이즈로 설정 */
+    max-width: 100%; /* 가로 범위를 100%로 제한 */
+  }
+  .right-content .box2 {
+    flex: 2; /* 균일한 가로 사이즈 및 세로 공간 분배 */
+    width: 100%; /* 최대 가로 사이즈로 설정 */
+    max-width: 100%; /* 가로 범위를 100%로 제한 */
+  }
+  .right-content .box3 {
+    flex: 2; /* 균일한 가로 사이즈 및 세로 공간 분배 */
+    width: 100%; /* 최대 가로 사이즈로 설정 */
+    max-width: 100%; /* 가로 범위를 100%로 제한 */
+  }
+
+  .right-content select.graph {
+    margin-right: 10px; /* "그래프 수" select에만 20px 마진 추가 */
+  }
+
+  .right-content .box1 {
+    background-color: orange;
+  }
+
+  .right-content .box2 {
+    background-color: yellow;
+  }
+
+  .right-content .box3 {
+    background-color: blue;
+  }
+
+  .logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    width: 130px;
+    height: auto;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    margin-left: 25px;
+  }
+
+  select {
+    display: inline-block;
+    width: 104px;
+    height: 36px;
+    padding: 8px;
+    align-items: center;
+    outline: 0;
+    border-radius: 8px;
+    border: 1px solid #1f2458;
+    background: #1f2458;
+    color: #fff;
+  }
+
+  select option {
+    color: #fff;
+  }
+  h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", sans-serif;
+    font-weight: normal;
   }
 </style>
