@@ -1,11 +1,10 @@
 <script lang="ts">
-  import { axelar, axelarAsset, band, canto, celestia, cosmos, cosmosAsset, promiseAxelarData, promiseAxelarInfoData, promiseBandInfoData, promiseCantoInfoData, promiseCelestiaInfoData, promiseCosmosData, promiseCosmosInfoData } from "@src/lib/datafetch";
+  import { axelar, axelarAsset, cosmosAsset, promiseAxelarData, promiseAxelarInfoData, promiseCosmosData, promiseCosmosInfoData } from "@src/lib/datafetch";
   import { ColorType, CrosshairMode } from "lightweight-charts";
   import {
     Chart,
     LineSeries
   } from "svelte-lightweight-charts";
-
  
   
   // 메인그래프 디자인 옵션
@@ -465,9 +464,9 @@
       <div class="Rectangle11"></div>
       <div class="In">
         {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
-          <div>Loading Akash data...</div>
+          <div>Loading data...</div>
         {:then}
-          <div class="Chain">{(cosmos.data[0].chain).toUpperCase()}</div>
+          <div class="Chain">{(cosmosAsset.data[0].assets[0].displayDenom).toUpperCase()}</div>
           <div class="Per">60.4%</div>
           <img class="Coinimg" src="{cosmosAsset.data[0].assets[0].tokenImg}" alt="Token Image">
           <div class="Price">0.998425</div>
@@ -496,12 +495,12 @@
     <div class="Box4">
       <div class="Rectangle11"></div>
       <div class="In">
-        {#await promiseBandInfoData}
-          <div>Loading Band data...</div>
+        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
+          <div>Loading data...</div>
         {:then}
-          <div class="Chain">{(band.data[0].chain).toUpperCase()}</div>
+          <div class="Chain">{(cosmosAsset.data[0].assets[1].displayDenom).toUpperCase()}</div>
           <div class="Per">60.4%</div>
-          <div class="Coinimg"></div>
+          <img class="Coinimg" src="{axelarAsset.data[0].assets[1].tokenImg}" alt="Token Image">
           <div class="Price">0.998425</div>
         {:catch error}
           <div>{error.message}</div>
@@ -512,12 +511,12 @@
     <div class="Box3">
       <div class="Rectangle11"></div>
       <div class="In">
-        {#await promiseCantoInfoData}
-          <div>Loading Canto data...</div>
+        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
+          <div>Loading data...</div>
         {:then}
-          <div class="Chain">{(canto.data[0].chain).toUpperCase()}</div>
+          <div class="Chain">{(cosmosAsset.data[0].assets[2].displayDenom).toUpperCase()}</div>
           <div class="Per">60.4%</div>
-          <div class="Coinimg"></div>
+          <img class="Coinimg" src="{axelarAsset.data[0].assets[2].tokenImg}" alt="Token Image">
           <div class="Price">0.998425</div>
         {:catch error}
           <div>{error.message}</div>
@@ -528,12 +527,12 @@
     <div class="Box2">
       <div class="Rectangle11"></div>
       <div class="In">
-        {#await promiseCelestiaInfoData}
-          <div>Loading Celestia data...</div>
+        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
+          <div>Loading data...</div>
         {:then}
-          <div class="Chain">{(celestia.data[0].chain).toUpperCase()}</div>
+          <div class="Chain">{(cosmosAsset.data[0].assets[3].displayDenom).toUpperCase()}</div>
           <div class="Per">60.4%</div>
-          <div class="Coinimg"></div>
+          <img class="Coinimg" src="{axelarAsset.data[0].assets[3].tokenImg}" alt="Token Image">
           <div class="Price">0.998425</div>
         {:catch error}
           <div>{error.message}</div>
@@ -544,12 +543,12 @@
     <div class="Box1">
       <div class="Rectangle11"></div>
       <div class="In">
-        {#await promiseCosmosInfoData}
+        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
           <div>Loading Cosmos data...</div>
         {:then}
-          <div class="Chain">{(cosmos.data[0].chain).toUpperCase()}</div>
+        <div class="Chain">{(cosmosAsset.data[0].assets[4].displayDenom).toUpperCase()}</div>
           <div class="Per">60.4%</div>
-          <div class="Coinimg"></div>
+          <img class="Coinimg" src="{axelarAsset.data[0].assets[4].tokenImg}" alt="Token Image">
           <div class="Price">0.998425</div>
         {:catch error}
           <div>{error.message}</div>
