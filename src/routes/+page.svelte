@@ -1,10 +1,13 @@
-<script>
+<script lang="ts">
+  import { axelar, axelarAsset, band, canto, celestia, cosmos, cosmosAsset, promiseAxelarData, promiseAxelarInfoData, promiseBandInfoData, promiseCantoInfoData, promiseCelestiaInfoData, promiseCosmosData, promiseCosmosInfoData } from "@src/lib/datafetch";
   import { ColorType, CrosshairMode } from "lightweight-charts";
   import {
     Chart,
-    CandlestickSeries,
-    LineSeries,
+    LineSeries
   } from "svelte-lightweight-charts";
+
+ 
+  
   // 메인그래프 디자인 옵션
   const options = {
     width: 833,
@@ -461,60 +464,96 @@
     <div class="Box6">
       <div class="Rectangle11"></div>
       <div class="In">
-        <div class="Btc">BTC</div>
-        <div class="Per">60.4%</div>
-        <div class="Coinimg"></div>
-        <div class="Price">0.998425</div>
+        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
+          <div>Loading Akash data...</div>
+        {:then}
+          <div class="Chain">{(cosmos.data[0].chain).toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="{cosmosAsset.data[0].assets[0].tokenImg}" alt="Token Image">
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
       </div>
     </div>
     <!--코인 5-->
     <div class="Box5">
       <div class="Rectangle11"></div>
       <div class="In">
-        <div class="Btc">BTC</div>
-        <div class="Per">50.4%</div>
-        <div class="Coinimg"></div>
-        <div class="Price">0.998425</div>
+        {#await Promise.all([promiseAxelarInfoData,promiseAxelarData])}
+          <div>Loading Axelar data...</div>
+        {:then}
+          <div class="Chain">{(axelar.data[0].chain).toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="{axelarAsset.data[0].assets[0].tokenImg}" alt="Token Image">
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
       </div>
     </div>
     <!--코인 4-->
     <div class="Box4">
       <div class="Rectangle11"></div>
       <div class="In">
-        <div class="Btc">BTC</div>
-        <div class="Per">40.4%</div>
-        <div class="Coinimg"></div>
-        <div class="Price">0.998425</div>
+        {#await promiseBandInfoData}
+          <div>Loading Band data...</div>
+        {:then}
+          <div class="Chain">{(band.data[0].chain).toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <div class="Coinimg"></div>
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
       </div>
     </div>
     <!--코인 3-->
     <div class="Box3">
       <div class="Rectangle11"></div>
       <div class="In">
-        <div class="Btc">BTC</div>
-        <div class="Per">30.4%</div>
-        <div class="Coinimg"></div>
-        <div class="Price">0.998425</div>
+        {#await promiseCantoInfoData}
+          <div>Loading Canto data...</div>
+        {:then}
+          <div class="Chain">{(canto.data[0].chain).toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <div class="Coinimg"></div>
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
       </div>
     </div>
     <!--코인 2-->
     <div class="Box2">
       <div class="Rectangle11"></div>
       <div class="In">
-        <div class="Btc">BTC</div>
-        <div class="Per">20.4%</div>
-        <div class="Coinimg"></div>
-        <div class="Price">0.998425</div>
+        {#await promiseCelestiaInfoData}
+          <div>Loading Celestia data...</div>
+        {:then}
+          <div class="Chain">{(celestia.data[0].chain).toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <div class="Coinimg"></div>
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
       </div>
     </div>
     <!--코인 1-->
     <div class="Box1">
       <div class="Rectangle11"></div>
       <div class="In">
-        <div class="Btc">BTC</div>
-        <div class="Per">10.4%</div>
-        <div class="Coinimg"></div>
-        <div class="Price">0.998425</div>
+        {#await promiseCosmosInfoData}
+          <div>Loading Cosmos data...</div>
+        {:then}
+          <div class="Chain">{(cosmos.data[0].chain).toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <div class="Coinimg"></div>
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
       </div>
     </div>
   </div>
@@ -682,8 +721,8 @@
         top: 7.03px;
         position: absolute;
 
-        .Btc {
-          width: 45.89px;
+        .Chain {
+          width: 100%;
           height: 45.89px;
           left: 33.27px;
           top: 13px;
@@ -695,6 +734,7 @@
           line-height: 18px;
           word-wrap: break-word;
         }
+        
         .Per {
           width: 48.19px;
           height: 20.65px;

@@ -68,7 +68,7 @@
     <!-- Display Assets data -->
     <div>
       displayDenom : {assets.data[0].assets[0].displayDenom}<br/>
-      tokenImg : {assets.data[0].assets[0].tokenType}<br/>
+      tokenImg : {assets.data[0].assets[0].tokenImg}<br/>
       tokenType : {assets.data[0].assets[0].tokenType}<br/>
     </div>
   {:catch error}
