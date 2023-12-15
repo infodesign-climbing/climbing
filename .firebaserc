@@ -1,5 +1,9 @@
 {
   "projects": {
-    "default": "project-name-abc"
-  }
+    "1213": "information-design",
+    "1214": "climbing-33e73",
+    "default": "climbing-33e73"
+  },
+  "targets": {},
+  "etags": {}
 }

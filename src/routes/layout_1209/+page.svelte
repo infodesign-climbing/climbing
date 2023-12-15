@@ -386,6 +386,9 @@
   ];
 </script>
 
+<head
+  ><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /></head
+>
 <div class="Desktop1">
   <!-- svelte-ignore a11y-missing-attribute -->
 
