@@ -5,7 +5,25 @@ export interface ChainInfo {
   data: ChainInfoUnit[];
 }
 
+export interface AssetInfo{
+  displayDenom: String;
+  tokenImg: String;
+  tokenType: String;
+}
+
+export interface ProposalInfo{
+  title: String;
+  voting_start_time: String;
+  voting_end_time: String;
+  voteMera: {
+    yes: String;
+    no: number;
+    abstain: String;
+  }
+}
+
 export interface ChainInfoUnit {
+  chain: string;
   chainData: any;
   createdAt: {
     _seconds: 1697090400;

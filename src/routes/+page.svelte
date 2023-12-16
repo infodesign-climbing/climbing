@@ -1,12 +1,49 @@
 <script lang="ts">
-  import { axelar, axelarAsset, cosmosAsset, promiseAxelarData, promiseAxelarInfoData, promiseCosmosData, promiseCosmosInfoData } from "@src/lib/datafetch";
-  import { ColorType, CrosshairMode } from "lightweight-charts";
   import {
-    Chart,
-    LineSeries
-  } from "svelte-lightweight-charts";
- 
-  
+    akash,
+    axelar,
+    band,
+    canto,
+    celestia,
+    cosmos,
+    evmos,
+    fetchai,
+    humans,
+    injective,
+    kava,
+    medibloc,
+    osmosis,
+    persistence,
+    secret,
+    sei,
+    shentu,
+    sommelier,
+    stride,
+    terra,
+    promiseHumansInfoData,
+    promiseInjectiveInfoData,
+    promiseKavaInfoData,
+    promiseMediblocInfoData,
+    promiseOsmosisInfoData,
+    promisePersistenceInfoData,
+    promiseSecretInfoData,
+    promiseSeiInfoData,
+    promiseShentuInfoData,
+    promiseSommelierInfoData,
+    promiseStrideInfoData,
+    promiseTerraInfoData,
+    promiseFetchaiInfoData,
+    promiseEvmosInfoData,
+    promiseCosmosInfoData,
+    promiseBandInfoData,
+    promiseCantoInfoData,
+    promiseAxelarInfoData,
+    promiseCelestiaInfoData,
+    promiseAkashInfoData,
+  } from "@src/lib/datafetch";
+  import { ColorType, CrosshairMode } from "lightweight-charts";
+  import { Chart, LineSeries } from "svelte-lightweight-charts";
+
   // 메인그래프 디자인 옵션
   const options = {
     width: 833,
@@ -387,6 +424,10 @@
     { time: "2019-05-24", value: 26.16 },
     { time: "2019-05-28", value: 26.23 },
   ];
+
+  const clickTest = (id) => {
+    console.log(id);
+  };
 </script>
 
 <div class="Desktop1">
@@ -452,103 +493,325 @@
   <div class="Scrollsample"></div>
   <!--코인 리스트-->
   <div class="List">
-    <div class="select-container">
-      <select name="time">
-        <option disabled selected>시간</option>
-        <option value="1day">1일</option>
-        <option value="1month">1달</option>
-        <option value="1year">1년</option>
-      </select>
-    </div>
-    <div class="Box6">
-      <div class="Rectangle11"></div>
+    <div class="select-container"></div>
+
+    <!-- akash -->
+    <div class="CoinBox" on:click={() => clickTest(1)}>
       <div class="In">
-        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
+        {#await Promise.all([promiseAkashInfoData])}
           <div>Loading data...</div>
         {:then}
-          <div class="Chain">{(cosmosAsset.data[0].assets[0].displayDenom).toUpperCase()}</div>
+          <div class="Chain">{akash.data[0].chain.toUpperCase()}</div>
           <div class="Per">60.4%</div>
-          <img class="Coinimg" src="{cosmosAsset.data[0].assets[0].tokenImg}" alt="Token Image">
+          <img class="Coinimg" src="/images/akash.png" alt="Token Image" />
           <div class="Price">0.998425</div>
         {:catch error}
           <div>{error.message}</div>
         {/await}
       </div>
     </div>
-    <!--코인 5-->
-    <div class="Box5">
-      <div class="Rectangle11"></div>
+
+    <!-- axelar -->
+    <div class="CoinBox" on:click={() => clickTest(2)}>
       <div class="In">
-        {#await Promise.all([promiseAxelarInfoData,promiseAxelarData])}
-          <div>Loading Axelar data...</div>
-        {:then}
-          <div class="Chain">{(axelar.data[0].chain).toUpperCase()}</div>
-          <div class="Per">60.4%</div>
-          <img class="Coinimg" src="{axelarAsset.data[0].assets[0].tokenImg}" alt="Token Image">
-          <div class="Price">0.998425</div>
-        {:catch error}
-          <div>{error.message}</div>
-        {/await}
-      </div>
-    </div>
-    <!--코인 4-->
-    <div class="Box4">
-      <div class="Rectangle11"></div>
-      <div class="In">
-        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
+        {#await Promise.all([promiseAxelarInfoData])}
           <div>Loading data...</div>
         {:then}
-          <div class="Chain">{(cosmosAsset.data[0].assets[1].displayDenom).toUpperCase()}</div>
+          <div class="Chain">{axelar.data[0].chain.toUpperCase()}</div>
           <div class="Per">60.4%</div>
-          <img class="Coinimg" src="{axelarAsset.data[0].assets[1].tokenImg}" alt="Token Image">
+          <img class="Coinimg" src="/images/axelar.png" alt="Token Image" />
           <div class="Price">0.998425</div>
         {:catch error}
           <div>{error.message}</div>
         {/await}
       </div>
     </div>
-    <!--코인 3-->
-    <div class="Box3">
-      <div class="Rectangle11"></div>
+
+    <!-- band -->
+    <div class="CoinBox" on:click={() => clickTest(3)}>
       <div class="In">
-        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
+        {#await Promise.all([promiseBandInfoData])}
           <div>Loading data...</div>
         {:then}
-          <div class="Chain">{(cosmosAsset.data[0].assets[2].displayDenom).toUpperCase()}</div>
+          <div class="Chain">{band.data[0].chain.toUpperCase()}</div>
           <div class="Per">60.4%</div>
-          <img class="Coinimg" src="{axelarAsset.data[0].assets[2].tokenImg}" alt="Token Image">
+          <img class="Coinimg" src="/images/band.png" alt="Token Image" />
           <div class="Price">0.998425</div>
         {:catch error}
           <div>{error.message}</div>
         {/await}
       </div>
     </div>
-    <!--코인 2-->
-    <div class="Box2">
-      <div class="Rectangle11"></div>
+
+    <!-- canto -->
+    <div class="CoinBox" on:click={() => clickTest(4)}>
       <div class="In">
-        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
+        {#await Promise.all([promiseCantoInfoData])}
           <div>Loading data...</div>
         {:then}
-          <div class="Chain">{(cosmosAsset.data[0].assets[3].displayDenom).toUpperCase()}</div>
+          <div class="Chain">{canto.data[0].chain.toUpperCase()}</div>
           <div class="Per">60.4%</div>
-          <img class="Coinimg" src="{axelarAsset.data[0].assets[3].tokenImg}" alt="Token Image">
+          <img class="Coinimg" src="/images/canto.png" alt="Token Image" />
           <div class="Price">0.998425</div>
         {:catch error}
           <div>{error.message}</div>
         {/await}
       </div>
     </div>
-    <!--코인 1-->
-    <div class="Box1">
-      <div class="Rectangle11"></div>
+
+    <!-- celestia -->
+    <div class="CoinBox" on:click={() => clickTest(5)}>
       <div class="In">
-        {#await Promise.all([promiseCosmosInfoData,promiseCosmosData])}
-          <div>Loading Cosmos data...</div>
+        {#await Promise.all([promiseCelestiaInfoData])}
+          <div>Loading data...</div>
         {:then}
-        <div class="Chain">{(cosmosAsset.data[0].assets[4].displayDenom).toUpperCase()}</div>
+          <div class="Chain">{celestia.data[0].chain.toUpperCase()}</div>
           <div class="Per">60.4%</div>
-          <img class="Coinimg" src="{axelarAsset.data[0].assets[4].tokenImg}" alt="Token Image">
+          <img class="Coinimg" src="images/celestia.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- cosmos -->
+    <div class="CoinBox" on:click={() => clickTest(6)}>
+      <div class="In">
+        {#await Promise.all([promiseCosmosInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{cosmos.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/cosmos.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- evmos -->
+    <div class="CoinBox" on:click={() => clickTest(7)}>
+      <div class="In">
+        {#await Promise.all([promiseEvmosInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{evmos.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/evmos.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- fetchai -->
+    <div class="CoinBox" on:click={() => clickTest(8)}>
+      <div class="In">
+        {#await Promise.all([promiseFetchaiInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{fetchai.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/fetchai.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- humans -->
+    <div class="CoinBox" on:click={() => clickTest(9)}>
+      <div class="In">
+        {#await Promise.all([promiseHumansInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{humans.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/humans.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- injectice -->
+    <div class="CoinBox" on:click={() => clickTest(10)}>
+      <div class="In">
+        {#await Promise.all([promiseInjectiveInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{injective.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/injective.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- kava -->
+    <div class="CoinBox" on:click={() => clickTest(11)}>
+      <div class="In">
+        {#await Promise.all([promiseKavaInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{kava.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/kava.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- medibloc -->
+    <div class="CoinBox" on:click={() => clickTest(12)}>
+      <div class="In">
+        {#await Promise.all([promiseMediblocInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{medibloc.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/medibloc.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- osmosis -->
+    <div class="CoinBox" on:click={() => clickTest(13)}>
+      <div class="In">
+        {#await Promise.all([promiseOsmosisInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{osmosis.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/osmosis.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- persistence -->
+    <div class="CoinBox" on:click={() => clickTest(14)}>
+      <div class="In">
+        {#await Promise.all([promisePersistenceInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{persistence.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img
+            class="Coinimg"
+            src="/images/persistence.png"
+            alt="Token Image"
+          />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- secret -->
+    <div class="CoinBox" on:click={() => clickTest(15)}>
+      <div class="In">
+        {#await Promise.all([promiseSecretInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{secret.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/secret.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- sei -->
+    <div class="CoinBox" on:click={() => clickTest(16)}>
+      <div class="In">
+        {#await Promise.all([promiseSeiInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{sei.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/sei.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- shentu -->
+    <div class="CoinBox" on:click={() => clickTest(17)}>
+      <div class="In">
+        {#await Promise.all([promiseShentuInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{shentu.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="images/shentu.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- sommelier -->
+    <div class="CoinBox" on:click={() => clickTest(18)}>
+      <div class="In">
+        {#await Promise.all([promiseSommelierInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{sommelier.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="images/sommelier.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- stride -->
+    <div class="CoinBox" on:click={() => clickTest(19)}>
+      <div class="In">
+        {#await Promise.all([promiseStrideInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{stride.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/stride.png" alt="Token Image" />
+          <div class="Price">0.998425</div>
+        {:catch error}
+          <div>{error.message}</div>
+        {/await}
+      </div>
+    </div>
+
+    <!-- terra -->
+    <div class="CoinBox" on:click={() => clickTest(20)}>
+      <div class="In">
+        {#await Promise.all([promiseTerraInfoData])}
+          <div>Loading data...</div>
+        {:then}
+          <div class="Chain">{terra.data[0].chain.toUpperCase()}</div>
+          <div class="Per">60.4%</div>
+          <img class="Coinimg" src="/images/terra.png" alt="Token Image" />
           <div class="Price">0.998425</div>
         {:catch error}
           <div>{error.message}</div>
@@ -698,21 +961,16 @@
     }
 
     .List {
+      display: flex;
+      flex-direction: column;
+      // border: 1px solid red;
+      height: 200%;
+      overflow-y: auto;
       width: 268.47px;
-      height: 532.36px;
       left: 374.22px;
       top: 272.1px;
       position: absolute;
 
-      .Rectangle11 {
-        width: 268.47px;
-        height: 91.79px;
-        left: 0px;
-        top: 0px;
-        position: absolute;
-        background: #1f2458;
-        border-radius: 20px;
-      }
       .In {
         width: 236.35px;
         height: 69.99px;
@@ -733,7 +991,7 @@
           line-height: 18px;
           word-wrap: break-word;
         }
-        
+
         .Per {
           width: 48.19px;
           height: 20.65px;
@@ -770,51 +1028,22 @@
           word-wrap: break-word;
         }
       }
-      .Box6 {
-        width: 268.47px;
-        height: 91.79px;
-        left: 0px;
-        top: 550.71px;
-        position: absolute;
-      }
-      .Box5 {
-        width: 268.47px;
-        height: 91.79px;
-        left: 0px;
-        top: 440.57px;
-        position: absolute;
-      }
 
-      .Box4 {
-        width: 268.47px;
-        height: 91.79px;
-        left: 0px;
-        top: 330.43px;
-        position: absolute;
-      }
-
-      .Box3 {
-        width: 268.47px;
-        height: 91.79px;
-        left: 0px;
-        top: 220.29px;
-        position: absolute;
-      }
-
-      .Box2 {
-        width: 268.47px;
-        height: 91.79px;
-        left: 0px;
-        top: 110.14px;
-        position: absolute;
-      }
-
-      .Box1 {
+      .CoinBox {
+        cursor: pointer;
+        margin-bottom: 10px;
         width: 268.47px;
         height: 91.79px;
         left: 0px;
         top: 0px;
-        position: absolute;
+        position: relative;
+        background: #1f2458;
+        border-radius: 20px;
+        transition: background-color 0.3s ease;
+      }
+
+      .CoinBox:hover {
+        background-color: #334190;
       }
     }
 
